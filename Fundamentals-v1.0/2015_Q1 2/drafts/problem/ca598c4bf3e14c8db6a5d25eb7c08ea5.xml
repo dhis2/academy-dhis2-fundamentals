@@ -1,0 +1,30 @@
+<problem display_name="Drag and Drop - Information cycle" markdown="null" max_attempts="2" show_reset_button="true" showanswer="always" parent_url="i4x://HISP/DHIS2_Level1/vertical/b39a769f4cf24f8d84af5c5bf18f7a61" index_in_children_list="1">
+    <customresponse>
+        <text>
+            <h2>Information cycle</h2>
+            <p>Please label each of the item of the information cycle.</p>
+        </text>
+        <drag_and_drop_input img="/static/information_cycle_empty.jpg" target_outline="true" one_per_target="true" no_labels="true" label_bg_color="rgb(255,255, 255)">
+            <draggable id="1" label="Dissemination"/>
+            <draggable id="2" label="Analysis"/>
+            <draggable id="3" label="Decision and Action"/>
+            <draggable id="4" label="Collection and Processing"/>
+
+            <target id="t1" x="240" y="30" w="120" h="100"/>
+            <target id="t2" x="360" y="160" w="120" h="100"/>
+            <target id="t3" x="240" y="290" w="120" h="100"/>
+            <target id="t4" x="115" y="160" w="120" h="100"/>
+        </drag_and_drop_input>
+        <answer type="loncapa/python">
+correct_answer = {
+        '1':      't4',
+        '2':      't3',
+        '3':      't1',
+        '4':      't2',}
+if draganddrop.grade(submission[0], correct_answer):
+    correct = ['correct']
+else:
+    correct = ['incorrect']
+        </answer>
+    </customresponse>
+</problem>

@@ -1,0 +1,57 @@
+<problem display_name="Session Quiz - Pivot Tables" markdown="Pivot tables can be used to analyse your data: (select one)&#10;( ) By indicators, data elements, and reporting rates&#10;( ) By Organisation Units&#10;( ) By Periods&#10;(x) All of the above&#10;&#10;[Explanation]&#10;As seen in the pivot table, different items can be analyzed together within this application.&#10;[Explanation]&#10;&#10;Pivot Tables in DHIS2 are mainly used for:&#10;( ) Visualizing data in charts&#10;(x) Analyzing data in dynamic tables&#10;( ) Creating standard, one-click reports for review&#10;&#10;[Explanation]&#10;As introduced in the pivot table demo, pivot tables are used for creating dynamic tables&#10;[Explanation]&#10;&#10;The output of pivot tables can be: (select one)&#10;( ) Saved as favorites&#10;( ) Downloaded for use offline&#10;( ) Have the hierarchy added in&#10;(x) All of the above&#10;&#10;[Explanation]&#10;As seen in the pivot table demo, the output can be used in all the various ways mentioned in this question.&#10;[Explanation]" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>Pivot tables can be used to analyse your data: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">By indicators, data elements, and reporting rates</choice>
+    <choice correct="false">By Organisation Units</choice>
+    <choice correct="false">By Periods</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As seen in the pivot table, different items can be analyzed together within this application.</p>
+
+</div>
+</solution>
+
+<p>Pivot Tables in DHIS2 are mainly used for:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Visualizing data in charts</choice>
+    <choice correct="true">Analyzing data in dynamic tables</choice>
+    <choice correct="false">Creating standard, one-click reports for review</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As introduced in the pivot table demo, pivot tables are used for creating dynamic tables</p>
+
+</div>
+</solution>
+
+<p>The output of pivot tables can be: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Saved as favorites</choice>
+    <choice correct="false">Downloaded for use offline</choice>
+    <choice correct="false">Have the hierarchy added in</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As seen in the pivot table demo, the output can be used in all the various ways mentioned in this question.</p>
+
+</div>
+</solution>
+</problem>

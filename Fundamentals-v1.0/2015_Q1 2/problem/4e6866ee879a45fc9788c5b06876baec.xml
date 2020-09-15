@@ -1,0 +1,18 @@
+<problem display_name="Question of the assignment 3.3.1" markdown=" &gt;&gt;Which facility type has the highest OPD attendance rate?&lt;&lt;&#10;&#10; [[PHC, (Dispensary), Health Centre]]&#10;&#10; [explanation]&#10;Answer : Dispensary.&#10; [explanation]&#10;" max_attempts="3" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p> Which facility type has the highest OPD attendance rate?</p>
+
+ 
+<optionresponse>
+  <optioninput label="Which facility type has the highest OPD attendance rate?" options="('PHC','Dispensary','Health Centre')" correct="Dispensary"/>
+</optionresponse>
+
+ <solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Answer : Dispensary.</p>
+ 
+</div>
+</solution>
+
+</problem>

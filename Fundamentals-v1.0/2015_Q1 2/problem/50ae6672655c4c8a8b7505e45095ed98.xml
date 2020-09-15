@@ -1,0 +1,22 @@
+<problem display_name="Question of the assignment 3.4.1" markdown="What is the name of the district highlighted in the map?&#10;&#10;(x) Insect District&#10;( ) Dog District&#10;( ) Cat District&#10;( ) Bird District&#10;&#10;[explanation]&#10;Insect District is the highlighted district&#10;[explanation]&#10;&#10;" max_attempts="3" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>What is the name of the district highlighted in the map?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Insect District</choice>
+    <choice correct="false">Dog District</choice>
+    <choice correct="false">Cat District</choice>
+    <choice correct="false">Bird District</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Insect District is the highlighted district</p>
+
+</div>
+</solution>
+
+
+</problem>

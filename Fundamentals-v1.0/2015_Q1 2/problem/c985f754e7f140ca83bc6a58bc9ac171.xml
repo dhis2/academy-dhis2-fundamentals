@@ -1,0 +1,41 @@
+<problem display_name="Practice Zone" markdown="Mini Quiz (not graded) - The 1000 MVD's Use Case&#10;&#10;====&#10;&#10;&gt;&gt;The 1000 most vulnerable days use case covers:&lt;&lt;&#10;( ) From the time the child is born up until 3 years of age&#10;(x) From the time the child is conceived up until 2 years of age&#10;( ) From the time a mother receives antenatal care and completes her post-natal care&#10;&#10;[explanation]&#10;The 1000 most vulnerable days covers both infant and mother from the time from when the child was conceived to the child’s 2nd birthday. This is a critical time for child development; the right nutrition for the mother and for the child during this time can have a profound impact on the child's growth and development and reduce disease risk, as well as protect the mother's health. Elements linked to this use case are used throughout this academy.&#10;[explanation]&#10;&#10;&gt;&gt;This use case is used to help us define: (select one or more)&lt;&lt;&#10;[x] The services that are provided to the mother and child&#10;[x] The data we collect in relation to those services&#10;[x] The outputs we create in relation to those services&#10;&#10;[explanation]&#10;All 3 of these items are used to translate elements of  the use-case (in this case, a health-related use case) over to DHIS 2. It is important to identify what the key inputs and outputs are; this is often best accomplished by understanding the use-case in detail. &#10;[explanation]&#10;" rerandomize="never" show_reset_button="true" weight="0.0">
+<p>Mini Quiz (not graded) - The 1000 MVD's Use Case</p>
+<h3 class="hd hd-2 problem-header"/>
+
+<p>The 1000 most vulnerable days use case covers:</p>
+<multiplechoiceresponse>
+  <choicegroup label="The 1000 most vulnerable days use case covers:" type="MultipleChoice">
+    <choice correct="false">From the time the child is born up until 3 years of age</choice>
+    <choice correct="true">From the time the child is conceived up until 2 years of age</choice>
+    <choice correct="false">From the time a mother receives antenatal care and completes her post-natal care</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The 1000 most vulnerable days covers both infant and mother from the time from when the child was conceived to the child’s 2nd birthday. This is a critical time for child development; the right nutrition for the mother and for the child during this time can have a profound impact on the child's growth and development and reduce disease risk, as well as protect the mother's health. Elements linked to this use case are used throughout this academy.</p>
+
+</div>
+</solution>
+
+<p>This use case is used to help us define: (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup label="This use case is used to help us define: (select one or more)">
+    <choice correct="true">The services that are provided to the mother and child</choice>
+    <choice correct="true">The data we collect in relation to those services</choice>
+    <choice correct="true">The outputs we create in relation to those services</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>All 3 of these items are used to translate elements of  the use-case (in this case, a health-related use case) over to DHIS 2. It is important to identify what the key inputs and outputs are; this is often best accomplished by understanding the use-case in detail. </p>
+
+</div>
+</solution>
+
+</problem>

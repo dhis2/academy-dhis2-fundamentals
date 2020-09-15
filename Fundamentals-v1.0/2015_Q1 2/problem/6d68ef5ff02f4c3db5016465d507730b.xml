@@ -1,0 +1,22 @@
+<problem display_name="Practice Zone" markdown="Mini Quiz - DHIS 2 Community&#10;=====&#10;&#10;There is an active DHIS2 community in which:&#10;Select one or more&#10;[x] Technical questions can be discussed&#10;[x] Technical assistance can be requested&#10;[x] Suggestions to add functionality can be made&#10;&#10;[Explanation]&#10;The DHIS2 community actively supports DHIS2 implementations through the user list, social media, direct e-mails etc. All of these options are available when interacting directly with the community.&#10;[Explanation]">
+<h3 class="hd hd-2 problem-header">Mini Quiz - DHIS 2 Community</h3>
+
+<p>There is an active DHIS2 community in which:</p>
+<p>Select one or more</p>
+<choiceresponse>
+  <checkboxgroup>
+    <choice correct="true">Technical questions can be discussed</choice>
+    <choice correct="true">Technical assistance can be requested</choice>
+    <choice correct="true">Suggestions to add functionality can be made</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The DHIS2 community actively supports DHIS2 implementations through the user list, social media, direct e-mails etc. All of these options are available when interacting directly with the community.</p>
+
+</div>
+</solution>
+</problem>

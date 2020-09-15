@@ -1,0 +1,13 @@
+<problem display_name="Question of the assignment 5.4.1" markdown="&gt;&gt;What were the districts in which no survey was performed? (the districts in which both  Facility offering ANC rate (%) and Facilities that have been trained on ANC (%) is 0). Select one or more&lt;&lt;&#10;[ ] Dessert District&#10;[x] Dinner District&#10;[x] Fruit District&#10;[ ] Staple District&#10;" max_attempts="3" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>What were the districts in which no survey was performed? (the districts in which both  Facility offering ANC rate (%) and Facilities that have been trained on ANC (%) is 0). Select one or more</p>
+<choiceresponse>
+  <checkboxgroup label="What were the districts in which no survey was performed? (the districts in which both  Facility offering ANC rate (%) and Facilities that have been trained on ANC (%) is 0). Select one or more">
+    <choice correct="false">Dessert District</choice>
+    <choice correct="true">Dinner District</choice>
+    <choice correct="true">Fruit District</choice>
+    <choice correct="false">Staple District</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+
+</problem>

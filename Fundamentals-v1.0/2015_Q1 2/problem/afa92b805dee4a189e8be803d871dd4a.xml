@@ -1,0 +1,56 @@
+<problem display_name="Session Quiz - GIS" markdown="In the GIS boundary layer you can: (select one)&#10;( ) Analyze data by indicators&#10;( ) Analyze data by data elements&#10;(x) Display organisation unit boundaries&#10;( ) All of the above&#10;&#10;[Explanation]&#10;In the GIS boundary layer, you can only display organisation unit boundaries such as regions or districts.&#10;[Explanation]&#10;&#10;In one thematic layer you can create maps with: (select one)&#10;( ) Multiple periods&#10;( ) Multiple data elements&#10;( ) Multiple reporting rates&#10;(x) None of the above&#10;&#10;[Explanation]&#10;In one GIS layer, you can only have a single period, data element or reporting rate represented.&#10;[Explanation]&#10;&#10;In a GIS map, multiple layers can be added to represent different features or items for analysis.&#10;(x) True&#10;( ) False&#10;&#10;[Explanation]&#10;Multiple layers representing different items can be added to maps using the GIS application.&#10;[Explanation]" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>In the GIS boundary layer you can: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Analyze data by indicators</choice>
+    <choice correct="false">Analyze data by data elements</choice>
+    <choice correct="true">Display organisation unit boundaries</choice>
+    <choice correct="false">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>In the GIS boundary layer, you can only display organisation unit boundaries such as regions or districts.</p>
+
+</div>
+</solution>
+
+<p>In one thematic layer you can create maps with: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Multiple periods</choice>
+    <choice correct="false">Multiple data elements</choice>
+    <choice correct="false">Multiple reporting rates</choice>
+    <choice correct="true">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>In one GIS layer, you can only have a single period, data element or reporting rate represented.</p>
+
+</div>
+</solution>
+
+<p>In a GIS map, multiple layers can be added to represent different features or items for analysis.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Multiple layers representing different items can be added to maps using the GIS application.</p>
+
+</div>
+</solution>
+</problem>

@@ -1,0 +1,32 @@
+<problem display_name="Question of the assignment 3.2.2" markdown="&gt;&gt;Which District had the lowest number of facility-based deliveries?&lt;&lt;&#10;[[Cat District, Fruit District, Game District, (Sweet District)]]&#10;&#10;[explanation]&#10;Sweet District had the lowest number of facility-based deliveries&#10;[explanation]&#10;---&#10;&gt;&gt;During which quarter was the absolute lowest number of facility deliveries recorded?&lt;&lt;&#10;[[(January - March 2016), April - June 2016, July - September 2016, October - December 2016]]&#10;&#10;[explanation]&#10;During January - March 2016 the lowest number of facility deliveries were recorded&#10;[explanation]&#10;" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>Which District had the lowest number of facility-based deliveries?</p>
+
+<optionresponse>
+  <optioninput label="Which District had the lowest number of facility-based deliveries?" options="('Cat District','Fruit District','Game District','Sweet District')" correct="Sweet District"/>
+</optionresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Sweet District had the lowest number of facility-based deliveries</p>
+
+</div>
+</solution>
+<p>---</p>
+<p>During which quarter was the absolute lowest number of facility deliveries recorded?</p>
+
+<optionresponse>
+  <optioninput label="During which quarter was the absolute lowest number of facility deliveries recorded?" options="('January - March 2016','April - June 2016','July - September 2016','October - December 2016')" correct="January - March 2016"/>
+</optionresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>During January - March 2016 the lowest number of facility deliveries were recorded</p>
+
+</div>
+</solution>
+
+</problem>

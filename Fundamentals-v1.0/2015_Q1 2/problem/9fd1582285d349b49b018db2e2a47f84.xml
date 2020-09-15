@@ -1,0 +1,235 @@
+<problem display_name="Session Quiz - Integrated Analysis, Dashboards, Messaging and Sharing" markdown="I have created a pivot table with the following dimensions:&#10;&#9;- Data Element Group: Delivery&#10;&#9;- Data Element: Births, Live&#10;&#9;- Period: Last 4 Quarters&#10;&#9;- Organisation Units: Trainingland Districts&#10;&#10;In a real-life setting, a username will likely not be used to identify a favorite.&#10;&#10;&gt;&gt;Which of the following is a good name for the favorite? (select one)&lt;&lt;&#10;( ) Live Births&#10;( ) Deliveries in Trainingland, last 4 Quarters&#10;( ) Live Births by Trainingland Districts, last 4 Quarters&#10;(x) Delivery_Live Births, Districts, last 4 Quarters&#10;&#10;[Explanation]&#10;The naming convention for favorites should include your the program name and the 3 core dimensions (what you are measuring, where it is coming from and when it is coming from). This option includes all of these aspects.&#10;[Explanation]&#10;&#10;&gt;&gt;I want to do some analysis comparing all of the following:&lt;&lt;&#10;&#9;- All Facilities within my organisation unit hierarchy&#10;&#9;- The last 12 months worth of data&#10;&#9;- A combination of two data elements and one indicator&#10;Which tool(s) should I use to display this information? (select one or more)&#10;[ ] This type of analysis is not possible in DHIS2&#10;[ ] Data Visualizer&#10;[x] Pivot Table&#10;[ ] GIS&#10;&#10;[Explanation]&#10;The pivot table application is most suitable when you want to analyze multiple dimensions of data, including multiple organization units, time periods and data types.&#10;[Explanation]&#10;&#10;&gt;&gt;In DHIS2, I can add additional dimensions (such as Male/Female, Public/Private Facilities, etc.) to further break-down my data during analysis.&lt;&lt;&#10;(x) True&#10;( ) False&#10;&#10;[Explanation]&#10;Data can be broken down into different disaggregations in analysis. This is shown in both the pivot table and data visualizer demonstrations.&#10;[Explanation]&#10;&#10;&gt;&gt;If today's date is April 2, 2017 and I select a relative period of the last 5 years, which periods will be selected? (select one)&lt;&lt;&#10;( ) 2011-2016&#10;(x) 2012-2016&#10;( ) 2013-2017&#10;&#10;[Explanation]&#10;Relative periods work backwards from the current date. In 2017, if we go back 5 years we have 2012, 2013, 2014, 2015 and 2016.&#10;[Explanation]&#10;&#10;&gt;&gt;Using the features in DHIS2 I can: (select one or more)&lt;&lt;&#10;[x] Move analysis seamlessly between pivot tables, charts and maps&#10;[x] Add descriptions to favorites to give them more context&#10;[x] Discuss interpretations of the favorites in the system with other users&#10;&#10;[Explanation]&#10;The DHIS2 analysis tools allow you move between the different applications, save outputs and add in descriptions and discuss interpretations directly within DHIS2.&#10;[Explanation]&#10;&#10;&gt;&gt;Favorites can be shared: (select one or more)&lt;&lt;&#10;[x] Using specific privileges for each item (such as edit/view)&#10;[x] With other users within DHIS2&#10;[ ] Directly from DHIS2 to social media&#10;&#10;[Explanation]&#10;Sharing of favorites was demonstrated in both the integrated analysis as well as sharing sessions. This allows us to specify exactly who sees the outputs we have created.&#10;[Explanation]&#10;&#10;&gt;&gt;With the DHIS2 dashboards you can: (select one)&lt;&lt;&#10;( ) Have multiple dashboards&#10;( ) Add favorites from analysis app&#10;( ) Share dashboards with groups of users&#10;(x) All of the above&#10;&#10;[Explanation]&#10;Dashboards contain all the functionality discussed in this question. This was demonstrated during the dashboard demo.&#10;[Explanation]&#10;&#10;&gt;&gt;What is the primary role(s) of dashboards? (select one)&lt;&lt;&#10;( ) Make data easily accessible&#10;( ) Make data easily communicable&#10;( ) Aid in decision making&#10;( ) Easily view data from multiple angles in one place&#10;(x) All of the above&#10;&#10;[Explanation]&#10;Dashboards are useful in conveying a variety of different information together. This was demonstrated during the dashboard demo.&#10;[Explanation]&#10;&#10;&gt;&gt;Sharing in DHIS2: (select one)&lt;&lt;&#10;( ) Is used to define which favorites can be seen by whom&#10;( ) Can be used to share dashboards with other users&#10;( ) Can be used to share interpretations with other users&#10;(x) All of the above&#10;&#10;[Explanation]&#10;Sharing can be used to customize the different outputs that can be seen by each user. This was best demonstrated during the sharing session.&#10;[Explanation]&#10;&#10;&gt;&gt;Sharing is typically controlled by: (select one)&lt;&lt;&#10;( ) Selecting specific users in which to share objects&#10;(x) Selecting user groups in which to share objects&#10;( ) Sending items through messaging within DHIS2&#10;( ) All of the above&#10;&#10;[Explanation]&#10;Sharing of favorites was demonstrated in both the integrated analysis as well as sharing sessions. This concept uses user groups to define who can see which outputs and related information in the system.&#10;[Explanation]&#10;&#10;&gt;&gt;Messages can be sent within DHIS2 to: (select one or more)&lt;&lt;&#10;[x] Individual users&#10;[x] User Groups&#10;[x] Users belonging to an organisation unit&#10;&#10;[Explanation]&#10;The messaging feature was presented in the integrated analysis session. Here, any combination of the displayed answers can be selected in order to send messages.&#10;[Explanation]&#10;&#10;&gt;&gt;Using Feedback in DHIS2: (select one)&lt;&lt;&#10;(x) The central team can manage questions, assign them priorities and update users on their status&#10;( ) Messages can be sent to other users within DHIS2&#10;( ) Interpretations of different analysis can be shared&#10;&#10;[Explanation]&#10;The feedback feature was presented in the integrated analysis session. It is particularly useful for managing issues that users encounter with the DHIS2 system.&#10;[Explanation]" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="answered" submission_wait_seconds="30">
+<p>I have created a pivot table with the following dimensions:</p>
+<p>	- Data Element Group: Delivery</p>
+<p>	- Data Element: Births, Live</p>
+<p>	- Period: Last 4 Quarters</p>
+<p>	- Organisation Units: Trainingland Districts</p>
+
+<p>In a real-life setting, a username will likely not be used to identify a favorite.</p>
+
+<p>Which of the following is a good name for the favorite? (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup label="Which of the following is a good name for the favorite? (select one)" type="MultipleChoice">
+    <choice correct="false">Live Births</choice>
+    <choice correct="false">Deliveries in Trainingland, last 4 Quarters</choice>
+    <choice correct="false">Live Births by Trainingland Districts, last 4 Quarters</choice>
+    <choice correct="true">Delivery_Live Births, Districts, last 4 Quarters</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The naming convention for favorites should include your the program name and the 3 core dimensions (what you are measuring, where it is coming from and when it is coming from). This option includes all of these aspects.</p>
+
+</div>
+</solution>
+
+<p>I want to do some analysis comparing all of the following:</p>
+<p>	- All Facilities within my organisation unit hierarchy</p>
+<p>	- The last 12 months worth of data</p>
+<p>	- A combination of two data elements and one indicator</p>
+<p>Which tool(s) should I use to display this information? (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup label="I want to do some analysis comparing all of the following:">
+    <choice correct="false">This type of analysis is not possible in DHIS2</choice>
+    <choice correct="false">Data Visualizer</choice>
+    <choice correct="true">Pivot Table</choice>
+    <choice correct="false">GIS</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The pivot table application is most suitable when you want to analyze multiple dimensions of data, including multiple organization units, time periods and data types.</p>
+
+</div>
+</solution>
+
+<p>In DHIS2, I can add additional dimensions (such as Male/Female, Public/Private Facilities, etc.) to further break-down my data during analysis.</p>
+<multiplechoiceresponse>
+  <choicegroup label="In DHIS2, I can add additional dimensions (such as Male/Female, Public/Private Facilities, etc.) to further break-down my data during analysis." type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Data can be broken down into different disaggregations in analysis. This is shown in both the pivot table and data visualizer demonstrations.</p>
+
+</div>
+</solution>
+
+<p>If today's date is April 2, 2017 and I select a relative period of the last 5 years, which periods will be selected? (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup label="If today's date is April 2, 2017 and I select a relative period of the last 5 years, which periods will be selected? (select one)" type="MultipleChoice">
+    <choice correct="false">2011-2016</choice>
+    <choice correct="true">2012-2016</choice>
+    <choice correct="false">2013-2017</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Relative periods work backwards from the current date. In 2017, if we go back 5 years we have 2012, 2013, 2014, 2015 and 2016.</p>
+
+</div>
+</solution>
+
+<p>Using the features in DHIS2 I can: (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup label="Using the features in DHIS2 I can: (select one or more)">
+    <choice correct="true">Move analysis seamlessly between pivot tables, charts and maps</choice>
+    <choice correct="true">Add descriptions to favorites to give them more context</choice>
+    <choice correct="true">Discuss interpretations of the favorites in the system with other users</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The DHIS2 analysis tools allow you move between the different applications, save outputs and add in descriptions and discuss interpretations directly within DHIS2.</p>
+
+</div>
+</solution>
+
+<p>Favorites can be shared: (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup label="Favorites can be shared: (select one or more)">
+    <choice correct="true">Using specific privileges for each item (such as edit/view)</choice>
+    <choice correct="true">With other users within DHIS2</choice>
+    <choice correct="false">Directly from DHIS2 to social media</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Sharing of favorites was demonstrated in both the integrated analysis as well as sharing sessions. This allows us to specify exactly who sees the outputs we have created.</p>
+
+</div>
+</solution>
+
+<p>With the DHIS2 dashboards you can: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup label="With the DHIS2 dashboards you can: (select one)" type="MultipleChoice">
+    <choice correct="false">Have multiple dashboards</choice>
+    <choice correct="false">Add favorites from analysis app</choice>
+    <choice correct="false">Share dashboards with groups of users</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Dashboards contain all the functionality discussed in this question. This was demonstrated during the dashboard demo.</p>
+
+</div>
+</solution>
+
+<p>What is the primary role(s) of dashboards? (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the primary role(s) of dashboards? (select one)" type="MultipleChoice">
+    <choice correct="false">Make data easily accessible</choice>
+    <choice correct="false">Make data easily communicable</choice>
+    <choice correct="false">Aid in decision making</choice>
+    <choice correct="false">Easily view data from multiple angles in one place</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Dashboards are useful in conveying a variety of different information together. This was demonstrated during the dashboard demo.</p>
+
+</div>
+</solution>
+
+<p>Sharing in DHIS2: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup label="Sharing in DHIS2: (select one)" type="MultipleChoice">
+    <choice correct="false">Is used to define which favorites can be seen by whom</choice>
+    <choice correct="false">Can be used to share dashboards with other users</choice>
+    <choice correct="false">Can be used to share interpretations with other users</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Sharing can be used to customize the different outputs that can be seen by each user. This was best demonstrated during the sharing session.</p>
+
+</div>
+</solution>
+
+<p>Sharing is typically controlled by: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup label="Sharing is typically controlled by: (select one)" type="MultipleChoice">
+    <choice correct="false">Selecting specific users in which to share objects</choice>
+    <choice correct="true">Selecting user groups in which to share objects</choice>
+    <choice correct="false">Sending items through messaging within DHIS2</choice>
+    <choice correct="false">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Sharing of favorites was demonstrated in both the integrated analysis as well as sharing sessions. This concept uses user groups to define who can see which outputs and related information in the system.</p>
+
+</div>
+</solution>
+
+<p>Messages can be sent within DHIS2 to: (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup label="Messages can be sent within DHIS2 to: (select one or more)">
+    <choice correct="true">Individual users</choice>
+    <choice correct="true">User Groups</choice>
+    <choice correct="true">Users belonging to an organisation unit</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The messaging feature was presented in the integrated analysis session. Here, any combination of the displayed answers can be selected in order to send messages.</p>
+
+</div>
+</solution>
+
+<p>Using Feedback in DHIS2: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup label="Using Feedback in DHIS2: (select one)" type="MultipleChoice">
+    <choice correct="true">The central team can manage questions, assign them priorities and update users on their status</choice>
+    <choice correct="false">Messages can be sent to other users within DHIS2</choice>
+    <choice correct="false">Interpretations of different analysis can be shared</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The feedback feature was presented in the integrated analysis session. It is particularly useful for managing issues that users encounter with the DHIS2 system.</p>
+
+</div>
+</solution>
+</problem>

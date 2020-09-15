@@ -1,0 +1,72 @@
+<problem display_name="Session Quiz - Data Elements" markdown="Data Element names should: (select one)&#10;( ) Be as long and descriptive as possible&#10;(x) Use self-contained names which describe the data effectively for output&#10;( ) Replicate the name on a paper form&#10;( ) Be considered for input as a priority&#10;&#10;[Explanation]&#10;When discussing data elements, we should always consider how they will appear in output. This is discussed in more detail during the data elements presentation.&#10;[Explanation]&#10;&#10;I have a section of data elements that I am collecting all related to child delivery. I want to create the data element represented by the &quot;Number of deliveries with complication&quot; on the paper form. What is the most appropriate name for this data element? (select one)&#10;( ) Number of deliveries with complication&#10;( ) Complicated deliveries&#10;(x) Deliveries with complication&#10;&#10;[Explanation]&#10;During the data element presentation, naming principles were discussed. Here, since we have a set of delivery data elements, it is better to start the name off with &quot;Delivery&quot; as all the delivery types could easily be found together in a list.&#10;[Explanation]&#10;&#10;Data elements in DHIS2 can only be summed (added) together. No other operations, such as finding the average or counts of a particular value, can be performed.&#10;( ) True&#10;(x) False&#10;&#10;[Explanation]&#10;When creating data elements, we can define various aggregation types. While sum tends to be a common option, other types can be used if needed.&#10;[Explanation]&#10;&#10;Data Element Groups are used for grouping together similar data elements for thematic analysis.&#10;(x) True&#10;( ) False&#10;&#10;[Explanation]&#10;Data element groups are user defined and assist us in finding our data elements during analysis. Their use was shown throughout all the analysis apps and their creation was shown in the data element creation session.&#10;[Explanation]" max_attempts="3" rerandomize="always" show_reset_button="false" showanswer="attempted" submission_wait_seconds="30">
+<p>Data Element names should: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Be as long and descriptive as possible</choice>
+    <choice correct="true">Use self-contained names which describe the data effectively for output</choice>
+    <choice correct="false">Replicate the name on a paper form</choice>
+    <choice correct="false">Be considered for input as a priority</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>When discussing data elements, we should always consider how they will appear in output. This is discussed in more detail during the data elements presentation.</p>
+
+</div>
+</solution>
+
+<p>I have a section of data elements that I am collecting all related to child delivery. I want to create the data element represented by the "Number of deliveries with complication" on the paper form. What is the most appropriate name for this data element? (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Number of deliveries with complication</choice>
+    <choice correct="false">Complicated deliveries</choice>
+    <choice correct="true">Deliveries with complication</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>During the data element presentation, naming principles were discussed. Here, since we have a set of delivery data elements, it is better to start the name off with "Delivery" as all the delivery types could easily be found together in a list.</p>
+
+</div>
+</solution>
+
+<p>Data elements in DHIS2 can only be summed (added) together. No other operations, such as finding the average or counts of a particular value, can be performed.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>When creating data elements, we can define various aggregation types. While sum tends to be a common option, other types can be used if needed.</p>
+
+</div>
+</solution>
+
+<p>Data Element Groups are used for grouping together similar data elements for thematic analysis.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Data element groups are user defined and assist us in finding our data elements during analysis. Their use was shown throughout all the analysis apps and their creation was shown in the data element creation session.</p>
+
+</div>
+</solution>
+</problem>
