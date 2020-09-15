@@ -1,2 +1,3 @@
-# fundamentals-v1.1
-DHIS2 Fundamentals Version 1.1
+# DHIS2 fundamentals
+
+This repo is the working repo for DHIS2 Fundamentals.
