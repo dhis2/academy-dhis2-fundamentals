@@ -1,0 +1,38 @@
+{
+  "start": [
+    338, 
+    5600, 
+    10000, 
+    14000, 
+    21000, 
+    30000, 
+    40000, 
+    60000, 
+    78000, 
+    90000
+  ], 
+  "end": [
+    5100, 
+    10000, 
+    14000, 
+    21000, 
+    30000, 
+    40000, 
+    60000, 
+    78000, 
+    90000, 
+    99000
+  ], 
+  "text": [
+    "Hello, I am Matthieu Pinard, I am the DHIS2 Academy and community coordinator", 
+    "and I am proud to introduce you to the first course of the DHIS2 Online Academy", 
+    "DHIS2 Fundamentals: Data collection", 
+    "This course has been developed by the the Health Information Systems Program, also called HISP", 
+    "HISP is a global network, established, managed and coordinated by the Department of Informatics of the University of Oslo", 
+    "Several of our DHIS2 experts who are used to train in the DHIS2 Academies participated in creating the raw material for this course", 
+    "In this course, we will first explain how DHIS2 covers each stage of the public health information system. Meaning how DHIS2 can help you to collect data, to analyse the data you collected, to share and dissiminate the data and finally how DHIS2 can improve descisions.", 
+    "More importantly, you will learn how to create a collection form in DHIS2. As you know information only gets better when it is shared, so I really encourage you to take this course together with one or several colleagues.", 
+    "Oh! and this version of the course is a pilot. It is the opportunity for HISP to test and improve both the learning material and the tools we put at your disposal.", 
+    "So please, give us your feedback as much as you want. We would be proud to improve. Enjoy this course! Good luck."
+  ]
+}
