@@ -1,0 +1,20 @@
+<problem display_name="Question of the assignment 3.4.4" markdown="&gt;&gt;Which District(s) have populations between 200,000 - 500,000 for this period? (select one or more)&lt;&lt;&#10;[x] Dessert District&#10;[x] Sweet District&#10;[x] Insect District&#10;[ ] Game District&#10;&#10;[explanation]&#10;Dessert, Sweet and Insect Districts have populations between 200,000 - 500,000 for this period&#10;[explanation]" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>Which District(s) have populations between 200,000 - 500,000 for this period? (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup label="Which District(s) have populations between 200,000 - 500,000 for this period? (select one or more)">
+    <choice correct="true">Dessert District</choice>
+    <choice correct="true">Sweet District</choice>
+    <choice correct="true">Insect District</choice>
+    <choice correct="false">Game District</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Dessert, Sweet and Insect Districts have populations between 200,000 - 500,000 for this period</p>
+
+</div>
+</solution>
+</problem>

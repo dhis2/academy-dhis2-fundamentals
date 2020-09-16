@@ -1,0 +1,87 @@
+<problem display_name="Session Quiz -  DHIS2 Customization" markdown="&gt;&gt;DHIS2 is an off-the-shelf solution that requires no additional configuration upon installation.&lt;&lt;&#10;( ) True&#10;(x) False&#10;&#10;[Explanation]&#10;In both the DHIS2 History/Introduction and DHIS2 design principles presentation, it is highlighted that DHIS2 is a generic solution that needs to be tailored to fit local needs and requirements&#10;[Explanation]&#10;&#10;&gt;&gt;You need to be a computer programmer (someone who knows computer languages) to take part in the configuration of DHIS2.&lt;&lt;&#10;( ) True&#10;(x) False&#10;&#10;[Explanation]&#10;Many aspects of DHIS2 configuration can take place directly through the user-interface. This concept was discussed in the DHIS2 design principles presentation and demonstrated through numerous configuration sessions.&#10;[Explanation]&#10;&#10;&gt;&gt;DHIS2 only supports the integration of data from one health program at a time.&lt;&lt;&#10;( ) True&#10;(x) False&#10;&#10;[Explanation]&#10;Multiple programs can be integrated into the DHIS2 platform together. This is shown as both a concept and demo in the DHIS2 design principles session.&#10;[Explanation]&#10;&#10;&gt;&gt;Reports in DHIS2 are dynamic and can be the combination of data from several different data sources.&lt;&lt;&#10;(x) True&#10;( ) False&#10;&#10;[Explanation]&#10;Report can be a combination of data from multiple sources. This is shown in the DHIS2 design principles session.&#10;[Explanation]&#10;&#10;&gt;&gt;What is the difference between Data Elements and Indicators (select one)?&lt;&lt;&#10;( ) They are both the same.&#10;( ) Data Elements measure the coverage while indicators collects data values from the paper forms&#10;(x) Data Elements are the raw data while Indicators are calculated values/formulas&#10;&#10;[Explanation]&#10;The key difference here is that indicators represent calculated values, and can typically be made up of several data elements. Data elements are the raw items of data that are collected through routine processes.&#10;[Explanation]" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="attempted" submission_wait_seconds="30">
+<p>DHIS2 is an off-the-shelf solution that requires no additional configuration upon installation.</p>
+<multiplechoiceresponse>
+  <choicegroup label="DHIS2 is an off-the-shelf solution that requires no additional configuration upon installation." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>In both the DHIS2 History/Introduction and DHIS2 design principles presentation, it is highlighted that DHIS2 is a generic solution that needs to be tailored to fit local needs and requirements</p>
+
+</div>
+</solution>
+
+<p>You need to be a computer programmer (someone who knows computer languages) to take part in the configuration of DHIS2.</p>
+<multiplechoiceresponse>
+  <choicegroup label="You need to be a computer programmer (someone who knows computer languages) to take part in the configuration of DHIS2." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Many aspects of DHIS2 configuration can take place directly through the user-interface. This concept was discussed in the DHIS2 design principles presentation and demonstrated through numerous configuration sessions.</p>
+
+</div>
+</solution>
+
+<p>DHIS2 only supports the integration of data from one health program at a time.</p>
+<multiplechoiceresponse>
+  <choicegroup label="DHIS2 only supports the integration of data from one health program at a time." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Multiple programs can be integrated into the DHIS2 platform together. This is shown as both a concept and demo in the DHIS2 design principles session.</p>
+
+</div>
+</solution>
+
+<p>Reports in DHIS2 are dynamic and can be the combination of data from several different data sources.</p>
+<multiplechoiceresponse>
+  <choicegroup label="Reports in DHIS2 are dynamic and can be the combination of data from several different data sources." type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Report can be a combination of data from multiple sources. This is shown in the DHIS2 design principles session.</p>
+
+</div>
+</solution>
+
+<p>What is the difference between Data Elements and Indicators (select one)?</p>
+<multiplechoiceresponse>
+  <choicegroup label="What is the difference between Data Elements and Indicators (select one)?" type="MultipleChoice">
+    <choice correct="false">They are both the same.</choice>
+    <choice correct="false">Data Elements measure the coverage while indicators collects data values from the paper forms</choice>
+    <choice correct="true">Data Elements are the raw data while Indicators are calculated values/formulas</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The key difference here is that indicators represent calculated values, and can typically be made up of several data elements. Data elements are the raw items of data that are collected through routine processes.</p>
+
+</div>
+</solution>
+</problem>

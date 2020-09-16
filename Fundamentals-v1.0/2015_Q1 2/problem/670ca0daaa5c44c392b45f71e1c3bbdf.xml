@@ -1,0 +1,54 @@
+<problem display_name="Session Quiz - Data Visualizer" markdown="From the Data Visualizer you can: (select one or more)&#10;[x] Save favorite charts with a description&#10;[x] Make different types of dynamic charts&#10;[x] Share an interpretation&#10;&#10;[Explanation]&#10;The data visualizer can be used to create charts, which can be saved as favorites as discussed via interpretations. This is all demonstrated in the data visualizer demo.&#10;[Explanation]&#10;&#10;The data visualizer in DHIS2 is mainly used for: (select one)&#10;(x) Visualizing data in charts&#10;( ) Managing the visual layout of dashboards&#10;( ) Changing the appearance of the DHIS2 application&#10;&#10;[Explanation]&#10;The main purpose of the data visualizer is to visualize data in charts.&#10;[Explanation]&#10;&#10;In the data visualizer, I cannot add titles to the axes and chart itself.&#10;( ) True&#10;(x) False&#10;&#10;[Explanation]&#10;In the data visualizer, chart and axes titles can be added by going to the table options.&#10;[Explanation]" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>From the Data Visualizer you can: (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup>
+    <choice correct="true">Save favorite charts with a description</choice>
+    <choice correct="true">Make different types of dynamic charts</choice>
+    <choice correct="true">Share an interpretation</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The data visualizer can be used to create charts, which can be saved as favorites as discussed via interpretations. This is all demonstrated in the data visualizer demo.</p>
+
+</div>
+</solution>
+
+<p>The data visualizer in DHIS2 is mainly used for: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Visualizing data in charts</choice>
+    <choice correct="false">Managing the visual layout of dashboards</choice>
+    <choice correct="false">Changing the appearance of the DHIS2 application</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The main purpose of the data visualizer is to visualize data in charts.</p>
+
+</div>
+</solution>
+
+<p>In the data visualizer, I cannot add titles to the axes and chart itself.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>In the data visualizer, chart and axes titles can be added by going to the table options.</p>
+
+</div>
+</solution>
+</problem>

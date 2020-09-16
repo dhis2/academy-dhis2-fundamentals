@@ -1,0 +1,16 @@
+<problem display_name="Question of the assignment 3.4.2" markdown="&gt;&gt;Which facility has the highest number of HIV tests performed?&lt;&lt;&#10;[[(Crocodile Hospital Gateway PHC), Sushi Hospital Gateway PHC, Red Deer Health Centre, Spaghetti Health Centre]]&#10;&#10;[explanation]&#10;Crocodile Hospital Gateway PHC performed the highest number of HIV tests&#10;[explanation]" max_attempts="3" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>Which facility has the highest number of HIV tests performed?</p>
+
+<optionresponse>
+  <optioninput label="Which facility has the highest number of HIV tests performed?" options="('Crocodile Hospital Gateway PHC','Sushi Hospital Gateway PHC','Red Deer Health Centre','Spaghetti Health Centre')" correct="Crocodile Hospital Gateway PHC"/>
+</optionresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Crocodile Hospital Gateway PHC performed the highest number of HIV tests</p>
+
+</div>
+</solution>
+</problem>

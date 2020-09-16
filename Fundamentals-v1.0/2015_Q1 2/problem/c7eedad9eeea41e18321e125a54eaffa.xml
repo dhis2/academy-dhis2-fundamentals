@@ -1,0 +1,109 @@
+<problem display_name="Session Quiz - Data Collection" markdown="The main function of Data Sets in DHIS2 is to: (select one)&#10;( ) Create dynamic outputs&#10;( ) Group together data elements for analysis&#10;(x) Capture Data&#10;( ) Analyse data quality&#10;&#10;[Explanation]&#10;Data Sets are used to capture data from different sources in DHIS2. Outputs are not directly tied to data sets and can be a mix of different data sets as needed.&#10;[Explanation]&#10;&#10;Some different methods for me to input data using DHIS2 include: (select one or more)&#10;[x] Performing a manual import of data&#10;[x] Using an Android Device&#10;[ ] Scanning Data directly from a paper form&#10;[x] Using the data entry app within DHIS2&#10;&#10;[Explanation]&#10;Different types of data collection methods were shown throughout Module 4. DHIS2 does not have the ability to scan in results from a paper form directly however.&#10;[Explanation]&#10;&#10;In the web data entry app, you can view the following: (select one or more)&#10;[x] Data element history (referring to the history of a particular item)&#10;[x] Audit trail (showing you changes made to a particular item)&#10;[ ] The distribution of the data over a particular period, such as variance or standard deviation&#10;&#10;[Explanation]&#10;DHIS2 does allow for you to examine data distributions such as variance and standard deviation, but this cannot be done directly in the data entry web app. The audit trail and data element history were shown in the data entry web app session.&#10;[Explanation]&#10;&#10;In the web data entry app what type of quick quality checks can be performed? (select one or more)&#10;[x] That individual minimum and maximum limits are not violated&#10;[x] Validation rules that run user defined conditions which check that certain logical, mathematical criteria are met&#10;[x] That values are being entered in the correct format (ie. text cannot be entered in a numerical field)&#10;&#10;[Explanation]&#10;In the web data entry app, various quality checks can be run while entering data. These were shown in the data entry web app session.&#10;[Explanation]&#10;&#10;Android Data Entry can be performed offline without an internet connection&#10;(x) True&#10;( ) False&#10;&#10;[Explanation]&#10;As long as you are logged in to the Android app (and do not log out) and you can continue to enter data directly on the Android device without an internet connection.&#10;[Explanation]&#10;&#10;Alternative methods of bringing data into DHIS2, such as importing the data or using PDF files, are possible&#10;(x) True&#10;( ) False&#10;&#10;[Explanation]&#10;Other methods of bringing data into DHIS2 are possible. This allows for transferring data from legacy systems or creating a data warehouse with data that is in different formats.&#10;[Explanation]" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="attempted" submission_wait_seconds="30">
+<p>The main function of Data Sets in DHIS2 is to: (select one)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Create dynamic outputs</choice>
+    <choice correct="false">Group together data elements for analysis</choice>
+    <choice correct="true">Capture Data</choice>
+    <choice correct="false">Analyse data quality</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Data Sets are used to capture data from different sources in DHIS2. Outputs are not directly tied to data sets and can be a mix of different data sets as needed.</p>
+
+</div>
+</solution>
+
+<p>Some different methods for me to input data using DHIS2 include: (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup>
+    <choice correct="true">Performing a manual import of data</choice>
+    <choice correct="true">Using an Android Device</choice>
+    <choice correct="false">Scanning Data directly from a paper form</choice>
+    <choice correct="true">Using the data entry app within DHIS2</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Different types of data collection methods were shown throughout Module 4. DHIS2 does not have the ability to scan in results from a paper form directly however.</p>
+
+</div>
+</solution>
+
+<p>In the web data entry app, you can view the following: (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup>
+    <choice correct="true">Data element history (referring to the history of a particular item)</choice>
+    <choice correct="true">Audit trail (showing you changes made to a particular item)</choice>
+    <choice correct="false">The distribution of the data over a particular period, such as variance or standard deviation</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>DHIS2 does allow for you to examine data distributions such as variance and standard deviation, but this cannot be done directly in the data entry web app. The audit trail and data element history were shown in the data entry web app session.</p>
+
+</div>
+</solution>
+
+<p>In the web data entry app what type of quick quality checks can be performed? (select one or more)</p>
+<choiceresponse>
+  <checkboxgroup>
+    <choice correct="true">That individual minimum and maximum limits are not violated</choice>
+    <choice correct="true">Validation rules that run user defined conditions which check that certain logical, mathematical criteria are met</choice>
+    <choice correct="true">That values are being entered in the correct format (ie. text cannot be entered in a numerical field)</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>In the web data entry app, various quality checks can be run while entering data. These were shown in the data entry web app session.</p>
+
+</div>
+</solution>
+
+<p>Android Data Entry can be performed offline without an internet connection</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>As long as you are logged in to the Android app (and do not log out) and you can continue to enter data directly on the Android device without an internet connection.</p>
+
+</div>
+</solution>
+
+<p>Alternative methods of bringing data into DHIS2, such as importing the data or using PDF files, are possible</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Other methods of bringing data into DHIS2 are possible. This allows for transferring data from legacy systems or creating a data warehouse with data that is in different formats.</p>
+
+</div>
+</solution>
+</problem>
