@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+
+[dhis2-fundamentals.description-html]
+file_filter = course/<lang>/about/description.html
+minimum_perc = 0
+source_file = course/about/description.html
+source_lang = en
+type = HTML
+
