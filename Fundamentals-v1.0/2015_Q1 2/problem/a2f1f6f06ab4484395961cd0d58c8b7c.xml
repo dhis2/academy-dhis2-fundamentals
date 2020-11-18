@@ -1,0 +1,17 @@
+<problem display_name="Question of the assignment 3.2.1" markdown="&gt;&gt;Which quarter had the lowest number of deliveries?&lt;&lt;&#10;[[(January - March 2016), April - June 2016, July - September 2016, October - December 2016]]&#10;&#10;[explanation]&#10;The quarter January - March 2016 had the lowest number of deliveries&#10;[explanation]&#10;&#10;&#10;" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>Which quarter had the lowest number of deliveries?</p>
+
+<optionresponse>
+  <optioninput label="Which quarter had the lowest number of deliveries?" options="('January - March 2016','April - June 2016','July - September 2016','October - December 2016')" correct="January - March 2016"/>
+</optionresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The quarter January - March 2016 had the lowest number of deliveries</p>
+
+</div>
+</solution>
+
+</problem>

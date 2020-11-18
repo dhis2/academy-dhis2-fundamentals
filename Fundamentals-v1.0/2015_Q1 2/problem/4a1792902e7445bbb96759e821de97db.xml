@@ -1,0 +1,13 @@
+<problem display_name="Question of the assignment 5.4.3" markdown="Which district was fully surveyed? (100% reporting rate completeness in 2016)&#10;&#10;( )Dog District&#10;(x)Staple District&#10;( )Cat District&#10;( )Vegetable District" max_attempts="3" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>Which district was fully surveyed? (100% reporting rate completeness in 2016)</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Dog District</choice>
+    <choice correct="true">Staple District</choice>
+    <choice correct="false">Cat District</choice>
+    <choice correct="false">Vegetable District</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

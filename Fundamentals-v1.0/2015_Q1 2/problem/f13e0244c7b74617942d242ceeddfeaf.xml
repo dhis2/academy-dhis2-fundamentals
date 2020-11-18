@@ -1,0 +1,32 @@
+<problem display_name="Question of the assignment 3.2.4" markdown="&gt;&gt;In Blueberry dispensary, were the total number of Malaria RDT positives greater than or less than the total number of Malaria RDT’s performed?&lt;&lt;&#10;[[(greater than), less than]]&#10;&#10;[explanation]&#10;The correct answer is greater than&#10;[explanation]&#10;---&#10;&gt;&gt;In Chocolate Dispensary, how many Malaria RDT’s were positive in Oct - Dec 2016 for the 'under 5 years' age group? (enter the value in the box below)&lt;&lt;&#10;= 14&#10;&#10;[explanation]&#10;14 Malaria RDT’s were positive in Oct - Dec 2016 for the 'under 5 years' age group within Chocolate Dispensary&#10;[explanation]&#10;&#10;" max_attempts="3" rerandomize="always" show_reset_button="true" showanswer="finished" submission_wait_seconds="30">
+<p>In Blueberry dispensary, were the total number of Malaria RDT positives greater than or less than the total number of Malaria RDT’s performed?</p>
+
+<optionresponse>
+  <optioninput label="In Blueberry dispensary, were the total number of Malaria RDT positives greater than or less than the total number of Malaria RDT’s performed?" options="('greater than','less than')" correct="greater than"/>
+</optionresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The correct answer is greater than</p>
+
+</div>
+</solution>
+<p>---</p>
+<p>In Chocolate Dispensary, how many Malaria RDT’s were positive in Oct - Dec 2016 for the 'under 5 years' age group? (enter the value in the box below)</p>
+<numericalresponse answer="14">
+  <formulaequationinput label="In Chocolate Dispensary, how many Malaria RDT’s were positive in Oct - Dec 2016 for the 'under 5 years' age group? (enter the value in the box below)"/>
+</numericalresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>14 Malaria RDT’s were positive in Oct - Dec 2016 for the 'under 5 years' age group within Chocolate Dispensary</p>
+
+</div>
+</solution>
+
+
+</problem>

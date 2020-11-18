@@ -1,0 +1,13 @@
+<problem display_name="QUESTION APPLYING TO THE SERIES OF ASSIGNMENTS FOR MODULE 4" markdown="This check will allow the course team members to validate the result of your assignments in DHIS2 Customization.&#10;As for the other assignments, you are allowed 3 attempts.&#10;&#10;(x) I performed all the assignments in DHIS2 Customisation and want the course team to review the result of my work.&#10;( ) I have not finalized all the assignments yet.&#10;&#10;Note: It is only after this validation process that the final grade of this series of assignment will be confirmed.&#10;" max_attempts="3" show_reset_button="true" showanswer="finished" submission_wait_seconds="30" weight="8.0">
+<p>This check will allow the course team members to validate the result of your assignments in DHIS2 Customization.</p>
+<p>As for the other assignments, you are allowed 3 attempts.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">I performed all the assignments in DHIS2 Customisation and want the course team to review the result of my work.</choice>
+    <choice correct="false">I have not finalized all the assignments yet.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Note: It is only after this validation process that the final grade of this series of assignment will be confirmed.</p>
+
+</problem>

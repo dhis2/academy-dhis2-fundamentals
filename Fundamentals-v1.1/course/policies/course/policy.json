@@ -1,0 +1,98 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "word_cloud", 
+            "survey", 
+            "google-document"
+        ], 
+        "advertised_start": "Self-paced", 
+        "allow_anonymous": false, 
+        "catalog_visibility": "none", 
+        "cert_html_view_enabled": true, 
+        "certificates": {
+            "certificates": [
+                {
+                    "course_title": "", 
+                    "description": "Default certificate", 
+                    "editing": false, 
+                    "id": 605624815, 
+                    "is_active": true, 
+                    "name": "Default", 
+                    "signatories": [
+                        {
+                            "id": 1637945120, 
+                            "name": "Kristin Braa", 
+                            "organization": "University of Oslo", 
+                            "signature_image_path": "/c4x/HISP/DHIS2_Level1/asset/eucalyptus-theme-codebase_images_certs_cert-sig-kristin-braa.png", 
+                            "title": "Professor"
+                        }
+                    ], 
+                    "version": 1
+                }
+            ]
+        }, 
+        "course_image": "Togo - Sept2016.jpg", 
+        "create_zendesk_tickets": false, 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-HISP-DHIS2_Level1-course-2020_Q4"
+            }
+        }, 
+        "display_coursenumber": "DHIS2_101", 
+        "display_name": "DHIS2 Fundamentals", 
+        "display_organization": "DHIS2 Online Academy", 
+        "due": null, 
+        "due_date_display_format": "%m-%d-%Y", 
+        "end": "2020-12-31T01:00:00Z", 
+        "enrollment_end": "2020-12-31T01:00:00Z", 
+        "enrollment_start": "2017-03-31T20:00:00Z", 
+        "graceperiod": "21600 seconds", 
+        "info_sidebar_name": "Course Handouts ", 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "invitation_only": true, 
+        "is_new": true, 
+        "language": "en", 
+        "learning_info": [], 
+        "minimum_grade_credit": 0.8, 
+        "mobile_available": true, 
+        "pdf_textbooks": [], 
+        "pre_requisite_courses": [], 
+        "self_paced": true, 
+        "showanswer": "answered", 
+        "start": "2017-03-31T21:00:00Z", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/2020_Q4.xml", 
+                "course/2020_Q4.xml"
+            ]
+        }
+    }
+}
