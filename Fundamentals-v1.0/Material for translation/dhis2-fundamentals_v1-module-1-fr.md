@@ -170,7 +170,7 @@ Hormis les situations listées ci-dessus, aucune question n’est idiote et tout
 
 ## 1.3 - Maintenant, c'est à vous
 
-#### Présentez-vous :)
+### Présentez-vous :)
 
 Pour tirer le meilleur parti de votre expérience d'apprentissage au cours de la formation, nous vous encourageons à vous présenter dans le forum de discussion.
 
