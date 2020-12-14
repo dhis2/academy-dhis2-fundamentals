@@ -1,4 +1,4 @@
-# Module 1 - Overview & Getting Getting Started
+# Module 1 - Overview & Getting Started
 
 ## 1.1 - Welcome to DHIS2 Fundamentals
 

@@ -1,4 +1,4 @@
-# Module 1 - Overview & Getting Getting Started
+# Module 1 - Présentation et mise en route
 
 ## 1.1 - Bienvenue dans cette formation sur les principes fondamentaux de DHIS2
 
@@ -158,7 +158,7 @@ Pour solliciter un appui technique ou de l'aide pour l’utilisation de la plate
 
 Merci de publier vos messages dans les sections correspondantes. Le forum dispose de différentes sections consacrées aux modules ou thèmes de la formation, ainsi qu’une zone dédiée aux questions techniques que vous pourriez rencontrer.
 
-Vous pouvez voter en faveur de certains messages. Il leur sera ainsi accordé une plus grande priorité. Les messages qui recueillent le plus de votes attireront davantage l'attention du personnel et des autres étudiants. Ce processus aide le personnel et les étudiants à identifier les éléments ayant le plus d’importance pour les participants, de manière à éventuellement mieux cibler la formation sur vos besoins.  
+Vous pouvez voter en faveur de certains messages. Il leur sera ainsi accordé une plus grande priorité. Les messages qui recueillent le plus de votes attireront davantage l'attention du personnel et des autres étudiants. Ce processus aide le personnel et les étudiants à identifier les éléments ayant le plus d’importance pour les participants, de manière à éventuellement mieux cibler la formation sur vos besoins.
 
 Merci de faire preuve de courtoisie à l’égard des autres étudiants. Nous souhaitons créer une communauté bienveillante et positive.
 
