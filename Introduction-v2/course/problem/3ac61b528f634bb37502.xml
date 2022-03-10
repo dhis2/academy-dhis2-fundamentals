@@ -1,0 +1,17 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3>We can configure data quality checks by creating user-defined validation rules which check the data that is entered. </h3></label>
+<choicegroup type="MultipleChoice">
+    <choice correct="true"><span style="font-size:16px;">A. True</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">B. False</span> </choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">Mathematical rules, referred to as validation rules, can be defined by a user in order to check the data that is being entered. This is one of the electronic methods checking data quality in DHIS2.
+
+</p>
+    </div>
+  </solution>
+</problem>

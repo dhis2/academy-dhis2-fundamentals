@@ -1,0 +1,248 @@
+0
+00:00:01,014 --> 00:00:03,848
+(uplifting music)
+
+1
+00:00:13,530 --> 00:00:15,940
+- [Instructor] In the feature overview section,
+
+2
+00:00:15,940 --> 00:00:20,640
+you learned that DHIS2 is a web-based platform
+
+3
+00:00:20,640 --> 00:00:24,800
+offering tools for collection, data validation,
+
+4
+00:00:24,800 --> 00:00:28,033
+analysis, and presentation of data.
+
+5
+00:00:29,940 --> 00:00:34,290
+But, how are data organized within DHIS2
+
+6
+00:00:34,290 --> 00:00:36,533
+to enable these capabilities?
+
+7
+00:00:38,340 --> 00:00:40,800
+In this video, we will take a look
+
+8
+00:00:40,800 --> 00:00:44,600
+at the three building blocks, or data dimensions,
+
+9
+00:00:44,600 --> 00:00:49,123
+associated with all aggregate data values in DHIS2.
+
+10
+00:00:49,960 --> 00:00:52,880
+They are called, &quot;data elements&quot;,
+
+11
+00:00:52,880 --> 00:00:56,313
+&quot;organization units&quot;, and &quot;periods&quot;.
+
+12
+00:00:57,940 --> 00:01:00,540
+These three data dimensions
+
+13
+00:01:00,540 --> 00:01:04,690
+are referred to as meta-data in DHIS2,
+
+14
+00:01:04,690 --> 00:01:07,680
+as they provide information we can use
+
+15
+00:01:07,680 --> 00:01:11,023
+to classify and organize the data.
+
+16
+00:01:11,890 --> 00:01:16,023
+Data elements represent &quot;what&quot; is being measured,
+
+17
+00:01:17,230 --> 00:01:22,230
+org. units refers to &quot;where&quot; the data were collected,
+
+18
+00:01:23,450 --> 00:01:27,083
+and periods represent the &quot;when&quot; dimension.
+
+19
+00:01:29,880 --> 00:01:34,520
+While data are routinely entered using data entry apps,
+
+20
+00:01:34,520 --> 00:01:37,713
+these three dimensions are pre-defined.
+
+21
+00:01:38,580 --> 00:01:41,720
+Together, they provide relevant context
+
+22
+00:01:41,720 --> 00:01:43,933
+for the data to be understood.
+
+23
+00:01:45,580 --> 00:01:47,843
+Let&#39;s take a look at an example.
+
+24
+00:01:48,710 --> 00:01:52,070
+If there is a data value of 39,
+
+25
+00:01:52,070 --> 00:01:57,000
+this value on its own does not give us enough context.
+
+26
+00:01:58,310 --> 00:02:02,370
+By attaching the what, where, and when dimensions
+
+27
+00:02:02,370 --> 00:02:06,893
+to the value, we have a better idea of what it represents.
+
+28
+00:02:09,130 --> 00:02:12,710
+Let&#39;s suppose that the value 39
+
+29
+00:02:12,710 --> 00:02:17,280
+represents the number of positive malaria cases.
+
+30
+00:02:17,280 --> 00:02:20,100
+This represents what is being measured,
+
+31
+00:02:20,100 --> 00:02:24,360
+the data element, or the &quot;what&quot; dimension.
+
+32
+00:02:24,360 --> 00:02:28,900
+These cases were reported in Namchala Health Center.
+
+33
+00:02:28,900 --> 00:02:32,130
+This constitutes the geographical frame,
+
+34
+00:02:32,130 --> 00:02:36,440
+the organization unit, or the &quot;where&quot; dimension.
+
+35
+00:02:36,440 --> 00:02:40,070
+And lastly, we need to add a timeframe.
+
+36
+00:02:40,070 --> 00:02:43,600
+In this case, October of 2020,
+
+37
+00:02:43,600 --> 00:02:46,513
+the period, or the &quot;when&quot; dimension.
+
+38
+00:02:48,750 --> 00:02:51,080
+You can see that when we attach
+
+39
+00:02:51,080 --> 00:02:54,430
+these three dimensions to the data value,
+
+40
+00:02:54,430 --> 00:02:58,560
+you can now understand what that value represents.
+
+41
+00:02:58,560 --> 00:03:03,560
+There were 39 cases of malaria in Namchala Health Center
+
+42
+00:03:03,580 --> 00:03:06,073
+in October of 2020.
+
+43
+00:03:07,540 --> 00:03:12,530
+This approach to classifying data separates DHIS2
+
+44
+00:03:12,530 --> 00:03:17,210
+from many of the traditional health information software.
+
+45
+00:03:17,210 --> 00:03:21,680
+The fact that every data value within DHIS2
+
+46
+00:03:21,680 --> 00:03:25,070
+consists of these three core dimensions,
+
+47
+00:03:25,070 --> 00:03:28,160
+independent of any particular source
+
+48
+00:03:28,160 --> 00:03:30,070
+or data collection form,
+
+49
+00:03:30,070 --> 00:03:33,000
+means that many different data sources
+
+50
+00:03:33,000 --> 00:03:37,743
+can be integrated into one single DHIS2 database.
+
+51
+00:03:39,130 --> 00:03:44,130
+In summary, we learned that each data value in DHIS2
+
+52
+00:03:44,500 --> 00:03:47,460
+will have at least these three dimensions
+
+53
+00:03:47,460 --> 00:03:49,150
+associated with it,
+
+54
+00:03:49,150 --> 00:03:53,280
+data element, the &quot;what&quot;, organization unit,
+
+55
+00:03:53,280 --> 00:03:56,660
+the &quot;where&quot;, and period, the &quot;when&quot;.
+
+56
+00:03:56,660 --> 00:03:59,720
+Together, they are considered meta-data,
+
+57
+00:03:59,720 --> 00:04:03,360
+because they provide context to data values
+
+58
+00:04:03,360 --> 00:04:07,870
+and enable us to classify and analyze the data,
+
+59
+00:04:07,870 --> 00:04:11,110
+as well as enable the integration of data
+
+60
+00:04:11,110 --> 00:04:12,950
+from various sources.
+
+61
+00:04:14,447 --> 00:04:17,280
+(uplifting music)
+

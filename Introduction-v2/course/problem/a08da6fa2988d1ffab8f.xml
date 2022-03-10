@@ -1,0 +1,29 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3> If you want to take a course to develop your DHIS2 skills and interact with DHIS2 experts, you can do it in:   </h3></label>
+<description> (Select 1 option) </description> 
+
+<choicegroup type="MultipleChoice">
+    <choice correct="false"><span style="font-size:16px;">A. DHIS2 Design Lab
+
+</span> </choice>
+  <choice correct="true"><span style="font-size:16px;">B. DHIS2 Academy
+ </span> </choice>
+ <choice correct="false"><span style="font-size:16px;">C. DHIS2 Developer Portal
+
+ </span> </choice>
+  <choice correct="false"><span style="font-size:16px;">D. DHIS2 Community of Practice
+
+
+</span> </choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">If you want to develop your DHIS2 skills, you can take a  DHIS2 Academy course. The academy program includes both online and in-person courses on both general and specialized topics.
+
+</p>
+    </div>
+  </solution>
+</problem>

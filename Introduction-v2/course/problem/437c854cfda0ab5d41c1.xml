@@ -1,0 +1,19 @@
+<problem markdown="null">
+<multiplechoiceresponse>
+  <label><h3>  The DHIS2 data quality tool that checks if the data entered follow predefined conditions or rules for the data to follow is:  </h3></label>
+
+<choicegroup type="MultipleChoice">
+    <choice correct="true"><span style="font-size:16px;">A. Validation rule analysis</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">B. Outlier analysis</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">C. Follow-up analysis</span> </choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">Validation rule analysis, tests validation rules against the data entered in the system. 
+
+</p>
+    </div>
+  </solution>
+</problem>

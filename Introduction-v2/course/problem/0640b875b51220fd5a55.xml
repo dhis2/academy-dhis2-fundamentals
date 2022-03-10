@@ -1,0 +1,19 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3>Which 2014 outbreak did the HISP network assist in with deploying DHIS2 in Liberia?    </h3></label>
+  <description> (Select 1 option) </description> 
+<choicegroup type="MultipleChoice">
+  <choice correct="false"><span style="font-size:16px;">A. MERS </span></choice>
+    <choice correct="false"><span style="font-size:16px;">B. H1N1</span> </choice>
+    <choice correct="true"><span style="font-size:16px;">C. Ebola</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">D. Measles </span></choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">The HISP network assisted health authorities in Liberia in deploying DHIS2 for the Ebola outbreak response. The initial Tracker model deployed there have since been expanded upon for case-based surveillance of other diseases.
+</p>
+    </div>
+  </solution>
+</problem>

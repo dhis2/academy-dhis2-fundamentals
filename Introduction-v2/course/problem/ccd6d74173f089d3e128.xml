@@ -1,0 +1,21 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3>How many levels does an organisation unit hierarchy have?</h3></label>
+<description> (Select 1 option) </description> 
+ 
+<choicegroup type="MultipleChoice">
+    <choice correct="false"><span style="font-size:16px;">A. 4 levels (country, province, district, facility)  </span></choice>
+    <choice correct="false"><span style="font-size:16px;">B. Maximum of 5 levels  </span></choice>
+    <choice correct="false"><span style="font-size:16px;">C. Maximum of 10 levels  </span></choice>
+  <choice correct="true"><span style="font-size:16px;">D. Dependent on each country´s context or project analytical requirements </span></choice>
+   </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+<div class="detailed-solution">
+<p style="font-size:16px;">Feedback</p>
+<p style="font-size:16px;"> The structure of each organisation unit hierarchy, including the number of levels, is fully customizable in DHIS2 to adapt to each country's context or analytics requirements of the program being supported.</p>
+
+</div>
+</solution>
+
+</problem>

@@ -1,0 +1,21 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3>DHIS2 is most similar to:</h3></label>
+
+<description> (Select 1 option) </description> 
+  <p style="font-size:16px;"/>
+<choicegroup type="MultipleChoice">
+  <choice correct="false"><span style="font-size:16px;">A. A Data Port</span></choice>
+    <choice correct="true"><span style="font-size:16px;">B. A Data Warehouse</span> </choice>
+    <choice correct="false"><span style="font-size:16px;">C. A Data Driveway</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">D. A Data Highway </span></choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">A Data Warehouse is correct. DHIS2 works as a centralized data warehouse capable of capturing data from a number of different sources and devices including direct entry through the web or an android device, SMS and even other data sources such as spreadsheets or other electronic systems.
+</p>
+    </div>
+  </solution>
+</problem>

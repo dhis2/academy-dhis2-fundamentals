@@ -1,0 +1,24 @@
+<problem markdown="null">
+<multiplechoiceresponse>
+  <label><h3>Which tool checks to see if data are within a predefined range?    </h3></label>
+<description> (Select 1 option)</description> 
+  <p style="font-size:16px;">
+</p>
+<choicegroup type="MultipleChoice">
+    <choice correct="false"><span style="font-size:16px;">A. Validation rule analysis</span> </choice>
+        <choice correct="true"><span style="font-size:16px;">B. Outlier analysis</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">C. Follow-up analysis</span> </choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">The correct answer is the Outlier analysis tool, which checks if the data are within a predefined range that has been specified for the data.
+
+
+
+
+</p>
+    </div>
+  </solution>
+</problem>

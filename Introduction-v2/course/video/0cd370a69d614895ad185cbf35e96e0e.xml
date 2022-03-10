@@ -1,0 +1,9 @@
+<video youtube="1.00:UqXSMaXBtD8" url_name="0cd370a69d614895ad185cbf35e96e0e" sub="" transcripts="{&quot;en&quot;: &quot;081a3432-b2cb-4e98-859f-a83308e426a7-en.srt&quot;}" display_name="DHIS2: Information for Action" download_track="true" download_video="true" edx_video_id="081a3432-b2cb-4e98-859f-a83308e426a7" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/DHIS2-Information-for-Action.mp4&quot;]" show_captions="false" youtube_id_1_0="UqXSMaXBtD8">
+  <source src="https://academy.downloads.dhis2.org/Intro/Low-res/DHIS2-Information-for-Action.mp4"/>
+  <video_asset client_video_id="external video" duration="0.0" image="">
+    <transcripts>
+      <transcript file_format="srt" language_code="en" provider="Custom"/>
+    </transcripts>
+  </video_asset>
+  <transcript language="en" src="081a3432-b2cb-4e98-859f-a83308e426a7-en.srt"/>
+</video>

@@ -1,0 +1,19 @@
+<problem>
+<multiplechoiceresponse>
+<label><h3>What is the term used that describes the type of data that classifies and organizes other data?</h3></label>
+  <description> (Select 1 option) </description> 
+<choicegroup type="MultipleChoice">
+    <choice correct="false"><span style="font-size:16px;">A. Alter-Data </span></choice>
+    <choice correct="true"><span style="font-size:16px;">B. Metadata </span></choice>
+    <choice correct="false"><span style="font-size:16px;">C. Customized data </span></choice>
+  <choice correct="false"><span style="font-size:16px;">D. Categories </span></choice>
+   </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+<div class="detailed-solution">
+<p style="font-size:16px;">Feedback</p>
+<p style="font-size:16px;"> Metadata is the correct answer. We refer to metadata as any information that is describing your data.</p>
+
+</div>
+</solution>
+</problem>

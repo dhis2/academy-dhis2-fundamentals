@@ -1,0 +1,10 @@
+<video youtube="1.00:vBD9nKEZLFg" url_name="b47973ee7ea74ffaa5843b69b73e09ba" sub="" transcripts="{&quot;en&quot;: &quot;34810abd-c45d-4965-b57e-2353f3ec2a92-en.srt&quot;}" display_name="Introduction to DHIS2 – Components of the DHIS2 ecosystem" download_track="true" download_video="true" edx_video_id="34810abd-c45d-4965-b57e-2353f3ec2a92" handout="/asset-v1:DHIS2+00001+2021Q2+type@asset+block@3.2.2_Components_of_the_DHIS2_Ecosystem.pdf" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/3-2-3-Components-of-the-DHIS2-ecosystem.mp4&quot;]" show_captions="false" youtube_id_1_0="vBD9nKEZLFg">
+  <source src="https://academy.downloads.dhis2.org/Intro/Low-res/3-2-3-Components-of-the-DHIS2-ecosystem.mp4"/>
+  <handout src="/asset-v1:DHIS2+00001+2021Q2+type@asset+block@3.2.2_Components_of_the_DHIS2_Ecosystem.pdf"/>
+  <video_asset client_video_id="external video" duration="0.0" image="">
+    <transcripts>
+      <transcript file_format="srt" language_code="en" provider="Custom"/>
+    </transcripts>
+  </video_asset>
+  <transcript language="en" src="34810abd-c45d-4965-b57e-2353f3ec2a92-en.srt"/>
+</video>

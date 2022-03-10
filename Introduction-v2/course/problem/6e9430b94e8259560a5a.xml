@@ -1,0 +1,26 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3> If you want to contribute to DHIS2 localization to other languages and help to reach users all over the world, you can go to:   </h3></label>
+  <description> (Select 1 option) </description> 
+
+<choicegroup type="MultipleChoice">
+    <choice correct="true"><span style="font-size:16px;">A. translate.dhis2.org
+</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">B. jira.dhis2.org
+ </span> </choice>
+ <choice correct="false"><span style="font-size:16px;">C. play.dhis2.org
+ </span> </choice>
+  <choice correct="false"><span style="font-size:16px;">D. github.dhis2.org
+</span> </choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">On the website <strong>translate.dhis2.org</strong>, you can support the global translation effort of DHIS2 through the Transifex platform.
+
+
+</p>
+    </div>
+  </solution>
+</problem>

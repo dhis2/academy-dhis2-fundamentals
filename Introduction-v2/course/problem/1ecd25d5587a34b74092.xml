@@ -1,0 +1,17 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3>In DHIS2, we can add interpretations based on our own analysis of the data being reviewed.</h3></label>
+<choicegroup type="MultipleChoice">
+    <choice correct="true"><span style="font-size:16px;">A. True</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">B. False</span> </choice>
+
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">We can add an interpretation in response to reviewing a visualization in order to enable discussion and help guide direct actions.
+</p>
+    </div>
+  </solution>
+</problem>

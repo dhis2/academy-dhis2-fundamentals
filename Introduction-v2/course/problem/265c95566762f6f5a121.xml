@@ -1,0 +1,21 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3> In which country did the first implementation of DHIS2 launch in 2004?  </h3></label>
+  <description> (Select 1 option) </description> 
+
+<choicegroup type="MultipleChoice">
+  <choice correct="false"><span style="font-size:16px;">A. Norway</span></choice>
+    <choice correct="false"><span style="font-size:16px;">B. South Africa</span> </choice>
+    <choice correct="false"><span style="font-size:16px;">C. Uganda</span> </choice>
+  <choice correct="true"><span style="font-size:16px;">D. India </span></choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">DHIS2 launched in Kerala, India after development began in 2000.
+
+</p>
+    </div>
+  </solution>
+</problem>

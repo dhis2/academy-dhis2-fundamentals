@@ -1,0 +1,977 @@
+{
+    "1.2.1_Data_entry.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "1.2.1_Data_entry.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.2.1 Data entry.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@1.2.1_Data_entry.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "1.2.1_How_are_data_entered_into_DHIS2.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "1.2.1_How_are_data_entered_into_DHIS2.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.2.1 How are data entered into DHIS2.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@1.2.1_How_are_data_entered_into_DHIS2.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "1.2.2_Data_Review.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "1.2.2_Data_Review.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.2.2 Data Review.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@1.2.2_Data_Review.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "1.2.2_How_is_daya_quality_ensured.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "1.2.2_How_is_daya_quality_ensured.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.2.2 How is daya quality ensured.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@1.2.2_How_is_daya_quality_ensured.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "1.2.2_Q1_Graphics_V2.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "1.2.2_Q1_Graphics_V2.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.2.2_Q1_Graphics_V2.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@1.2.2_Q1_Graphics_V2.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "1.2.2_Q1_Graphics_V2-png.jpg", 
+            null
+        ]
+    }, 
+    "1.2.3_How_are_data_analysed_and_interpreted.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "1.2.3_How_are_data_analysed_and_interpreted.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.2.3 How are data analysed and interpreted.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@1.2.3_How_are_data_analysed_and_interpreted.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "1.2.4_How_are_data_shared_in_DHIS2.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "1.2.4_How_are_data_shared_in_DHIS2.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "1.2.4 How are data shared in DHIS2.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@1.2.4_How_are_data_shared_in_DHIS2.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "2.1.1_DHIS2_Building_blocks.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "2.1.1_DHIS2_Building_blocks.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "2.1.1 DHIS2 Building blocks.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@2.1.1_DHIS2_Building_blocks.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "2.1.2_Where_Organisation_Units.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "2.1.2_Where_Organisation_Units.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "2.1.2 Where_Organisation Units.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@2.1.2_Where_Organisation_Units.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "2.1.3_What_Data_elements_and_indicators.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "2.1.3_What_Data_elements_and_indicators.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "2.1.3 What_Data elements and indicators.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@2.1.3_What_Data_elements_and_indicators.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "2.1.4_When_Periods.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "2.1.4_When_Periods.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "2.1.4 When_Periods.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@2.1.4_When_Periods.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "3.1.1_Where_does_DHIS2_come_from.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "3.1.1_Where_does_DHIS2_come_from.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "3.1.1 Where does DHIS2 come from.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@3.1.1_Where_does_DHIS2_come_from.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "3.2.1_DHIS2_and_HISP.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "3.2.1_DHIS2_and_HISP.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "3.2.1 DHIS2 and HISP.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@3.2.1_DHIS2_and_HISP.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "3.2.2_Components_of_the_DHIS2_Ecosystem.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "3.2.2_Components_of_the_DHIS2_Ecosystem.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "3.2.2 Components of the DHIS2 Ecosystem.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@3.2.2_Components_of_the_DHIS2_Ecosystem.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Capture_app.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Capture_app.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Capture_app.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Capture_app.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Capture_app.svg", 
+            null
+        ]
+    }, 
+    "Dashboard.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Dashboard.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Dashboard.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Dashboard.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Dashboard.svg", 
+            null
+        ]
+    }, 
+    "Data_visualizer.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Data_visualizer.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Data_visualizer.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Data_visualizer.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Data_visualizer.svg", 
+            null
+        ]
+    }, 
+    "Interpretations.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Interpretations.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Interpretations.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Interpretations.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Interpretations.svg", 
+            null
+        ]
+    }, 
+    "Maps.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Maps.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Maps.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Maps.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Maps.svg", 
+            null
+        ]
+    }, 
+    "Navigating_edX__Introduction_to_DHIS2.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Navigating_edX__Introduction_to_DHIS2.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Navigating edX _Introduction to DHIS2.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Navigating_edX__Introduction_to_DHIS2.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Participants_Guide_Introduction_to_DHIS2.docx.pdf": {
+        "contentType": "application/pdf", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Participants_Guide_Introduction_to_DHIS2.docx.pdf", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Participants Guide_Introduction to DHIS2.docx.pdf", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Participants_Guide_Introduction_to_DHIS2.docx.pdf", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "Period.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Period.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Period.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Period.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Period.svg", 
+            null
+        ]
+    }, 
+    "Pivot_table.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Pivot_table.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Pivot_table.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Pivot_table.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Pivot_table.svg", 
+            null
+        ]
+    }, 
+    "Progress_Tab.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Progress_Tab.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Progress_Tab.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Progress_Tab.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Progress_Tab-png.jpg", 
+            null
+        ]
+    }, 
+    "Tracker_capture.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "Tracker_capture.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Tracker_capture.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@Tracker_capture.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "Tracker_capture.svg", 
+            null
+        ]
+    }, 
+    "WHO_data_quality.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "WHO_data_quality.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "WHO data quality.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@WHO_data_quality.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "WHO_data_quality-png.jpg", 
+            null
+        ]
+    }, 
+    "building_blocks_dnd.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "building_blocks_dnd.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "building blocks dnd.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@building_blocks_dnd.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "building_blocks_dnd-png.jpg", 
+            null
+        ]
+    }, 
+    "capture_app.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "capture_app.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "capture app.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@capture_app.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "capture_app.svg", 
+            null
+        ]
+    }, 
+    "charts_w_title.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "charts_w_title.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "charts w title.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@charts_w_title.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "charts_w_title.svg", 
+            null
+        ]
+    }, 
+    "dashboard.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "dashboard.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "dashboard.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@dashboard.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "dashboard-png.jpg", 
+            null
+        ]
+    }, 
+    "data_element.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "data_element.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "data element.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@data_element.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "data_element.svg", 
+            null
+        ]
+    }, 
+    "data_entry.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "data_entry.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "data entry.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@data_entry.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "data_entry.svg", 
+            null
+        ]
+    }, 
+    "data_review.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "data_review.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "data review.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@data_review.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "data_review-png.jpg", 
+            null
+        ]
+    }, 
+    "image1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "image1.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "image1.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@image1.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "image1-png.jpg", 
+            null
+        ]
+    }, 
+    "image2.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "image2.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "image2.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@image2.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "image2-png.jpg", 
+            null
+        ]
+    }, 
+    "image3.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "image3.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "image3.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@image3.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "image3-png.jpg", 
+            null
+        ]
+    }, 
+    "image4.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "image4.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "image4.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@image4.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "image4-png.jpg", 
+            null
+        ]
+    }, 
+    "image5.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "image5.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "image5.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@image5.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "image5-png.jpg", 
+            null
+        ]
+    }, 
+    "interoperatibility_diagram.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "interoperatibility_diagram.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "interoperatibility diagram.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@interoperatibility_diagram.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "interoperatibility_diagram-png.jpg", 
+            null
+        ]
+    }, 
+    "maps_w_title.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "maps_w_title.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "maps w title.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@maps_w_title.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "maps_w_title.svg", 
+            null
+        ]
+    }, 
+    "navigation.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "navigation.png", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "navigation.png", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@navigation.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "navigation-png.jpg", 
+            null
+        ]
+    }, 
+    "org_unit.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "org_unit.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "org unit.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@org_unit.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "org_unit.svg", 
+            null
+        ]
+    }, 
+    "pivot_tables_w_title_2.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "pivot_tables_w_title_2.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "pivot tables w title 2.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@pivot_tables_w_title_2.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "pivot_tables_w_title_2.svg", 
+            null
+        ]
+    }, 
+    "reports_w_title.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "reports_w_title.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "reports w title.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@reports_w_title.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "reports_w_title.svg", 
+            null
+        ]
+    }, 
+    "tracker_capture.svg": {
+        "contentType": "image/svg+xml", 
+        "content_son": {
+            "category": "asset", 
+            "course": "00001", 
+            "name": "tracker_capture.svg", 
+            "org": "DHIS2", 
+            "revision": null, 
+            "run": "2021Q2", 
+            "tag": "c4x"
+        }, 
+        "displayname": "tracker capture.svg", 
+        "filename": "asset-v1:DHIS2+00001+2021Q2+type@asset+block@tracker_capture.svg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "DHIS2", 
+            "00001", 
+            "thumbnail", 
+            "tracker_capture.svg", 
+            null
+        ]
+    }
+}

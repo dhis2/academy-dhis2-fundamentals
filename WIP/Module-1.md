@@ -149,7 +149,7 @@ menu on the left-hand side of the screen.
 
 ## 1.2 Using the Open edX Platform
 
-#### Video - System Login and Navigation
+### Video - System Login and Navigation
 
 [https://www.youtube.com/watch?v=zn6FwhFa6DE](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dzn6FwhFa6DE&sa=D&ust=1605599915699000&usg=AOvVaw0k5kCq4dxW1lGvCFZrM3s0)
 

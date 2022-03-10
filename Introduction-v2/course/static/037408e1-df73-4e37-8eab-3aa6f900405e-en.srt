@@ -1,0 +1,360 @@
+0
+00:00:00,740 --> 00:00:03,990
+(bright ambient music)
+
+1
+00:00:13,520 --> 00:00:14,810
+- [Instructor] In this video,
+
+2
+00:00:14,810 --> 00:00:17,750
+we&#39;ll look at how you can navigate your course
+
+3
+00:00:17,750 --> 00:00:20,740
+in the DHIS2 Online Academy,
+
+4
+00:00:20,740 --> 00:00:23,220
+where you&#39;ll access your learning materials
+
+5
+00:00:23,220 --> 00:00:25,383
+so you can master DHIS2.
+
+6
+00:00:27,260 --> 00:00:32,260
+Once you&#39;ve signed up for the course on academy.dhis2.org,
+
+7
+00:00:32,670 --> 00:00:35,453
+you&#39;ll see the list of courses you&#39;re enrolled in.
+
+8
+00:00:36,440 --> 00:00:39,713
+Next, select a course and launch it.
+
+9
+00:00:41,070 --> 00:00:44,210
+You will be greeted with the course page.
+
+10
+00:00:44,210 --> 00:00:48,053
+On the left, you will find the overview of the course.
+
+11
+00:00:48,900 --> 00:00:52,740
+You can select any module to expand it
+
+12
+00:00:52,740 --> 00:00:55,503
+to view the subsections and units,
+
+13
+00:00:56,830 --> 00:00:59,880
+or you can select expand all
+
+14
+00:00:59,880 --> 00:01:03,123
+to view the detailed contents at once.
+
+15
+00:01:03,980 --> 00:01:07,620
+On the right side under the Course Tools,
+
+16
+00:01:07,620 --> 00:01:10,743
+you will find a link to the course updates.
+
+17
+00:01:11,760 --> 00:01:13,680
+Make sure you check this.
+
+18
+00:01:13,680 --> 00:01:15,593
+There may be important news.
+
+19
+00:01:16,800 --> 00:01:20,580
+Underneath you&#39;ll find any useful links,
+
+20
+00:01:20,580 --> 00:01:24,100
+such as links to the course Participant&#39;s Guide
+
+21
+00:01:24,100 --> 00:01:26,963
+and Frequently Asked Questions.
+
+22
+00:01:27,820 --> 00:01:32,820
+Below, you will find links to your DHIS2 training instances
+
+23
+00:01:33,440 --> 00:01:35,933
+and links to the registration page.
+
+24
+00:01:37,200 --> 00:01:39,590
+On the bottom right-hand side,
+
+25
+00:01:39,590 --> 00:01:43,550
+you will find information about how to contact support
+
+26
+00:01:43,550 --> 00:01:46,150
+in case you need technical assistance,
+
+27
+00:01:46,150 --> 00:01:47,703
+or help with the course.
+
+28
+00:01:48,680 --> 00:01:50,200
+You can start learning
+
+29
+00:01:50,200 --> 00:01:53,023
+by selecting a unit from the course overview,
+
+30
+00:01:54,550 --> 00:01:57,870
+or by selecting the Start Course button
+
+31
+00:01:57,870 --> 00:01:59,763
+in the top right corner.
+
+32
+00:02:01,200 --> 00:02:03,470
+If you&#39;ve already begun the course,
+
+33
+00:02:03,470 --> 00:02:06,753
+you&#39;ll instead see the Resume Course button.
+
+34
+00:02:08,180 --> 00:02:09,420
+Each time you log in,
+
+35
+00:02:09,419 --> 00:02:12,793
+you&#39;ll come back to the subsection you were last in.
+
+36
+00:02:14,030 --> 00:02:16,040
+When you resume the course,
+
+37
+00:02:16,040 --> 00:02:20,050
+you will have the detailed course overview on the left
+
+38
+00:02:20,050 --> 00:02:21,803
+next to the learning material.
+
+39
+00:02:22,900 --> 00:02:25,170
+Know that each subsection,
+
+40
+00:02:25,170 --> 00:02:29,890
+such as unit 1.3 practical information
+
+41
+00:02:29,890 --> 00:02:32,340
+can contain several units each
+
+42
+00:02:32,340 --> 00:02:35,173
+represented by a tab on the top.
+
+43
+00:02:36,360 --> 00:02:40,853
+You can move between each of these by selecting the tab,
+
+44
+00:02:42,330 --> 00:02:45,850
+or simply by using the left and right arrows
+
+45
+00:02:45,850 --> 00:02:48,253
+to navigate between the pages.
+
+46
+00:02:49,660 --> 00:02:51,880
+At the end of each module,
+
+47
+00:02:51,880 --> 00:02:54,003
+you will find a feedback form.
+
+48
+00:02:55,180 --> 00:02:58,400
+We would love to know what you think of the course
+
+49
+00:02:58,400 --> 00:03:00,390
+so that we can use your feedback
+
+50
+00:03:00,390 --> 00:03:03,003
+to improve our future courses.
+
+51
+00:03:04,380 --> 00:03:06,920
+At the very top of the page,
+
+52
+00:03:06,920 --> 00:03:10,743
+you can find additional tabs related to your course.
+
+53
+00:03:11,830 --> 00:03:16,550
+In this instance, Course, Discussion,
+
+54
+00:03:16,550 --> 00:03:20,440
+Progress, Frequently Asked Questions,
+
+55
+00:03:20,440 --> 00:03:22,153
+and Participant&#39;s Guide.
+
+56
+00:03:23,030 --> 00:03:26,000
+We&#39;ve already explored the course panel,
+
+57
+00:03:26,000 --> 00:03:28,383
+so now let&#39;s look at the discussion panel.
+
+58
+00:03:29,360 --> 00:03:32,660
+Here, you can interact with your fellow learners
+
+59
+00:03:32,660 --> 00:03:34,573
+as well as your trainers.
+
+60
+00:03:35,490 --> 00:03:40,320
+You can create a new post by selecting Add a Post
+
+61
+00:03:40,320 --> 00:03:41,653
+in the top right.
+
+62
+00:03:42,900 --> 00:03:46,943
+First, choose if it&#39;s a discussion or a question,
+
+63
+00:03:48,100 --> 00:03:50,623
+and find a relevant topic area.
+
+64
+00:03:51,730 --> 00:03:54,293
+Now you are ready to write your question.
+
+65
+00:03:55,330 --> 00:03:58,933
+Make sure you include a descriptive title too.
+
+66
+00:03:59,830 --> 00:04:03,453
+When you are ready to post, select submit.
+
+67
+00:04:04,450 --> 00:04:07,070
+You can look at posts by other students
+
+68
+00:04:07,070 --> 00:04:11,293
+and facilitators by browsing in the left-hand box.
+
+69
+00:04:12,610 --> 00:04:14,370
+In the progress tab,
+
+70
+00:04:14,370 --> 00:04:17,973
+you can see how far you&#39;ve progressed through the course.
+
+71
+00:04:19,050 --> 00:04:20,670
+At the top of the page,
+
+72
+00:04:20,670 --> 00:04:24,160
+you&#39;ll see a bar chart that shows how well you&#39;ve done
+
+73
+00:04:24,160 --> 00:04:26,603
+in each of the graded activities.
+
+74
+00:04:27,690 --> 00:04:31,593
+And at the right of the chart, you can see a total amount.
+
+75
+00:04:32,440 --> 00:04:34,490
+In order to pass the course,
+
+76
+00:04:34,490 --> 00:04:37,533
+you&#39;ll need to get at least 80%.
+
+77
+00:04:38,890 --> 00:04:42,300
+If you scroll down, you can see an overview
+
+78
+00:04:42,300 --> 00:04:45,700
+of each of the modules and their sections,
+
+79
+00:04:45,700 --> 00:04:48,500
+as well as the scores that you&#39;ve achieved
+
+80
+00:04:48,500 --> 00:04:51,053
+for the activities in the sections.
+
+81
+00:04:52,200 --> 00:04:57,000
+And finally, the FAQ tab is where you can find answers
+
+82
+00:04:57,000 --> 00:04:59,490
+to the most common questions,
+
+83
+00:04:59,490 --> 00:05:03,593
+for example, about grading and getting course certificates.
+
+84
+00:05:04,520 --> 00:05:06,440
+And the Participant&#39;s Guide,
+
+85
+00:05:06,440 --> 00:05:09,400
+which gives a detailed overview of the course
+
+86
+00:05:09,400 --> 00:05:11,403
+and practical information.
+
+87
+00:05:12,590 --> 00:05:13,430
+And that&#39;s it.
+
+88
+00:05:13,430 --> 00:05:17,083
+We hope you enjoy this DHIS2 Academy course.
+
+89
+00:05:18,920 --> 00:05:22,170
+(bright ambient music)
+

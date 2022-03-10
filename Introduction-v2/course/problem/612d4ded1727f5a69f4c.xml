@@ -1,0 +1,17 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3>We can collect different types of data directly within DHIS2 (for example, aggregate data or anonymous individual-level data).  </h3></label>
+
+<choicegroup type="MultipleChoice">
+    <choice correct="true"><span style="font-size:16px;">A. True</span> </choice>
+    <choice correct="false"><span style="font-size:16px;">B. False</span> </choice>
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">DHIS2 can collect different types of data directly within the application. This includes aggregate data, event data (anonymous, individual-level data) and tracker data (identifiable, individual-level data).
+</p>
+    </div>
+  </solution>
+</problem>

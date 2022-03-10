@@ -1,0 +1,10 @@
+<video youtube="1.00:M23Eu1SX44E" url_name="bfeb579a3e564edf808044519dbf33ba" sub="" transcripts="{&quot;en&quot;: &quot;6c392596-7db1-4311-9619-e003465b6d6a-en.srt&quot;}" display_name="Introduction to DHIS2 – Where: Organisation Unit " download_track="true" download_video="true" edx_video_id="6c392596-7db1-4311-9619-e003465b6d6a" handout="/asset-v1:DHIS2+00001+2021Q2+type@asset+block@2.1.2_Where_Organisation_Units.pdf" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/2-1-2-Where-Organisation-Unit-hierarchies.mp4&quot;]" show_captions="false" youtube_id_1_0="M23Eu1SX44E">
+  <source src="https://academy.downloads.dhis2.org/Intro/Low-res/2-1-2-Where-Organisation-Unit-hierarchies.mp4"/>
+  <handout src="/asset-v1:DHIS2+00001+2021Q2+type@asset+block@2.1.2_Where_Organisation_Units.pdf"/>
+  <video_asset client_video_id="external video" duration="0.0" image="">
+    <transcripts>
+      <transcript file_format="srt" language_code="en" provider="Custom"/>
+    </transcripts>
+  </video_asset>
+  <transcript language="en" src="6c392596-7db1-4311-9619-e003465b6d6a-en.srt"/>
+</video>

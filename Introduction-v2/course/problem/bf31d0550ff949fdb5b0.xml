@@ -1,0 +1,17 @@
+<problem>
+<multiplechoiceresponse>
+  <label><h3>A Dashboard is a group of outputs that convey relevant information about a specific program.</h3></label>
+<choicegroup type="MultipleChoice">
+    <choice correct="true"><span style="font-size:16px;">A. True</span> </choice>
+  <choice correct="false"><span style="font-size:16px;">B. False</span> </choice>
+
+  </choicegroup>
+</multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">The Dashboard is a page where you will find a collection of various outputs, such as charts, maps, and pivot tables created within DHIS2.
+</p>
+    </div>
+  </solution>
+</problem>
