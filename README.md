@@ -1,8 +1,13 @@
 # DHIS2 fundamentals
 
-This repo is the working repo for DHIS2 Fundamentals. This includes:
+This repo is the working repo for all the DHIS2 Fundamentals. This includes:
 
-* the current [DHIS2 Fundamentals](https://studio.academy.dhis2.org/course/HISP/DHIS2_Level1/2015_Q1)
-* as well as the coming ][DHIS2 Fundamentals v1.1](https://studio.academy.dhis2.org/course/course-v1:HISP+D2EVENTS100+Q2_2020)
+* The newly released series of 4 self-paced courses in English:
+ * Introduction to DHIS2
+ * Aggregate Data Capture and Validation Fundamentals
+ * Aggregate Data Analysis Fundamentals
+ * Aggregate Customization Fundamentals
+ 
+* The soon to be published same series of 4 self-paced courses in **French**, **Spanish** and **Portuguese**.
 
-Questions? Please create an `issue`.
+Questions, comments, feedback? Please create an `issue`.
