@@ -1,0 +1,21 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>Organisation Units determine how the data can be aggregated and disaggregated along the geographical dimension.</h3>
+    </label>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">
+        <span style="font-size:16px;">A. True</span>
+      </choice>
+      <choice correct="false">
+        <span style="font-size:16px;">B. False </span>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;"> Organisation Units are one of the keystones of the DHIS2 system and as such are vital for many of its functions, such as data capture, data aggregation and disaggregation along the geographical dimensions.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,14 +1,24 @@
 <problem display_name="Question 1" markdown="null" weight="0.0">
- <multiplechoiceresponse>
-  <label><h3>DHIS2 is most similar to a:</h3></label>
-   <description>(Select 1 option)</description>
-<choicegroup type="MultipleChoice">
-  <choice correct="false"><span style="font-size:16px;">A. Data port</span></choice>
-    <choice correct="true"><span style="font-size:16px;">B. Data warehouse</span> </choice>
-    <choice correct="false"><span style="font-size:16px;">C. Data driveway</span> </choice>
-  <choice correct="false"><span style="font-size:16px;">D. Data highway </span></choice>
-  </choicegroup>
-</multiplechoiceresponse>
+  <multiplechoiceresponse>
+    <label>
+      <h3>DHIS2 is most similar to a:</h3>
+    </label>
+    <description>(Select 1 option)</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <span style="font-size:16px;">A. Data port</span>
+      </choice>
+      <choice correct="true">
+        <span style="font-size:16px;">B. Data warehouse</span>
+      </choice>
+      <choice correct="false">
+        <span style="font-size:16px;">C. Data driveway</span>
+      </choice>
+      <choice correct="false">
+        <span style="font-size:16px;">D. Data highway </span>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
   <solution>
     <div class="detailed-solution">
       <p style="font-size:16px;">Feedback</p>

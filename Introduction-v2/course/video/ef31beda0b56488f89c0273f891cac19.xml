@@ -1,10 +1,6 @@
-<video youtube="1.00:QbXKnly8P-0" url_name="ef31beda0b56488f89c0273f891cac19" sub="" transcripts="{&quot;en&quot;: &quot;051378c3-a157-4c68-a9e4-2311c483f515-en.srt&quot;}" display_name="Introduction to DHIS2 – Building blocks: Where, what, and when in DHIS2" download_track="true" download_video="true" edx_video_id="051378c3-a157-4c68-a9e4-2311c483f515" handout="/asset-v1:DHIS2+00001+2021Q2+type@asset+block@2.1.1_DHIS2_Building_blocks.pdf" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/2-1-1-Building-blocks-Where-what-and-when-in-DHIS2.mp4&quot;]" show_captions="true" youtube_id_1_0="QbXKnly8P-0">
+<video youtube="1.00:QbXKnly8P-0" url_name="ef31beda0b56488f89c0273f891cac19" transcripts="{&quot;en&quot;: &quot;051378c3-a157-4c68-a9e4-2311c483f515-en.srt&quot;}" display_name="Introduction to DHIS2 – Building blocks: Where, what, and when in DHIS2" download_track="true" download_video="true" edx_video_id="051378c3-a157-4c68-a9e4-2311c483f515" handout="/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block@2.1.1_DHIS2_Building_blocks.pdf" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/2-1-1-Building-blocks-Where-what-and-when-in-DHIS2.mp4&quot;]" youtube_id_0_75="" youtube_id_1_0="QbXKnly8P-0" youtube_id_1_25="" youtube_id_1_5="">
   <source src="https://academy.downloads.dhis2.org/Intro/Low-res/2-1-1-Building-blocks-Where-what-and-when-in-DHIS2.mp4"/>
-  <handout src="/asset-v1:DHIS2+00001+2021Q2+type@asset+block@2.1.1_DHIS2_Building_blocks.pdf"/>
-  <video_asset client_video_id="external video" duration="0.0" image="">
-    <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
-    </transcripts>
-  </video_asset>
+  <handout src="/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block@2.1.1_DHIS2_Building_blocks.pdf"/>
+  <video_asset client_video_id="external video" duration="0.0" image=""/>
   <transcript language="en" src="051378c3-a157-4c68-a9e4-2311c483f515-en.srt"/>
 </video>
