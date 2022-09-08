@@ -1,21 +1,31 @@
 <problem display_name="Question 1" markdown="null" weight="0.0">
-<choiceresponse>
-  <label><H3>What are the 3 types of data visualizations available in DHIS2? </H3></label>
-<description>(Select 3 options) </description>
-<checkboxgroup>
-    <choice correct="true"><span style="font-size:16px;">A. Pivot tables</span></choice>
-    <choice correct="false"><span style="font-size:16px;">B. Interpretations</span></choice>
-    <choice correct="True"><span style="font-size:16px;">C. Charts</span></choice>
-    <choice correct="False"><span style="font-size:16px;">D. Description</span></choice>
-    <choice correct="True"><span style="font-size:16px;">E. Maps</span></choice>
-  </checkboxgroup>
-</choiceresponse>
+  <choiceresponse>
+    <label>
+      <H3>What are the 3 types of data visualizations available in DHIS2? </H3>
+    </label>
+    <description>(Select 3 options) </description>
+    <checkboxgroup>
+      <choice correct="true">
+        <span style="font-size:16px;">A. Pivot tables</span>
+      </choice>
+      <choice correct="false">
+        <span style="font-size:16px;">B. Interpretations</span>
+      </choice>
+      <choice correct="True">
+        <span style="font-size:16px;">C. Charts</span>
+      </choice>
+      <choice correct="False">
+        <span style="font-size:16px;">D. Description</span>
+      </choice>
+      <choice correct="True">
+        <span style="font-size:16px;">E. Maps</span>
+      </choice>
+    </checkboxgroup>
+  </choiceresponse>
   <solution>
-<div class="detailed-solution">
-<p>Feedback</p>
-
-<p>The 3 data visualizations available in DHIS2 are Pivot tables, Charts, and Maps. These can be expanded upon using descriptions and interpretations.</p>
-
-</div>
+    <div class="detailed-solution">
+      <p>Feedback</p>
+      <p>The 3 data visualizations available in DHIS2 are Pivot tables, Charts, and Maps. These can be expanded upon using descriptions and interpretations.</p>
+    </div>
   </solution>
 </problem>

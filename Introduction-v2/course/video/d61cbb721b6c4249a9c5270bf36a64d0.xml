@@ -1,10 +1,6 @@
-<video youtube="1.00:OOe_L_M-DPk" url_name="d61cbb721b6c4249a9c5270bf36a64d0" sub="" transcripts="{&quot;en&quot;: &quot;b2c6c6de-1a57-4b0f-858f-755bb2753303-en.srt&quot;}" display_name="DHIS2 and HISP" download_track="true" download_video="true" edx_video_id="b2c6c6de-1a57-4b0f-858f-755bb2753303" handout="/asset-v1:DHIS2+00001+2021Q2+type@asset+block@3.2.1_DHIS2_and_HISP.pdf" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/3-2-1-DHIS2-and-HISP.mp4&quot;]" show_captions="true" youtube_id_1_0="OOe_L_M-DPk">
+<video youtube="1.00:bUNx9p1FJV4" url_name="d61cbb721b6c4249a9c5270bf36a64d0" transcripts="{&quot;en&quot;: &quot;b2c6c6de-1a57-4b0f-858f-755bb2753303-en.srt&quot;}" display_name="DHIS2 and HISP" download_track="true" download_video="true" edx_video_id="b2c6c6de-1a57-4b0f-858f-755bb2753303" handout="/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block@3.2.1_DHIS2_and_HISP.pdf" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/3-2-1-DHIS2-and-HISP.mp4&quot;]" show_captions="true" youtube_id_0_75="" youtube_id_1_0="bUNx9p1FJV4" youtube_id_1_25="" youtube_id_1_5="">
   <source src="https://academy.downloads.dhis2.org/Intro/Low-res/3-2-1-DHIS2-and-HISP.mp4"/>
-  <handout src="/asset-v1:DHIS2+00001+2021Q2+type@asset+block@3.2.1_DHIS2_and_HISP.pdf"/>
-  <video_asset client_video_id="external video" duration="0.0" image="">
-    <transcripts>
-      <transcript file_format="srt" language_code="en" provider="Custom"/>
-    </transcripts>
-  </video_asset>
+  <handout src="/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block@3.2.1_DHIS2_and_HISP.pdf"/>
+  <video_asset client_video_id="external video" duration="0.0" image=""/>
   <transcript language="en" src="b2c6c6de-1a57-4b0f-858f-755bb2753303-en.srt"/>
 </video>

@@ -1,21 +1,21 @@
-<library_content display_name="Module 1 Quiz" max_count="10" source_library_id="library-v1:HISP_UiO+D2101_Mod1" source_library_version="60fea830541276d1d57d943f">
-  <problem url_name="d201971076bb475a91e3"/>
-  <problem url_name="b50c29aadd4f1ee57ef1"/>
-  <problem url_name="612d4ded1727f5a69f4c"/>
-  <problem url_name="1940fdea887d2029b163"/>
-  <problem url_name="338f5da4980d37b48844"/>
-  <problem url_name="dac422e917adf6db34c0"/>
-  <problem url_name="437c854cfda0ab5d41c1"/>
-  <problem url_name="1ee4e73b0fee564944f8"/>
-  <problem url_name="32a407553f10e937a723"/>
-  <problem url_name="0d3c6ad374241bc4f82e"/>
-  <problem url_name="19dc7edc591f7deb4486"/>
-  <problem url_name="3ac61b528f634bb37502"/>
-  <problem url_name="1ecd25d5587a34b74092"/>
-  <problem url_name="ad8fe95d219b82159f20"/>
-  <problem url_name="29b57bf2f109bd2b7a2e"/>
-  <problem url_name="600bdc5e2b09654ee25f"/>
-  <problem url_name="bf31d0550ff949fdb5b0"/>
-  <problem url_name="0359bd4d61e0147d8005"/>
-  <problem url_name="bca2eb97f1a0e86fe5fe"/>
+<library_content display_name="Module 1 Quiz" max_count="10" source_library_id="library-v1:hisp+GEN-D001-M1Quiz-en" source_library_version="6262a65c4f5ce64f60743de9">
+  <problem url_name="56387bc8a6107dea9ad4"/>
+  <problem url_name="6152166369be1a30734b"/>
+  <problem url_name="ad63b1be4fca54253163"/>
+  <problem url_name="8aec19d74d8a45f802ce"/>
+  <problem url_name="cee86385fbad18df93f4"/>
+  <problem url_name="151ade908d6ed07a7e3a"/>
+  <problem url_name="4edbc32226f216d6692a"/>
+  <problem url_name="428708a20962695d5b80"/>
+  <problem url_name="1c60a4f2fd9c0006d000"/>
+  <problem url_name="870393df1e1bbad26b73"/>
+  <problem url_name="db7a4bbf9b722b3eb6bf"/>
+  <problem url_name="ee02135b3df37f6e08fc"/>
+  <problem url_name="f9989257240d2cffc8f1"/>
+  <problem url_name="855f0769bdb3be64fbd5"/>
+  <problem url_name="65da4f2849f6d8d5680d"/>
+  <problem url_name="0986240d9bd57c6d00ac"/>
+  <problem url_name="bf52137b95b9296bc13e"/>
+  <problem url_name="d546eda7f7169d1add73"/>
+  <problem url_name="36c1fbe4f7a29dd8a991"/>
 </library_content>

@@ -1,1 +1,8 @@
-<video youtube="1.00:kyOaU3bZUjg" url_name="af2f31ccbf274b658737a27c8c2d25c0" display_name="You are not alone " download_video="false" edx_video_id="" html5_sources="[]" youtube_id_1_0="kyOaU3bZUjg"/>
+<video youtube="1.00:kyOaU3bZUjg" url_name="af2f31ccbf274b658737a27c8c2d25c0" sub="" transcripts="{&quot;en&quot;: &quot;3a26a88b-5811-47bf-822d-7cede0307d35-en.srt&quot;}" license="creative-commons: ver=4.0 BY NC SA" display_name="You are not alone " download_track="false" download_video="true" edx_video_id="3a26a88b-5811-47bf-822d-7cede0307d35" html5_sources="[]" only_on_web="true" show_captions="true" youtube_id_1_0="kyOaU3bZUjg">
+  <video_asset client_video_id="External Video" duration="0.0" image="">
+    <transcripts>
+      <transcript file_format="srt" language_code="en" provider="Custom"/>
+    </transcripts>
+  </video_asset>
+  <transcript language="en" src="3a26a88b-5811-47bf-822d-7cede0307d35-en.srt"/>
+</video>

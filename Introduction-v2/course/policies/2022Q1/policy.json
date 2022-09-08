@@ -1,0 +1,122 @@
+{
+    "course/2022Q1": {
+        "advanced_modules": [
+            "poll",
+            "library_content",
+            "word_cloud",
+            "survey"
+        ],
+        "allow_anonymous": false,
+        "announcement": "2022-03-31T00:00:00Z",
+        "banner_image": "",
+        "catalog_visibility": "both",
+        "cert_html_view_enabled": true,
+        "certificates": {
+            "certificates": [
+                {
+                    "course_title": "",
+                    "description": "Description of the certificate",
+                    "editing": false,
+                    "id": 1578172681,
+                    "is_active": true,
+                    "name": "Name of the certificate",
+                    "signatories": [
+                        {
+                            "certificate": null,
+                            "id": 1093898607,
+                            "name": "Kristin Braa",
+                            "organization": "HISP Centre",
+                            "signature_image_path": "/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block@cert-signature-kristin-braa.png",
+                            "title": "Director of the HISP Centre"
+                        }
+                    ],
+                    "version": 1
+                }
+            ]
+        },
+        "certificates_display_behavior": "early_with_info",
+        "certificates_show_before_end": true,
+        "course_image": "Intro to dhis2 English.png",
+        "days_early_for_beta": 0.0,
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "display_name": "Introduction to DHIS2",
+        "display_organization": "HISP",
+        "end": null,
+        "enrollment_start": "2022-05-30T10:00:00Z",
+        "graceperiod": "",
+        "instructor_info": {
+            "instructors": []
+        },
+        "invitation_only": false,
+        "language": "en",
+        "learning_info": [],
+        "minimum_grade_credit": 0.8,
+        "mobile_available": true,
+        "self_paced": true,
+        "show_reset_button": true,
+        "showanswer": "attempted",
+        "start": "2022-05-30T21:30:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Home",
+                "type": "course_info"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "FAQs",
+                "type": "static_tab",
+                "url_slug": "b61a357c756b4feda88f1ef0b53b6cff"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Participant's Guide",
+                "type": "static_tab",
+                "url_slug": "e9ac6cda69dd4b30a7000d980722d15b"
+            },
+            {
+                "course_staff_only": true,
+                "name": "Need support?",
+                "type": "static_tab",
+                "url_slug": "9acd3eb11647477cb3b5ed2a75223706"
+            }
+        ],
+        "xml_attributes": {
+            "filename": [
+                "course/2022_q1.xml",
+                "course/2022_q1.xml"
+            ]
+        }
+    }
+}

@@ -1,9 +1,0 @@
-<course advanced_modules="[&quot;poll&quot;, &quot;library_content&quot;, &quot;word_cloud&quot;, &quot;survey&quot;]" allow_anonymous="false" catalog_visibility="none" cert_html_view_enabled="true" certificates_display_behavior="early_with_info" certificates_show_before_end="true" days_early_for_beta="60.0" display_name="Introduction to DHIS2" end="null" graceperiod="" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" minimum_grade_credit="0.8" mobile_available="true" self_paced="true" show_reset_button="true" showanswer="attempted" start="&quot;2030-12-31T00:00:00+00:00&quot;">
-  <chapter url_name="e4e1791fe0c84b27b3f8dd23e0549174"/>
-  <chapter url_name="af45b2cb7e1249969336a36a3e61b1f9"/>
-  <chapter url_name="63132deebd49453aa40d3ee4fca497c5"/>
-  <chapter url_name="99805ad1fb3747d7a6830d88b8f3c0d6"/>
-  <chapter url_name="b9331af195774cdcbaf88e760ff913e9"/>
-  <chapter url_name="c07e5fa8c4d34be3b39b3d0ff8c259d6"/>
-  <wiki slug="DHIS2.00001.2021Q2"/>
-</course>
