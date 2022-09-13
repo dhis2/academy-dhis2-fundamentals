@@ -1,0 +1,524 @@
+﻿1
+00:00:00,350 --> 00:00:02,933
+(mellow music)
+
+2
+00:00:14,270 --> 00:00:16,340
+- DHIS2 is a product
+
+3
+00:00:16,340 --> 00:00:20,633
+of the Health Information
+Systems Programme known as HISP.
+
+4
+00:00:21,893 --> 00:00:25,540
+HISP is a global action research network
+
+5
+00:00:25,540 --> 00:00:28,647
+initiated jointly by
+the University of Oslo
+
+6
+00:00:28,647 --> 00:00:31,210
+and the University of the Western Cape
+
+7
+00:00:31,210 --> 00:00:34,460
+in South Africa in 1994,
+
+8
+00:00:34,460 --> 00:00:37,520
+with funding from the Norwegian Agency
+
+9
+00:00:37,520 --> 00:00:40,753
+for Development Cooperation, Norad.
+
+10
+00:00:44,110 --> 00:00:47,190
+As a result of the HISP collaboration,
+
+11
+00:00:47,190 --> 00:00:51,510
+the District Health
+Information Software or DHIS,
+
+12
+00:00:51,510 --> 00:00:55,350
+was launched in South Africa in 1996,
+
+13
+00:00:55,350 --> 00:00:57,950
+starting in one district and becoming
+
+14
+00:00:57,950 --> 00:01:02,270
+their national standard health
+information system in 1999.
+
+15
+00:01:04,360 --> 00:01:06,430
+From its initial conception,
+
+16
+00:01:06,430 --> 00:01:11,430
+the core aim of DHIS2 has been
+to support local management
+
+17
+00:01:11,750 --> 00:01:14,980
+of healthcare delivery
+and information flow
+
+18
+00:01:14,980 --> 00:01:17,773
+in low and middle income countries.
+
+19
+00:01:19,400 --> 00:01:22,150
+To that end, we share our software,
+
+20
+00:01:22,150 --> 00:01:26,693
+DHIS2 globally as a digital public good.
+
+21
+00:01:27,810 --> 00:01:30,640
+The original DHIS software
+
+22
+00:01:30,640 --> 00:01:34,630
+functioned using local offline databases,
+
+23
+00:01:34,630 --> 00:01:37,990
+but this resulted in
+challenges in aggregating
+
+24
+00:01:37,990 --> 00:01:39,680
+and sharing data,
+
+25
+00:01:39,680 --> 00:01:43,623
+as well as scaling up
+implementations over time.
+
+26
+00:01:44,890 --> 00:01:47,750
+As a result, in 2004,
+
+27
+00:01:47,750 --> 00:01:51,130
+development of a web-based DHIS2
+
+28
+00:01:51,130 --> 00:01:54,830
+began at the University of Oslo.
+
+29
+00:01:54,830 --> 00:01:57,810
+As DHIS2 is web-based,
+
+30
+00:01:57,810 --> 00:02:01,060
+users can enter and access their data
+
+31
+00:02:01,060 --> 00:02:03,473
+anywhere with internet connectivity.
+
+32
+00:02:04,790 --> 00:02:08,390
+This model is still
+being expanded upon today
+
+33
+00:02:08,390 --> 00:02:13,390
+as DHIS2 incorporates the
+latest web-based technologies
+
+34
+00:02:13,660 --> 00:02:16,510
+to improve DHIS2's performance,
+
+35
+00:02:16,510 --> 00:02:19,880
+and increase its functionality.
+
+36
+00:02:19,880 --> 00:02:23,250
+This includes offline data entry for areas
+
+37
+00:02:23,250 --> 00:02:26,070
+with internet connectivity challenges,
+
+38
+00:02:26,070 --> 00:02:29,170
+and the incorporation
+of a mobile application
+
+39
+00:02:29,170 --> 00:02:31,143
+for Android devices.
+
+40
+00:02:32,600 --> 00:02:34,560
+The first implementation
+
+41
+00:02:34,560 --> 00:02:39,560
+of the web-based DHIS2
+software was launched in 2006
+
+42
+00:02:39,760 --> 00:02:41,583
+in Kerala, India.
+
+43
+00:02:42,870 --> 00:02:47,870
+In 2009, DHIS2 added
+components that allowed
+
+44
+00:02:48,060 --> 00:02:50,970
+for the collection of individual data.
+
+45
+00:02:50,970 --> 00:02:55,130
+This was in direct response
+to requirements in Kerala,
+
+46
+00:02:55,130 --> 00:02:57,400
+where prospective mothers were tracked
+
+47
+00:02:57,400 --> 00:03:00,660
+through their anti-natal care services.
+
+48
+00:03:00,660 --> 00:03:03,100
+This individual data model
+
+49
+00:03:03,100 --> 00:03:06,803
+eventually evolved into DHIS2 Tracker.
+
+50
+00:03:07,960 --> 00:03:12,960
+2007, saw the first
+implementation of DHIS2 in Africa,
+
+51
+00:03:13,970 --> 00:03:16,770
+starting with Sierra Leone.
+
+52
+00:03:16,770 --> 00:03:21,610
+This was followed in 2010
+by Kenya, then Ghana,
+
+53
+00:03:21,610 --> 00:03:23,513
+Rwanda and Uganda.
+
+54
+00:03:25,020 --> 00:03:30,020
+In 2011, the DHIS2 Academy
+training program began.
+
+55
+00:03:31,580 --> 00:03:36,210
+The University of Oslo in
+collaboration with HISP groups,
+
+56
+00:03:36,210 --> 00:03:40,280
+offers regional DHIS2 academies every year
+
+57
+00:03:40,280 --> 00:03:42,903
+on key DHIS2 topics.
+
+58
+00:03:43,740 --> 00:03:48,010
+Since 2017, the university has also run
+
+59
+00:03:48,010 --> 00:03:50,890
+the DHIS2 Online Academy,
+
+60
+00:03:50,890 --> 00:03:55,273
+which provides online courses
+for self-paced studying.
+
+61
+00:03:56,610 --> 00:04:01,610
+In 2012 and 2013, adoption of
+DHIS2 as a national platform
+
+62
+00:04:03,790 --> 00:04:08,270
+for routine health information
+continued in Africa,
+
+63
+00:04:08,270 --> 00:04:12,860
+Asia, and Latin America,
+was support from Norad,
+
+64
+00:04:12,860 --> 00:04:15,383
+the global fund and PEPFAR.
+
+65
+00:04:16,950 --> 00:04:21,950
+In 2014, the HISP network
+assisted health authorities
+
+66
+00:04:22,110 --> 00:04:26,300
+in Liberia in deploying DHIS2 Tracker
+
+67
+00:04:26,300 --> 00:04:29,360
+for the Ebola outbreak response.
+
+68
+00:04:29,360 --> 00:04:30,540
+With the support
+
+69
+00:04:30,540 --> 00:04:34,310
+of the U.S. Centers for
+Disease Control and Prevention,
+
+70
+00:04:34,310 --> 00:04:38,390
+the Gates Foundation,
+Gavi, and other partners,
+
+71
+00:04:38,390 --> 00:04:42,320
+the initial tracker models
+deployed in Liberia,
+
+72
+00:04:42,320 --> 00:04:46,720
+have since been expanded upon
+for case-based surveillance
+
+73
+00:04:46,720 --> 00:04:50,363
+of other diseases, including COVID-19.
+
+74
+00:04:51,675 --> 00:04:55,110
+In 2015, DATIM was launched,
+
+75
+00:04:55,110 --> 00:04:58,953
+a PEPFAR specific version of DHIS2.
+
+76
+00:04:58,953 --> 00:05:03,420
+DATIM is used by PEPFAR
+in more than 50 countries.
+
+77
+00:05:03,420 --> 00:05:07,001
+DATIM continues to be one
+of the largest examples
+
+78
+00:05:07,001 --> 00:05:11,370
+of a global data warehouse within DHIS2.
+
+79
+00:05:11,370 --> 00:05:16,210
+Sharing standards and
+collating subnational HIV data
+
+80
+00:05:16,210 --> 00:05:20,673
+routinely across large
+and varied geographies.
+
+81
+00:05:21,790 --> 00:05:26,790
+In 2007, UiO became an official
+World Health Organization
+
+82
+00:05:27,830 --> 00:05:30,500
+collaborating center for innovation
+
+83
+00:05:30,500 --> 00:05:32,490
+and implementation research
+
+84
+00:05:32,490 --> 00:05:35,463
+for health information
+system strengthening.
+
+85
+00:05:36,630 --> 00:05:40,913
+This collaboration led to
+the metadata package concept;
+
+86
+00:05:40,913 --> 00:05:44,480
+a method of sharing best
+practice configuration
+
+87
+00:05:44,480 --> 00:05:47,810
+and functionality developed by DHIS2
+
+88
+00:05:47,810 --> 00:05:50,793
+and health subject matter experts.
+
+89
+00:05:51,820 --> 00:05:56,820
+2018, saw the DHIS2
+community of practice launch,
+
+90
+00:05:57,410 --> 00:06:00,620
+providing an online portal
+to help the community
+
+91
+00:06:00,620 --> 00:06:04,730
+of DHIS2 practitioners to
+connect with each other
+
+92
+00:06:04,730 --> 00:06:07,563
+and share best practice globally.
+
+93
+00:06:08,660 --> 00:06:13,240
+2019, saw DHIS2 being piloted
+
+94
+00:06:13,240 --> 00:06:16,600
+as an Education Management
+Information System
+
+95
+00:06:16,600 --> 00:06:18,750
+in the Gambia and Uganda,
+
+96
+00:06:18,750 --> 00:06:23,170
+extending the use of DHIS2
+into the education domain
+
+97
+00:06:23,170 --> 00:06:25,890
+for school and infrastructure management,
+
+98
+00:06:25,890 --> 00:06:28,133
+student tracking and more.
+
+99
+00:06:29,462 --> 00:06:34,370
+In 2020, DHIS2 was quickly adopted
+
+100
+00:06:34,370 --> 00:06:37,710
+to combat the COVID-19 pandemic.
+
+101
+00:06:37,710 --> 00:06:41,760
+The University of Oslo
+worked with the HISP network
+
+102
+00:06:41,760 --> 00:06:45,500
+to launch COVID-19 metadata packages
+
+103
+00:06:45,500 --> 00:06:47,820
+that allowed countries to rapidly
+
+104
+00:06:47,820 --> 00:06:52,010
+implement case-based
+surveillance, contact tracing,
+
+105
+00:06:52,010 --> 00:06:54,563
+and ports of entry programs.
+
+106
+00:06:55,643 --> 00:07:00,470
+In 2021, new metadata
+packages were released
+
+107
+00:07:00,470 --> 00:07:04,560
+to support the delivery
+of COVID-19 vaccines,
+
+108
+00:07:04,560 --> 00:07:06,330
+based on previous work,
+
+109
+00:07:06,330 --> 00:07:10,230
+developing the DHIS2 immunization toolkit
+
+110
+00:07:10,230 --> 00:07:13,920
+with the support of WHO, UNICEF,
+
+111
+00:07:13,920 --> 00:07:16,343
+and Gavi, the Vaccine Alliance.
+
+112
+00:07:17,920 --> 00:07:20,880
+DHIS2 continues to evolve,
+
+113
+00:07:20,880 --> 00:07:25,880
+thanks to the work of the core
+DHIS2 team and HISP network.
+
+114
+00:07:26,140 --> 00:07:29,220
+The support of our international partners
+
+115
+00:07:29,220 --> 00:07:33,130
+and the input of the
+global DHIS2 community,
+
+116
+00:07:33,130 --> 00:07:37,930
+who helped sustain DHIS2
+as a global public good,
+
+117
+00:07:37,930 --> 00:07:41,630
+that can adapt to meet the
+health information needs
+
+118
+00:07:41,630 --> 00:07:42,463
+of the future.
+
+119
+00:07:43,585 --> 00:07:46,002
+(calm music)
+

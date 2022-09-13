@@ -1,0 +1,454 @@
+﻿1
+00:00:04,315 --> 00:00:06,085
+Utiliser la plateforme d'apprentissage
+
+2
+00:00:06,085 --> 00:00:07,476
+Introduction à DHIS2
+
+3
+00:00:13,520 --> 00:00:14,810
+- [Instructrice] Dans cette vidéo,
+
+4
+00:00:14,810 --> 00:00:17,750
+nous verrons comment vous
+pouvez naviguer dans votre cours
+
+5
+00:00:17,750 --> 00:00:20,740
+dans l'Académie en ligne DHIS2,
+
+6
+00:00:20,740 --> 00:00:23,220
+où vous accéderez à votre
+matériel d'apprentissage
+
+7
+00:00:23,220 --> 00:00:26,116
+afin que vous puissiez maîtriser DHIS2.
+
+8
+00:00:27,260 --> 00:00:29,610
+Une fois que vous vous
+êtes inscrit au cours
+
+9
+00:00:29,610 --> 00:00:32,670
+sur academy.dhis2.org,
+
+10
+00:00:32,670 --> 00:00:35,453
+vous verrez la liste des cours
+auxquels vous êtes inscrit.
+
+11
+00:00:36,440 --> 00:00:39,713
+Ensuite, sélectionnez
+un cours et lancez-le.
+
+12
+00:00:41,070 --> 00:00:44,210
+Vous serez accueilli
+avec la page du cours.
+
+13
+00:00:44,210 --> 00:00:48,053
+Sur la gauche, vous
+trouverez l'aperçu du cours.
+
+14
+00:00:48,900 --> 00:00:50,075
+Vous pouvez sélectionner
+
+15
+00:00:50,075 --> 00:00:52,740
+n'importe quel module pour le développer
+
+16
+00:00:52,740 --> 00:00:55,503
+afin d'afficher les
+sous-sections et les unités,
+
+17
+00:00:56,830 --> 00:00:59,880
+ou vous pouvez sélectionner
+Développer Tout
+
+18
+00:00:59,880 --> 00:01:03,123
+pour afficher le contenu
+détaillé en entier.
+
+19
+00:01:03,980 --> 00:01:07,620
+Sur le côté droit sous Outils du cours,
+
+20
+00:01:07,620 --> 00:01:11,760
+vous trouverez un lien vers
+les mises à jour du cours.
+
+21
+00:01:11,760 --> 00:01:13,680
+Assurez-vous de vérifier cela.
+
+22
+00:01:13,680 --> 00:01:15,593
+Il peut y avoir des nouvelles importantes.
+
+23
+00:01:16,800 --> 00:01:20,580
+En dessous, vous trouverez
+tous les liens utiles,
+
+24
+00:01:20,580 --> 00:01:24,100
+tels que des liens vers
+le guide du participant
+
+25
+00:01:24,100 --> 00:01:26,963
+et la foire aux questions.
+
+26
+00:01:27,820 --> 00:01:30,420
+Ci-dessous, vous trouverez des liens
+
+27
+00:01:30,420 --> 00:01:33,440
+vers vos instances de formation DHIS2
+
+28
+00:01:33,440 --> 00:01:35,933
+et des liens vers la page d'inscription.
+
+29
+00:01:37,200 --> 00:01:39,590
+En bas à droite,
+
+30
+00:01:39,590 --> 00:01:41,490
+vous trouverez des informations
+
+31
+00:01:41,490 --> 00:01:43,550
+sur la façon de contacter l'assistance
+
+32
+00:01:43,550 --> 00:01:46,150
+au cas où vous auriez besoin
+d'une assistance technique
+
+33
+00:01:46,150 --> 00:01:47,703
+ou d'une aide pour le cours.
+
+34
+00:01:48,680 --> 00:01:50,283
+Vous pouvez commencer à apprendre
+
+35
+00:01:50,283 --> 00:01:54,550
+en sélectionnant une unité
+dans l'aperçu du cours
+
+36
+00:01:54,550 --> 00:01:57,870
+ou en sélectionnant le
+bouton Commencer le Cours
+
+37
+00:01:57,870 --> 00:01:59,763
+dans le coin supérieur droit.
+
+38
+00:02:01,200 --> 00:02:03,470
+Si vous avez déjà commencé le cours,
+
+39
+00:02:03,470 --> 00:02:06,753
+vous verrez à la place le
+bouton Reprendre le Cours.
+
+40
+00:02:08,180 --> 00:02:09,420
+Chaque fois que vous vous connectez,
+
+41
+00:02:09,420 --> 00:02:11,503
+vous revenez à la sous-section
+
+42
+00:02:11,503 --> 00:02:14,030
+dans laquelle vous étiez en dernier.
+
+43
+00:02:14,030 --> 00:02:16,040
+Lorsque vous reprenez le cours,
+
+44
+00:02:16,040 --> 00:02:20,050
+vous aurez l'aperçu détaillé
+du cours sur la gauche
+
+45
+00:02:20,050 --> 00:02:21,803
+à côté du matériel d'apprentissage.
+
+46
+00:02:22,900 --> 00:02:25,170
+Sachez que chaque sous-section,
+
+47
+00:02:25,170 --> 00:02:29,890
+comme l'unité 1.3 Informations Pratiques
+
+48
+00:02:29,890 --> 00:02:32,340
+peut contenir plusieurs unités
+
+49
+00:02:32,340 --> 00:02:35,173
+représentées chacune
+par un onglet en haut.
+
+50
+00:02:36,360 --> 00:02:39,001
+Vous pouvez vous déplacer
+entre chacun d'eux
+
+51
+00:02:39,001 --> 00:02:40,910
+en sélectionnant l'onglet,
+
+52
+00:02:42,330 --> 00:02:45,850
+ou simplement en utilisant
+les flèches gauche et droite
+
+53
+00:02:45,850 --> 00:02:48,253
+pour naviguer entre les pages.
+
+54
+00:02:49,660 --> 00:02:51,880
+À la fin de chaque module,
+
+55
+00:02:51,880 --> 00:02:54,003
+vous trouverez un
+formulaire de rétroaction.
+
+56
+00:02:55,180 --> 00:02:58,400
+Nous aimerions savoir ce
+que vous pensez du cours
+
+57
+00:02:58,400 --> 00:03:00,390
+afin que nous puissions
+utiliser vos commentaires
+
+58
+00:03:00,390 --> 00:03:03,003
+pour améliorer nos futurs cours.
+
+59
+00:03:04,380 --> 00:03:06,920
+Tout en haut de la page,
+
+60
+00:03:06,920 --> 00:03:09,511
+vous pouvez trouver des
+onglets supplémentaires
+
+61
+00:03:09,511 --> 00:03:11,830
+liés à votre cours.
+
+62
+00:03:11,830 --> 00:03:16,550
+Dans ce cas :
+Cours, Discussion,
+
+63
+00:03:16,550 --> 00:03:20,440
+Progression, Foire aux questions
+
+64
+00:03:20,440 --> 00:03:22,153
+et Guide du participant.
+
+65
+00:03:23,030 --> 00:03:26,000
+Nous avons déjà exploré
+le panneau de cours,
+
+66
+00:03:26,000 --> 00:03:28,383
+alors regardons maintenant
+le panneau de discussion.
+
+67
+00:03:29,360 --> 00:03:32,660
+Ici, vous pouvez interagir
+avec vos collègues apprenants
+
+68
+00:03:32,660 --> 00:03:34,573
+ainsi qu'avec vos formateurs.
+
+69
+00:03:35,490 --> 00:03:39,187
+Vous pouvez créer une nouvelle
+publication en sélectionnant
+
+70
+00:03:39,187 --> 00:03:41,462
+Ajouter une publication
+situé en haut à droite.
+
+71
+00:03:42,900 --> 00:03:44,966
+Tout d'abord, choisissez s'il s'agit
+
+72
+00:03:44,966 --> 00:03:48,100
+d'une discussion ou d'une question,
+
+73
+00:03:48,100 --> 00:03:50,623
+et trouvez un sujet pertinent.
+
+74
+00:03:51,730 --> 00:03:54,293
+Vous êtes maintenant prêt
+à rédiger votre question.
+
+75
+00:03:55,330 --> 00:03:58,933
+Assurez-vous également
+d'inclure un titre descriptif.
+
+76
+00:03:59,830 --> 00:04:03,453
+Lorsque vous êtes prêt à
+publier, sélectionnez soumettre.
+
+77
+00:04:04,450 --> 00:04:07,070
+Vous pouvez consulter les
+publications d'autres étudiants
+
+78
+00:04:07,070 --> 00:04:11,293
+et animateurs en parcourant
+la zone de gauche.
+
+79
+00:04:12,610 --> 00:04:14,370
+Dans l'onglet de progression,
+
+80
+00:04:14,370 --> 00:04:16,428
+vous pouvez voir à quel point
+
+81
+00:04:16,428 --> 00:04:19,050
+vous avez progressé dans le cours.
+
+82
+00:04:19,050 --> 00:04:20,670
+En haut de la page,
+
+83
+00:04:20,670 --> 00:04:22,453
+vous verrez un graphique à barres
+
+84
+00:04:22,453 --> 00:04:24,160
+qui montre à quel point vous avez réussi
+
+85
+00:04:24,160 --> 00:04:26,603
+dans chacune des activités notées.
+
+86
+00:04:27,690 --> 00:04:31,593
+Et à droite du graphique, vous
+pouvez voir un montant total.
+
+87
+00:04:32,440 --> 00:04:34,490
+Pour réussir le cours,
+
+88
+00:04:34,490 --> 00:04:37,533
+vous devrez obtenir au moins 80%.
+
+89
+00:04:38,890 --> 00:04:40,598
+Si vous faites défiler vers le bas,
+
+90
+00:04:40,598 --> 00:04:42,307
+vous pouvez voir un aperçu
+
+91
+00:04:42,307 --> 00:04:45,700
+de chacun des modules
+et de leurs sections,
+
+92
+00:04:45,700 --> 00:04:48,500
+ainsi que les notes que vous avez obtenus
+
+93
+00:04:48,500 --> 00:04:51,053
+pour les activités dans les sections.
+
+94
+00:04:52,200 --> 00:04:55,608
+Et enfin, l'onglet FAQ est l'endroit
+
+95
+00:04:55,608 --> 00:04:57,025
+où vous pouvez trouver des réponses
+
+96
+00:04:57,025 --> 00:04:59,490
+aux questions les plus courantes,
+
+97
+00:04:59,490 --> 00:05:01,648
+par exemple sur la notation
+
+98
+00:05:01,648 --> 00:05:04,520
+et l'obtention de certificats de cours.
+
+99
+00:05:04,520 --> 00:05:06,440
+Et le Guide du participant,
+
+100
+00:05:06,440 --> 00:05:09,400
+qui donne un aperçu détaillé du cours
+
+101
+00:05:09,400 --> 00:05:11,403
+et des informations pratiques.
+
+102
+00:05:12,590 --> 00:05:13,507
+Et c'est tout.
+
+103
+00:05:13,507 --> 00:05:14,755
+Nous espérons que vous apprécierez
+
+104
+00:05:14,755 --> 00:05:17,387
+ce cours de l'académie DHIS2.
+

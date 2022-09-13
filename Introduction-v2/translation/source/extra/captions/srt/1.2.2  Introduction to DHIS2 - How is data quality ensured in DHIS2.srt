@@ -1,0 +1,392 @@
+﻿1
+00:00:00,961 --> 00:00:03,544
+(smooth music)
+
+2
+00:00:14,340 --> 00:00:17,320
+- [Instructor] Once we have
+data entered into the platform,
+
+3
+00:00:17,320 --> 00:00:20,903
+how can we check the data's
+accuracy and reliability?
+
+4
+00:00:22,170 --> 00:00:25,640
+In this video, we will
+explore several tools
+
+5
+00:00:25,640 --> 00:00:30,360
+in the DHIS2 data quality app
+that will help us to review
+
+6
+00:00:30,360 --> 00:00:33,093
+and improve the quality of our data.
+
+7
+00:00:36,090 --> 00:00:39,030
+First, in the data quality app,
+
+8
+00:00:39,030 --> 00:00:42,170
+you can run a validation rule analysis
+
+9
+00:00:42,170 --> 00:00:44,850
+which tests validation rules
+
+10
+00:00:44,850 --> 00:00:47,783
+against the data registered in the system.
+
+11
+00:00:50,400 --> 00:00:53,680
+After running the check,
+you will get a report
+
+12
+00:00:53,680 --> 00:00:57,240
+with a list of data
+that need to be checked.
+
+13
+00:00:57,240 --> 00:01:01,100
+For example, if we look at the first row,
+
+14
+00:01:01,100 --> 00:01:05,040
+our validation rule says
+that the value of registered
+
+15
+00:01:05,040 --> 00:01:09,630
+for the third anti-natal
+care visit, or ANC,
+
+16
+00:01:09,630 --> 00:01:11,000
+can not be higher
+
+17
+00:01:11,000 --> 00:01:15,350
+than the value registered
+for the second ANC visit.
+
+18
+00:01:15,350 --> 00:01:19,760
+But the value registered for ANC3 is six,
+
+19
+00:01:19,760 --> 00:01:23,580
+while the value for ANC2 is four.
+
+20
+00:01:23,580 --> 00:01:26,090
+We can follow up with this location
+
+21
+00:01:26,090 --> 00:01:29,870
+to determine the specific
+source of the error.
+
+22
+00:01:29,870 --> 00:01:34,080
+Note that you can also run
+the validation rule analysis
+
+23
+00:01:34,080 --> 00:01:36,593
+during the data entry process.
+
+24
+00:01:38,440 --> 00:01:41,770
+The standard deviation outlier analysis
+
+25
+00:01:41,770 --> 00:01:46,360
+is another tool we can
+use to check data quality,
+
+26
+00:01:46,360 --> 00:01:50,910
+identifying those values
+that are potential outliers
+
+27
+00:01:50,910 --> 00:01:54,470
+when compared to the
+standard normal distribution
+
+28
+00:01:54,470 --> 00:01:56,453
+of the data under review.
+
+29
+00:01:57,810 --> 00:02:01,170
+Like in the validation rule analysis,
+
+30
+00:02:01,170 --> 00:02:05,360
+when we run a standard
+deviation outlier analysis,
+
+31
+00:02:05,360 --> 00:02:09,820
+we get a report with all the
+data that need to be checked.
+
+32
+00:02:09,820 --> 00:02:12,160
+For example, in this row,
+
+33
+00:02:12,160 --> 00:02:17,160
+the data indicate that only
+five BCG vaccines were given
+
+34
+00:02:17,270 --> 00:02:19,260
+in this health facility.
+
+35
+00:02:19,260 --> 00:02:21,080
+This value of five
+
+36
+00:02:21,080 --> 00:02:25,660
+falls outside the normal
+distribution of these data,
+
+37
+00:02:25,660 --> 00:02:29,903
+and it has been identified as
+a potential source of error.
+
+38
+00:02:31,720 --> 00:02:36,250
+Another tool is the
+min-max outlier analysis,
+
+39
+00:02:36,250 --> 00:02:40,320
+which checks if the data are
+within a predefined range
+
+40
+00:02:40,320 --> 00:02:42,133
+that has been specified for them.
+
+41
+00:02:44,470 --> 00:02:49,470
+This lists the values that are
+out of this predefined range.
+
+42
+00:02:49,480 --> 00:02:51,720
+We can see in the example,
+
+43
+00:02:51,720 --> 00:02:56,720
+a value of 45 AEFI suspected cases,
+
+44
+00:02:57,610 --> 00:03:00,050
+which is out of the range
+
+45
+00:03:00,050 --> 00:03:04,133
+of a minimum of zero to a maximum of 22.
+
+46
+00:03:05,930 --> 00:03:10,800
+The fourth and last tool
+available in the data quality app
+
+47
+00:03:10,800 --> 00:03:13,760
+is the follow-up analysis tool.
+
+48
+00:03:13,760 --> 00:03:18,320
+Follow-up analysis creates
+a list of all data values
+
+49
+00:03:18,320 --> 00:03:20,113
+marked for follow-up.
+
+50
+00:03:22,570 --> 00:03:27,450
+We can mark a data value for
+follow-up in the data entry app
+
+51
+00:03:27,450 --> 00:03:29,610
+and the data quality app
+
+52
+00:03:29,610 --> 00:03:33,810
+via the reports from the
+standard deviation outlier
+
+53
+00:03:33,810 --> 00:03:37,483
+and min-max outlier analysis tools.
+
+54
+00:03:38,760 --> 00:03:41,780
+This is an example of the report obtained
+
+55
+00:03:41,780 --> 00:03:45,473
+after running followup analysis in DHIS2.
+
+56
+00:03:47,580 --> 00:03:50,080
+In coordination with WHO,
+
+57
+00:03:50,080 --> 00:03:54,790
+a data quality tool for
+DHIS2 has been created.
+
+58
+00:03:54,790 --> 00:03:58,740
+This app generates
+findings on data quality
+
+59
+00:03:58,740 --> 00:04:03,463
+following WHO's data
+quality review framework.
+
+60
+00:04:05,600 --> 00:04:07,800
+This includes completeness.
+
+61
+00:04:07,800 --> 00:04:11,920
+That is, if all the
+expected data are recorded,
+
+62
+00:04:11,920 --> 00:04:16,870
+timeliness, or if the data
+were received on time,
+
+63
+00:04:16,870 --> 00:04:19,240
+internal consistency,
+
+64
+00:04:19,240 --> 00:04:23,720
+which compares internally
+submitted data with one another,
+
+65
+00:04:23,720 --> 00:04:26,150
+and external consistency,
+
+66
+00:04:26,150 --> 00:04:30,703
+which compares the data with
+other sources, such as surveys.
+
+67
+00:04:33,283 --> 00:04:37,537
+As an example, we can
+review internal consistency.
+
+68
+00:04:39,660 --> 00:04:42,660
+The WHO data quality tool
+
+69
+00:04:42,660 --> 00:04:47,320
+allows us to identify
+outliers within our data.
+
+70
+00:04:47,320 --> 00:04:51,470
+We can see an example
+of this in District C-1,
+
+71
+00:04:51,470 --> 00:04:56,070
+where the number of measles
+vaccines given in January, 2020
+
+72
+00:04:56,980 --> 00:05:01,550
+is much higher in comparison
+to the other values reported
+
+73
+00:05:01,550 --> 00:05:05,100
+within the same district in the same year.
+
+74
+00:05:08,050 --> 00:05:10,250
+This helps us easily visualize
+
+75
+00:05:10,250 --> 00:05:12,850
+what data need to be double-checked
+
+76
+00:05:12,850 --> 00:05:15,593
+before running any analysis.
+
+77
+00:05:16,730 --> 00:05:19,720
+In summary, in DHIS2,
+
+78
+00:05:19,720 --> 00:05:21,240
+there are several tools
+
+79
+00:05:21,240 --> 00:05:25,170
+that help us to check the
+quality of the data entered,
+
+80
+00:05:25,170 --> 00:05:28,330
+such as validation rules,
+
+81
+00:05:28,330 --> 00:05:32,530
+standard deviation outlier analysis,
+
+82
+00:05:32,530 --> 00:05:36,260
+minimum-maximum outlier analysis,
+
+83
+00:05:36,260 --> 00:05:38,731
+and follow up analysis.
+
+84
+00:05:38,731 --> 00:05:43,130
+DHIS2 and WHO have also collaborated
+
+85
+00:05:43,130 --> 00:05:45,710
+to create a data quality tool
+
+86
+00:05:45,710 --> 00:05:49,450
+that runs checks to validate completeness,
+
+87
+00:05:49,450 --> 00:05:54,450
+timeliness, internal consistency,
+and external consistency.
+
+88
+00:05:55,783 --> 00:05:58,366
+(smooth music)
+

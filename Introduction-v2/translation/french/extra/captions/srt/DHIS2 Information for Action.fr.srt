@@ -1,0 +1,571 @@
+﻿1
+00:00:02,180 --> 00:00:03,810
+- [Narrateur] Dans un
+petit village d'Afrique,
+
+2
+00:00:03,810 --> 00:00:05,660
+un agent de santé communautaire administre
+
+3
+00:00:05,660 --> 00:00:07,513
+la première vaccination d'un patient.
+
+4
+00:00:08,870 --> 00:00:11,310
+Dans une colonie isolée,
+le traitement arrive
+
+5
+00:00:11,310 --> 00:00:13,813
+juste au moment où une épidémie
+commence à se propager.
+
+6
+00:00:15,920 --> 00:00:18,045
+Dans une région rurale
+d'Asie, une sage-femme donne
+
+7
+00:00:18,045 --> 00:00:19,480
+des informations vitales sur la nutrition
+
+8
+00:00:19,480 --> 00:00:21,880
+et la santé à une future mère.
+
+9
+00:00:22,730 --> 00:00:25,130
+Au Moyen-Orient, des
+agents de santé fournissent
+
+10
+00:00:25,130 --> 00:00:27,133
+des soins médicaux dans
+des camps de réfugiés.
+
+11
+00:00:28,550 --> 00:00:31,880
+De tels moments sauvent des
+vies, mais leur coordination
+
+12
+00:00:31,880 --> 00:00:34,920
+à l'échelle nationale ou mondiale
+nécessite des ressources,
+
+13
+00:00:34,920 --> 00:00:37,563
+une planification et,
+surtout, des informations.
+
+14
+00:00:39,300 --> 00:00:41,291
+Comment s'assurer que les bonnes données
+
+15
+00:00:41,291 --> 00:00:42,360
+sont saisies, analysées
+
+16
+00:00:42,360 --> 00:00:44,626
+et mises à disposition pour éclairer
+
+17
+00:00:44,626 --> 00:00:46,026
+les décisions qui ont un impact ?
+
+18
+00:00:47,830 --> 00:00:49,453
+DHIS2 peut vous aider.
+
+19
+00:00:54,320 --> 00:00:57,310
+Le DHIS2 rassemble une
+grande variété de données
+
+20
+00:00:57,310 --> 00:00:59,676
+provenant d'un grand nombre de sources
+
+21
+00:00:59,676 --> 00:01:01,060
+dans un système central,
+
+22
+00:01:01,060 --> 00:01:02,893
+permettant une meilleure planification,
+
+23
+00:01:02,893 --> 00:01:04,290
+un meilleur partage de l'information
+
+24
+00:01:04,290 --> 00:01:07,070
+et une meilleure prise de
+décision à tous les niveaux.
+
+25
+00:01:07,070 --> 00:01:09,070
+Du ministre de la santé
+aux responsables régionaux
+
+26
+00:01:09,070 --> 00:01:11,303
+et de district, en
+passant par le personnel
+
+27
+00:01:11,303 --> 00:01:12,350
+médical sur le terrain,
+
+28
+00:01:12,350 --> 00:01:13,760
+chacun peut utiliser ces informations
+
+29
+00:01:13,760 --> 00:01:16,230
+pour avoir un impact sur la vie des gens.
+
+30
+00:01:16,230 --> 00:01:18,155
+Nous vous montrerons comment le DHIS2
+
+31
+00:01:18,155 --> 00:01:19,280
+capture des informations,
+
+32
+00:01:19,280 --> 00:01:22,360
+même à partir des sites hors
+ligne les plus éloignés,
+
+33
+00:01:22,360 --> 00:01:25,480
+tout en facilitant la soumission
+de formulaires standard
+
+34
+00:01:25,480 --> 00:01:27,621
+et de rapports agrégés,
+et vous verrez comment
+
+35
+00:01:27,621 --> 00:01:29,310
+les données capturées
+
+36
+00:01:29,310 --> 00:01:32,040
+sont examinées, analysées et partagées,
+
+37
+00:01:32,040 --> 00:01:35,270
+le tout à partir d'une
+plateforme opensource unique.
+
+38
+00:01:35,270 --> 00:01:38,080
+Voyons un exemple de DHIS2 en action.
+
+39
+00:01:38,080 --> 00:01:39,480
+Le ministère de la santé a planifié
+
+40
+00:01:39,480 --> 00:01:42,400
+une campagne de vaccination
+à l'échelle nationale.
+
+41
+00:01:42,400 --> 00:01:45,290
+Dans chaque centre de santé
+communautaire du pays,
+
+42
+00:01:45,290 --> 00:01:47,890
+des milliers de personnes
+seront vaccinées.
+
+43
+00:01:47,890 --> 00:01:49,615
+Avant la fermeture de chaque centre,
+
+44
+00:01:49,615 --> 00:01:50,910
+un agent de santé communautaire
+
+45
+00:01:50,910 --> 00:01:54,030
+utilise sa tablette pour
+saisir les doses administrées.
+
+46
+00:01:54,030 --> 00:01:55,755
+Lorsque l'internet est disponible,
+
+47
+00:01:55,755 --> 00:01:56,590
+l'agent de santé en est informé
+
+48
+00:01:56,590 --> 00:01:58,781
+et les données sont envoyées à la base
+
+49
+00:01:58,781 --> 00:02:00,430
+de données centrale DHIS2.
+
+50
+00:02:00,430 --> 00:02:02,513
+Depuis son bureau en ville, la responsable
+
+51
+00:02:02,513 --> 00:02:03,640
+régionale de la santé
+
+52
+00:02:03,640 --> 00:02:05,656
+peut voir, en un coup d'œil, combien
+
+53
+00:02:05,656 --> 00:02:07,020
+de vaccins ont été administrés
+
+54
+00:02:07,020 --> 00:02:09,070
+dans chaque communauté et le taux
+
+55
+00:02:09,070 --> 00:02:10,630
+de vaccination de sa région.
+
+56
+00:02:10,630 --> 00:02:13,640
+Et au ministère de la santé,
+les tableaux de bord de DHIS2
+
+57
+00:02:13,640 --> 00:02:16,840
+mesurent les progrès de la
+campagne et mettent en évidence
+
+58
+00:02:16,840 --> 00:02:18,690
+les points préoccupants
+qui doivent être traités.
+
+59
+00:02:19,870 --> 00:02:22,710
+Voyons maintenant comment
+DHIS2 peut aider à répondre
+
+60
+00:02:22,710 --> 00:02:24,273
+aux épidémies.
+
+61
+00:02:25,240 --> 00:02:29,950
+Une carte nationale DHIS2
+montre une augmentation
+
+62
+00:02:29,950 --> 00:02:32,660
+des cas signalés d'un virus
+potentiellement mortel.
+
+63
+00:02:32,660 --> 00:02:34,830
+Des agents de santé sont
+dépêchés dans le village isolé
+
+64
+00:02:34,830 --> 00:02:37,930
+au centre de l'épidémie,
+mais sans accès à Internet,
+
+65
+00:02:37,930 --> 00:02:40,590
+comment pourront-ils transmettre
+les nouvelles données
+
+66
+00:02:40,590 --> 00:02:42,870
+pour mettre à jour les
+autorités nationales ?
+
+67
+00:02:42,870 --> 00:02:46,160
+Avec le DHIS2, le personnel
+d'urgence peut compter
+
+68
+00:02:46,160 --> 00:02:48,810
+le nombre de foyers et d'individus touchés
+
+69
+00:02:48,810 --> 00:02:52,593
+par la maladie et envoyer les
+données directement par SMS.
+
+70
+00:02:53,480 --> 00:02:56,630
+Au ministère de la santé,
+le coordinateur de l'urgence
+
+71
+00:02:56,630 --> 00:02:59,121
+peut suivre l'évolution
+de l'épidémie à l'aide
+
+72
+00:02:59,121 --> 00:03:01,360
+de son tableau de bord DHIS2
+
+73
+00:03:01,360 --> 00:03:03,963
+et décider des mesures de suivi à prendre.
+
+74
+00:03:04,830 --> 00:03:07,770
+En réalité, des millions d'enregistrements
+
+75
+00:03:07,770 --> 00:03:08,603
+et des milliers d'ensembles de données
+
+76
+00:03:08,603 --> 00:03:10,660
+peuvent être saisis et envoyés
+
+77
+00:03:10,660 --> 00:03:12,883
+à une seule base de données DHIS2.
+
+78
+00:03:13,990 --> 00:03:15,970
+Les formulaires papier ont leurs limites.
+
+79
+00:03:15,970 --> 00:03:18,120
+DHIS2 permet de collecter facilement
+
+80
+00:03:18,120 --> 00:03:19,680
+les mêmes ensembles de données
+
+81
+00:03:19,680 --> 00:03:22,088
+sur les téléphones et tablettes Android,
+
+82
+00:03:22,088 --> 00:03:24,190
+et les ordinateurs de bureau,
+
+83
+00:03:24,190 --> 00:03:27,790
+et même de soumettre des
+données limitées par SMS.
+
+84
+00:03:27,790 --> 00:03:29,848
+Les données soumises à DHIS2 sont
+
+85
+00:03:29,848 --> 00:03:31,520
+instantanément sauvegardées
+
+86
+00:03:31,520 --> 00:03:33,736
+et peuvent être accessibles
+depuis n'importe
+
+87
+00:03:33,736 --> 00:03:35,200
+quel appareil connecté.
+
+88
+00:03:35,200 --> 00:03:37,141
+Le DHIS2 permet de collecter
+des données même dans
+
+89
+00:03:37,141 --> 00:03:39,660
+les environnements les plus éloignés
+
+90
+00:03:39,660 --> 00:03:41,920
+et les plus fragiles, où l'internet
+
+91
+00:03:41,920 --> 00:03:44,083
+et l'électricité peuvent
+ne pas être fiables.
+
+92
+00:03:45,640 --> 00:03:48,300
+La prise de décisions importantes
+ne dépend pas seulement
+
+93
+00:03:48,300 --> 00:03:50,308
+de la rapidité avec laquelle
+les données sont disponibles,
+
+94
+00:03:50,308 --> 00:03:52,033
+elle dépend aussi de la qualité
+
+95
+00:03:52,033 --> 00:03:53,730
+des informations disponibles.
+
+96
+00:03:53,730 --> 00:03:56,421
+Le DHIS2 possède de nombreuses
+fonctions de qualité
+
+97
+00:03:56,421 --> 00:03:57,500
+des données qui permettent de s'assurer
+
+98
+00:03:57,500 --> 00:03:59,700
+que les données sont exactes
+avant qu'elles ne soient
+
+99
+00:03:59,700 --> 00:04:01,350
+utilisées pour prendre une décision.
+
+100
+00:04:01,350 --> 00:04:04,110
+Ces fonctions permettent
+notamment de valider les données,
+
+101
+00:04:04,110 --> 00:04:05,970
+d'identifier les entrées en double
+
+102
+00:04:05,970 --> 00:04:09,100
+et de signaler les valeurs
+anormales pour examen.
+
+103
+00:04:09,100 --> 00:04:10,807
+Les responsables peuvent voir une piste
+
+104
+00:04:10,807 --> 00:04:11,640
+d'audit de toutes les entrées
+
+105
+00:04:11,640 --> 00:04:14,293
+et modifications et examiner
+les rapports de synthèse.
+
+106
+00:04:15,770 --> 00:04:17,286
+Une fois les données validées,
+
+107
+00:04:17,286 --> 00:04:20,060
+elles sont prêtes à être analysées.
+
+108
+00:04:20,060 --> 00:04:22,126
+Grâce à DHIS2, les équipes peuvent
+
+109
+00:04:22,126 --> 00:04:23,137
+donner un sens aux données
+
+110
+00:04:23,137 --> 00:04:25,287
+en créant des visualisations telles que
+
+111
+00:04:25,287 --> 00:04:26,550
+des graphiques, des tableaux
+
+112
+00:04:26,550 --> 00:04:29,150
+et des cartes, et utiliser
+des filtres pour accéder
+
+113
+00:04:29,150 --> 00:04:31,540
+aux informations les plus importantes.
+
+114
+00:04:31,540 --> 00:04:33,398
+Elles peuvent même créer des
+tableaux de bord personnalisés
+
+115
+00:04:33,398 --> 00:04:34,730
+qui peuvent être partagés
+
+116
+00:04:34,730 --> 00:04:37,238
+avec d'autres membres
+de l'équipe à des fins
+
+117
+00:04:37,238 --> 00:04:39,196
+de discussion et de prise de décision.
+
+118
+00:04:40,334 --> 00:04:42,975
+Que vous planifiez un
+programme de vaccination
+
+119
+00:04:42,975 --> 00:04:44,780
+à l'échelle nationale,
+
+120
+00:04:44,780 --> 00:04:46,730
+que vous renforciez
+votre capacité à répondre
+
+121
+00:04:46,730 --> 00:04:48,453
+à des épidémies mortelles,
+
+122
+00:04:49,300 --> 00:04:51,541
+que vous supervisiez des programmes
+
+123
+00:04:51,541 --> 00:04:52,500
+nationaux et internationaux
+
+124
+00:04:52,500 --> 00:04:54,858
+pour des épidémies en cours, ou que
+
+125
+00:04:54,858 --> 00:04:57,420
+vous gériez un projet complexe
+
+126
+00:04:57,420 --> 00:04:59,703
+qui repose sur des décisions
+fondées sur des données,
+
+127
+00:05:00,600 --> 00:05:05,250
+DHIS2 est un outil opensource
+gratuit qui peut améliorer
+
+128
+00:05:05,250 --> 00:05:09,560
+votre impact, en vous aidant à
+collecter, analyser, partager
+
+129
+00:05:09,560 --> 00:05:13,883
+et transformer vos données en
+informations pour l'action.
+

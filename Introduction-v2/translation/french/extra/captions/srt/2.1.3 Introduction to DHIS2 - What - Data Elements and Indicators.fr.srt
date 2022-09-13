@@ -1,0 +1,624 @@
+﻿1
+00:00:13,600 --> 00:00:14,740
+- Dans cette vidéo,
+
+2
+00:00:14,740 --> 00:00:19,620
+nous allons discuter du deuxième
+bloc de construction DHIS2.
+
+3
+00:00:19,620 --> 00:00:21,363
+L'élément de données.
+
+4
+00:00:22,760 --> 00:00:26,030
+Vous savez maintenant que
+les éléments de données
+
+5
+00:00:26,030 --> 00:00:28,870
+définissent ce qui est représenté
+
+6
+00:00:28,870 --> 00:00:31,203
+par une valeur de données particulière
+
+7
+00:00:31,203 --> 00:00:33,828
+dans le système DHIS2.
+
+8
+00:00:35,930 --> 00:00:38,280
+Reprenons notre exemple,
+
+9
+00:00:38,280 --> 00:00:40,580
+les cas positifs de paludisme,
+
+10
+00:00:40,580 --> 00:00:43,500
+enregistrés dans le centre
+de santé de Namchala,
+
+11
+00:00:43,500 --> 00:00:46,163
+en octobre 2020.
+
+12
+00:00:47,000 --> 00:00:51,070
+L'élément de données
+détaille ce qui est compté.
+
+13
+00:00:51,070 --> 00:00:54,373
+Dans ce cas, les cas
+de paludisme positifs.
+
+14
+00:00:55,831 --> 00:00:58,383
+Nous pouvons conceptualiser
+les éléments de données
+
+15
+00:00:58,383 --> 00:01:02,080
+comme des étiquettes ou
+des variables qui décrivent
+
+16
+00:01:02,080 --> 00:01:05,973
+ce que représente une valeur
+de données particulière.
+
+17
+00:01:08,080 --> 00:01:12,380
+Les éléments de données
+représentent souvent un comptage.
+
+18
+00:01:12,380 --> 00:01:15,710
+Par exemple, la population totale,
+
+19
+00:01:15,710 --> 00:01:19,490
+les individus vaccinés contre la rougeole,
+
+20
+00:01:19,490 --> 00:01:21,920
+et les lits d'hôpitaux disponibles,
+
+21
+00:01:21,920 --> 00:01:25,060
+sont tous des exemples
+d'éléments de données
+
+22
+00:01:25,060 --> 00:01:27,763
+qui contiennent des valeurs numériques.
+
+23
+00:01:29,270 --> 00:01:32,500
+Notez que les éléments de
+données peuvent également stocker
+
+24
+00:01:32,500 --> 00:01:34,770
+d'autres types de valeurs.
+
+25
+00:01:34,770 --> 00:01:36,460
+Par exemple, du texte,
+
+26
+00:01:36,460 --> 00:01:38,050
+des valeurs oui/non
+
+27
+00:01:38,050 --> 00:01:39,203
+et autres.
+
+28
+00:01:40,800 --> 00:01:43,880
+Une caractéristique importante
+des éléments de données,
+
+29
+00:01:43,880 --> 00:01:47,563
+est qu'ils peuvent être
+agrégés de diverses manières.
+
+30
+00:01:48,730 --> 00:01:51,760
+Les éléments de données
+capturés dans DHIS2
+
+31
+00:01:51,760 --> 00:01:54,433
+représentent des valeurs numériques,
+
+32
+00:01:55,600 --> 00:01:57,653
+peuvent être additionnés dans le temps,
+
+33
+00:01:58,850 --> 00:02:01,150
+être moyennés dans le temps,
+
+34
+00:02:01,150 --> 00:02:05,113
+par exemple de valeurs
+mensuelles à trimestrielles,
+
+35
+00:02:06,410 --> 00:02:09,210
+et comptés ou agrégés,
+
+36
+00:02:09,210 --> 00:02:13,062
+dans la hiérarchie
+organisationnelle tels que
+
+37
+00:02:13,062 --> 00:02:16,373
+des valeurs de l'établissement
+aux valeurs du district.
+
+38
+00:02:17,930 --> 00:02:21,390
+Les éléments de données peuvent
+également être désagrégés.
+
+39
+00:02:22,800 --> 00:02:26,860
+Alors que l'agrégation consiste
+à additionner des choses,
+
+40
+00:02:26,860 --> 00:02:28,690
+désagréger quelque chose,
+
+41
+00:02:28,690 --> 00:02:32,763
+signifie le séparer en
+ses parties constituantes.
+
+42
+00:02:34,280 --> 00:02:35,455
+L'âge et le sexe
+
+43
+00:02:35,455 --> 00:02:38,370
+sont des exemples
+courants de désagrégations
+
+44
+00:02:38,370 --> 00:02:40,893
+appliquées à des éléments de données.
+
+45
+00:02:42,590 --> 00:02:46,530
+Ici, nous avons désagrégé
+l'élément de données,
+
+46
+00:02:46,530 --> 00:02:50,360
+cas de paludisme RDT positif,
+
+47
+00:02:50,360 --> 00:02:51,630
+par sexe.
+
+48
+00:02:51,630 --> 00:02:52,463
+Ainsi,
+
+49
+00:02:52,463 --> 00:02:56,510
+nous pouvons voir le nombre
+de cas masculins et féminins
+
+50
+00:02:56,510 --> 00:02:58,263
+comme des valeurs distinctes.
+
+51
+00:02:59,220 --> 00:03:01,860
+Ce type de désagrégation des données,
+
+52
+00:03:01,860 --> 00:03:04,840
+est très utile pour l'analyse des données,
+
+53
+00:03:04,840 --> 00:03:08,520
+car il peut révéler
+s'il y a des différences
+
+54
+00:03:08,520 --> 00:03:10,283
+entre les groupes de sexe.
+
+55
+00:03:11,940 --> 00:03:15,350
+Maintenant, parlons des indicateurs,
+
+56
+00:03:15,350 --> 00:03:19,053
+qui utilisent l'analyse des données DHIS2.
+
+57
+00:03:20,010 --> 00:03:22,060
+Que sont les indicateurs
+
+58
+00:03:22,060 --> 00:03:25,770
+et en quoi diffèrent-ils
+des éléments de données ?
+
+59
+00:03:25,770 --> 00:03:27,553
+Alors que les éléments de données
+
+60
+00:03:27,553 --> 00:03:31,020
+sont des valeurs brutes
+qui sont collectées,
+
+61
+00:03:31,020 --> 00:03:34,053
+les indicateurs sont des
+valeurs qui sont calculées.
+
+62
+00:03:35,010 --> 00:03:37,170
+Pour illustrer cette différence,
+
+63
+00:03:37,170 --> 00:03:39,700
+un exemple d'élément de données,
+
+64
+00:03:39,700 --> 00:03:44,040
+serait le nombre d'individus vaccinés
+
+65
+00:03:44,040 --> 00:03:45,490
+alors qu'un indicateur
+
+66
+00:03:45,490 --> 00:03:48,540
+serait le taux de couverture vaccinale
+
+67
+00:03:48,540 --> 00:03:52,408
+qui est calculé sur la
+base d'une formule définie.
+
+68
+00:03:53,860 --> 00:03:57,360
+La couverture vaccinale représente
+
+69
+00:03:57,360 --> 00:04:00,960
+un pourcentage d'individus vaccinés,
+
+70
+00:04:00,960 --> 00:04:05,630
+capturé comme doses administrées
+dans une population cible
+
+71
+00:04:05,630 --> 00:04:08,253
+faites de toutes les personnes éligibles.
+
+72
+00:04:10,740 --> 00:04:15,000
+Ici, l'indicateur est
+la couverture vaccinale,
+
+73
+00:04:15,000 --> 00:04:18,770
+tandis que les doses administrées
+et la population cible,
+
+74
+00:04:18,770 --> 00:04:21,773
+sont tous deux des éléments
+de données dans DHIS2.
+
+75
+00:04:23,060 --> 00:04:26,520
+Maintenant, mettons tous
+ces éléments ensemble
+
+76
+00:04:26,520 --> 00:04:28,573
+dans une formule mathématique.
+
+77
+00:04:31,430 --> 00:04:33,021
+Dans cette formule,
+
+78
+00:04:33,021 --> 00:04:35,900
+nous pouvons voir que
+la couverture vaccinale,
+
+79
+00:04:35,900 --> 00:04:39,742
+est calculée en divisant
+les doses administrées,
+
+80
+00:04:39,742 --> 00:04:44,742
+le numérateur, par la population
+cible, le dénominateur,
+
+81
+00:04:44,830 --> 00:04:48,038
+et multipliée par un facteur de 100
+
+82
+00:04:48,038 --> 00:04:49,946
+pour obtenir un pourcentage.
+
+83
+00:04:52,020 --> 00:04:55,370
+Des formules similaires peuvent
+être utilisées pour calculer
+
+84
+00:04:55,370 --> 00:04:58,173
+de nombreux autres indicateurs dans DHIS2.
+
+85
+00:04:59,640 --> 00:05:02,970
+Ces formules consistent en un numérateur,
+
+86
+00:05:02,970 --> 00:05:04,200
+un dénominateur
+
+87
+00:05:04,200 --> 00:05:05,633
+et d'un facteur quelconque.
+
+88
+00:05:08,080 --> 00:05:12,060
+Les calculs des indicateurs
+peuvent aussi donner des totaux.
+
+89
+00:05:12,060 --> 00:05:13,960
+Comme l'indicateur
+
+90
+00:05:13,960 --> 00:05:17,290
+le nombre de cas confirmés de malaria.
+
+91
+00:05:17,290 --> 00:05:20,380
+Il est calculé comme la somme des cas
+
+92
+00:05:20,380 --> 00:05:23,320
+diagnostiqués par diverses méthodes
+
+93
+00:05:23,320 --> 00:05:27,420
+comme le TDR ou test de diagnostic rapide,
+
+94
+00:05:27,420 --> 00:05:28,713
+et la microscopie.
+
+95
+00:05:30,940 --> 00:05:32,582
+L'utilisation d'indicateurs
+
+96
+00:05:32,582 --> 00:05:35,330
+calculés à partir des
+données de la population
+
+97
+00:05:35,330 --> 00:05:38,710
+permet de comparer les
+performances sanitaires
+
+98
+00:05:38,710 --> 00:05:41,120
+entre des zones géographiques
+
+99
+00:05:41,120 --> 00:05:43,700
+avec des tailles de
+population différentes,
+
+100
+00:05:43,700 --> 00:05:47,793
+ce qui sert souvent plus que
+de comparer des données brutes.
+
+101
+00:05:50,250 --> 00:05:51,675
+Dans ce tableau,
+
+102
+00:05:51,675 --> 00:05:54,800
+nous voyons à la fois les
+valeurs des éléments de données,
+
+103
+00:05:54,800 --> 00:05:56,340
+les doses données,
+
+104
+00:05:56,340 --> 00:05:58,410
+et la population,
+
+105
+00:05:58,410 --> 00:06:00,920
+et les valeurs de
+l'indicateur de couverture
+
+106
+00:06:00,920 --> 00:06:05,093
+dans deux districts dont la
+population est différente.
+
+107
+00:06:06,180 --> 00:06:08,330
+En comparant les deux districts,
+
+108
+00:06:08,330 --> 00:06:10,880
+nous pouvons voir que le district A,
+
+109
+00:06:10,880 --> 00:06:13,320
+a un nombre plus élevé
+de doses administrées
+
+110
+00:06:13,320 --> 00:06:14,683
+que le district B.
+
+111
+00:06:15,650 --> 00:06:18,880
+Mais si nous regardons
+plutôt le taux de couverture,
+
+112
+00:06:18,880 --> 00:06:23,310
+qui prend en compte la
+taille de la population cible
+
+113
+00:06:23,310 --> 00:06:25,573
+une image différente émerge.
+
+114
+00:06:26,520 --> 00:06:30,840
+Le district B a une couverture de 50 %.
+
+115
+00:06:30,840 --> 00:06:35,003
+alors que le district A n'a
+qu'une couverture de 30 %.
+
+116
+00:06:35,930 --> 00:06:39,390
+Cela signifie que le district
+B a de meilleurs résultats
+
+117
+00:06:39,390 --> 00:06:42,280
+dans la vaccination de sa population cible
+
+118
+00:06:42,280 --> 00:06:45,040
+bien qu'il ait le plus
+faible nombre absolu de
+
+119
+00:06:45,040 --> 00:06:47,073
+le plus faible nombre absolu
+de doses administrées.
+
+120
+00:06:48,390 --> 00:06:51,410
+Passons rapidement en revue les
+principales caractéristiques
+
+121
+00:06:51,410 --> 00:06:54,490
+des éléments de données et des indicateurs
+
+122
+00:06:54,490 --> 00:06:57,330
+et les différences entre eux.
+
+123
+00:06:57,330 --> 00:07:00,860
+Et les éléments de données et
+les indicateurs représentent
+
+124
+00:07:00,860 --> 00:07:03,620
+ce qui est mesuré.
+
+125
+00:07:03,620 --> 00:07:07,380
+Les éléments de données
+représentent les données collectées.
+
+126
+00:07:07,380 --> 00:07:09,690
+Il s'agit généralement d'un comptage brut,
+
+127
+00:07:09,690 --> 00:07:13,690
+comme les cas confirmés d'une maladie,
+
+128
+00:07:13,690 --> 00:07:15,600
+des données sur la population,
+
+129
+00:07:15,600 --> 00:07:18,270
+ou le nombre de lits d'hôpitaux.
+
+130
+00:07:18,270 --> 00:07:22,030
+D'autre part, les indicateurs
+font référence à des valeurs
+
+131
+00:07:22,030 --> 00:07:24,530
+qui ne sont pas saisies directement
+
+132
+00:07:24,530 --> 00:07:29,530
+mais qui sont calculées avec
+au moins 2 éléments de données.
+
+133
+00:07:30,080 --> 00:07:33,460
+Le calcul comprend un numérateur,
+
+134
+00:07:33,460 --> 00:07:34,690
+un dénominateur,
+
+135
+00:07:34,690 --> 00:07:36,070
+et un facteur,
+
+136
+00:07:36,070 --> 00:07:39,870
+comme dans le calcul de
+la couverture vaccinale
+
+137
+00:07:39,870 --> 00:07:42,750
+ou du taux de mortalité maternelle.
+
+138
+00:07:42,750 --> 00:07:44,048
+Ils peuvent également être
+
+139
+00:07:44,048 --> 00:07:48,330
+un total de plusieurs éléments
+de données ajoutés ensemble.
+
+140
+00:07:48,330 --> 00:07:50,220
+Comme nous l'avons vu
+lorsque nous avons discuté
+
+141
+00:07:50,220 --> 00:07:53,853
+du nombre de cas de paludisme confirmés.
+

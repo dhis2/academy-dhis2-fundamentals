@@ -1,0 +1,443 @@
+﻿1
+00:00:04,347 --> 00:00:07,606
+Vous n'êtes pas seul
+
+2
+00:00:07,606 --> 00:00:09,356
+Introduction au DHIS2
+
+3
+00:00:13,102 --> 00:00:14,735
+Nous avons parlé à certains
+membres du DHIS2 et
+
+4
+00:00:14,735 --> 00:00:17,179
+de la communauté HISP pour
+connaître leurs expériences.
+
+5
+00:00:17,179 --> 00:00:19,252
+Alors, rencontrons-les.
+
+6
+00:00:19,252 --> 00:00:21,669
+Tout d'abord, qui êtes-vous ?
+
+7
+00:00:22,849 --> 00:00:26,041
+- Je suis Khadija du HISP : Tanzanie.
+
+8
+00:00:26,041 --> 00:00:29,310
+- Je m'appelle Zeferino Saugene
+et je viens du Mozambique.
+
+9
+00:00:29,310 --> 00:00:32,767
+- Je m'appelle John
+Lewis du HISP : Vietnam.
+
+10
+00:00:32,767 --> 00:00:34,350
+Et que faites-vous?
+
+11
+00:00:36,290 --> 00:00:38,830
+- Mon rôle est celui
+d'analyste de système.
+
+12
+00:00:38,830 --> 00:00:40,760
+mais aussi bien que j'enseigne
+à mettre en œuvre cela
+
+13
+00:00:40,760 --> 00:00:42,543
+- Je coordonne cette équipe
+
+14
+00:00:42,543 --> 00:00:44,452
+qui est une communauté
+étrangère qui dit toujours:
+
+15
+00:00:44,452 --> 00:00:45,285
+nous sommes le Mozambique,
+
+16
+00:00:45,285 --> 00:00:47,520
+qui s'appelle aussi Saudigitus.
+
+17
+00:00:47,520 --> 00:00:49,086
+- Je suis maintenant un directeur
+
+18
+00:00:49,086 --> 00:00:52,610
+pour HISP Vietnam, qui dirige
+la mise en œuvre du DHIS2
+
+19
+00:00:52,610 --> 00:00:54,924
+en Asie du Sud-Est et dans
+les îles du Pacifique.
+
+20
+00:00:54,924 --> 00:00:58,360
+Comment vous êtes-vous impliqué
+dans le DHIS2 et HISP ?
+
+21
+00:00:58,360 --> 00:00:59,193
+- J'ai entendu parler
+
+22
+00:00:59,193 --> 00:01:01,840
+du DHIS2 pendant mes
+études universitaires,
+
+23
+00:01:01,840 --> 00:01:05,300
+J'ai commencé à m'engager,
+je me suis renseignée,
+
+24
+00:01:05,300 --> 00:01:07,570
+et au moins ils étaient assez coopératifs,
+
+25
+00:01:07,570 --> 00:01:10,550
+m'ont partagé le lien,
+DHIS2 vers les fondamentaux.
+
+26
+00:01:10,550 --> 00:01:12,360
+Et j'ai commencé à en apprendre plus.
+
+27
+00:01:12,360 --> 00:01:15,050
+Et je dirais que tout a
+commencé à partir de là.
+
+28
+00:01:15,050 --> 00:01:16,608
+- Je pense que j'ai commencé
+
+29
+00:01:16,608 --> 00:01:20,349
+à m'impliquer dans ce groupe en 2003.
+
+30
+00:01:20,349 --> 00:01:21,690
+dans le programme principal.
+
+31
+00:01:21,690 --> 00:01:24,300
+Et puis je suis allé à Oslo en août,
+
+32
+00:01:24,300 --> 00:01:25,420
+J'y suis resté un an.
+
+33
+00:01:25,420 --> 00:01:27,070
+Et puis je suis revenu au Mozambique
+
+34
+00:01:27,070 --> 00:01:29,690
+et puis, j'ai eu un an de
+travail sur le terrain.
+
+35
+00:01:29,690 --> 00:01:32,299
+puis j'ai commencé à écrire la thèse
+
+36
+00:01:32,299 --> 00:01:35,400
+et ensuite je l'ai finalisé en 2005.
+
+37
+00:01:35,400 --> 00:01:37,391
+- En 2000, lorsque j'ai été interviewé
+
+38
+00:01:37,391 --> 00:01:39,750
+en tant que développeur de logiciels
+
+39
+00:01:39,750 --> 00:01:42,891
+pour rejoindre le projet HISP, l'Inde
+
+40
+00:01:42,891 --> 00:01:44,430
+et l'une des petites circonscriptions
+
+41
+00:01:44,430 --> 00:01:45,263
+en Inde.
+
+42
+00:01:45,263 --> 00:01:49,575
+J'ai donc été nommé développeur
+système pour DHIS21.
+
+43
+00:01:49,575 --> 00:01:51,266
+Quel a été pour vous un événement clé
+
+44
+00:01:51,266 --> 00:01:52,730
+dans votre histoire DHIS2 et HISP?
+
+45
+00:01:52,730 --> 00:01:54,300
+- En tant qu'équipe DHIS2,
+
+46
+00:01:54,300 --> 00:01:56,750
+nous avons réussi à soutenir
+notre ministère de la Santé
+
+47
+00:01:56,750 --> 00:02:00,030
+dans la mise en œuvre de la
+DHIS2 à l'échelle nationale
+
+48
+00:02:00,030 --> 00:02:03,390
+et c'est le système clé
+auquel le ministre de la Santé
+
+49
+00:02:03,390 --> 00:02:05,220
+de la Tanzanie a recours
+pour la collecte de données
+
+50
+00:02:05,220 --> 00:02:06,127
+et, bien sûr, l'embarquement.
+
+51
+00:02:06,127 --> 00:02:09,670
+- La conférence DHIS2
+est l'événement où nous,
+
+52
+00:02:09,670 --> 00:02:12,890
+il y a beaucoup d'expérience de partage,
+
+53
+00:02:12,890 --> 00:02:16,500
+et puis beaucoup d'utilisateurs,
+d'exécutants, de donateurs,
+
+54
+00:02:16,500 --> 00:02:18,240
+ils assistent puis nous arrivons là
+
+55
+00:02:18,240 --> 00:02:20,080
+et puis nous partageons
+toute notre expérience
+
+56
+00:02:20,080 --> 00:02:21,561
+du côté de la mise en œuvre
+
+57
+00:02:21,561 --> 00:02:23,410
+et aussi du point de vue de l'utilisateur.
+
+58
+00:02:23,410 --> 00:02:25,476
+- Lorsque nous avons lancé HISP, l'Inde,
+
+59
+00:02:25,476 --> 00:02:27,143
+j'étais la seule personne
+
+60
+00:02:27,143 --> 00:02:31,240
+et puis comme trois
+groupes au niveau national
+
+61
+00:02:31,240 --> 00:02:32,511
+pour tout le pays.
+
+62
+00:02:32,511 --> 00:02:35,300
+Je suppose que c'était
+l'événement clé pour moi.
+
+63
+00:02:35,300 --> 00:02:37,367
+Vous prenez une petite ONG
+
+64
+00:02:37,367 --> 00:02:40,130
+opérant dans une très
+petite circonscription
+
+65
+00:02:40,130 --> 00:02:44,150
+dans un village particulier
+pour passer à l'entité nationale
+
+66
+00:02:44,150 --> 00:02:46,627
+et travaillant avec le
+ministère indien de la Santé.
+
+67
+00:02:46,627 --> 00:02:50,218
+Que signifient DHIS2 et HISP pour vous ?
+
+68
+00:02:51,600 --> 00:02:53,100
+- Beaucoup, honnêtement parlant,
+
+69
+00:02:53,100 --> 00:02:55,070
+parce que depuis que j'ai
+commencé à l'utiliser,
+
+70
+00:02:55,070 --> 00:02:57,410
+ou depuis que j'ai commencé à le savoir,
+
+71
+00:02:57,410 --> 00:03:01,280
+il s'est avéré être une
+plateforme très flexible.
+
+72
+00:03:01,280 --> 00:03:03,813
+Au départ, il ne visait que
+
+73
+00:03:03,813 --> 00:03:05,580
+les systèmes d'information sur la santé.
+
+74
+00:03:05,580 --> 00:03:08,760
+Nous avons réussi à aller
+au-delà de la santé,
+
+75
+00:03:08,760 --> 00:03:10,218
+mais même l'utiliser dans
+
+76
+00:03:10,218 --> 00:03:12,830
+le secteur agricole, ainsi que l'eau.
+
+77
+00:03:12,830 --> 00:03:15,948
+Je dirais donc que c'est
+une plateforme très souple.
+
+78
+00:03:15,948 --> 00:03:19,330
+et il peut soutenir un certain
+nombre de cas d'utilisation.
+
+79
+00:03:19,330 --> 00:03:20,163
+Comme nous avons eu
+
+80
+00:03:20,163 --> 00:03:23,681
+des cas d'utilisation
+différents de différents pays,
+
+81
+00:03:23,681 --> 00:03:25,197
+- HISP est une famille que
+
+82
+00:03:25,197 --> 00:03:27,341
+nous soutenons dans de nombreux pays
+
+83
+00:03:27,341 --> 00:03:31,690
+et puis quand j'apprends à
+connaître plusieurs personnes
+
+84
+00:03:33,831 --> 00:03:36,180
+ils partagent les mêmes défis.
+
+85
+00:03:36,180 --> 00:03:38,440
+Par exemple, comme au
+Mozambique, alors nous allons,
+
+86
+00:03:38,440 --> 00:03:39,273
+nous irons et nous trouverons
+
+87
+00:03:39,273 --> 00:03:41,050
+ce même défi et vous trouverez que vous
+
+88
+00:03:41,050 --> 00:03:44,170
+le trouverez également dans
+des pays comme la Guinée-Bissau
+
+89
+00:03:44,170 --> 00:03:45,010
+ou Sao Tome.
+
+90
+00:03:45,010 --> 00:03:49,710
+Pour moi, c'est donc une
+communauté. C'est une famille.
+
+91
+00:03:49,710 --> 00:03:51,795
+- Pour moi, c'est une idéologie,
+
+92
+00:03:51,795 --> 00:03:54,286
+qui pense essentiellement
+
+93
+00:03:54,286 --> 00:03:57,360
+à la meilleure façon dont nous
+pouvons essayer d'utiliser
+
+94
+00:03:57,360 --> 00:03:59,135
+le système informel dans
+
+95
+00:03:59,135 --> 00:04:01,460
+les établissements de santé
+et comment nous pouvons
+
+96
+00:04:01,460 --> 00:04:06,100
+essayer d'obtenir le bon
+outil aux bonnes personnes.
+
+97
+00:04:07,557 --> 00:04:09,690
+Et DHIS2, ce que nous
+croyons est un outil qui aide
+
+98
+00:04:09,690 --> 00:04:12,000
+les administrateurs de
+la santé et les gens
+
+99
+00:04:12,000 --> 00:04:14,740
+pour prendre une décision au niveau local
+
+100
+00:04:14,740 --> 00:04:16,206
+et aussi au niveau national.
+

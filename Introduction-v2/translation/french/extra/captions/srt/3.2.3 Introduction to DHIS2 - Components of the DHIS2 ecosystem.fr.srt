@@ -1,0 +1,539 @@
+﻿1
+00:00:04,386 --> 00:00:09,219
+Composants de l'écosystème
+DHIS2 - Introduction à DHIS2
+
+2
+00:00:14,744 --> 00:00:18,343
+- [Instructeur] DHIS2 n'est
+pas qu'un simple logiciel.
+
+3
+00:00:19,180 --> 00:00:23,030
+Il est composé
+d'applications, de ressources,
+
+4
+00:00:23,030 --> 00:00:27,193
+de différentes organisations
+et, surtout, de personnes.
+
+5
+00:00:28,320 --> 00:00:31,830
+Voyons donc comment vous pouvez interagir
+
+6
+00:00:31,830 --> 00:00:34,653
+avec les différentes parties
+de l'écosystème DHIS2.
+
+7
+00:00:38,800 --> 00:00:40,770
+Commençons par la recherche
+
+8
+00:00:40,770 --> 00:00:43,730
+du programme de systèmes
+d'information de santé
+
+9
+00:00:43,730 --> 00:00:47,317
+à l'université d'Oslo, HISP UiO.
+
+10
+00:00:48,736 --> 00:00:50,527
+HISP a été fondé pour renforcer
+
+11
+00:00:50,527 --> 00:00:52,440
+les systèmes d'information sanitaire
+
+12
+00:00:52,440 --> 00:00:54,343
+dans les pays en développement.
+
+13
+00:00:55,180 --> 00:00:58,470
+Pour soutenir cet
+objectif, le groupe étudie
+
+14
+00:00:58,470 --> 00:01:00,028
+l'écosystème plus large
+
+15
+00:01:00,028 --> 00:01:03,070
+des systèmes d'information sur la santé.
+
+16
+00:01:03,070 --> 00:01:06,490
+Cela inclut leurs
+matériaux, leurs personnes,
+
+17
+00:01:06,490 --> 00:01:11,030
+leurs compétences, leurs
+institutions et leurs pratiques.
+
+18
+00:01:11,030 --> 00:01:12,863
+Vous pouvez vous impliquer
+
+19
+00:01:12,863 --> 00:01:15,440
+dans un programme
+académique dirigé par HISP
+
+20
+00:01:15,440 --> 00:01:19,073
+ou participer à leurs
+projets de recherche-action.
+
+21
+00:01:21,100 --> 00:01:24,160
+Le programme de recherche HISP UiO
+
+22
+00:01:24,160 --> 00:01:27,860
+comprend également le
+laboratoire de conception DHIS2,
+
+23
+00:01:27,860 --> 00:01:29,835
+qui explore comment les chercheurs
+
+24
+00:01:29,835 --> 00:01:31,926
+et les praticiens travaillant
+
+25
+00:01:31,926 --> 00:01:35,600
+au sein de l'écosystème logiciel DHIS2
+
+26
+00:01:35,600 --> 00:01:39,550
+peuvent faciliter la conception
+et l'innovation d'outils
+
+27
+00:01:39,550 --> 00:01:41,491
+qui apportent de la valeur
+
+28
+00:01:41,491 --> 00:01:44,380
+au travail des utilisateurs finaux.
+
+29
+00:01:44,380 --> 00:01:46,900
+En plus de HISP UiO,
+
+30
+00:01:46,900 --> 00:01:49,970
+il existe un réseau
+mondial de groupes HISP,
+
+31
+00:01:49,970 --> 00:01:54,470
+dotés et dirigés par des experts DHIS2.
+
+32
+00:01:54,470 --> 00:01:57,330
+Ils fournissent une
+assistance à la mise en œuvre,
+
+33
+00:01:57,330 --> 00:02:00,460
+aident à la personnalisation
+de la plate-forme,
+
+34
+00:02:00,460 --> 00:02:02,860
+développent des solutions innovantes
+
+35
+00:02:02,860 --> 00:02:05,151
+et renforcent les capacités grâce
+
+36
+00:02:05,151 --> 00:02:07,260
+au programme d'académie DHIS2
+
+37
+00:02:07,260 --> 00:02:09,613
+et aux efforts de formation locaux.
+
+38
+00:02:11,010 --> 00:02:12,843
+Au fur et à mesure que
+vous vous impliquerez
+
+39
+00:02:12,843 --> 00:02:14,093
+davantage dans DHIS2,
+
+40
+00:02:14,093 --> 00:02:15,976
+vous voudrez probablement en savoir plus
+
+41
+00:02:15,976 --> 00:02:17,290
+sur ce que les autres font
+
+42
+00:02:17,290 --> 00:02:19,280
+avec leurs implémentations,
+
+43
+00:02:19,280 --> 00:02:22,280
+partager les détails de
+votre propre implémentation,
+
+44
+00:02:22,280 --> 00:02:24,470
+ou simplement demander de l'aide.
+
+45
+00:02:24,470 --> 00:02:26,928
+La communauté de pratique DHIS2
+
+46
+00:02:26,928 --> 00:02:29,600
+est la plate-forme de discussion
+
+47
+00:02:29,600 --> 00:02:32,720
+où vous pouvez interagir
+avec d'autres praticiens
+
+48
+00:02:32,720 --> 00:02:34,143
+et apprendre les uns des autres.
+
+49
+00:02:35,660 --> 00:02:38,520
+Lorsque vous commencez à utiliser DHIS2,
+
+50
+00:02:38,520 --> 00:02:40,950
+vous souhaiterez peut-être
+vérifier la fonctionnalité
+
+51
+00:02:40,950 --> 00:02:43,410
+d'une application particulière.
+
+52
+00:02:43,410 --> 00:02:48,410
+La documentation DHIS2 contient
+des informations détaillées
+
+53
+00:02:48,480 --> 00:02:51,113
+et des considérations de mise en œuvre
+
+54
+00:02:51,113 --> 00:02:53,520
+disponibles pour DHIS2.
+
+55
+00:02:53,520 --> 00:02:58,520
+Et il est écrit par une équipe
+de base d'experts DHIS2.
+
+56
+00:02:58,980 --> 00:03:03,797
+Ces guides sont tous
+disponibles sur docs.dhis2.org.
+
+57
+00:03:06,540 --> 00:03:09,660
+Comme DHIS2 est open source,
+
+58
+00:03:09,660 --> 00:03:14,210
+vous pouvez trouver tout
+son code source dans GitHub.
+
+59
+00:03:14,210 --> 00:03:18,810
+Vous pouvez également trouver
+toute la documentation DHIS2
+
+60
+00:03:18,810 --> 00:03:21,100
+et vous pouvez nous aider à l'améliorer
+
+61
+00:03:21,100 --> 00:03:24,253
+en suggérant des
+modifications ou des ajouts.
+
+62
+00:03:25,640 --> 00:03:28,810
+Être un bien public mondial signifie
+
+63
+00:03:28,810 --> 00:03:31,780
+que DHIS2 doit être disponible
+
+64
+00:03:31,780 --> 00:03:34,850
+pour les utilisateurs du monde entier.
+
+65
+00:03:34,850 --> 00:03:38,040
+La traduction des éléments
+de l'interface utilisateur
+
+66
+00:03:38,040 --> 00:03:40,660
+et des messages pour le logiciel de base,
+
+67
+00:03:40,660 --> 00:03:43,085
+y compris les applications,
+
+68
+00:03:43,085 --> 00:03:45,620
+les métadonnées et d'autres éléments,
+
+69
+00:03:45,620 --> 00:03:50,440
+est la partie clé de
+la localisation DHIS2.
+
+70
+00:03:50,440 --> 00:03:52,840
+Pour faciliter un effort
+de traduction mondial
+
+71
+00:03:52,840 --> 00:03:55,390
+piloté par la communauté,
+
+72
+00:03:55,390 --> 00:03:59,700
+DHIS2 utilise la plate-forme Transifex.
+
+73
+00:03:59,700 --> 00:04:03,804
+Vous pouvez consulter et
+contribuer aux traductions DHIS2
+
+74
+00:04:03,804 --> 00:04:06,887
+et Transifex sur translate.dhis2.org.
+
+75
+00:04:10,600 --> 00:04:14,350
+Si vous souhaitez développer
+vos compétences DHIS2,
+
+76
+00:04:14,350 --> 00:04:18,470
+vous pouvez suivre un
+cours de l'académie DHIS2.
+
+77
+00:04:18,470 --> 00:04:22,270
+Le programme de l'académie
+comprend des cours en ligne
+
+78
+00:04:22,270 --> 00:04:25,840
+et en personne sur des sujets généraux
+
+79
+00:04:25,840 --> 00:04:28,820
+et spécialisés.
+
+80
+00:04:28,820 --> 00:04:30,687
+Assister à une académie vous aidera
+
+81
+00:04:30,687 --> 00:04:31,920
+à développer vos compétences
+
+82
+00:04:31,920 --> 00:04:34,950
+pour prendre en charge
+les implémentations DHIS2
+
+83
+00:04:34,950 --> 00:04:39,343
+et vous permettra d'interagir
+avec les experts DHIS2.
+
+84
+00:04:40,720 --> 00:04:44,290
+Si vous souhaitez explorer
+les fonctionnalités de DHIS2
+
+85
+00:04:44,290 --> 00:04:46,440
+et mettre en pratique vos compétences,
+
+86
+00:04:46,440 --> 00:04:47,956
+vous pouvez l'essayer sur
+
+87
+00:04:47,956 --> 00:04:50,640
+une version de démonstration de DHIS2.
+
+88
+00:04:50,640 --> 00:04:55,047
+Vous pouvez trouver la dernière
+démo sur play.dhis2.org.
+
+89
+00:04:57,400 --> 00:05:00,490
+Lorsque vous utilisez
+DHIS2, vous pouvez constater
+
+90
+00:05:00,490 --> 00:05:04,220
+que quelque chose ne
+fonctionne pas comme prévu
+
+91
+00:05:04,220 --> 00:05:07,400
+ou vous pouvez même penser à
+une nouvelle fonctionnalité.
+
+92
+00:05:07,400 --> 00:05:09,620
+Dans le DHIS2 Jira,
+
+93
+00:05:09,620 --> 00:05:12,790
+vous pouvez informer le groupe
+de développement logiciel
+
+94
+00:05:12,790 --> 00:05:16,043
+de HISP UiO et ils
+examineront la question.
+
+95
+00:05:17,290 --> 00:05:19,915
+Si vous êtes intéressé
+par le développement
+
+96
+00:05:19,915 --> 00:05:22,210
+d'applications pour DHIS2,
+
+97
+00:05:22,210 --> 00:05:27,210
+assurez-vous de consulter le
+portail des développeurs DHIS2.
+
+98
+00:05:27,300 --> 00:05:30,330
+Vous trouverez ici les
+dernières informations
+
+99
+00:05:30,330 --> 00:05:34,140
+sur les outils de développement
+d'applications DHIS2,
+
+100
+00:05:34,140 --> 00:05:36,433
+des conseils et des formations.
+
+101
+00:05:38,270 --> 00:05:40,950
+Vous pouvez trouver des
+liens vers toutes les parties
+
+102
+00:05:40,950 --> 00:05:44,491
+de l'écosystème
+directement sur le site Web
+
+103
+00:05:44,491 --> 00:05:46,241
+de DHIS2, dhis2.org.
+
+104
+00:05:48,400 --> 00:05:50,740
+Le site Web sert de plaque tournante
+
+105
+00:05:50,740 --> 00:05:53,330
+où vous pouvez trouver
+des informations utiles
+
+106
+00:05:53,330 --> 00:05:56,504
+sur les dernières mises à jour sur DHIS2,
+
+107
+00:05:56,504 --> 00:05:59,200
+y compris les
+téléchargements de logiciels,
+
+108
+00:05:59,200 --> 00:06:01,725
+ainsi que des liens vers toutes
+les ressources mentionnées
+
+109
+00:06:01,725 --> 00:06:03,500
+dans cette vidéo.
+
+110
+00:06:03,500 --> 00:06:05,266
+Vous pouvez également obtenir toutes
+
+111
+00:06:05,266 --> 00:06:06,520
+les dernières mises à jour
+
+112
+00:06:06,520 --> 00:06:09,820
+en vous inscrivant à la newsletter DHIS2
+
+113
+00:06:09,820 --> 00:06:13,683
+et en suivant DHIS2 sur
+Twitter et Facebook.
+
+114
+00:06:15,270 --> 00:06:18,700
+Surtout, DHIS2 est un projet communautaire
+
+115
+00:06:18,700 --> 00:06:22,810
+qui a réussi grâce à l'innovation locale
+
+116
+00:06:22,810 --> 00:06:27,660
+et à la collaboration
+entre les pays du Sud.
+
+117
+00:06:27,660 --> 00:06:30,240
+Il existe de nombreuses
+façons de s'impliquer,
+
+118
+00:06:30,240 --> 00:06:34,360
+que vous soyez un utilisateur
+DHIS2, un réalisateur,
+
+119
+00:06:34,360 --> 00:06:37,040
+un développeur ou un chercheur.
+
+120
+00:06:37,040 --> 00:06:40,450
+Jetez un œil à l'écosystème DHIS2
+
+121
+00:06:40,450 --> 00:06:42,133
+et rejoignez la communauté mondiale.
+

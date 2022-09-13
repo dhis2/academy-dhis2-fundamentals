@@ -1,0 +1,536 @@
+﻿1
+00:00:04,235 --> 00:00:07,902
+Quand : Périodes - Présentation de DHIS 2
+
+2
+00:00:14,660 --> 00:00:17,120
+- [Instructeur] Dans la
+dernière vidéo de la série
+
+3
+00:00:17,120 --> 00:00:19,800
+sur les blocs de construction DHIS2,
+
+4
+00:00:19,800 --> 00:00:23,323
+nous aborderons la
+dimension quand, la période.
+
+5
+00:00:26,040 --> 00:00:28,840
+La période est un facteur important
+
+6
+00:00:28,840 --> 00:00:31,120
+lorsque vous collectez des données,
+
+7
+00:00:31,120 --> 00:00:33,520
+analysez des données au fil du temps
+
+8
+00:00:33,520 --> 00:00:36,130
+ou créez des rapports périodiques,
+
+9
+00:00:36,130 --> 00:00:39,105
+tels que des rapports agrégés mensuels,
+
+10
+00:00:39,105 --> 00:00:41,188
+trimestriels ou annuels.
+
+11
+00:00:43,700 --> 00:00:48,000
+Revenons à notre exemple de
+nouveaux cas de paludisme
+
+12
+00:00:48,000 --> 00:00:50,923
+signalés au centre de santé de Namchala.
+
+13
+00:00:52,090 --> 00:00:55,130
+Nous voyons que ces cas ont été signalés
+
+14
+00:00:55,130 --> 00:00:58,673
+pour la période d'octobre 2020.
+
+15
+00:00:59,510 --> 00:01:01,920
+C'est un exemple très simple
+
+16
+00:01:01,920 --> 00:01:05,573
+d'une période de collecte
+de données agrégées.
+
+17
+00:01:07,840 --> 00:01:12,380
+Dans le contexte de l'analyse
+des données dans DHIS2,
+
+18
+00:01:12,380 --> 00:01:15,710
+les périodes peuvent être
+combinées de plusieurs manières
+
+19
+00:01:15,710 --> 00:01:19,370
+et la façon dont vous les
+utilisez dépend beaucoup
+
+20
+00:01:19,370 --> 00:01:22,223
+du type d'informations
+que vous recherchez.
+
+21
+00:01:23,570 --> 00:01:25,720
+Vous pouvez obtenir des chiffres agrégés
+
+22
+00:01:25,720 --> 00:01:27,640
+pour une période spécifique,
+
+23
+00:01:27,640 --> 00:01:31,090
+comme octobre 2020,
+
+24
+00:01:31,090 --> 00:01:34,433
+une tendance mensuelle
+ou une tendance annuelle.
+
+25
+00:01:36,740 --> 00:01:39,215
+Par exemple, nous
+pourrions être intéressés
+
+26
+00:01:39,215 --> 00:01:40,980
+par les données sur le paludisme
+
+27
+00:01:40,980 --> 00:01:43,705
+pour cet établissement
+affichées mensuellement
+
+28
+00:01:43,705 --> 00:01:45,520
+pour la dernière année
+
+29
+00:01:45,520 --> 00:01:47,413
+afin d'analyser les tendances.
+
+30
+00:01:50,680 --> 00:01:52,620
+Ou peut-être sommes-nous concernés
+
+31
+00:01:52,620 --> 00:01:55,790
+par les données annuelles
+agrégées sur le paludisme
+
+32
+00:01:55,790 --> 00:02:00,003
+pour la période de 2016 à 2020.
+
+33
+00:02:02,630 --> 00:02:06,930
+Annuel 2016 à 2020
+
+34
+00:02:06,930 --> 00:02:10,680
+et mensuel de l'année dernière
+
+35
+00:02:10,680 --> 00:02:14,173
+sont deux exemples de périodes dans DHIS2.
+
+36
+00:02:16,830 --> 00:02:21,570
+Notez que la première partie,
+annuelle ou mensuelle,
+
+37
+00:02:21,570 --> 00:02:24,380
+fait référence à la fréquence
+pour laquelle vous souhaitez
+
+38
+00:02:24,380 --> 00:02:26,223
+afficher les données.
+
+39
+00:02:27,500 --> 00:02:32,500
+La deuxième partie, l'année
+dernière ou 2016 à 2020,
+
+40
+00:02:33,900 --> 00:02:36,760
+fait référence à la période globale
+
+41
+00:02:36,760 --> 00:02:39,863
+pour laquelle vous souhaitez
+agréger les données.
+
+42
+00:02:42,130 --> 00:02:45,240
+Pour l'analyse des données dans DHIS2,
+
+43
+00:02:45,240 --> 00:02:49,490
+toute période dans DHIS2
+sera une combinaison
+
+44
+00:02:49,490 --> 00:02:54,293
+de ces deux composantes,
+fréquence et période.
+
+45
+00:02:56,660 --> 00:02:58,520
+Pour les données agrégées,
+
+46
+00:02:58,520 --> 00:03:02,120
+les périodes dont vous disposez
+pour analyser vos données
+
+47
+00:03:02,120 --> 00:03:05,400
+dépendent de la période prédéfinie
+
+48
+00:03:05,400 --> 00:03:08,320
+au cours de laquelle vos
+données sont collectées.
+
+49
+00:03:08,320 --> 00:03:11,040
+Cela dépend du calendrier des rapports
+
+50
+00:03:11,040 --> 00:03:13,400
+d'un programme de santé donné,
+
+51
+00:03:13,400 --> 00:03:16,060
+qui peut nécessiter des
+rapports hebdomadaires,
+
+52
+00:03:16,060 --> 00:03:21,003
+mensuels, trimestriels
+ou annuels, entre autres.
+
+53
+00:03:21,870 --> 00:03:24,278
+Ces périodes peuvent être paramétrées
+
+54
+00:03:24,278 --> 00:03:27,278
+pour toutes les données collectées.
+
+55
+00:03:28,850 --> 00:03:31,575
+Par exemple, si l'élément de données,
+
+56
+00:03:31,575 --> 00:03:33,850
+les nouveaux cas de paludisme,
+
+57
+00:03:33,850 --> 00:03:36,240
+est collecté mensuellement,
+
+58
+00:03:36,240 --> 00:03:39,015
+nous pouvons afficher ces données
+
+59
+00:03:39,015 --> 00:03:40,920
+pour chaque mois de collecte
+
+60
+00:03:40,920 --> 00:03:43,020
+ou nous pouvons additionner ces données
+
+61
+00:03:43,020 --> 00:03:44,800
+pour les afficher par trimestre,
+
+62
+00:03:44,800 --> 00:03:47,033
+semestriel ou annuel.
+
+63
+00:03:47,960 --> 00:03:49,835
+Cependant, nous ne serions pas en mesure
+
+64
+00:03:49,835 --> 00:03:51,260
+de montrer ces données mensuelles
+
+65
+00:03:51,260 --> 00:03:55,310
+par semaine, car le niveau
+de collecte le plus bas
+
+66
+00:03:55,310 --> 00:03:56,500
+est par mois.
+
+67
+00:03:56,500 --> 00:03:59,853
+Il ne peut donc pas être
+désagrégé davantage.
+
+68
+00:04:02,650 --> 00:04:06,050
+DHIS2 prend en charge
+deux types de période
+
+69
+00:04:06,050 --> 00:04:08,513
+lors de l'analyse ou de
+l'examen de vos données:
+
+70
+00:04:09,360 --> 00:04:12,623
+des périodes fixes et
+des périodes relatives.
+
+71
+00:04:13,810 --> 00:04:18,810
+Octobre 2020, ou les années 2016 à 2020
+
+72
+00:04:21,030 --> 00:04:23,820
+sont des exemples de périodes fixes,
+
+73
+00:04:23,820 --> 00:04:26,120
+c'est-à-dire qu'elles se
+réfèrent à une spécifique
+
+74
+00:04:26,120 --> 00:04:28,563
+et définie période de temps.
+
+75
+00:04:31,579 --> 00:04:35,140
+DHIS2 prend également en
+charge les périodes relatives,
+
+76
+00:04:35,140 --> 00:04:38,248
+telles que l'année
+dernière, le mois dernier
+
+77
+00:04:38,248 --> 00:04:39,665
+et ce trimestre.
+
+78
+00:04:41,020 --> 00:04:42,940
+Celles-ci sont définies en fonction
+
+79
+00:04:42,940 --> 00:04:46,143
+de la date de réalisation de l'analyse.
+
+80
+00:04:48,640 --> 00:04:52,257
+Dans certains cas, les
+périodes fixes et relatives
+
+81
+00:04:52,257 --> 00:04:53,573
+font toutes deux référence
+
+82
+00:04:53,573 --> 00:04:55,960
+à la même période de temps.
+
+83
+00:04:55,960 --> 00:05:00,960
+Par exemple, si l'année en cours est 2021,
+
+84
+00:05:01,040 --> 00:05:05,260
+la période fixe, l'année 2020,
+
+85
+00:05:05,260 --> 00:05:08,610
+et la période relative, l'année dernière,
+
+86
+00:05:08,610 --> 00:05:11,293
+font toutes deux référence
+à la même période.
+
+87
+00:05:12,720 --> 00:05:15,850
+La principale différence
+est qu'une période fixe
+
+88
+00:05:15,850 --> 00:05:18,950
+ne se met pas à jour
+automatiquement au fil du temps
+
+89
+00:05:18,950 --> 00:05:21,327
+pour un élément d'analyse,
+
+90
+00:05:21,327 --> 00:05:22,993
+alors que la période relative
+
+91
+00:05:22,993 --> 00:05:25,100
+se mettra automatiquement à jour
+
+92
+00:05:25,100 --> 00:05:28,480
+avec de nouvelles données
+au fil du temps par rapport
+
+93
+00:05:28,480 --> 00:05:30,533
+à la date réelle.
+
+94
+00:05:31,670 --> 00:05:36,110
+Lors de la création de ressources
+analytiques dans DHIS2,
+
+95
+00:05:36,110 --> 00:05:39,663
+il est possible d'utiliser
+cette fonctionnalité.
+
+96
+00:05:42,190 --> 00:05:44,570
+Les périodes relatives peuvent être utiles
+
+97
+00:05:44,570 --> 00:05:47,250
+si vous souhaitez concevoir
+un rapport mensuel
+
+98
+00:05:47,250 --> 00:05:50,080
+pouvant être réutilisé chaque mois
+
+99
+00:05:50,080 --> 00:05:53,520
+sans avoir à modifier
+manuellement le rapport
+
+100
+00:05:53,520 --> 00:05:56,723
+pour réinitialiser la
+période au mois correct.
+
+101
+00:05:58,120 --> 00:06:01,380
+En résumé, nous avons
+appris que la période
+
+102
+00:06:01,380 --> 00:06:04,270
+est la dimension temporelle dans DHIS2
+
+103
+00:06:04,270 --> 00:06:08,760
+à la fois pour la collecte
+et l'analyse des données.
+
+104
+00:06:08,760 --> 00:06:11,540
+Les périodes au sein de DHIS2 consistent
+
+105
+00:06:11,540 --> 00:06:14,110
+en une combinaison de fréquences,
+
+106
+00:06:14,110 --> 00:06:17,320
+telles que mensuelles et annuelles,
+
+107
+00:06:17,320 --> 00:06:22,320
+et d'une période, telle
+que 2020, 2016 à 2020
+
+108
+00:06:23,740 --> 00:06:25,823
+et les six derniers mois.
+
+109
+00:06:26,830 --> 00:06:30,000
+La fréquence définie
+des données collectées
+
+110
+00:06:30,000 --> 00:06:32,990
+définit le niveau de détail
+de période le plus bas
+
+111
+00:06:32,990 --> 00:06:35,993
+qui peut être effectué
+dans l'analyse des données.
+
+112
+00:06:36,830 --> 00:06:39,363
+Alors que la capture de données agrégées
+
+113
+00:06:39,363 --> 00:06:41,820
+n'utilise que des périodes fixes,
+
+114
+00:06:41,820 --> 00:06:43,895
+dans l'analyse des données,
+
+115
+00:06:43,895 --> 00:06:46,400
+deux types de périodes sont utilisées:
+
+116
+00:06:46,400 --> 00:06:48,253
+fixe et relative.
+
+117
+00:06:49,330 --> 00:06:51,010
+Contrairement aux périodes fixes,
+
+118
+00:06:51,010 --> 00:06:53,360
+qui ne se mettent pas
+à jour automatiquement
+
+119
+00:06:53,360 --> 00:06:54,820
+au fil du temps,
+
+120
+00:06:54,820 --> 00:06:57,520
+les périodes relatives se
+mettront à jour automatiquement
+
+121
+00:06:57,520 --> 00:06:58,930
+au fil du temps
+
+122
+00:06:58,930 --> 00:07:01,826
+en fonction de la date d'analyse actuelle.
+
