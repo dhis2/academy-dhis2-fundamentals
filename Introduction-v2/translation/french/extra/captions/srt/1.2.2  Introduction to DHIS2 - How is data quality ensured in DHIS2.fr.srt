@@ -1,6 +1,7 @@
 ﻿1
 00:00:04,794 --> 00:00:09,693
-Introduction au DHIS2
+Examiner les données dans
+DHIS2 / Introduction à DHIS2
 
 2
 00:00:14,340 --> 00:00:15,173
@@ -23,8 +24,8 @@ explorer plusieurs outils de
 
 6
 00:00:25,640 --> 00:00:30,360
-l'application de qualité des
-données DHIS2 qui nous aideront
+l'application Qualité de données
+de DHIS2 qui nous aideront
 
 7
 00:00:30,360 --> 00:00:33,093
@@ -32,413 +33,422 @@ données DHIS2 qui nous aideront
 la qualité de nos données.
 
 8
-00:00:36,090 --> 00:00:39,030
+00:00:36,057 --> 00:00:39,030
 Tout d'abord, dans l'application
-de qualité des données,
+Qualité de données,
 
 9
 00:00:39,030 --> 00:00:42,170
-vous pouvez exécuter une
-analyse des règles de validation
+l'outil Analyse de règles
+de validation vous permet
 
 10
-00:00:42,170 --> 00:00:44,850
-qui teste les règles de
+00:00:42,170 --> 00:00:45,792
+de tester les règles de
 validation par rapport aux données
 
 11
-00:00:44,850 --> 00:00:47,783
-enregistrées dans le système. Après avoir
+00:00:45,792 --> 00:00:48,450
+enregistrées dans le système.
 
 12
-00:00:50,400 --> 00:00:53,680
-exécuté la vérification,
-vous obtiendrez un rapport
+00:00:50,400 --> 00:00:52,266
+Après avoir lancé la vérification,
 
 13
-00:00:53,680 --> 00:00:57,240
-contenant une liste des données
-qui doivent être vérifiées.
+00:00:52,266 --> 00:00:53,680
+vous obtiendrez un rapport
 
 14
+00:00:53,680 --> 00:00:55,230
+contenant une liste des données
+
+15
+00:00:55,230 --> 00:00:57,240
+qui doivent être vérifiées.
+
+16
 00:00:57,240 --> 00:01:01,100
 Par exemple, si nous
 regardons la première ligne,
 
-15
+17
 00:01:01,100 --> 00:01:05,040
 notre règle de validation
 dit que la valeur enregistrée
 
-16
+18
 00:01:05,040 --> 00:01:09,630
-pour la troisième visite
-de soins prénatals, ou ANC,
+pour la 3ème consultation
+prénatale, ou CPN
 
-17
-00:01:09,630 --> 00:01:11,000
+19
+00:01:09,630 --> 00:01:12,650
 ne peut pas être supérieure
 à la valeur enregistrée
 
-18
-00:01:11,000 --> 00:01:15,350
-pour la deuxième visite ANC.
-
-19
-00:01:15,350 --> 00:01:16,183
-Mais la valeur enregistrée pour
-la troisième visite de soins
-
 20
-00:01:16,183 --> 00:01:19,760
-prénatals est de six, alors
-que la valeur de la deuxième
+00:01:12,650 --> 00:01:15,350
+pour la 2ème consultation prénatale.
 
 21
-00:01:19,760 --> 00:01:23,580
-visite de soins prénatals est de quatre.
+00:01:15,350 --> 00:01:19,800
+Mais la valeur enregistrée
+pour la CPN3 est de 6,
 
 22
-00:01:23,580 --> 00:01:26,090
-Nous pouvons effectuer un suivi
-auprès de cet établissement
+00:01:19,800 --> 00:01:23,580
+alors que la valeur de la CPN2 est de 4.
 
 23
-00:01:26,090 --> 00:01:29,870
-pour déterminer la source
-spécifique de l'erreur.
+00:01:23,580 --> 00:01:26,090
+Nous pouvons faire un suivi
+auprès de cet établissement
 
 24
-00:01:29,870 --> 00:01:30,703
-Notez que vous pouvez
-également exécuter l'analyse
+00:01:26,090 --> 00:01:29,870
+pour déterminer la cause de l'erreur.
 
 25
-00:01:30,703 --> 00:01:34,080
+00:01:29,870 --> 00:01:32,395
+Notez que vous pouvez
+également effectuer l'analyse
+
+26
+00:01:32,395 --> 00:01:34,380
 des règles de validation
 pendant le processus
 
-26
-00:01:34,080 --> 00:01:36,593
+27
+00:01:34,380 --> 00:01:36,593
 de saisie des données.
 
-27
-00:01:38,440 --> 00:01:41,770
-L'analyse des valeurs
-aberrantes de l'écart-type est
-
 28
-00:01:41,770 --> 00:01:46,360
-un autre outil que nous
-pouvons utiliser pour vérifier
+00:01:38,440 --> 00:01:41,770
+La Détection des valeurs
+atypiques, basée sur l'écart-type
 
 29
+00:01:41,770 --> 00:01:46,360
+est un autre outil que nous
+pouvons utiliser pour vérifier
+
+30
 00:01:46,360 --> 00:01:50,910
 la qualité des données, en
 identifiant les valeurs qui sont
 
-30
+31
 00:01:50,910 --> 00:01:54,470
 potentiellement aberrantes
-par rapport à la distribution
-
-31
-00:01:54,470 --> 00:01:56,453
-normale standard des données examinées.
+par rapport à la
 
 32
+00:01:54,470 --> 00:01:56,453
+loi normale standard
+des données examinées.
+
+33
 00:01:57,810 --> 00:02:01,170
 Comme pour l'analyse des règles
 de validation, lorsque nous
 
-33
-00:02:01,170 --> 00:02:02,003
-exécutons une analyse
-des valeurs aberrantes de
-
 34
-00:02:02,003 --> 00:02:05,360
-l'écart-type, nous obtenons
-un rapport contenant toutes
+00:02:01,170 --> 00:02:03,160
+lançons une analyse des
+valeurs aberrantes, basée sur
 
 35
-00:02:05,360 --> 00:02:09,820
-les données qui doivent être vérifiées.
+00:02:03,160 --> 00:02:05,360
+l'écart-type, nous obtenons
+un rapport contenant
 
 36
-00:02:09,820 --> 00:02:12,160
-Par exemple, dans cette
-ligne, les données indiquent
+00:02:05,360 --> 00:02:09,820
+toutes les données qui
+doivent être vérifiées.
 
 37
-00:02:12,160 --> 00:02:17,160
-que seuls cinq vaccins
-BCG ont été administrés
+00:02:09,820 --> 00:02:12,160
+Par exemple, sur cette
+ligne, les données indiquent
 
 38
+00:02:12,160 --> 00:02:17,160
+que seuls 5 vaccins
+BCG ont été administrés
+
+39
 00:02:17,270 --> 00:02:19,260
 dans cet établissement de santé.
 
-39
-00:02:19,260 --> 00:02:21,080
-Cette valeur de cinq se situe
-en dehors de la distribution
-
 40
-00:02:21,080 --> 00:02:25,660
-normale de ces données,
-et elle a été identifiée
+00:02:19,260 --> 00:02:22,789
+Cette valeur de 5 se situe
+en dehors de la loi normale
 
 41
-00:02:25,660 --> 00:02:29,903
-comme une source potentielle d'erreur.
+00:02:22,789 --> 00:02:26,360
+appliquée à ces données,
+et elle a été identifiée
 
 42
-00:02:31,720 --> 00:02:36,250
-Un autre outil est l'analyse
-des valeurs aberrantes min-max,
+00:02:26,360 --> 00:02:29,903
+comme une source potentielle d'erreur.
 
 43
-00:02:36,250 --> 00:02:40,320
-qui vérifie si les données se
-situent dans une fourchette
+00:02:31,720 --> 00:02:34,716
+Un autre outil est la Détection
+des valeurs atypiques,
 
 44
-00:02:40,320 --> 00:02:41,153
-prédéfinie qui leur a été spécifiée.
+00:02:34,716 --> 00:02:37,091
+cette fois-ci basée sur les
+minimum et maximum, qui vérifie
 
 45
-00:02:41,153 --> 00:02:44,470
-Elle répertorie les valeurs qui
+00:02:37,091 --> 00:02:40,749
+si les données se situent
+dans une fourchette
 
 46
-00:02:44,470 --> 00:02:49,470
-se situent en dehors de
-cette plage prédéfinie.
+00:02:40,749 --> 00:02:42,886
+spécifiquement prédéfinie.
 
 47
-00:02:49,480 --> 00:02:51,720
-Nous pouvons voir dans
-l'exemple, une valeur
+00:02:44,412 --> 00:02:46,596
+Cet outil répertorie les valeurs qui
 
 48
-00:02:51,720 --> 00:02:56,720
-de 45 cas suspects d'AEFI, ce qui
+00:02:46,596 --> 00:02:49,247
+se situent en dehors de
+la fourchette prédéfinie.
 
 49
-00:02:57,610 --> 00:03:00,050
-est en dehors de la plage d'un minimum
+00:02:49,247 --> 00:02:51,720
+Nous pouvons voir dans l'exemple,
 
 50
-00:03:00,050 --> 00:03:04,133
-de zéro à un maximum de 22.
+00:02:51,720 --> 00:02:56,720
+une valeur de 45 cas suspects de MAPI,
 
 51
-00:03:05,930 --> 00:03:10,800
-Le quatrième et dernier outil
-disponible dans l'application
+00:02:57,260 --> 00:03:00,050
+ce qui est en dehors de la
+fourchette avec un minimum
 
 52
-00:03:10,800 --> 00:03:13,760
-de qualité des données est
-l'outil d'analyse de suivi.
+00:03:00,050 --> 00:03:04,133
+de 0 et un maximum de 22.
 
 53
-00:03:13,760 --> 00:03:18,320
-L'analyse de suivi crée une
-liste de toutes les valeurs de
+00:03:05,930 --> 00:03:10,800
+Le 4ème et dernier outil
+disponible dans l'application
 
 54
-00:03:18,320 --> 00:03:20,113
-données marquées pour le suivi.
+00:03:10,800 --> 00:03:13,760
+Qualité de données est
+l'outil Analyse des Suivis.
 
 55
-00:03:22,570 --> 00:03:27,450
-Nous pouvons marquer une
-valeur de données pour le suivi
+00:03:13,760 --> 00:03:18,320
+Analyse des Suivis crée une
+liste de toutes les valeurs de
 
 56
-00:03:27,450 --> 00:03:29,610
-dans l'application de
-saisie de données et dans
+00:03:18,320 --> 00:03:20,396
+données marquées pour le suivi.
 
 57
-00:03:29,610 --> 00:03:30,443
-l'application de qualité
-des données via les rapports
+00:03:22,561 --> 00:03:25,701
+Nous pouvons marquer la valeur
+d'une donnée pour un suivi
 
 58
-00:03:30,443 --> 00:03:33,810
-des outils d'analyse des valeurs
-aberrantes de l'écart-type
+00:03:25,701 --> 00:03:27,909
+dans l'application
+Saisie de données ou dans
 
 59
-00:03:33,810 --> 00:03:37,483
-et des valeurs aberrantes min-max.
+00:03:27,909 --> 00:03:30,560
+l'application Qualité de
+données via les rapports générés
 
 60
-00:03:38,760 --> 00:03:41,780
+00:03:30,560 --> 00:03:33,810
+par les outils d'analyse des
+valeurs aberrantes utilisant
+
+61
+00:03:33,810 --> 00:03:37,483
+l'écart-type et les
+valeurs minimum et maximum.
+
+62
+00:03:38,760 --> 00:03:42,689
 Voici un exemple de rapport
 obtenu après avoir exécuté
 
-61
-00:03:41,780 --> 00:03:45,473
-une analyse de suivi dans le DHIS2.
+63
+00:03:42,689 --> 00:03:46,131
+une analyse de suivi dans  DHIS2.
 
-62
-00:03:47,580 --> 00:03:50,080
+64
+00:03:47,580 --> 00:03:52,088
 En coordination avec l'OMS, un
 outil de qualité des données
 
-63
-00:03:50,080 --> 00:03:54,790
-pour le DHIS2 a été créé.
+65
+00:03:52,088 --> 00:03:54,790
+pour DHIS2 a été créé.
 Cette application génère
 
-64
+66
 00:03:54,790 --> 00:03:58,740
-des conclusions sur la
-qualité des données en suivant
+des résultats sur la qualité
+des données en suivant
 
-65
+67
 00:03:58,740 --> 00:04:03,463
 le cadre d'examen de la
 qualité des données de l'OMS.
 
-66
-00:04:05,600 --> 00:04:07,800
-Cela inclut l'exhaustivité.
-
-67
-00:04:07,800 --> 00:04:11,920
-C'est-à-dire si toutes
-les données attendues
-
 68
-00:04:11,920 --> 00:04:16,870
-sont enregistrées,
-l'actualité, ou si les données
+00:04:05,600 --> 00:04:07,800
+Celui-ci inclut l'exhaustivité :
 
 69
-00:04:16,870 --> 00:04:19,240
-ont été reçues à temps,
-la cohérence interne, qui
+00:04:07,800 --> 00:04:11,845
+est-ce que toutes les données
+attendues sont enregistrées ;
 
 70
-00:04:19,240 --> 00:04:23,720
+00:04:11,845 --> 00:04:14,803
+la ponctualité : est-ce
+que les données ont
+
+71
+00:04:14,803 --> 00:04:19,015
+été reçues à temps ; la
+cohérence interne, qui
+
+72
+00:04:19,015 --> 00:04:23,720
 compare les données soumises
 en interne entre elles,
 
-71
-00:04:23,720 --> 00:04:26,150
-et la cohérence externe,
-qui compare les données avec
-
-72
-00:04:26,150 --> 00:04:30,703
-d'autres sources, comme
-les enquêtes. À titre
-
 73
-00:04:33,283 --> 00:04:37,537
-d'exemple, nous pouvons
-examiner la cohérence interne.
+00:04:23,720 --> 00:04:27,467
+et la cohérence externe,
+qui compare les données
 
 74
+00:04:27,467 --> 00:04:30,970
+avec d'autres sources, comme les enquêtes.
+
+75
+00:04:33,283 --> 00:04:37,537
+Examinons par exemple
+la cohérence interne.
+
+76
 00:04:39,660 --> 00:04:42,660
 L'outil de qualité des
 données de l'OMS nous permet
 
-75
+77
 00:04:42,660 --> 00:04:47,320
 d'identifier les valeurs
 aberrantes dans nos données.
 
-76
-00:04:47,320 --> 00:04:51,470
-Nous pouvons en voir un exemple
-dans le district C-1, où le
-
-77
-00:04:51,470 --> 00:04:56,070
-nombre de vaccins contre la
-rougeole administrés en janvier
-
 78
-00:04:56,980 --> 00:05:01,550
-2020 est beaucoup plus
-élevé que les autres valeurs
+00:04:47,320 --> 00:04:51,470
+Nous pouvons en voir un
+exemple dans le district C-1,
 
 79
-00:05:01,550 --> 00:05:05,100
+00:04:51,470 --> 00:04:54,053
+où le nombre de vaccins contre la rougeole
+
+80
+00:04:54,053 --> 00:04:56,930
+administrés en janvier 2020
+
+81
+00:04:56,930 --> 00:05:00,867
+est beaucoup plus élevé
+que les autres valeurs
+
+82
+00:05:00,867 --> 00:05:05,100
 signalées dans le même
 district la même année.
 
-80
+83
 00:05:08,050 --> 00:05:10,250
 Cela nous aide à visualiser facilement
 
-81
+84
 00:05:10,250 --> 00:05:12,850
 les données qui doivent
 être vérifiées avant
 
-82
+85
 00:05:12,850 --> 00:05:15,593
 de procéder à une analyse.
 
-83
-00:05:16,730 --> 00:05:19,720
+86
+00:05:16,730 --> 00:05:21,188
 En résumé, dans DHIS2, il
 existe plusieurs outils
 
-84
-00:05:19,720 --> 00:05:21,240
+87
+00:05:21,188 --> 00:05:22,623
 qui nous aident à vérifier
 
-85
-00:05:21,240 --> 00:05:25,170
-la qualité des données saisies, comme
-
-86
-00:05:25,170 --> 00:05:28,330
-les règles de validation,
-l'analyse des valeurs
-
-87
-00:05:28,330 --> 00:05:32,530
-aberrantes de l'écart-type, l'analyse
-
 88
-00:05:32,530 --> 00:05:36,260
-des valeurs aberrantes de
-l'écart-type, l'analyse des
+00:05:22,623 --> 00:05:25,170
+la qualité des données saisies,
 
 89
-00:05:36,260 --> 00:05:38,731
-valeurs aberrantes minimum-maximum
-et l'analyse de suivi.
+00:05:25,170 --> 00:05:28,330
+comme les règles de validation,
 
 90
+00:05:28,330 --> 00:05:32,530
+l'analyse des valeurs
+aberrantes basée l'écart-type
+
+91
+00:05:32,530 --> 00:05:34,993
+l'analyse des valeurs aberrantes basée sur
+
+92
+00:05:34,993 --> 00:05:38,731
+les minimum et maximum
+et l'analyse de suivi.
+
+93
 00:05:38,731 --> 00:05:43,130
 Le DHIS2 et l'OMS ont également collaboré
 
-91
-00:05:43,130 --> 00:05:45,710
+94
+00:05:43,130 --> 00:05:46,285
 pour créer un outil de qualité
 des données qui effectue
 
-92
-00:05:45,710 --> 00:05:49,450
+95
+00:05:46,285 --> 00:05:50,759
 des contrôles pour valider
-l'exhaustivité, l'actualité,
+l'exhaustivité, la ponctualité
 
-93
-00:05:49,450 --> 00:05:54,450
+96
+00:05:50,759 --> 00:05:55,050
 la cohérence interne et
 la cohérence externe.
 
-94
+97
 00:05:56,983 --> 00:06:01,233
-Université d'Olso
+Université d'Oslo
 

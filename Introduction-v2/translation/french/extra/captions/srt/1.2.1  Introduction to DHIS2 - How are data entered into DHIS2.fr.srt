@@ -1,7 +1,7 @@
 ﻿1
 00:00:04,204 --> 00:00:06,787
-L'entrée de données dans
-DHIS / Introduction à DHIS2
+La saisie des données dans
+DHIS2 / Introduction à DHIS2
 
 2
 00:00:13,660 --> 00:00:14,601
@@ -9,12 +9,12 @@ Si nous voulons prendre
 
 3
 00:00:14,601 --> 00:00:17,090
-des décisions éclairées
+des décisions réfléchies,
 basées sur les données
 
 4
 00:00:17,090 --> 00:00:19,280
-qui ont un impact sur les gens,
+qui ont un impact sur les populations
 
 5
 00:00:19,280 --> 00:00:21,310
@@ -37,7 +37,7 @@ confiance à notre analyse
 
 9
 00:00:29,780 --> 00:00:31,853
-pour soutenir la prise de décision.
+pour appuyer la prise de décision.
 
 10
 00:00:33,020 --> 00:00:34,811
@@ -51,7 +51,7 @@ saisies dans le système DHIS2.
 12
 00:00:38,450 --> 00:00:41,940
 Dans la vidéo suivante, vous
-découvrirez comment le DHIS2
+découvrirez comment DHIS2
 
 13
 00:00:41,940 --> 00:00:44,633
@@ -60,17 +60,17 @@ qualité des données.
 
 14
 00:00:46,890 --> 00:00:51,030
-Le DHIS2 fonctionne comme un
+DHIS2 fonctionne comme un
 entrepôt de données centralisé
 
 15
 00:00:51,030 --> 00:00:52,890
-capable de capturer des données
+capable de recueillir des données
 
 16
 00:00:52,890 --> 00:00:56,240
-à partir d'un nombre de sources
-et de dispositifs différents
+à partir de nombreuses sources
+et appareils différents
 
 17
 00:00:56,240 --> 00:00:57,073
@@ -99,453 +99,448 @@ ou d'autres systèmes électroniques.
 Au sein de la plateforme DHIS2,
 
 23
-00:01:12,890 --> 00:01:15,460
+00:01:12,890 --> 00:01:16,368
 il existe plusieurs outils
 de collecte de données
 
 24
-00:01:15,460 --> 00:01:16,368
-de collecte de données
-
-25
 00:01:16,368 --> 00:01:18,410
 que nous pouvons utiliser
 selon le type de données
 
-26
+25
 00:01:18,410 --> 00:01:20,230
-que nous voulons capturer.
+que nous voulons collecter.
 
-27
+26
 00:01:20,230 --> 00:01:21,063
 Nous pouvons distinguer
 
-28
+27
 00:01:21,063 --> 00:01:25,610
-3 grandes catégories de
-données dans le DHIS2
+3 grandes catégories de données dans DHIS2
 
-29
+28
 00:01:25,610 --> 00:01:28,270
 également appelées modèles de données,
 
-30
+29
 00:01:28,270 --> 00:01:31,320
 les données numériques ou agrégées,
 
-31
+30
 00:01:31,320 --> 00:01:34,490
 les données individualisées anonymes,
 
-32
+31
 00:01:34,490 --> 00:01:38,070
 et les données individuelles
 avec identifiants.
 
-33
+32
 00:01:38,070 --> 00:01:41,223
 Passons brièvement en revue
 chacun de ces modèles.
 
-34
+33
 00:01:42,910 --> 00:01:44,493
 Le premier modèle de données
 
-35
+34
 00:01:44,493 --> 00:01:47,380
 est celui des données
 numériques ou agrégées.
 
-36
+35
 00:01:47,380 --> 00:01:49,571
 Et nous utilisons l'application
 d'entrée de données
 
-37
+36
 00:01:49,571 --> 00:01:51,479
 pour capturer les données de ce type.
 
-38
+37
 00:01:53,280 --> 00:01:54,550
 Par exemple,
 
-39
+38
 00:01:54,550 --> 00:01:58,740
 disons que 10 enfants ont
 reçu leurs vaccins aujourd'hui
 
-40
+39
 00:01:58,740 --> 00:02:00,760
 dans un établissement de santé donné
 
-41
+40
 00:02:00,760 --> 00:02:04,140
 dans le cadre d'un
-programme d'immunisation,
+programme de vaccination
 
-42
+41
 00:02:04,140 --> 00:02:07,723
 et on veut saisir cette
-information dans le système DHIS2.
+information dans DHIS2.
+
+42
+00:02:09,340 --> 00:02:10,398
+Quelles sont les étapes
 
 43
-00:02:09,340 --> 00:02:10,173
-Quelles sont les
-
-44
-00:02:10,173 --> 00:02:13,630
-étapes que nous devons suivre
+00:02:10,398 --> 00:02:13,630
+que nous devons suivre
 pour saisir ces données ?
 
-45
+44
 00:02:13,630 --> 00:02:16,733
 Allons sur la plateforme et
 voyons comment cela fonctionne.
 
-46
+45
 00:02:18,410 --> 00:02:19,601
 Après vous être connecté,
 
-47
+46
 00:02:19,601 --> 00:02:23,243
 allez sur l'icône des
-applications dans le DHIS2
+applications dans DHIS2
 
-48
+47
 00:02:24,800 --> 00:02:27,520
 et ouvrez l'application
-"entrée de données".
+"Saisie de données".
 
-49
+48
 00:02:27,520 --> 00:02:28,353
 Ensuite, utilisez
 
-50
+49
 00:02:28,353 --> 00:02:32,603
 le champ de recherche pour
 trouver l'établissement.
 
-51
+50
 00:02:35,390 --> 00:02:38,040
 Dans la liste déroulante
 des ensembles de données,
 
-52
+51
 00:02:38,040 --> 00:02:41,460
-sélectionnez le programme d'immunisation.
+sélectionnez le programme de vaccination.
 
-53
+52
 00:02:41,460 --> 00:02:42,526
 Et enfin, sélectionnez
 
-54
+53
 00:02:42,526 --> 00:02:46,220
 la période que vous
 souhaitez mettre à jour.
 
-55
+54
 00:02:46,220 --> 00:02:47,320
 Pour saisir les données,
 
-56
+55
 00:02:47,320 --> 00:02:50,363
-cliquez sur la cellule
-"valeur des données"
+cliquez sur la cellule à renseigner
 
-57
+56
 00:02:50,363 --> 00:02:52,113
 et saisissez les valeurs.
 
-58
+57
 00:02:56,720 --> 00:02:57,553
 Notez que les
 
-59
+58
 00:02:57,553 --> 00:03:01,650
 formulaires ainsi que la
 configuration et la hiérarchie
 
-60
+59
 00:03:01,650 --> 00:03:04,990
 du système de santé sont
 entièrement personnalisables
 
-61
+60
 00:03:04,990 --> 00:03:06,660
-au sein de la plate-forme.
+au sein de la plateforme.
 
-62
+61
 00:03:06,660 --> 00:03:09,533
 Nous y reviendrons plus loin.
 
-63
+62
 00:03:10,560 --> 00:03:14,340
 La deuxième catégorie de
 données ou modèle de données
 
-64
+63
 00:03:14,340 --> 00:03:18,520
 saisit les données
 anonymes individualisées
 
-65
+64
 00:03:18,520 --> 00:03:20,850
-également appelées événements.
+également appelées "Événements".
+
+65
+00:03:20,850 --> 00:03:22,608
+Et nous utilisons l'application "Saisie"
 
 66
-00:03:20,850 --> 00:03:22,608
-Et nous utilisons l'application Capture
+00:03:22,608 --> 00:03:25,350
+pour enregistrer les données
+liées aux événements.
 
 67
-00:03:22,608 --> 00:03:25,350
-pour enregistrer les
-données des événements.
-
-68
 00:03:26,710 --> 00:03:30,040
 Par exemple, disons que
 nous voulons enregistrer
 
-69
+68
 00:03:30,040 --> 00:03:30,873
 un nouveau cas
 
-70
+69
 00:03:30,873 --> 00:03:35,020
 de COVID-19 dans un
 établissement de santé donné.
 
-71
+70
 00:03:35,020 --> 00:03:36,536
 Quelles sont les étapes à suivre
 
-72
+71
 00:03:36,536 --> 00:03:39,170
-pour saisir ces données
-dans le système DHIS2 ?
+pour saisir ces données dans DHIS2 ?
 
-73
+72
 00:03:39,170 --> 00:03:40,973
 Revenons à la plateforme.
 
-74
+73
 00:03:42,960 --> 00:03:45,110
 Pour saisir les données d'un événement,
 
-75
+74
 00:03:45,110 --> 00:03:46,851
-sélectionnez l'application Capture
+sélectionnez l'application "Saisie"
 
-76
+75
 00:03:46,851 --> 00:03:49,026
 à partir de l'icône des applications.
 
-77
+76
 00:03:51,010 --> 00:03:53,593
 Ensuite, recherchez l'établissement,
 
-78
+77
 00:03:58,030 --> 00:04:00,540
-et sélectionnez le
-programme de l'événement.
+et sélectionnez le programme d'événements.
 
-79
+78
 00:04:00,540 --> 00:04:04,300
 Dans ce cas, les cas de COVID-19.
 
-80
+79
 00:04:04,300 --> 00:04:07,450
-Et ensuite, cliquez sur nouvel événement.
+Et ensuite, cliquez sur
+le bouton "Nouveau".
 
-81
+80
 00:04:07,450 --> 00:04:09,280
 Une fois que vous avez
 rempli le formulaire,
 
-82
+81
 00:04:09,280 --> 00:04:11,593
 les données sont stockées dans DHIS2.
 
-83
+82
 00:04:14,050 --> 00:04:16,630
 Notez que lors de la
 saisie des événements,
 
-84
+83
 00:04:16,630 --> 00:04:19,430
 les données saisies sont anonymes,
 
-85
+84
 00:04:19,430 --> 00:04:21,990
 et le suivi des cas individuels
 
-86
+85
 00:04:21,990 --> 00:04:24,713
 n'est pas possible dans
 le cadre de ce modèle.
 
-87
+86
 00:04:26,160 --> 00:04:29,650
-Le 3ème type de données c'est
+Le 3ème type de données sont
 les données individuelles
 
-88
+87
 00:04:29,650 --> 00:04:33,760
 avec des identifiants qui peuvent
 être suivis dans le temps.
 
-89
+88
 00:04:33,760 --> 00:04:34,901
 Ce modèle est également
 
-90
+89
 00:04:34,901 --> 00:04:37,450
 connu comme le modèle de données de suivi.
 
-91
+90
 00:04:37,450 --> 00:04:39,630
 Nous utilisons l'application
-"Tracker Capture"
+"Saisie Tracker"
 
-92
+91
 00:04:39,630 --> 00:04:42,653
 pour enregistrer et
 saisir ce type de données.
 
-93
+92
 00:04:43,820 --> 00:04:45,520
 En utilisant ce modèle de données,
 
-94
+93
 00:04:45,520 --> 00:04:48,160
 il est possible d'identifier une personne
 
-95
+94
 00:04:48,160 --> 00:04:50,840
 par son nom, son numéro de téléphone,
 
-96
+95
 00:04:50,840 --> 00:04:54,313
 ou une combinaison de
 tout autre identifiant.
 
+96
+00:04:55,640 --> 00:04:56,815
+Nous utilisons ce modèle
+
 97
-00:04:55,640 --> 00:04:56,473
-Nous utilisons ce
+00:04:56,815 --> 00:04:59,860
+lorsque nous voulons faire
+un suivi des personnes
 
 98
-00:04:56,473 --> 00:04:59,860
-modèle lorsque nous voulons
-faire un suivi des personnes
+00:04:59,860 --> 00:05:01,840
+pour suivre leurs prestations
 
 99
-00:04:59,860 --> 00:05:01,840
-pour suivre leurs services
-
-100
 00:05:01,840 --> 00:05:05,903
 et effectuer une gestion des
 cas au niveau individuel.
 
-101
+100
 00:05:07,460 --> 00:05:11,360
 Par exemple, disons que nous
 voulons enregistrer un patient
 
-102
+101
 00:05:11,360 --> 00:05:12,193
 avec le COVID-19 pour
 
-103
+102
 00:05:12,193 --> 00:05:15,910
 faciliter la surveillance de la maladie.
 
-104
+103
 00:05:15,910 --> 00:05:19,433
 Quelles étapes devrez-vous
 suivre pour saisir ces données ?
 
-105
+104
 00:05:22,030 --> 00:05:24,420
 Comme dans les exemples précédents,
 
-106
+105
 00:05:24,420 --> 00:05:26,810
 allez dans l'icône "applications".
 
-107
+106
 00:05:26,810 --> 00:05:31,033
 Et dans ce cas, ouvrez
-l'application "Tracker Capture".
+l'application "Saisie Tracker".
 
-108
+107
 00:05:32,810 --> 00:05:35,103
 Ensuite, sélectionnez l'établissement,
 
-109
+108
 00:05:40,200 --> 00:05:42,003
 sélectionnez le programme,
 
-110
+109
 00:05:44,350 --> 00:05:46,590
-et cliquez sur enregistrer.
+et cliquez sur "Enregistrer".
 
-111
+110
 00:05:46,590 --> 00:05:51,220
 Le formulaire contient des
 données qui identifient les
 
-112
+111
 00:05:51,220 --> 00:05:54,410
 individus et suivent les
-services qu'ils reçoivent.
+prestations qu'ils reçoivent.
 
-113
+112
 00:05:54,410 --> 00:05:58,640
 Pour résumer, il existe trois
 grandes catégories de données
 
-114
+113
 00:05:58,640 --> 00:06:01,840
-ou de modèles de données dans le DHIS2,
+ou de modèles de données dans DHIS2,
 
-115
+114
 00:06:01,840 --> 00:06:04,810
 les données numériques ou agrégées,
 
-116
+115
 00:06:04,810 --> 00:06:07,840
 les données individualisées anonymes
 
-117
+116
 00:06:07,840 --> 00:06:09,710
 ou événements,
 
-118
+117
 00:06:09,710 --> 00:06:13,010
 et les données individuelles
 avec identifiants
 
-119
+118
 00:06:13,010 --> 00:06:15,400
-ou le modèle de données tracker.
+ou le modèle de données
+de suivi (Tracker).
 
-120
+119
 00:06:15,400 --> 00:06:19,680
 Et pour chacun, il existe un
 outil de saisie spécifique;
 
-121
+120
 00:06:19,680 --> 00:06:21,071
-l'entrée de données pour les
+"Saisie de données" pour
+les données agrégées,
+
+121
+00:06:21,071 --> 00:06:25,595
+l'application "Saisie"
+pour les événements,
 
 122
-00:06:21,071 --> 00:06:25,220
-données agrégées, l'application
-Capture pour les événements,
-
-123
-00:06:25,220 --> 00:06:28,153
-et l'application Capture Tracker
+00:06:25,595 --> 00:06:28,528
+et l'application "Saisie Tracker"
 pour les données de suivi.
 

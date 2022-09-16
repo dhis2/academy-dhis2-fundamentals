@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,315 --> 00:00:06,085
-Utiliser la plateforme d'apprentissage
+Naviguer dans l'Académie en ligne
 
 2
 00:00:06,085 --> 00:00:07,476
@@ -238,7 +238,7 @@ pour naviguer entre les pages.
 55
 00:02:51,880 --> 00:02:54,003
 vous trouverez un
-formulaire de rétroaction.
+questionnaire de commentaires.
 
 56
 00:02:55,180 --> 00:02:58,400
@@ -269,8 +269,7 @@ liés à votre cours.
 
 62
 00:03:11,830 --> 00:03:16,550
-Dans ce cas :
-Cours, Discussion,
+Dans ce cas : Cours, Discussion,
 
 63
 00:03:16,550 --> 00:03:20,440
@@ -283,12 +282,12 @@ et Guide du participant.
 65
 00:03:23,030 --> 00:03:26,000
 Nous avons déjà exploré
-le panneau de cours,
+l'interface du cours,
 
 66
 00:03:26,000 --> 00:03:28,383
 alors regardons maintenant
-le panneau de discussion.
+l'interface de discussion.
 
 67
 00:03:29,360 --> 00:03:32,660
