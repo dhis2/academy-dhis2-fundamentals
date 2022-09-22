@@ -13,7 +13,7 @@ are captured in DHIS2
 
 4
 00:00:18,810 --> 00:00:23,080
-for aggregate events and tracker models,
+for aggregate, events, and tracker models,
 
 5
 00:00:23,080 --> 00:00:27,083

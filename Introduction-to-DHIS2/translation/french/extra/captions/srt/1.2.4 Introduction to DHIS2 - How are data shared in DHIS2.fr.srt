@@ -5,47 +5,46 @@ Diffusion des données
 
 2
 00:00:13,780 --> 00:00:14,980
-- [Instructeur] Jusqu'à présent,
+- [Instructrice] Jusqu'à présent,
 
 3
-00:00:14,980 --> 00:00:16,480
-nous avons vu comment les données
+00:00:14,980 --> 00:00:16,172
+nous avons vu de quelle manière
 
 4
-00:00:16,480 --> 00:00:18,810
-sont capturées dans DHIS2
+00:00:16,172 --> 00:00:18,810
+les données sont saisies
+dans DHIS2 pour les modèles
 
 5
 00:00:18,810 --> 00:00:23,080
-pour les événements agrégés
-et les modèles de suivi,
+de données agrégées,
+d'événement, et de suivi.
 
 6
 00:00:23,080 --> 00:00:25,130
-et comment ces données sont vérifiées
+Nous avons aussi vu comment
+ces données sont vérifiées
 
 7
 00:00:25,130 --> 00:00:28,070
-pour garantir la qualité des données.
+pour garantir leur qualité.
 
 8
-00:00:28,070 --> 00:00:30,828
-Nous avons également vu
-comment les données saisies
+00:00:28,070 --> 00:00:29,778
+Enfin, nous avons vu
 
 9
-00:00:30,828 --> 00:00:32,260
-sont transformées
+00:00:29,778 --> 00:00:32,260
+comment les données saisies sont traitées
 
 10
 00:00:32,260 --> 00:00:35,600
-en différentes sorties de
-visualisation de données,
+en différentes représentations,
 
 11
 00:00:35,600 --> 00:00:37,841
-telles que des tableaux
-croisés dynamiques,
+comme des tableaux croisés dynamiques,
 
 12
 00:00:37,841 --> 00:00:39,960
@@ -58,7 +57,7 @@ des rapports automatiques
 
 14
 00:00:43,300 --> 00:00:45,023
-basés sur ces données.
+à partir de ces données.
 
 15
 00:00:47,400 --> 00:00:49,310
@@ -67,7 +66,7 @@ Dans cette vidéo, nous verrons
 16
 00:00:49,310 --> 00:00:53,150
 comment ces différentes
-sorties et autres éléments
+représentations et autres éléments
 
 17
 00:00:53,150 --> 00:00:55,900
@@ -84,7 +83,7 @@ sur un programme donné
 
 20
 00:00:59,410 --> 00:01:01,626
-peuvent être affichées et partagées
+peuvent être présentées et partagées
 
 21
 00:01:01,626 --> 00:01:03,070
@@ -96,7 +95,7 @@ pour faciliter la diffusion des données.
 
 23
 00:01:07,830 --> 00:01:09,013
-En règle générale,
+En général,
 
 24
 00:01:09,013 --> 00:01:11,610
@@ -114,8 +113,8 @@ Le tableau de bord est la page
 
 27
 00:01:20,090 --> 00:01:23,920
-où vous trouverez une
-collection de divers résultats,
+où vous trouverez une collection
+de divers représentations,
 
 28
 00:01:23,920 --> 00:01:26,053
@@ -134,7 +133,7 @@ tableaux de bord disponibles
 31
 00:01:33,700 --> 00:01:37,313
 que vous pouvez parcourir à
-l'aide du menu Tableau de bord.
+l'aide du menu de l'application.
 
 32
 00:01:38,210 --> 00:01:40,730
@@ -143,7 +142,7 @@ chaque utilisateur voit
 
 33
 00:01:40,730 --> 00:01:42,850
-sont entièrement personnalisables,
+sont entièrement configurables,
 
 34
 00:01:42,850 --> 00:01:46,770
@@ -156,7 +155,7 @@ de manière sécurisée concernant
 
 36
 00:01:48,878 --> 00:01:52,660
-des sujets et des sorties spécifiques.
+des sujets et des représentations donnés.
 
 37
 00:01:52,660 --> 00:01:54,809
@@ -165,7 +164,7 @@ Par exemple, ici,
 38
 00:01:54,809 --> 00:01:57,730
 vous pouvez voir un tableau
-de bord de vaccination
+de bord sur la vaccination
 
 39
 00:01:57,730 --> 00:02:00,820
@@ -191,13 +190,13 @@ sur les performances du programme
 
 44
 00:02:10,750 --> 00:02:13,930
-et identifie les régions
-qui fonctionnent bien
+et identifie les régions qui
+obtiennent de bons résultats
 
 45
 00:02:13,930 --> 00:02:17,380
 par rapport à celles qui
-doivent être améliorées.
+ont besoin de s'améliorer.
 
 46
 00:02:17,380 --> 00:02:19,396
@@ -205,7 +204,7 @@ Vous pouvez également prendre une carte
 
 47
 00:02:19,396 --> 00:02:20,840
-et la convertir rapidement
+et la transformer rapidement
 
 48
 00:02:20,840 --> 00:02:23,440
@@ -213,22 +212,22 @@ en graphique ou en tableau directement
 
 49
 00:02:23,440 --> 00:02:25,420
-dans le tableau de bord.
+depuis le tableau de bord.
 
 50
 00:02:25,420 --> 00:02:27,560
 Cette fonctionnalité vous
-permet de vous déplacer
+permet de basculer entre
 
 51
 00:02:27,560 --> 00:02:30,610
-entre les graphiques, les
-cartes et les tableaux
+les graphiques, cartes et
+tableaux pour n'importe quelle
 
 52
 00:02:30,610 --> 00:02:34,830
-pour toutes les sorties
-situées sur le tableau de bord.
+représentations qui se trouvent
+dans le tableau de bord.
 
 53
 00:02:34,830 --> 00:02:37,860
@@ -237,7 +236,7 @@ objet dans le tableau de bord
 
 54
 00:02:37,860 --> 00:02:40,118
-pour approfondir les données,
+pour en analyser les données,
 
 55
 00:02:40,118 --> 00:02:42,868
@@ -245,7 +244,7 @@ vous pouvez le faire facilement.
 
 56
 00:02:44,220 --> 00:02:45,670
-Les données affichées dans
+Les données présentées dans
 
 57
 00:02:45,670 --> 00:02:47,340
@@ -253,146 +252,138 @@ le tableau de bord d'un utilisateur
 
 58
 00:02:47,340 --> 00:02:50,910
-dépendent de son propre niveau d'accès.
+dépendent de son niveau d'accès.
 
 59
 00:02:50,910 --> 00:02:53,851
 Par exemple, un utilisateur
-avec des permissions
+ayant les droits
 
 60
-00:02:53,851 --> 00:02:55,060
-pour afficher des données
+00:02:53,851 --> 00:02:57,126
+pour voir les données d'un pays entier
 
 61
-00:02:55,060 --> 00:02:57,200
-d'un pays entier
+00:02:57,126 --> 00:02:59,316
+verra plus de données agrégées
 
 62
-00:02:57,200 --> 00:02:59,316
-verra plus d'informations agrégées
-
-63
 00:02:59,316 --> 00:03:01,280
 sur un tableau de bord donné
 
-64
+63
 00:03:01,280 --> 00:03:04,470
 qu'un autre utilisateur qui
 ne peut voir que les données
 
-65
-00:03:04,470 --> 00:03:06,483
+64
+00:03:04,470 --> 00:03:06,858
 d'un seul district.
 
-66
+65
 00:03:09,100 --> 00:03:11,700
 Vous pouvez également
 afficher les descriptions
 
-67
+66
 00:03:11,700 --> 00:03:14,570
-et interprétations des sorties
+et interprétations des représentations
+
+67
+00:03:14,570 --> 00:03:18,710
+qui aident à décrire ce
+que celles-ci représentent.
 
 68
-00:03:14,570 --> 00:03:18,710
-qui aident à décrire ce que
-les sorties représentent.
-
-69
 00:03:18,710 --> 00:03:20,968
 Si vous souhaitez faire un commentaire
 
+69
+00:03:20,968 --> 00:03:24,573
+sur ces interprétations, vous
+pouvez facilement le faire
+
 70
-00:03:20,968 --> 00:03:22,740
-sur ces interprétations,
+00:03:24,573 --> 00:03:26,700
+à partir de cette même page.
 
 71
-00:03:22,740 --> 00:03:26,700
-vous pouvez facilement le
-faire à partir de la même page.
-
-72
 00:03:26,700 --> 00:03:30,060
 Comme vous pouvez le voir,
 cette fonctionnalité permet
 
-73
-00:03:30,060 --> 00:03:32,635
-de partager les résultats
+72
+00:03:30,060 --> 00:03:34,070
+de partager des observations
 entre les utilisateurs
 
-74
-00:03:32,635 --> 00:03:34,070
-de votre système
-
-75
+73
 00:03:34,070 --> 00:03:37,620
 et de discuter des
 actions à mettre en œuvre.
 
-76
+74
 00:03:40,410 --> 00:03:43,401
-C'est une façon dont DHIS2 vous permet
+C'est l'une des façons
+dont DHIS2 vous permet
+
+75
+00:03:43,401 --> 00:03:46,482
+de transformer les données en informations
+
+76
+00:03:46,482 --> 00:03:49,193
+qui peuvent aider à la prise de décision.
 
 77
-00:03:43,401 --> 00:03:45,240
-de transformer les données
+00:03:50,500 --> 00:03:53,782
+En résumé, un tableau de
+bord est un ensemble de
 
 78
-00:03:45,240 --> 00:03:49,193
-en informations pouvant
-aider à la prise de décision.
+00:03:53,782 --> 00:03:58,410
+représentations qui fournit un résumé
 
 79
-00:03:50,500 --> 00:03:55,240
-En résumé, un tableau de bord
-est un ensemble de résultats
+00:03:58,410 --> 00:04:00,980
+des sujets connexes à examiner ensemble.
 
 80
-00:03:55,240 --> 00:03:58,410
-qui fournit un résumé des sujets connexes
-
-81
-00:03:58,410 --> 00:04:00,980
-à examiner ensemble.
-
-82
 00:04:00,980 --> 00:04:04,340
 Ils sont très utiles pour
 diffuser des informations
 
-83
+81
 00:04:04,340 --> 00:04:07,770
 de manière sécurisée avec
 d'autres utilisateurs
 
-84
+82
 00:04:07,770 --> 00:04:11,680
-et peuvent faciliter une
-discussion de leur analyse,
+et leur permettre de
+discuter des analyses,
 
-85
+83
 00:04:11,680 --> 00:04:13,360
-permettant le partage
+favorisant ainsi le partage
 
-86
+84
 00:04:13,360 --> 00:04:16,300
 de leurs interprétations des données.
 
-87
+85
 00:04:16,300 --> 00:04:18,166
-Ces discussions peuvent soutenir
+Ces discussions peuvent contribuer
+
+86
+00:04:18,166 --> 00:04:20,530
+au processus de prise de décision
+
+87
+00:04:20,530 --> 00:04:23,173
+qui est l'objectif final de DHIS2 :
 
 88
-00:04:18,166 --> 00:04:20,530
-le processus de prise de décision
-
-89
-00:04:20,530 --> 00:04:23,173
-qui est l'objectif final de DHIS2,
-
-90
 00:04:24,110 --> 00:04:27,456
 transformer l'information en action.
 
