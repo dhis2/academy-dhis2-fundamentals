@@ -223,7 +223,7 @@ Now, let's talk about indicators,
 
 54
 00:03:15,350 --> 00:03:19,053
-which are using DHIS2 data analysis.
+which are used in DHIS2 data analysis.
 
 55
 00:03:20,010 --> 00:03:22,060

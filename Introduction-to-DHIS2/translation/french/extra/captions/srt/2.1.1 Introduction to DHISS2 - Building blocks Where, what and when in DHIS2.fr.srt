@@ -3,8 +3,8 @@
 Quoi, Où, et Quand dans DHIS2
 
 2
-00:00:08,779 --> 00:00:10,862
-Une introduction au DHIS2
+00:00:08,771 --> 00:00:10,854
+- Introduction à DHIS2
 
 3
 00:00:13,530 --> 00:00:15,940
@@ -22,8 +22,7 @@ offrant des outils
 
 6
 00:00:21,740 --> 00:00:24,800
-pour la collecte, la
-validation des données,
+pour la collecte, la validation,
 
 7
 00:00:24,800 --> 00:00:28,033
@@ -48,13 +47,13 @@ Dans cette vidéo, nous allons examiner
 
 12
 00:00:40,800 --> 00:00:44,600
-les 3 blocs fondamentaux,
-ou dimensions de données,
+les 3 dimensions constitutives
+ou dimensions des données,
 
 13
 00:00:44,600 --> 00:00:49,123
-associés à toutes agrégats de
-valeurs de données dans DHIS2.
+associés à toutes les
+données agrégées dans DHIS2.
 
 14
 00:00:49,960 --> 00:00:52,880
@@ -67,7 +66,7 @@ et des périodes.
 
 16
 00:00:57,940 --> 00:01:00,540
-Ces 3 dimensions de données
+Ces 3 dimensions des données
 
 17
 00:01:00,540 --> 00:01:04,690
@@ -99,7 +98,7 @@ ont été collectées,
 23
 00:01:23,450 --> 00:01:27,083
 et les périodes représentent
-la dimension Quand.
+le moment de la collecte.
 
 24
 00:01:29,880 --> 00:01:32,546
@@ -190,7 +189,7 @@ ou la dimension Où.
 43
 00:02:36,440 --> 00:02:40,070
 Et enfin, nous devons
-ajouter un calendrier.
+ajouter un cadre temporel.
 
 44
 00:02:40,070 --> 00:02:43,600
@@ -207,7 +206,7 @@ lorsque nous attachons
 
 47
 00:02:51,080 --> 00:02:54,430
-ces 3 dimensions à la valeur des données,
+ces 3 dimensions à cette données,
 
 48
 00:02:54,430 --> 00:02:56,121
@@ -242,8 +241,7 @@ sanitaire traditionnels.
 
 55
 00:03:17,210 --> 00:03:21,680
-Le fait que chaque valeur
-de données dans DHIS2
+Le fait que chaque donnée dans DHIS2
 
 56
 00:03:21,680 --> 00:03:25,070
@@ -275,8 +273,8 @@ En résumé,
 
 62
 00:03:40,513 --> 00:03:44,500
-nous avons appris que chaque
-valeur de données dans DHIS2
+nous avons appris que
+chaque données dans DHIS2
 
 63
 00:03:44,500 --> 00:03:47,460
@@ -284,7 +282,7 @@ aura au moins ces 3 dimensions
 
 64
 00:03:47,460 --> 00:03:49,150
-associées à elle,
+qui lui seront associées ;
 
 65
 00:03:49,150 --> 00:03:53,280
@@ -302,8 +300,8 @@ comme des métadonnées,
 
 68
 00:03:59,720 --> 00:04:03,360
-car elles fournissent un
-contexte aux valeurs des données
+car elles fournissent
+un contexte aux données
 
 69
 00:04:03,360 --> 00:04:07,870

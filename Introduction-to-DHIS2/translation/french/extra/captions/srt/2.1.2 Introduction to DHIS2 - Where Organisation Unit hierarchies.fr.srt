@@ -1,503 +1,507 @@
 ﻿1
-00:00:04,883 --> 00:00:09,050
-Où: Unités d'organisation
-- Introduction DHIS 2
+00:00:04,883 --> 00:00:08,582
+Où: Les unités d'organisation
 
 2
-00:00:14,300 --> 00:00:16,240
-- [Instructeur] Dans la vidéo précédente,
+00:00:08,582 --> 00:00:11,199
+- Introduction à DHIS 2
 
 3
-00:00:16,240 --> 00:00:20,900
-vous avez appris que toute
-valeur de données dans DHIS2 est
+00:00:14,300 --> 00:00:16,240
+- Dans la vidéo précédente,
 
 4
+00:00:16,240 --> 00:00:20,900
+vous avez appris que toute
+donnée dans DHIS2 est
+
+5
 00:00:20,900 --> 00:00:25,380
 associée à au moins trois dimensions.
 
-5
+6
 00:00:25,380 --> 00:00:28,893
 Le quoi, le où et le quand.
 
-6
+7
 00:00:29,920 --> 00:00:32,330
 Dans cette vidéo, nous allons parler
 
-7
-00:00:32,330 --> 00:00:37,073
-de la dimension où ou des
-unités d'organisation.
-
 8
+00:00:32,330 --> 00:00:37,073
+de la dimension où, c'est-à-dire
+des unités d'organisation.
+
+9
 00:00:38,220 --> 00:00:40,903
 Qu'est-ce qu'une unité d'organisation?
 
-9
+10
 00:00:42,140 --> 00:00:44,815
 En termes simples, les
 unités d'organisation
 
-10
+11
 00:00:44,815 --> 00:00:47,430
 représentent l'emplacement
 
-11
+12
 00:00:47,430 --> 00:00:51,840
 ou le contexte géographique
 plus large des données.
 
-12
+13
 00:00:51,840 --> 00:00:54,648
 Des exemples d'unités
-organisationnelles incluent
+d'organisation incluent
 
-13
+14
 00:00:54,648 --> 00:00:56,500
 un établissement de santé,
 
-14
+15
 00:00:56,500 --> 00:01:00,410
 une école, un lieu où
 les services sont fournis
 
-15
+16
 00:01:00,410 --> 00:01:02,926
 ou une unité administrative représentant
 
-16
+17
 00:01:02,926 --> 00:01:05,450
 une zone géographique,
 
-17
-00:01:05,450 --> 00:01:08,523
-telle qu'une province ou une région.
-
 18
+00:01:05,450 --> 00:01:08,523
+telle qu'un département ou une région.
+
+19
 00:01:11,030 --> 00:01:14,060
 Par exemple, au Laos, un pays
 
-19
+20
 00:01:14,060 --> 00:01:17,643
 dont le ministère de
 la Santé utilise DHIS2,
 
-20
-00:01:17,643 --> 00:01:19,820
-le niveau le plus élevé,
-
 21
-00:01:19,820 --> 00:01:23,523
-ou l'unité d'organisation
-racine, est le pays.
+00:01:17,643 --> 00:01:20,386
+le niveau le plus élevé, ou dit autrement
 
 22
-00:01:24,970 --> 00:01:29,900
-Le pays est en outre
-divisé en 18 provinces.
+00:01:20,386 --> 00:01:23,998
+la racine des unités
+d'organisation, est le pays.
 
 23
-00:01:29,900 --> 00:01:34,900
-Et chacun de ceux-ci est subdivisé
-en districts plus petits.
+00:01:24,970 --> 00:01:29,900
+Le pays est divisé en 18 provinces.
 
 24
-00:01:35,540 --> 00:01:37,290
-Au niveau le plus bas,
+00:01:29,900 --> 00:01:32,825
+Et chacune de celle-ci
+est elle-même divisée
 
 25
-00:01:37,290 --> 00:01:40,710
-vous trouverez les établissements
-de santé individuels
+00:01:32,825 --> 00:01:35,541
+en districts plus petits.
 
 26
-00:01:40,710 --> 00:01:42,653
-où les données sont collectées.
+00:01:35,541 --> 00:01:37,290
+Au niveau le plus bas,
 
 27
-00:01:43,720 --> 00:01:47,030
-Ensemble, toutes les unités d'organisation
+00:01:37,290 --> 00:01:40,710
+vous trouverez les établissements de santé
 
 28
-00:01:47,030 --> 00:01:49,283
-forment un arbre hiérarchique.
+00:01:40,710 --> 00:01:43,653
+où les données sont collectées.
 
 29
-00:01:50,240 --> 00:01:54,360
-Dans le cas du Laos, la
-hiérarchie comporte quatre niveaux
+00:01:43,653 --> 00:01:47,030
+Ensemble, toutes les unités d'organisation
 
 30
+00:01:47,030 --> 00:01:49,283
+forment une arborescence.
+
+31
+00:01:50,240 --> 00:01:54,360
+Dans le cas du Laos, l'arborescence
+comporte quatre niveaux
+
+32
 00:01:54,360 --> 00:01:57,793
 qui correspondent au
 système administratif.
 
-31
+33
 00:01:59,100 --> 00:02:01,390
-La structure de la hiérarchie,
+La structure hiérarchique,
 
-32
+34
 00:02:01,390 --> 00:02:03,215
 y compris le nombre de niveaux,
 
-33
-00:02:03,215 --> 00:02:05,520
-est entièrement personnalisable
-
-34
-00:02:05,520 --> 00:02:10,520
-dans DHIS2 pour s'adapter
-au contexte de chaque pays.
-
 35
-00:02:13,880 --> 00:02:16,080
-Les unités organisationnelles déterminent
+00:02:03,215 --> 00:02:07,195
+est entièrement paramétrable dans DHIS2
 
 36
+00:02:07,195 --> 00:02:11,387
+pour s'adapter au contexte de chaque pays.
+
+37
+00:02:13,880 --> 00:02:16,080
+Les unités d'organisation déterminent
+
+38
 00:02:16,080 --> 00:02:18,450
 où les données peuvent être saisies
 
-37
+39
 00:02:18,450 --> 00:02:22,490
 et comment elles peuvent
-être agrégées ou désagrégées
+être agrégées ou ventilées
 
-38
-00:02:22,490 --> 00:02:25,563
-au sein de divers produits de déclaration.
+40
+00:02:22,490 --> 00:02:26,180
+dans les diverses représentations
+de données générées.
 
-39
+41
 00:02:27,940 --> 00:02:31,048
 Par exemple, toutes les données saisies
 
-40
+42
 00:02:31,048 --> 00:02:32,700
-au niveau de l'établissement
+au niveau des établissements de santé
 
-41
+43
 00:02:32,700 --> 00:02:35,990
-pourraient être agrégées pour
+peuvent être agrégées pour
 fournir une valeur totale
 
-42
+44
 00:02:35,990 --> 00:02:38,073
 pour l'ensemble du district.
 
-43
+45
 00:02:39,550 --> 00:02:43,823
-Ce principe est le même que
-vous montez dans la hiérarchie.
+Ce principe est le même quand
+vous remontez l'arborescence.
 
-44
+46
 00:02:45,000 --> 00:02:47,342
 Au cours du processus d'agrégation,
 
-45
+47
 00:02:47,342 --> 00:02:48,980
 les données sont additionnées
 
-46
+48
 00:02:48,980 --> 00:02:52,138
-des niveaux inférieurs de
-l'unité organisationnelle
+des niveaux inférieurs
+d'unités d'organisation
 
-47
+49
 00:02:52,138 --> 00:02:54,180
 aux niveaux supérieurs.
 
-48
+50
 00:02:54,180 --> 00:02:58,563
 DHIS2 effectue ces
 calculs automatiquement.
 
-49
+51
 00:03:00,220 --> 00:03:02,670
 Les unités d'organisation
 vous permettent également
 
-50
+52
 00:03:02,670 --> 00:03:04,450
 d'afficher vos données
 
-51
-00:03:04,450 --> 00:03:07,780
-dans l'application de cartes DHIS2
-
-52
-00:03:07,780 --> 00:03:11,193
-pour mieux comprendre
-géographiquement vos données.
-
 53
+00:03:04,450 --> 00:03:08,113
+dans l'application Cartes
+de DHIS2 pour mieux
+
+54
+00:03:08,113 --> 00:03:11,385
+comprendre vos données du
+point de vue géographique.
+
+55
 00:03:13,102 --> 00:03:17,530
 DHIS2 permet également de
 classer les unités d'organisation
 
-54
+56
 00:03:17,530 --> 00:03:19,680
 selon différents critères
 
-55
+57
 00:03:19,680 --> 00:03:23,520
-autres que la hiérarchie
+autres que la structure
 administrative principale.
 
-56
+58
 00:03:23,520 --> 00:03:25,486
 Nous pouvons le faire en utilisant
 
-57
+59
 00:03:25,486 --> 00:03:27,430
 des groupes d'unités d'organisation
 
-58
+60
 00:03:27,430 --> 00:03:30,483
 et des ensembles de groupes
 d'unités d'organisation.
 
-59
+61
 00:03:31,550 --> 00:03:34,340
 Un groupe d'unités d'organisation permet
 
-60
+62
 00:03:34,340 --> 00:03:37,365
-des sous-classifications supplémentaires
+des classifications supplémentaires
 
-61
+63
 00:03:37,365 --> 00:03:39,448
 d'unités d'organisation.
 
-62
+64
 00:03:41,650 --> 00:03:45,790
 Par exemple, nous pouvons créer
 une classification parallèle
 
-63
+65
 00:03:45,790 --> 00:03:49,930
 des établissements de santé si
 nous les regroupons par type,
 
-64
+66
 00:03:49,930 --> 00:03:52,638
 comme les hôpitaux de district
 
-65
+67
 00:03:52,638 --> 00:03:54,380
 ou les dispensaires de terrain;
 
-66
-00:03:56,020 --> 00:04:00,563
+68
+00:03:56,020 --> 00:04:00,996
 par la forme de propriété,
 telle que publique ou privée;
 
-67
-00:04:03,420 --> 00:04:07,483
+69
+00:04:03,420 --> 00:04:08,400
 ou par emplacement, comme urbain ou rural.
 
-68
-00:04:08,500 --> 00:04:12,070
-Ceci est défini pour
-chaque contexte spécifique
-
-69
-00:04:12,070 --> 00:04:14,883
-et sera différent d'un pays à l'autre.
-
 70
-00:04:18,620 --> 00:04:20,800
-Regardons un exemple
+00:04:08,400 --> 00:04:12,070
+Ceci est défini en fonction du contexte
 
 71
-00:04:20,800 --> 00:04:24,233
-de classification par type d'installation.
+00:04:12,070 --> 00:04:14,883
+et varie d'un pays à l'autre.
 
 72
+00:04:18,620 --> 00:04:20,800
+Prenons un exemple
+
+73
+00:04:20,800 --> 00:04:25,330
+de classification par
+type d'établissement.
+
+74
 00:04:25,330 --> 00:04:28,690
 Dans cet exemple, les
 établissements de santé sont classés
 
-73
+75
 00:04:28,690 --> 00:04:32,780
 et regroupés selon la gamme
 de services qu'ils fournissent
 
-74
+76
 00:04:32,780 --> 00:04:36,800
 dans divers groupes
-d'unités organisationnelles.
+d'unités d'organisation.
 
-75
+77
 00:04:36,800 --> 00:04:41,730
 Ces groupes comprennent le
 dispensaire, le centre de santé,
 
-76
+78
 00:04:41,730 --> 00:04:45,113
 l'hôpital spécialisé et
 l'hôpital de référence.
 
-77
+79
 00:04:46,010 --> 00:04:50,040
 L'ensemble de groupes d'unités
 d'organisation est le nom
 
-78
-00:04:50,040 --> 00:04:52,270
-de la classification générique
-
-79
-00:04:52,270 --> 00:04:55,970
-dont relèvent ces groupes individuels.
-
 80
+00:04:50,040 --> 00:04:52,270
+de la classification chapeautant
+
+81
+00:04:52,270 --> 00:04:55,970
+ces différents groupes.
+
+82
 00:04:55,970 --> 00:04:58,428
 Dans cet exemple, l'ensemble de groupes
 
-81
+83
 00:04:58,428 --> 00:05:01,320
-est le type d'installation,
+est le type d'établissement ;
 
-82
+84
 00:05:01,320 --> 00:05:03,011
 une catégorie qui contient
 
-83
+85
 00:05:03,011 --> 00:05:05,370
 les groupes d'unités d'organisation,
 
-84
+86
 00:05:05,370 --> 00:05:08,086
 qui à leur tour contiennent chacun
 
-85
-00:05:08,086 --> 00:05:10,669
-des installations spécifiques.
-
-86
-00:05:12,150 --> 00:05:14,391
-Les groupes d'unités d'organisation et
-
 87
-00:05:14,391 --> 00:05:16,990
-les ensembles de groupes sont très utiles
+00:05:08,086 --> 00:05:10,669
+des établissements précis.
 
 88
-00:05:16,990 --> 00:05:20,133
-pour désagréger les
-données dans notre analyse.
+00:05:12,150 --> 00:05:14,391
+Les groupes et les ensembles de groupes
 
 89
-00:05:21,280 --> 00:05:24,500
-Dans cet exemple, nous
-avons désagrégé les données
+00:05:14,391 --> 00:05:16,990
+d'unités d'organisation sont très utiles
 
 90
+00:05:16,990 --> 00:05:20,133
+pour ventiler les données
+dans notre analyse.
+
+91
+00:05:21,280 --> 00:05:24,500
+Dans cet exemple, nous
+avons ventilé les données
+
+92
 00:05:24,500 --> 00:05:26,941
 des tests positifs pour le paludisme
 
-91
+93
 00:05:26,941 --> 00:05:29,080
 par type d'établissement
 
-92
+94
 00:05:29,080 --> 00:05:32,920
 pour voir la tendance pour
 chaque groupe séparément
 
-93
+95
 00:05:32,920 --> 00:05:35,161
-et pour comparer les données mensuelles
+afin de comparer les données mensuelles
 
-94
+96
 00:05:35,161 --> 00:05:37,350
 de chaque type d'établissement,
 
-95
-00:05:37,350 --> 00:05:39,816
-ce qui permet de découvrir plus facilement
-
-96
-00:05:39,816 --> 00:05:41,240
-les variations potentielles
-
 97
-00:05:41,240 --> 00:05:42,073
-entre eux.
+00:05:37,350 --> 00:05:39,816
+ce qui permet de mettre
+plus facilement en évidence
 
 98
+00:05:39,816 --> 00:05:42,856
+d'éventuelles différences entre eux.
+
+99
 00:05:43,810 --> 00:05:47,250
 En résumé, les unités
 d'organisation fournissent
 
-99
+100
 00:05:47,250 --> 00:05:50,163
 un contexte géographique aux données.
 
-100
+101
 00:05:51,010 --> 00:05:53,776
 Dans DHIS2, les unités d'organisation
 
-101
-00:05:53,776 --> 00:05:56,050
-sont liées hiérarchiquement
-
 102
+00:05:53,776 --> 00:05:56,050
+sont rattachées hiérarchiquement
+
+103
 00:05:56,050 --> 00:05:59,270
 les unes aux autres,
 chaque niveau reflétant
 
-103
+104
 00:05:59,270 --> 00:06:03,053
 le système administratif
 du pays ou de la région.
 
-104
-00:06:03,940 --> 00:06:06,330
-La hiérarchie des unités d'organisation
-
 105
+00:06:03,940 --> 00:06:06,330
+La structure hiérarchisée
+des unités d'organisation
+
+106
 00:06:06,330 --> 00:06:10,150
 permet également l'agrégation des données.
 
-106
+107
 00:06:10,150 --> 00:06:13,280
 Les données collectées au
 niveau des établissements
 
-107
-00:06:13,280 --> 00:06:15,355
-sont agrégées à la hausse vers
-
 108
-00:06:15,355 --> 00:06:18,063
-des unités administratives
-de niveau supérieur,
+00:06:13,280 --> 00:06:15,355
+sont agrégées vers le haut
 
 109
+00:06:15,355 --> 00:06:18,063
+dans des unités administratives
+de niveau supérieur,
+
+110
 00:06:18,063 --> 00:06:20,760
 comme les districts ou les régions.
 
-110
+111
 00:06:20,760 --> 00:06:25,570
 DHIS2 permet également de
 classer les unités d'organisation
 
-111
+112
 00:06:25,570 --> 00:06:29,330
 selon différents critères, tels
-que le type d'installation,
-
-112
-00:06:29,330 --> 00:06:31,563
-en utilisant des groupes
-d'unités d'organisation
+que le type d'établissement,
 
 113
-00:06:31,563 --> 00:06:33,130
-et des ensembles de groupes
+00:06:29,330 --> 00:06:31,563
+en utilisant des groupes
+et des ensemble de groupes
 
 114
+00:06:31,563 --> 00:06:33,130
+d'unités d'organisation
+
+115
 00:06:33,130 --> 00:06:36,983
-pour faciliter une analyse
-plus nuancée des données.
+pour permettre une analyse
+plus fine des données.
 
