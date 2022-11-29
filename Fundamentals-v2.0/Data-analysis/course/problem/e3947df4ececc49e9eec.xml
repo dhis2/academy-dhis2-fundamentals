@@ -1,0 +1,24 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <p>In Trainingland, navigate to the “Immunisation maps” dashboard. Open any map from the dashboard in the Maps app. </p>
+    <label>
+      <h3>
+What are the download options available?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="false">Download as JPEG</choice>
+      <choice correct="false">Download as PDF</choice>
+      <choice correct="true">Show name</choice>
+      <choice correct="true">Show legend </choice>
+      <choice correct="true">Legend position</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In the Maps app, the download options for maps are: show name, show legend and legend position. The format (png) cannot be changed.</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

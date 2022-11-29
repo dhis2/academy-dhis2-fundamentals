@@ -1,0 +1,26 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 1" markdown="null" showanswer="after_attempts">
+  <multiplechoiceresponse>
+    <label>
+      <h3>Which one of the suggested data element names follows best practice for naming conventions? 
+</h3>
+    </label>
+    <description>Select one answer</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">A. RMNCAH - First ANC visit</choice>
+      <choice correct="false">B. Number of pregnant women ANC 1st visit</choice>
+      <choice correct="true">C. RMNCAH - ANC 1st visit</choice>
+      <choice correct="false">D. ANC 1st visit (RMNCAH)
+</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p> Explanation:</p>
+        <p> Option C (RMNCAH - ANC 1st visit) is the right answer.</p>
+        <p>“RMNCAH - First ANC visit” is incorrect. It contains all the important elements, but the “First” should come after ANC because in DHIS2 elements are alphabetically ordered. “First” should also be written as 1st so that this data element will appear in the right numerical order.</p>
+        <p>“Number of pregnant women ANC 1st visit” contains unnecessary information, such as “Number of” and “Pregnant women”, and is missing the program prefix.</p>
+        <p>“ANC 1st visit (RMNCAH)” is incorrect because the program name should be in the prefix so that related data elements are all grouped together. 
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

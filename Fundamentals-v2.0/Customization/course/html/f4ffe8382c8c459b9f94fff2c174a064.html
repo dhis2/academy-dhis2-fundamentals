@@ -1,0 +1,150 @@
+<h3>Module 5 Summary</h3>
+<p>You have now reached the end of the fifth module of the DHIS2 Customization course. In this module, you have learned about data sets and updating sharing settings so that users can enter data in them.</p>
+<p><strong>Data sets</strong></p>
+<ul>
+<li>A <strong>data set is a collection of data elements grouped for data entry</strong></li>
+<li>The <strong>Data Entry app</strong> is used to collect data values for these data sets</li>
+<li>All data sets have:
+<ul>
+<li>A <strong>period</strong> that defines the frequency of reporting</li>
+<li><strong>Organisation units</strong> assigned to them</li>
+<li><strong>Data elements</strong></li>
+</ul></li>
+<li><strong>Data set form types:</strong>
+<ul>
+<li><strong>Default</strong>
+<ul>
+<li>Created automatically by DHIS2</li>
+</ul></li>
+<li><strong>Section</strong>
+<ul>
+<li>These forms have defined sections to which you can add headers and also order data elements within them</li>
+<li>Simple to manage and allows for basic control of the layout</li>
+<li>Compatible with the DHIS2 Android Capture app</li>
+</ul></li>
+<li><strong>Custom</strong>
+<ul>
+<li>They are used when specific layout and functionality are required</li>
+<li>Need programming skills for their creation and maintenance</li>
+<li>Not compatible with the DHIS2 Android Capture app</li>
+</ul></li>
+</ul></li>
+</ul>
+<p><strong>Creating data sets:</strong></p>
+<p><em>Creating a data set with a default form</em></p>
+<ul>
+<li>Open the <strong>Maintenance application</strong></li>
+<li>Click on the <strong>data set tab</strong> at the top of the page. Select the data set from the menu on the left to navigate to the <strong>data set management page</strong></li>
+<li>To <strong>create</strong> a new data set, click on the <strong>blue plus (+) sign</strong> on the bottom</li>
+<li>Fill in the configurable fields:
+<ul>
+<li><strong>Name</strong></li>
+<li><strong>Period type</strong></li>
+</ul></li>
+<li>Add a category combination if applicable</li>
+<li>Add <strong>data elements</strong> that belong to the data set</li>
+<li>Click <strong>‘Save’</strong></li>
+</ul>
+<p><em>Changing a default form into a section form:</em></p>
+<ul>
+<li>Open the <strong>Maintenance application</strong></li>
+<li>Click on the <strong>data set tab</strong> at the top of the page. Select the data set from the menu on the left to navigate to the <strong>data set management page</strong></li>
+<li>Find the data set you want to add in the sections and click on the <strong>actions menu</strong> and select <strong>‘Manage sections’</strong></li>
+<li>To add a section, click on the <strong>blue plus (+) icon</strong></li>
+<li>In the section dialogue
+<ul>
+<li>Enter the <strong>name</strong> (it will appear as the data set section header)</li>
+<li><strong>Assign data elements</strong> to the section</li>
+<li>You can arrange their <strong>order</strong> in the selected box</li>
+</ul></li>
+<li>Repeat until all sections are configured</li>
+<li>Attach a category combination if applicable</li>
+<li>Add <strong>data element</strong>s that belong to the data set</li>
+<li>Click ‘Save’
+<blockquote>
+</blockquote></li>
+</ul>
+<p><strong>Sharing settings</strong></p>
+<ul>
+<li>In DHIS2, the concept of sharing settings related to the <strong>access control</strong></li>
+<li>There are <strong>three levels of access control</strong> in DHIS2
+<ul>
+<li><strong>Organisation unit assignment</strong>
+<ul>
+<li>Controls access to the organisation unit hierarchy</li>
+</ul></li>
+<li><strong>User roles</strong>
+<ul>
+<li>Controls access to various apps and operations that users can perform within those apps</li>
+</ul></li>
+<li><strong>Sharing settings</strong>
+<ul>
+<li>Controls who can access specific data or metadata objects such as data elements, categories, and data sets</li>
+</ul></li>
+</ul></li>
+<li>Sharing settings allow for user and user groups to only view and interact with the features relevant to them</li>
+<li><strong>You can apply sharing settings to</strong>
+<ul>
+<li><strong>Metadata</strong>
+<ul>
+<li>Determines if a user or a user group can view and/or edit a metadata item</li>
+</ul></li>
+<li><strong>Data</strong>
+<ul>
+<li>Determines whether a user or a user group can view and/or capture data associated with a metadata object</li>
+</ul></li>
+</ul></li>
+<li><strong>Metadata has three levels of access:</strong>
+<ul>
+<li><strong>No access</strong>
+<ul>
+<li>Users cannot see a object</li>
+<li>Usually applied system-wide, for example, to turn public access off certain metadata</li>
+</ul></li>
+<li><strong>Can edit and view</strong>
+<ul>
+<li>Allows users to view and edit an object in the Maintenance app</li>
+<li>To do that users also need to have access to the Maintenance app.</li>
+</ul></li>
+<li><strong>Can view only</strong>
+<ul>
+<li>Allows a user to view the metadata object in various apps, but they cannot edit it</li>
+</ul></li>
+</ul></li>
+<li><strong>Data sharing has three levels of access:</strong>
+<ul>
+<li><strong>No access</strong>
+<ul>
+<li>No access is granted to view data of the selected metadata object</li>
+</ul></li>
+<li><strong>Can capture and view</strong>
+<ul>
+<li>Allows to enter and view data to a metadata item</li>
+<li>For entering data, users also need access to the data entry app via user role settings</li>
+</ul></li>
+<li><strong>Can view only</strong>
+<ul>
+<li>Allows for viewing data associated with the selected metadata item</li>
+<li>For aggregate data, it means that users will be able to view data in the analysis applications</li>
+</ul></li>
+</ul></li>
+<li>When you create a data set, the default data sharing setting is set to private
+<ul>
+<li>That means that no one can be able to view or capture data in the data set until the sharing settings are updated</li>
+</ul></li>
+<li><strong>Data sets and category options</strong> within the data set have <strong>separate sharing settings</strong> data and metadata</li>
+<li>To enter data into a data set you need to:
+<ul>
+<li>Update sharing settings in the Maintenance application for
+<ul>
+<li><strong>Data set</strong>
+<ul>
+<li><strong>Data:</strong> Can capture and view</li>
+</ul></li>
+<li><strong>Category options</strong> that are found in the data set
+<ul>
+<li><strong>Data:</strong> Can capture and view</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>

@@ -1,0 +1,20 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>
+The main feature of a pivot table is the ability to pivot the selected dimensions from columns to rows and vice versa.
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The main feature of a pivot table is its ability to pivot any number of the dimensions such as indicators, data elements, organisation units, and periods, as columns and rows to create customized views.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

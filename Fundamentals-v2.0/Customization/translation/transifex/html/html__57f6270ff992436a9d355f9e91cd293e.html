@@ -1,0 +1,13 @@
+<h3>Introduction</h3>
+<p>Now you’ve finished learning about indicators, it’s time for you to create some. The pre-lab exercises throughout the course focus on the design stage of creating your metadata before completing the graded labs. This allows you to practice the same configuration process you would complete in a real DHIS2 customization context.</p>
+<h3>Overview of the exercise</h3>
+<p>In this exercise, you will create a formula for two indicators, and decide which data elements go to the numerator, which go to the denominator and the correct factor that the equation should be multiplied by to get the correct output value.</p>
+
+<h3>Orientation to Malaria indicators</h3>
+<p>For the exercise and labs we will create two Malaria <b>indicators</b> using some of the <b>data elements</b> from the <b>Cases</b> section as well as some pre-existing ones.</p> 
+<ol type="a">
+ <li><b><i>Malaria cases total</i></b> = This is a <strong>numerator only indicator</strong> since it calculates a total by adding the data elements <i>Malaria cases suspected</i> and <i>Malaria cases confirmed</i>. It represents an estimate of the actual total of malaria cases regardless of them being confirmed by a test or not. Hint: Remember that a “numerator only” indicator uses "1" as the denominator.
+</li> 
+ <li><b><i>Malaria cases treated with any antimalarial medicine (%)</i></b> = This is a percentage of malaria cases that have been treated with antimalarial medicines such as primaquine or ACT. The <b>numerator</b> is the data element <i>Cases treated with any antimalarial medicine (incl. ACT)</i>, while the <b>denominator</b> calculates the sum of the two data elements <i>Malaria cases suspected</i> and <i>Malaria cases confirmed</i>.</li></ol>
+
+

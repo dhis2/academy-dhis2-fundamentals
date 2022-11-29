@@ -1,0 +1,21 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>
+To delete a dashboard item, you must: 
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Right click on the object in the dashboard and select ‘Delete’</choice>
+      <choice correct="false">Select the context menu in the upper right-hand corner then ‘Delete object’</choice>
+      <choice correct="true">Select the red trash can icon in the upper right-hand corner of the object in create mode</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>To delete an object that has been added to your dashboard, you must select the red trash can icon in the upper right-hand corner of the object when in create mode. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,29 @@
+<h3>What can be customized in DHIS2?</h3>
+<p>In the introductory video, you learned that if you need to set up DHIS2 in a new context, be it a country or a more localized implementation, you need to consider how to adapt the system to the specific needs. These needs will differ depending on the program, geographical context and other factors. Let’s review the metadata that need to be customized before you can use a DHIS2 database to collect and analyze data.</p>
+<p><strong>The organisation unit hierarchy</strong></p>
+<p>Setting up the organisation unit hierarchy includes creating the <strong>administrative hierarchy</strong> to reflect where the data are collected. This includes the lowest level, which could be facilities, schools, villages, and geographical boundaries such as districts and regions. <strong>Each country can have a different hierarchy</strong> depending on its administrative structure and the number of levels within this structure.</p>
+<figure>
+<img src="/static/example_of_4_level_org_unit_hierarchy.png" width="100%" />
+</figure>
+<p>The design of this hierarchy will <strong>determine how the data in the system are aggregated</strong> and the geographical units of analysis available to the users. Additional hierarchies (e.g. parallel administrative boundaries in the health care sector) can be configured using <strong>organisation groups</strong> and <strong>organisation group sets</strong>, but the organisation unit hierarchy is the main means of data aggregation on the geographical dimension.</p>
+<h4>Data elements and their disaggregations</h4>
+<p>In DHIS2, <strong>data elements represent what is being collected or analyzed</strong>. What kind of data elements need to be set up in the system is, of course, entirely dependent on the domain in which DHIS2 is being used, such as health, education or logistics, and the particular program or project.</p>
+<p>When implementing a new DHIS2 database, it is recommended to start with thinking about the outputs that are required such as various program performance metrics that will guide decision making. Data elements should be created to produce those indicators and analytical outcomes.</p>
+<p>Together with data elements, you will also have to consider what type of <strong>disaggregation</strong> will apply to them. Some data elements can be disaggregated by age groups or by sex, for example. These disaggregation options are set up independently from any particular data elements, and can be applied and reused on various data elements.</p>
+<figure><img src="/static/example_of_disaggregation.png" style="width=100%" />
+</figure>
+<h4>Data sets and customized data entry forms</h4>
+<p>Data entry in DHIS2 is organized in the form of <strong>data sets</strong>, <strong>which are collections of related data elements</strong> that are <strong>captured with the same frequency</strong> and <strong>gathered by the same organisation units</strong>. Data sets are accessible as <strong>data entry forms</strong> in the Data Entry app. DHIS2 offers a lot of flexibility when configuring data entry forms, and depending on your organization's needs, you can configure <strong>simple</strong> data sets, forms with various <strong>sections</strong> or you can build a fully <strong>customized</strong> form using the built-in HTML editor.</p>
+<h4>Users and user-based access controls/sharing settings</h4>
+<p>An integral part of security of the data in the database is configuring <strong>user role permissions</strong> and <strong>sharing settings</strong> so that only the people who need to access certain data or applications can do so. For example, you might want to restrict certain users from entering data, but still give them access to view and analyze data. In DHIS2, there are <strong>three levels</strong> of access control: <strong>user roles</strong>, <strong>organization unit assignment</strong> and <strong>sharing settings</strong>.</p>
+<p>The first layer, <strong>user roles</strong>, controls <strong>access to various apps</strong> within DHIS2 and specific <strong>administrative functions</strong> within DHIS2.</p>
+<p>The second layer, <strong>organization unit assignment</strong>, gives users access to <strong>particular locations</strong> where they need to access the system for either data entry or data viewing.</p>
+<p>The third layer, <strong>sharing settings</strong>, provides more granular control and restricts a user or user group’s <strong>access to specific metadata</strong> objects and data in the system.</p>
+<p>Combining these three layers of access control provides the benefit of making sure only authorized users:</p>
+<ul>
+<li>Have the ability to use certain applications</li>
+<li>Only have access the locations they need to</li>
+<li>Enter and view data for only the programs and at the level they need to have access to</li>
+</ul>
+<h4>Indicators</h4>
+<p>An indicator represents a <strong>mathematical formula</strong> that is calculated using items such as data elements, constants and mathematical operators. Indicators are used in data analysis and are a powerful tool for creating more insightful and actionable data visualizations. They can convert raw data in the form of data elements into coverages, disease incidences, mortality rates and much more. Establishing the right indicators will make sure you get the most out of your DHIS2 system.</p>

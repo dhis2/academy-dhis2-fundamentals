@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 5" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>How many section(s) would be in this data set?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1</choice>
+      <choice correct="true">3</choice>
+      <choice correct="false">No sections, just a default settings would be sufficient</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>This is a section form with three sections: Treatment, Cases and Laboratory. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

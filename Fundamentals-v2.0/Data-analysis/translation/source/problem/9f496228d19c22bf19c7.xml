@@ -1,0 +1,22 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>Navigate to the “Immunisation maps” dashboard and apply a filter for July 2021. Find the visualization titled “EPI - DPT 1-3 dropout rate by district”. </p>
+    <label>
+      <h3>
+Which district had the highest dropout rate for July 2021?
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Fruit District</choice>
+      <choice correct="false">Insect District</choice>
+      <choice correct="true">Bird District</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>When a period filter is applied to this visualization, the data displayed in the visualization shows Bird District to have the highest dropout rate among the districts for July 2021. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

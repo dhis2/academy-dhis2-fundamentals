@@ -1,0 +1,18 @@
+<problem display_name="Question 4" markdown="null" max_attempts="1" showanswer="finished">
+  <multiplechoiceresponse>
+    <label>
+      <h3>If a data element has only one type of disaggregation, such as age, there is no need to create a category combination since there is nothing to combine it with. In this case, you can apply the category age directly. </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Creating a category combination is a necessary third step whether you make a cross combination of two categories (such as age and sex) or whether there is only one category (such as age). DHIS2 uses category combination to create the necessary individual fields to store the data. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

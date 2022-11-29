@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 2" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>You can save your indicator even if your expression is not valid.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>When you edit the numerator or denominator in the formula builder box, if the expression is not valid (for example, if it is missing a data element after a mathematical operator), you will get the message, “Expression is not well-formed” and you will not be able to click ‘Done’ to save the expression. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,5 @@
+<problem>
+  <choiceresponse partial_credit="EDC"><p>In the Data Visualizer app, open the File menu.</p><label><h3>
+Which of the following can be found in the File menu?
+</h3></label>&gt;<description>Select all that apply. </description><checkboxgroup><choice correct="true">New</choice><choice correct="false">Create</choice><choice correct="true">Save as</choice><choice correct="false">Save and open new</choice><choice correct="true">Rename</choice><choice correct="true">Delete</choice></checkboxgroup><solution><div class="detailed-solution"><p>Explanation</p><p>The File menu has many options for the visualization including: New, Save As, Rename and Delete. Note that some of these options are disabled if the visualization you have open is not saved. </p></div></solution></choiceresponse>
+</problem>

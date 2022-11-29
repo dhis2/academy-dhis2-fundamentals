@@ -1,0 +1,25 @@
+<problem markdown="null">
+  <choiceresponse partial_credit="EDC">
+    <p>In Trainingland, navigate to the “Immunisation” dashboard. Open the map “EPI - BCG coverage by district - September 2021” from the dashboard in the Maps app. In the thematic layer card, select the more actions menu.</p>
+    <label>
+      <h3>
+Which options are available under the more actions menu?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Show data table</choice>
+      <choice correct="true">Edit layer </choice>
+      <choice correct="true">Remove layer</choice>
+      <choice correct="false">Move layer up </choice>
+      <choice correct="false">Move layer down</choice>
+      <choice correct="true">Download data</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>You can select the more actions menu in the bottom right-hand corner of a layer card. The options available within the more actions menu includes: Show data table (or hide data table once it is selected), edit layer, remove layer and download data. The ability to move the layer up and down is not available within the more actions menu but is done using the 6-dots icon in the layer card. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:QbXKnly8P-0" url_name="6ceda5fd5b6241889889e965c9b0b056" sub="" transcripts="{&quot;en&quot;: &quot;9fc2ed80-98bb-49e8-a768-4a92e5dc7bb3-en.srt&quot;}" display_name="Video" download_track="true" download_video="true" edx_video_id="9fc2ed80-98bb-49e8-a768-4a92e5dc7bb3" handout="/asset-v1:hisp+GEN-D003-en+2022Q1+type@asset+block@2.1.1_DHIS2_Building_blocks.pdf" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/2-1-1-Building-blocks-Where-what-and-when-in-DHIS2.mp4&quot;]" youtube_id_0_75="" youtube_id_1_0="QbXKnly8P-0" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://academy.downloads.dhis2.org/Intro/Low-res/2-1-1-Building-blocks-Where-what-and-when-in-DHIS2.mp4"/>
+  <handout src="/asset-v1:hisp+GEN-D003-en+2022Q1+type@asset+block@2.1.1_DHIS2_Building_blocks.pdf"/>
+  <video_asset client_video_id="External Video" duration="0.0" image="">
+    <transcripts>
+      <transcript file_format="srt" language_code="en" provider="Custom"/>
+    </transcripts>
+  </video_asset>
+  <transcript language="en" src="9fc2ed80-98bb-49e8-a768-4a92e5dc7bb3-en.srt"/>
+</video>

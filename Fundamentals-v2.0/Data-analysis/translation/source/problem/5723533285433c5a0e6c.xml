@@ -1,0 +1,25 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <p>In Trainingland, navigate to the “HIV District (SNU2)” dashboard. Find the map “HIV - ART retention rate by user and sub-orgunits - 2021” and use the context menu to open it in the Maps app. In one of the thematic layers, click on the Style tab. </p>
+    <label>
+      <h3>
+Which of the following style options have been selected for this map?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="false">Bubble map</choice>
+      <choice correct="true">Choropleth map </choice>
+      <choice correct="false">Automatic color legend</choice>
+      <choice correct="false">Classification: Equal counts</choice>
+      <choice correct="true">Predefined color legend</choice>
+      <choice correct="true">Legend set: HIV default (%)</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>This map visualization uses a choropleth map with a predefined color legend and “HIV default (%)” selected as the legend set. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

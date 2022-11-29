@@ -1,0 +1,22 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>In Trainingland, navigate to the “COVID-19 Surveillance (Aggregate)” dashboard. Find the chart “COVID-19 - Active and Closed Cases - Monthly”.</p>
+    <label>
+      <h3>
+What type of chart is this visualization?
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Line</choice>
+      <choice correct="false">Column</choice>
+      <choice correct="true">Stacked column</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The “COVID-19 - Active and Closed Cases - Monthly” visualization is a stacked column chart. If you open this visualization in the Data Visualizer app, the chart type can be found in the upper right-hand corner of the app. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

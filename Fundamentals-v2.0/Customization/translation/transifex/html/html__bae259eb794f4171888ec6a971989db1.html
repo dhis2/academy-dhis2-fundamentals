@@ -1,0 +1,174 @@
+<script>// <![CDATA[
+    function cupractice() {
+	document.getElementById("requestButtoncup").disabled = true;
+        var baseUrl = window.location.href.split("/", 3).join("/");
+        $.ajax({
+            url: baseUrl + "/api/user/v1/accounts",
+            dataType: "json",
+            success: function(data) {
+                var email = data[0].email;
+                var obj = {"email": email, "url": "https://academy.aggregate.dhis2.org/dsc_rmncah"};
+                console.log(obj)
+                $.ajax({
+                    url         : "https://ue7emdwas56wqbk45kp3veyaeq0azyfz.lambda-url.eu-west-1.on.aws/",
+                    type        : "POST",
+                    data        : JSON.stringify(obj),
+                    contentType    : "application/json; charset=utf-8",
+                    dataType    : "json",
+			success: function (result, status, xhr) {
+				alert(xhr.responseText);
+			},
+			error: function (xhr,status,error) {
+				alert(xhr.responseText);
+			}
+                });
+            }
+        });
+
+    }
+
+// ]]></script>
+<script>// <![CDATA[
+    function culab() {
+	document.getElementById("requestButtoncul").disabled = true;
+        var baseUrl = window.location.href.split("/", 3).join("/");
+        $.ajax({
+            url: baseUrl + "/api/user/v1/accounts",
+            dataType: "json",
+            success: function(data) {
+                var email = data[0].email;
+                var obj = {"email": email, "url": "https://academy.aggregate.dhis2.org/dsc_mal"};
+                console.log(obj)
+                $.ajax({
+                    url         : "https://ue7emdwas56wqbk45kp3veyaeq0azyfz.lambda-url.eu-west-1.on.aws/",
+                    type        : "POST",
+                    data        : JSON.stringify(obj),
+                    contentType    : "application/json; charset=utf-8",
+                    dataType    : "json",
+			success: function (result, status, xhr) {
+				alert(xhr.responseText);
+			},
+			error: function (xhr,status,error) {
+				alert(xhr.responseText);
+			}
+                });
+            }
+        });
+
+    }
+
+// ]]></script>
+<script>// <![CDATA[
+    function indicatorspractice() {
+	document.getElementById("requestButtonindp").disabled = true;
+        var baseUrl = window.location.href.split("/", 3).join("/");
+        $.ajax({
+            url: baseUrl + "/api/user/v1/accounts",
+            dataType: "json",
+            success: function(data) {
+                var email = data[0].email;
+                var obj = {"email": email, "url": "https://academy.aggregate.dhis2.org/ind_rmncah"};
+                console.log(obj)
+                $.ajax({
+                    url         : "https://ue7emdwas56wqbk45kp3veyaeq0azyfz.lambda-url.eu-west-1.on.aws/",
+                    type        : "POST",
+                    data        : JSON.stringify(obj),
+                    contentType    : "application/json; charset=utf-8",
+                    dataType    : "json",
+			success: function (result, status, xhr) {
+				alert(xhr.responseText);
+			},
+			error: function (xhr,status,error) {
+				alert(xhr.responseText);
+			}
+                });
+            }
+        });
+
+    }
+
+// ]]></script>
+<script>// <![CDATA[
+    function indicatorslab() {
+	document.getElementById("requestButtonindl").disabled = true;
+        var baseUrl = window.location.href.split("/", 3).join("/");
+        $.ajax({
+            url: baseUrl + "/api/user/v1/accounts",
+            dataType: "json",
+            success: function(data) {
+                var email = data[0].email;
+                var obj = {"email": email, "url": "https://academy.aggregate.dhis2.org/ind_mal"};
+                console.log(obj)
+                $.ajax({
+                    url         : "https://ue7emdwas56wqbk45kp3veyaeq0azyfz.lambda-url.eu-west-1.on.aws/",
+                    type        : "POST",
+                    data        : JSON.stringify(obj),
+                    contentType    : "application/json; charset=utf-8",
+                    dataType    : "json",
+			success: function (result, status, xhr) {
+				alert(xhr.responseText);
+			},
+			error: function (xhr,status,error) {
+				alert(xhr.responseText);
+			}
+                });
+            }
+        });
+
+    }
+
+// ]]></script>
+
+<h3>Creating your user account for the customization course training databases</h3>
+<p>To be able to sign in and use the various databases <strong>you will need to create an account first</strong>. You have to create <strong>a separate account for each training instance</strong>. We recommend you spend some time now and create the 4 accounts before moving on.</p>
+<p>To create each account, follow the steps below:</p>
+<ol>
+<li>In the table below, click the link next to the database you would like to request an account for</li>
+<li>Please give the system a couple of seconds to respond; <strong>DO NOT keep clicking the button</strong> several times in a row</li>
+</ol>
+<table><thead><tr class="header"><th><strong>Database Name</strong></th><th><strong>Account Request Link</strong></th></tr></thead><tbody><tr class="odd"><td>Customization Practice</td><td><p><input id="requestButtoncup" type="button" onClick="cupractice();" value="Request account - Customization Practice" /></p></td></tr><tr class="even"><td>Customization Lab</td><td><p><input id="requestButtoncul" type="button" onClick="culab();" value="Request account - Customization Lab" /></p></td></tr><tr class="odd"><td>Indicators Practice</td><td><p><input id="requestButtonindp" type="button" onClick="indicatorspractice();" value="Request account - Indicators Practice" /></p></td></tr><tr class="even"><td>Indicators Lab</td><td><p><input id="requestButtonindl" type="button" onClick="indicatorslab();" value="Request account - Indicators Lab" /></p></td></tr></tbody></table>
+
+<ol start="3" >
+<li>You will <strong>receive an invitation by email</strong> with instructions on how to complete the registration in DHIS2
+<ul>
+<li><em><strong>Note</strong>: We will use the email address you provided when you registered on the DHIS2 Online Academy to create an account for you. <strong>Please do not change this email address</strong> as it will be used as your username for all the training databases</em></li>
+</ul></li>
+<li>After 5-10 seconds you should receive the following notification in your browser window</li>
+</ol>
+<img src="/static/signup_email_notification.png"/>
+
+<ol start="5" >
+<li>Click on ‘OK’ to close this notification</li>
+  <li>Check your email inbox. You will receive <strong>one email</strong> with the subject <u><i>containing the name of the system</u></i> you have signed up for</li>
+</ol>
+<img src="/static/email_subject.png"/>
+<p>The email contents for each system will be similar, with any system identifiers being based on the system you are signing up for</p>
+<img src="/static/email_contents.png"/>
+
+<ol start="7">
+  <li>If you don’t find this email in your primary inbox, please check the Promotion tab or the Spam/Junk folder in case it was filtered out. Alternatively, you can search for the the emails using the tags [Customization Practice], [Customization Lab], [Indicators Practice], [Indicators Lab]</li>
+</ol>
+<!-- -->
+
+<ol start="8" >
+<li>Use the information in the the email to create your account in DHIS2 by selecting the link within the mail. After you select the link, fill in the details for your user account.</li>
+</ol>
+<img src="/static/acct_details.png"/>
+
+<p><strong>Your username AND email</strong> will automatically be set to the same as <strong>your registered email address</strong> for DHIS2 Online Academy. Please make sure your email address field uses the same email address so you can more easily remember your username when logging in later.</p>
+<p>You will also need to enter a <strong>first name</strong> and <strong>last name</strong>.
+<ul>
+<li>When creating your <strong>password</strong>, consider making one you can remember, while making sure it's <strong>at least 8 characters</strong> long, with <strong>one or more uppercase letters, a number and a special character</strong></li>
+<li>Once you have entered the password into both the password boxes, click “<strong>Create</strong>”. This will take you to DHIS2 logged in to your new user account</li>
+<li>You can use <strong>the same password for all training databases</strong> to reduce the chance of forgetting your password</li>
+</ul>
+<p>If you have any questions or difficulty in creating your DHIS2 accounts, don’t hesitate to contact us by email <a href="mailto:fundamentals-support@dhis2.org"><strong><u>fundamentals-support@dhis2.org</u></strong></a>.</p>
+<ol start="9" >
+<li>Go back to the first instruction and repeat the process until you have created your accounts for all four databases.</li>
+</ol>
+<p><strong>Note:</strong> You will have access to different apps in the customization and indicators databases respectively.</p> 
+<p>In the <u><i>Customization Practice and Customization Lab systems</u></i> you will have access to the following apps:</p>
+<img src="/static/customization_apps.png"/>
+<p>In the <u><i>Indicators Practice and Indicators Lab systems</u></i> you will have access to the following apps:<p>
+<img src="/static/ind_apps.png"/>
+<p>You can confirm this after creating your account and logging in to these systems</p>

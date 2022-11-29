@@ -1,0 +1,23 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>
+Select the following statements that are TRUE about map layers:
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">In DHIS2, you can create maps with multiple layers </choice>
+      <choice correct="true">Within a map layer, you can only select one period type</choice>
+      <choice correct="false">You can select one or more data items within a map layer</choice>
+      <choice correct="false">Once layers have been added to the map, they cannot be reordered or edited </choice>
+      <choice correct="true">You can edit a layer by selecting the pencil icon in the layer card </choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In DHIS2 you can create maps with multiple layers, such as a map with a boundary layer and a thematic layer. Within a map layer, you can only select one period type. Since maps use the concept of layers to add data, there can only be one data item selected in each layer. Layers can be reordered and edited (with the exception of basemaps which cannot be reordered or edited). You can edit a layer by selecting the pencil icon in the layer card (with the exception of basemaps which cannot be edited)</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

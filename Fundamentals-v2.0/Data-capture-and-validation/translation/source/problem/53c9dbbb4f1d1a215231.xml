@@ -1,0 +1,21 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>Which of the following data quality tools are available in the Data Quality app?</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Follow-Up Analysis</choice>
+      <choice correct="true">Batch Validation Rule Analysis </choice>
+      <choice correct="false">Reporting Rate Summary</choice>
+      <choice correct="true">Outlier Detection </choice>
+      <choice correct="false">Data Set Report</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The Follow-Up Analysis, Batch Validation Rule Analysis and Outlier Detection tools are data quality tools available in the Data Quality app. The Reporting Rate Summary and the Data Set Report are data quality tools available in the Reports app</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

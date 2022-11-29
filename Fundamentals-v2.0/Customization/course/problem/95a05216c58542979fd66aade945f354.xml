@@ -1,0 +1,20 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 1" markdown="null" showanswer="after_attempts">
+  <multiplechoiceresponse>
+    <label>
+      <h3>If we would like the data element values added up in the organisation unit hierarchy (from the lower levels up) what aggregation type do we choose?
+</h3>
+    </label>
+    <description>Select one</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A. Sum</choice>
+      <choice correct="false">B. Average</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The aggregation type defines how the data for a data element is aggregated in analytics, meaning in the pivot table, charts and maps. If you set the aggregation type to "Sum" for a data element, the data values will be summed and presented as an aggregated value of all organisation units selected. For example, if a district level organisation unit is selected, you would get the summed value for all facility level organisation units in that district. 
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

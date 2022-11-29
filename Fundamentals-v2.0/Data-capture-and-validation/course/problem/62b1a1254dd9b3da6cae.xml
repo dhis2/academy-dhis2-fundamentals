@@ -1,0 +1,20 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>
+When entering data offline in the Data Entry app, you must select “Offline mode” before beginning data entry in DHIS2.
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>If you lose internet connection while entering data in the Data Entry app, you do not need to prepare DHIS2 for offline data entry. DHIS2 will detect no internet connection and save the data locally on your DHIS2 browser cache. You can enter the data just like you would if online. When you reconnect to the internet, DHIS2 will prompt you to upload the data saved on your DHIS2 browser cache. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

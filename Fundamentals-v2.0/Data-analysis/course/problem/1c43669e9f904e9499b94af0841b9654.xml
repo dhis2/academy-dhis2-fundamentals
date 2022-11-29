@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 1" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>The layout area allows you to move the selected dimensions around to customize your visualization. </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The layout area makes it easy to move the dimensions around and update the layout. You only need to drag and drop the dimensions to the different layout sections and click ‘Update’. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,25 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <p>In Trainingland, navigate to the “HIV District (SNU2)” dashboard. Find the chart “HIV - 2nd and 3rd 90s” and use the context menu to open it in the Data Visualizer app. Open the Options menu and explore the options selected in each of the tabs. </p>
+    <label>
+      <h3>
+Select all the following statements that are TRUE about this visualization’s selected options: 
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="false">Custom sort order has been selected </choice>
+      <choice correct="true">A target line has been added </choice>
+      <choice correct="true">A title has been added to the vertical (y) axis</choice>
+      <choice correct="false">A title has been added to the horizontal (x) axis</choice>
+      <choice correct="true">A custom chart title has been added</choice>
+      <choice correct="false">The bright color set has been selected</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Clicking on the Options button opens the visualization’s available options which can be selected to further customize the chart. In this example, a target line, title for the vertical (y) axis and a custom chart title has been added. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

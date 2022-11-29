@@ -1,0 +1,22 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 4" markdown="null" showanswer="after_attempts">
+  <multiplechoiceresponse>
+    <label>
+      <h3>What is the best naming convention for the data element with the form name "Suspected malaria cases"?
+</h3>
+    </label>
+    <description>Select one answer.</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">A. MAL - Suspected malaria cases</choice>
+      <choice correct="true">B. MAL - Malaria cases suspected </choice>
+      <choice correct="false">C. MALARIA- Malaria cases suspected </choice>
+      <choice correct="false">D. MAL -  Suspected cases of Malaria</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p> For naming conventions, it is best practice to start with a taxonomy that specifies the program that the data element is used for. Extra words should be cut out to simplify the name, and identifiable information should be used towards the beginning of the name to allow for an easy grouping of the elements in analytic and maintenance applications.
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

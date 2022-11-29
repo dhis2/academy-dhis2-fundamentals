@@ -1,0 +1,18 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>It is possible to validate aggregate data in DHIS2 after the data capture process is complete.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Data in DHIS2 can be validated after it has been captured through various tools, including Validation Rule Analysis and Outlier Detection.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 3" markdown="null" showanswer="attempted">
+  <multiplechoiceresponse>
+    <label>
+      <h3>Data validation checks prevent you from entering data that breaks a validation rule.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Data validation rules don’t prevent data entry, but allow users to receive  feedback on data that should be checked against the source for errors. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

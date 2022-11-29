@@ -1,0 +1,23 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <p>In Trainingland, select a facility level organisation unit, a data set and a period of your choice in the Data Entry app. Open the Data Element Information Box. </p>
+    <label>
+      <h3>Which of the following information can be found in the Data Element Information Box?</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Comments</choice>
+      <choice correct="false">Data value type</choice>
+      <choice correct="true">Min/max limits</choice>
+      <choice correct="false">Organisation unit</choice>
+      <choice correct="true">Audit trail</choice>
+      <choice correct="true">Data element history</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In the Data Element Information Box, you can find information about a data element’s history, audit trail, min/max limits and comments. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

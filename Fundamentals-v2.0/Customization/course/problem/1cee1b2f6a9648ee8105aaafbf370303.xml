@@ -1,0 +1,20 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 2" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>If you would like to calculate an indicator to view as a percentage, what factor would you use?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1,000</choice>
+      <choice correct="false">10,000</choice>
+      <choice correct="false">1</choice>
+      <choice correct="true">100</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The factor for viewing an indicator as a percentage is 100.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 4" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>When you create metadata objects in the Customization Practice database, you need to make them unique by adding a prefix, such as your initials to the name of metadata items. </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Since each data element in the DHIS2 system has to have a unique name and there are many learners using the learning database to create the name items, it is important to add a unique identifier to each data element that you create, such as a prefix with your initials</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

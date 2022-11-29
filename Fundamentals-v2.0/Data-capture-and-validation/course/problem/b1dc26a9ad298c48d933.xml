@@ -1,0 +1,23 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>The Reporting Rate Summary includes which of the following parameters?</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Reporting Rates</choice>
+      <choice correct="true">Reporting Rate on Time</choice>
+      <choice correct="false">Untimely Submission Rates</choice>
+      <choice correct="true">Actual Reports</choice>
+      <choice correct="true">Expected Reports</choice>
+      <choice correct="true">Actual Reports on Time</choice>
+      <choice correct="false">Estimated Report</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The Reporting Rate Summary includes five parameters: Actual Reports, Expected Reports, Reporting Rates, Actual Reports on Time and Reporting Rate on Time. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

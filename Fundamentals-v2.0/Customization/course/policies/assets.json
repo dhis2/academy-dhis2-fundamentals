@@ -1,0 +1,3433 @@
+{
+    "2.2.5_Activity__Creating_Orgaisation_Unit_Groups.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "2.2.5_Activity__Creating_Orgaisation_Unit_Groups.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.5 Activity_ Creating Orgaisation Unit Groups.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@2.2.5_Activity__Creating_Orgaisation_Unit_Groups.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "2.2.6_Activity__Creating_Organisation_Unit_Groupsets.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "2.2.6_Activity__Creating_Organisation_Unit_Groupsets.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.6 Activity_ Creating Organisation Unit Groupsets.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@2.2.6_Activity__Creating_Organisation_Unit_Groupsets.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "3.1.3_Activity__Creating_Category_Options.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "3.1.3_Activity__Creating_Category_Options.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "3.1.3 Activity_ Creating Category Options.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@3.1.3_Activity__Creating_Category_Options.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "3.1.4_Activity__Categories_and_category_combinations.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "3.1.4_Activity__Categories_and_category_combinations.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "3.1.4 Activity_ Categories and category combinations.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@3.1.4_Activity__Categories_and_category_combinations.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "4.1.4_Activity__Creating_Data_Elements.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "4.1.4_Activity__Creating_Data_Elements.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "4.1.4 Activity_ Creating Data Elements.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@4.1.4_Activity__Creating_Data_Elements.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "4.1.5_Activity__Creating_Data_Groups_and_Groupsets.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "4.1.5_Activity__Creating_Data_Groups_and_Groupsets.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "4.1.5 Activity_ Creating Data Groups and Groupsets.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@4.1.5_Activity__Creating_Data_Groups_and_Groupsets.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "5.1.4_Activity__Creating_a_default_dataset.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "5.1.4_Activity__Creating_a_default_dataset.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "5.1.4 Activity_ Creating a default dataset.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@5.1.4_Activity__Creating_a_default_dataset.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "5.1.5_Activity__Creating_a_section_dataset.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "5.1.5_Activity__Creating_a_section_dataset.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "5.1.5 Activity_ Creating a section dataset.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@5.1.5_Activity__Creating_a_section_dataset.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "5.2.3_Activity__Activity__Updating_sharing_settings_for_category_options_and_datasets.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "5.2.3_Activity__Activity__Updating_sharing_settings_for_category_options_and_datasets.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "5.2.3 Activity_ Activity_ Updating sharing settings for category options and datasets.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@5.2.3_Activity__Activity__Updating_sharing_settings_for_category_options_and_datasets.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "6.1.3_Activity__Configuring_your_first_indicator_.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "6.1.3_Activity__Configuring_your_first_indicator_.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "6.1.3 Activity_ Configuring your first indicator .pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@6.1.3_Activity__Configuring_your_first_indicator_.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "6.1.4_Activity__Configuring_an_indicator_with_a_mathematical_operator.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "6.1.4_Activity__Configuring_an_indicator_with_a_mathematical_operator.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "6.1.4 Activity_ Configuring an indicator with a mathematical operator.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@6.1.4_Activity__Configuring_an_indicator_with_a_mathematical_operator.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "6.1.5_Activity__Creating_indicator_groups_and_groupsets.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "6.1.5_Activity__Creating_indicator_groups_and_groupsets.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "6.1.5 Activity_ Creating indicator groups and groupsets.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@6.1.5_Activity__Creating_indicator_groups_and_groupsets.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "6.1.6_VerifyingIndicators__Time_0_00_23_17_.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "6.1.6_VerifyingIndicators__Time_0_00_23_17_.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "6.1.6_VerifyingIndicators (Time 0_00_23;17).png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@6.1.6_VerifyingIndicators__Time_0_00_23_17_.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "6.1.6_VerifyingIndicators__Time_0_00_23_17_-png.jpg",
+            null
+        ]
+    },
+    "ActivityDatabaseIndication.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "ActivityDatabaseIndication.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "ActivityDatabaseIndication.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@ActivityDatabaseIndication.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "ActivityDatabaseIndication-png.jpg",
+            null
+        ]
+    },
+    "Activity__Creating_organisation_unit_hierarchy.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Activity__Creating_organisation_unit_hierarchy.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Activity_ Creating organisation unit hierarchy.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Activity__Creating_organisation_unit_hierarchy.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Artboard_1.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Artboard_1.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Artboard 1.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Artboard_1.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Artboard_1-png.jpg",
+            null
+        ]
+    },
+    "ChangeADefaultFormDataSetIntoASectionFormDataSet.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "ChangeADefaultFormDataSetIntoASectionFormDataSet.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "ChangeADefaultFormDataSetIntoASectionFormDataSet.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@ChangeADefaultFormDataSetIntoASectionFormDataSet.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "ConfiguringRMNCAH_ANC_1_8_DropoutRate.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "ConfiguringRMNCAH_ANC_1_8_DropoutRate.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "ConfiguringRMNCAH_ANC_1_8_DropoutRate.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@ConfiguringRMNCAH_ANC_1_8_DropoutRate.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "ConfiguringYourFirstIndicator.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "ConfiguringYourFirstIndicator.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "ConfiguringYourFirstIndicator.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@ConfiguringYourFirstIndicator.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CoursePageOrientation.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CoursePageOrientation.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CoursePageOrientation.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CoursePageOrientation.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "CoursePageOrientation-png.jpg",
+            null
+        ]
+    },
+    "Course_images_Customization.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Course_images_Customization.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Course images Customization.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Course_images_Customization.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Course_images_Customization-png.jpg",
+            null
+        ]
+    },
+    "Course_images_Customization2.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Course_images_Customization2.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Course images Customization2.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Course_images_Customization2.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Course_images_Customization2-png.jpg",
+            null
+        ]
+    },
+    "CreateADefaultSataSet.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreateADefaultSataSet.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreateADefaultSataSet.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreateADefaultSataSet.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CreatingAnOrganisationUnitHierarchy.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingAnOrganisationUnitHierarchy.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingAnOrganisationUnitHierarchy.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingAnOrganisationUnitHierarchy.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CreatingCategoriesAndCategoryCombinations.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingCategoriesAndCategoryCombinations.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingCategoriesAndCategoryCombinations.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingCategoriesAndCategoryCombinations.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CreatingCategoryOptions.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingCategoryOptions.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingCategoryOptions.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingCategoryOptions.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CreatingDataElementGroupsAndGroupSets.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingDataElementGroupsAndGroupSets.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingDataElementGroupsAndGroupSets.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingDataElementGroupsAndGroupSets.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CreatingDataElements.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingDataElements.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingDataElements.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingDataElements.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CreatingIndicatorGroupsAndGroupSets.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingIndicatorGroupsAndGroupSets.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingIndicatorGroupsAndGroupSets.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingIndicatorGroupsAndGroupSets.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CreatingIndicatorGroups_DragAndDrop.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingIndicatorGroups_DragAndDrop.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingIndicatorGroups_DragAndDrop.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingIndicatorGroups_DragAndDrop.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "CreatingIndicatorGroups_DragAndDrop-png.jpg",
+            null
+        ]
+    },
+    "CreatingOrganisationUnitGroupSets.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingOrganisationUnitGroupSets.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingOrganisationUnitGroupSets.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingOrganisationUnitGroupSets.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "CreatingOrganisationUnitGroups.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "CreatingOrganisationUnitGroups.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "CreatingOrganisationUnitGroups.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@CreatingOrganisationUnitGroups.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Customization_English.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Customization_English.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Customization English.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Customization_English.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Customization_English-png.jpg",
+            null
+        ]
+    },
+    "DE_groups.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DE_groups.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DE_groups.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DE_groups.png",
+        "import_path": "DE_groups.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DE_groups-png.jpg",
+            null
+        ]
+    },
+    "DQ2020kristin-braa.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DQ2020kristin-braa.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DQ2020kristin-braa.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DQ2020kristin-braa.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DQ2020kristin-braa-png.jpg",
+            null
+        ]
+    },
+    "DatabaseName.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DatabaseName.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DatabaseName.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DatabaseName.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DatabaseName-png.jpg",
+            null
+        ]
+    },
+    "Download_certificate.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Download_certificate.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Download_certificate.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Download_certificate.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Download_certificate-png.jpg",
+            null
+        ]
+    },
+    "DragAndDrop_7Items_Wider.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DragAndDrop_7Items_Wider.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DragAndDrop_7Items_Wider.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DragAndDrop_7Items_Wider.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DragAndDrop_7Items_Wider-png.jpg",
+            null
+        ]
+    },
+    "DragAndDrop_FormType.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DragAndDrop_FormType.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DragAndDrop_FormType.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DragAndDrop_FormType.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DragAndDrop_FormType-png.jpg",
+            null
+        ]
+    },
+    "DragAndDrop_Order.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DragAndDrop_Order.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DragAndDrop_Order.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DragAndDrop_Order.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DragAndDrop_Order-png.jpg",
+            null
+        ]
+    },
+    "DragAndDrop_OrderItems6.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DragAndDrop_OrderItems6.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DragAndDrop_OrderItems6.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DragAndDrop_OrderItems6.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DragAndDrop_OrderItems6-png.jpg",
+            null
+        ]
+    },
+    "DragAndDrop_OrderItems7.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DragAndDrop_OrderItems7.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DragAndDrop_OrderItems7.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DragAndDrop_OrderItems7.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DragAndDrop_OrderItems7-png.jpg",
+            null
+        ]
+    },
+    "DragAndDrop_process.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DragAndDrop_process.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DragAndDrop_process.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DragAndDrop_process.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DragAndDrop_process-png.jpg",
+            null
+        ]
+    },
+    "DrangAndDrop_5Options.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "DrangAndDrop_5Options.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "DrangAndDrop_5Options.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DrangAndDrop_5Options.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "DrangAndDrop_5Options-png.jpg",
+            null
+        ]
+    },
+    "General_Forum_Guidelines__intro_to_CoP_.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "General_Forum_Guidelines__intro_to_CoP_.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "General Forum Guidelines (intro to CoP).pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@General_Forum_Guidelines__intro_to_CoP_.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "GroupsAndGroupSets.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "GroupsAndGroupSets.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "GroupsAndGroupSets.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@GroupsAndGroupSets.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "GroupsAndGroupSets-png.jpg",
+            null
+        ]
+    },
+    "Laboratory_Section.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Laboratory_Section.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Laboratory_Section.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Laboratory_Section.png",
+        "import_path": "Laboratory_Section.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Laboratory_Section-png.jpg",
+            null
+        ]
+    },
+    "Module3_exercise.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Module3_exercise.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Module3_exercise.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Module3_exercise.png",
+        "import_path": "Module3_exercise.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Module3_exercise-png.jpg",
+            null
+        ]
+    },
+    "OrgUnitGroups.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "OrgUnitGroups.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "OrgUnitGroups.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@OrgUnitGroups.png",
+        "import_path": "OrgUnitGroups.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "OrgUnitGroups-png.jpg",
+            null
+        ]
+    },
+    "OrientationToIndicators_IMG1.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "OrientationToIndicators_IMG1.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "OrientationToIndicators_IMG1.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@OrientationToIndicators_IMG1.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "OrientationToIndicators_IMG1-png.jpg",
+            null
+        ]
+    },
+    "Participants_Guide_DHIS2_Customization.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Participants_Guide_DHIS2_Customization.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Participants Guide_DHIS2 Customization.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Participants_Guide_DHIS2_Customization.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Platform_Navigation_Guidelines.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Platform_Navigation_Guidelines.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Platform_Navigation_Guidelines.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Platform_Navigation_Guidelines.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "RMNCAH_Orientation.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "RMNCAH_Orientation.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "RMNCAH_Orientation.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@RMNCAH_Orientation.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "RMNCAH_Orientation-png.jpg",
+            null
+        ]
+    },
+    "Screen_Shot_2022-07-06_at_13.11.55.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Screen_Shot_2022-07-06_at_13.11.55.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Screen Shot 2022-07-06 at 13.11.55.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Screen_Shot_2022-07-06_at_13.11.55.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Screen_Shot_2022-07-06_at_13.11.55-png.jpg",
+            null
+        ]
+    },
+    "Screen_Shot_2022-07-06_at_13.17.49.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Screen_Shot_2022-07-06_at_13.17.49.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Screen Shot 2022-07-06 at 13.17.49.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Screen_Shot_2022-07-06_at_13.17.49.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Screen_Shot_2022-07-06_at_13.17.49-png.jpg",
+            null
+        ]
+    },
+    "Screen_Shot_2022-07-06_at_13.23.00.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Screen_Shot_2022-07-06_at_13.23.00.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Screen Shot 2022-07-06 at 13.23.00.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Screen_Shot_2022-07-06_at_13.23.00.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Screen_Shot_2022-07-06_at_13.23.00-png.jpg",
+            null
+        ]
+    },
+    "SharingSettings_DragAndDrop.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "SharingSettings_DragAndDrop.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "SharingSettings_DragAndDrop.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@SharingSettings_DragAndDrop.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "SharingSettings_DragAndDrop-png.jpg",
+            null
+        ]
+    },
+    "SharingSettings_DragAndDrop2.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "SharingSettings_DragAndDrop2.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "SharingSettings_DragAndDrop2.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@SharingSettings_DragAndDrop2.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "SharingSettings_DragAndDrop2-png.jpg",
+            null
+        ]
+    },
+    "Sharing_settings._DragAndDrop.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Sharing_settings._DragAndDrop.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Sharing_settings._DragAndDrop.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Sharing_settings._DragAndDrop.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Sharing_settings._DragAndDrop-png.jpg",
+            null
+        ]
+    },
+    "Single_category_exercise.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Single_category_exercise.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Single_category_exercise.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Single_category_exercise.png",
+        "import_path": "Single_category_exercise.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Single_category_exercise-png.jpg",
+            null
+        ]
+    },
+    "Team_photo.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "Team_photo.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "Team photo.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@Team_photo.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "Team_photo-png.jpg",
+            null
+        ]
+    },
+    "UpdatingSharingSettingsForCategoryOptionsAndDataSets.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "UpdatingSharingSettingsForCategoryOptionsAndDataSets.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "UpdatingSharingSettingsForCategoryOptionsAndDataSets.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@UpdatingSharingSettingsForCategoryOptionsAndDataSets.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "VerifyingIndicatorsInTheDataVisualizerApp.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "VerifyingIndicatorsInTheDataVisualizerApp.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "VerifyingIndicatorsInTheDataVisualizerApp.pdf",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@VerifyingIndicatorsInTheDataVisualizerApp.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "acct_details.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "acct_details.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "acct_details.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@acct_details.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "acct_details-png.jpg",
+            null
+        ]
+    },
+    "button-style.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "button-style.css",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "button-style.css",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@button-style.css",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "categories_drag_and_drop.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "categories_drag_and_drop.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "categories_drag_and_drop.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@categories_drag_and_drop.png",
+        "import_path": "categories_drag_and_drop.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "categories_drag_and_drop-png.jpg",
+            null
+        ]
+    },
+    "categories_exercies.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "categories_exercies.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "categories_exercies.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@categories_exercies.png",
+        "import_path": "categories_exercies.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "categories_exercies-png.jpg",
+            null
+        ]
+    },
+    "customization_apps.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "customization_apps.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "customization_apps.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@customization_apps.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "customization_apps-png.jpg",
+            null
+        ]
+    },
+    "data_elements_exercise.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "data_elements_exercise.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "data_elements_exercise.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@data_elements_exercise.png",
+        "import_path": "data_elements_exercise.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "data_elements_exercise-png.jpg",
+            null
+        ]
+    },
+    "email_contents.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "email_contents.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "email_contents.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@email_contents.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "email_contents-png.jpg",
+            null
+        ]
+    },
+    "email_subject.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "email_subject.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "email_subject.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@email_subject.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "email_subject-png.jpg",
+            null
+        ]
+    },
+    "example_of_4_level_org_unit_hierarchy.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "example_of_4_level_org_unit_hierarchy.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "example of 4 level org unit hierarchy.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@example_of_4_level_org_unit_hierarchy.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "example_of_4_level_org_unit_hierarchy-png.jpg",
+            null
+        ]
+    },
+    "example_of_disaggregation.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "example_of_disaggregation.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "example of disaggregation.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@example_of_disaggregation.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "example_of_disaggregation-png.jpg",
+            null
+        ]
+    },
+    "image1.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image1.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image1.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image1.png",
+        "import_path": "image1.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image1-png.jpg",
+            null
+        ]
+    },
+    "image10.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image10.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image10.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image10.png",
+        "import_path": "image10.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image10-png.jpg",
+            null
+        ]
+    },
+    "image11.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image11.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image11.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image11.png",
+        "import_path": "image11.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image11-png.jpg",
+            null
+        ]
+    },
+    "image12.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image12.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image12.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image12.png",
+        "import_path": "image12.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image12-png.jpg",
+            null
+        ]
+    },
+    "image13.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image13.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image13.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image13.png",
+        "import_path": "image13.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image13-png.jpg",
+            null
+        ]
+    },
+    "image14.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image14.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image14.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image14.png",
+        "import_path": "image14.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image14-png.jpg",
+            null
+        ]
+    },
+    "image15.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image15.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image15.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image15.png",
+        "import_path": "image15.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image15-png.jpg",
+            null
+        ]
+    },
+    "image16.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image16.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image16.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image16.png",
+        "import_path": "image16.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image16-png.jpg",
+            null
+        ]
+    },
+    "image17.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image17.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image17.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image17.png",
+        "import_path": "image17.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image17-png.jpg",
+            null
+        ]
+    },
+    "image18.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image18.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image18.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image18.png",
+        "import_path": "image18.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image18-png.jpg",
+            null
+        ]
+    },
+    "image19.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image19.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image19.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image19.png",
+        "import_path": "image19.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image19-png.jpg",
+            null
+        ]
+    },
+    "image2.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image2.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image2.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image2.png",
+        "import_path": "image2.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image2-png.jpg",
+            null
+        ]
+    },
+    "image20.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image20.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image20.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image20.png",
+        "import_path": "image20.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image20-png.jpg",
+            null
+        ]
+    },
+    "image21.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image21.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image21.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image21.png",
+        "import_path": "image21.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image21-png.jpg",
+            null
+        ]
+    },
+    "image22.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image22.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image22.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image22.png",
+        "import_path": "image22.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image22-png.jpg",
+            null
+        ]
+    },
+    "image23.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image23.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image23.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image23.png",
+        "import_path": "image23.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image23-png.jpg",
+            null
+        ]
+    },
+    "image24.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image24.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image24.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image24.png",
+        "import_path": "image24.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image24-png.jpg",
+            null
+        ]
+    },
+    "image25.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image25.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image25.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image25.png",
+        "import_path": "image25.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image25-png.jpg",
+            null
+        ]
+    },
+    "image26.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image26.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image26.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image26.png",
+        "import_path": "image26.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image26-png.jpg",
+            null
+        ]
+    },
+    "image27.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image27.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image27.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image27.png",
+        "import_path": "image27.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image27-png.jpg",
+            null
+        ]
+    },
+    "image28.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image28.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image28.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image28.png",
+        "import_path": "image28.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image28-png.jpg",
+            null
+        ]
+    },
+    "image29.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image29.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image29.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image29.png",
+        "import_path": "image29.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image29-png.jpg",
+            null
+        ]
+    },
+    "image3.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image3.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image3.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image3.png",
+        "import_path": "image3.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image3-png.jpg",
+            null
+        ]
+    },
+    "image30.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image30.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image30.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image30.png",
+        "import_path": "image30.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image30-png.jpg",
+            null
+        ]
+    },
+    "image31.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image31.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image31.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image31.png",
+        "import_path": "image31.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image31-png.jpg",
+            null
+        ]
+    },
+    "image32.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image32.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image32.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image32.png",
+        "import_path": "image32.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image32-png.jpg",
+            null
+        ]
+    },
+    "image33.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image33.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image33.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image33.png",
+        "import_path": "image33.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image33-png.jpg",
+            null
+        ]
+    },
+    "image34.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image34.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image34.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image34.png",
+        "import_path": "image34.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image34-png.jpg",
+            null
+        ]
+    },
+    "image35.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image35.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image35.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image35.png",
+        "import_path": "image35.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image35-png.jpg",
+            null
+        ]
+    },
+    "image36.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image36.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image36.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image36.png",
+        "import_path": "image36.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image36-png.jpg",
+            null
+        ]
+    },
+    "image37.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image37.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image37.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image37.png",
+        "import_path": "image37.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image37-png.jpg",
+            null
+        ]
+    },
+    "image38.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image38.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image38.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image38.png",
+        "import_path": "image38.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image38-png.jpg",
+            null
+        ]
+    },
+    "image39.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image39.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image39.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image39.png",
+        "import_path": "image39.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image39-png.jpg",
+            null
+        ]
+    },
+    "image4.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image4.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image4.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image4.png",
+        "import_path": "image4.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image4-png.jpg",
+            null
+        ]
+    },
+    "image40.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image40.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image40.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image40.png",
+        "import_path": "image40.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image40-png.jpg",
+            null
+        ]
+    },
+    "image41.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image41.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image41.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image41.png",
+        "import_path": "image41.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image41-png.jpg",
+            null
+        ]
+    },
+    "image42.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image42.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image42.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image42.png",
+        "import_path": "image42.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image42-png.jpg",
+            null
+        ]
+    },
+    "image43.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image43.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image43.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image43.png",
+        "import_path": "image43.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image43-png.jpg",
+            null
+        ]
+    },
+    "image44.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image44.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image44.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image44.png",
+        "import_path": "image44.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image44-png.jpg",
+            null
+        ]
+    },
+    "image45.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image45.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image45.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image45.png",
+        "import_path": "image45.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image45-png.jpg",
+            null
+        ]
+    },
+    "image46.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image46.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image46.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image46.png",
+        "import_path": "image46.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image46-png.jpg",
+            null
+        ]
+    },
+    "image47.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image47.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image47.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image47.png",
+        "import_path": "image47.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image47-png.jpg",
+            null
+        ]
+    },
+    "image48.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image48.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image48.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image48.png",
+        "import_path": "image48.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image48-png.jpg",
+            null
+        ]
+    },
+    "image49.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image49.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image49.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image49.png",
+        "import_path": "image49.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image49-png.jpg",
+            null
+        ]
+    },
+    "image5.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image5.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image5.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image5.png",
+        "import_path": "image5.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image5-png.jpg",
+            null
+        ]
+    },
+    "image50.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image50.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image50.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image50.png",
+        "import_path": "image50.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image50-png.jpg",
+            null
+        ]
+    },
+    "image51.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image51.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image51.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image51.png",
+        "import_path": "image51.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image51-png.jpg",
+            null
+        ]
+    },
+    "image52.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image52.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image52.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image52.png",
+        "import_path": "image52.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image52-png.jpg",
+            null
+        ]
+    },
+    "image53.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image53.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image53.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image53.png",
+        "import_path": "image53.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image53-png.jpg",
+            null
+        ]
+    },
+    "image54.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image54.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image54.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image54.png",
+        "import_path": "image54.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image54-png.jpg",
+            null
+        ]
+    },
+    "image55.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image55.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image55.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image55.png",
+        "import_path": "image55.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image55-png.jpg",
+            null
+        ]
+    },
+    "image56.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image56.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image56.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image56.png",
+        "import_path": "image56.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image56-png.jpg",
+            null
+        ]
+    },
+    "image57.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image57.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image57.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image57.png",
+        "import_path": "image57.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image57-png.jpg",
+            null
+        ]
+    },
+    "image58.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image58.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image58.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image58.png",
+        "import_path": "image58.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image58-png.jpg",
+            null
+        ]
+    },
+    "image59.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image59.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image59.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image59.png",
+        "import_path": "image59.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image59-png.jpg",
+            null
+        ]
+    },
+    "image6.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image6.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image6.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image6.png",
+        "import_path": "image6.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image6-png.jpg",
+            null
+        ]
+    },
+    "image60.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image60.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image60.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image60.png",
+        "import_path": "image60.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image60-png.jpg",
+            null
+        ]
+    },
+    "image61.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image61.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image61.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image61.png",
+        "import_path": "image61.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image61-png.jpg",
+            null
+        ]
+    },
+    "image62.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image62.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image62.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image62.png",
+        "import_path": "image62.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image62-png.jpg",
+            null
+        ]
+    },
+    "image63.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image63.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image63.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image63.png",
+        "import_path": "image63.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image63-png.jpg",
+            null
+        ]
+    },
+    "image64.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image64.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image64.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image64.png",
+        "import_path": "image64.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image64-png.jpg",
+            null
+        ]
+    },
+    "image65.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image65.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image65.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image65.png",
+        "import_path": "image65.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image65-png.jpg",
+            null
+        ]
+    },
+    "image66.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image66.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image66.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image66.png",
+        "import_path": "image66.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image66-png.jpg",
+            null
+        ]
+    },
+    "image67.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image67.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image67.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image67.png",
+        "import_path": "image67.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image67-png.jpg",
+            null
+        ]
+    },
+    "image68.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image68.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image68.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image68.png",
+        "import_path": "image68.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image68-png.jpg",
+            null
+        ]
+    },
+    "image69.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image69.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image69.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image69.png",
+        "import_path": "image69.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image69-png.jpg",
+            null
+        ]
+    },
+    "image7.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image7.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image7.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image7.png",
+        "import_path": "image7.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image7-png.jpg",
+            null
+        ]
+    },
+    "image70.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image70.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image70.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image70.png",
+        "import_path": "image70.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image70-png.jpg",
+            null
+        ]
+    },
+    "image71.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image71.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image71.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image71.png",
+        "import_path": "image71.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image71-png.jpg",
+            null
+        ]
+    },
+    "image72.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image72.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image72.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image72.png",
+        "import_path": "image72.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image72-png.jpg",
+            null
+        ]
+    },
+    "image73.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image73.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image73.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image73.png",
+        "import_path": "image73.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image73-png.jpg",
+            null
+        ]
+    },
+    "image8.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image8.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image8.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image8.png",
+        "import_path": "image8.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image8-png.jpg",
+            null
+        ]
+    },
+    "image9.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "image9.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "image9.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@image9.png",
+        "import_path": "image9.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "image9-png.jpg",
+            null
+        ]
+    },
+    "ind_apps.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "ind_apps.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "ind_apps.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@ind_apps.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "ind_apps-png.jpg",
+            null
+        ]
+    },
+    "indicatorgroups.PNG": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "indicatorgroups.PNG",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "indicatorgroups.PNG",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@indicatorgroups.PNG",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "indicatorgroups-PNG.jpg",
+            null
+        ]
+    },
+    "org_unit.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "org_unit.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "org_unit.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@org_unit.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "org_unit-png.jpg",
+            null
+        ]
+    },
+    "orgunits_exercise.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "orgunits_exercise.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "orgunits_exercise.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@orgunits_exercise.png",
+        "import_path": "orgunits_exercise.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "orgunits_exercise-png.jpg",
+            null
+        ]
+    },
+    "sharing_drag_and_drop.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "sharing_drag_and_drop.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "sharing_drag_and_drop.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@sharing_drag_and_drop.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "sharing_drag_and_drop-png.jpg",
+            null
+        ]
+    },
+    "signup_email_notification.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D004-en",
+            "name": "signup_email_notification.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022_Q2",
+            "tag": "c4x"
+        },
+        "displayname": "signup_email_notification.png",
+        "filename": "asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@signup_email_notification.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D004-en",
+            "thumbnail",
+            "signup_email_notification-png.jpg",
+            null
+        ]
+    }
+}

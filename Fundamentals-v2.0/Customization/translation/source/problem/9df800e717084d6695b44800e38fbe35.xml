@@ -1,0 +1,22 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 2" markdown="null" showanswer="after_attempts">
+  <multiplechoiceresponse>
+    <label>
+      <h3>What is the value type for the data elements in the Malaria data set?</h3>
+    </label>
+    <description>Select one answer.</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">A. Text</choice>
+      <choice correct="true">B. Positive or zero integer </choice>
+      <choice correct="false">C. Number</choice>
+      <choice correct="false">D. Positive integer</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The value type for the data elements within the Malaria data set is positive or zero integer. This means that the end user will only be able to enter positive integers or a value of zero. 
+
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

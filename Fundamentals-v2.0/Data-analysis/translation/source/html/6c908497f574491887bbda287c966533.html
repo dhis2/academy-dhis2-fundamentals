@@ -1,0 +1,68 @@
+<script>// <![CDATA[
+    function requestAccount() {
+	document.getElementById("requestButton").disabled = true;
+        var baseUrl = window.location.href.split("/", 3).join("/");
+        $.ajax({
+            url: baseUrl + "/api/user/v1/accounts",
+            dataType: "json",
+            success: function(data) {
+                var email = data[0].email;
+                var obj = {"email": email, "url": "https://academy.aggregate.dhis2.org/analysis"};
+                console.log(obj)
+                $.ajax({
+                    url         : "https://ue7emdwas56wqbk45kp3veyaeq0azyfz.lambda-url.eu-west-1.on.aws/",
+                    type        : "POST",
+                    data        : JSON.stringify(obj),
+                    contentType    : "application/json; charset=utf-8",
+                    dataType    : "json",
+			success: function (result, status, xhr) {
+				alert(xhr.responseText);
+			},
+			error: function (xhr,status,error) {
+				alert(xhr.responseText);
+			}
+                });
+            }
+        });
+
+    }
+
+// ]]></script>
+
+<h3 id="how-to-create-an-account-in-trainingland-2">How to create an account in Trainingland</h3>
+
+<p>To engage with the course, you’ll need to access our specially made DHIS2 training instance, <em>Trainingland (Analysis)</em>. Here are the steps needed to create your own Trainingland Analysis account and start learning by using DHIS2.</p>
+<ol type="1">
+<li><strong>Click the button below to request an account</strong> (Give it a couple of seconds; DO NOT keep clicking the “Request account” button several times in a row)</li>
+</ol>
+<p><input id="requestButton" type="button" onClick="requestAccount();" value="Request account" /></p>
+<ol type="1">
+<li>You will <strong>receive an invitation by email</strong> with instructions on how to complete the registration in DHIS2.</li>
+</ol>
+<p><em><strong>Note</strong>: we will use the email address you provided when you registered on the DHIS2 Online Academy to create an account for you in Trainingland. Please do not change this email address later as it will be used as your username for Trainingland.</em></p>
+<ol type="1">
+<li>After 5-10 seconds you should receive the following notification in your browser window.</li>
+</ol>
+<p><img src="/static/image19.png" style="width:4.57292in;height:1.28125in" /></p>
+<ol type="1">
+<li>Click on ‘OK’ to close this notification.</li>
+<li>Check your email inbox. You will receive <strong>one email</strong> that look like the following:</li>
+</ol>
+<p><img src="/static/image10.png" style="width:6.5in;height:0.55556in" /></p>
+<p>If you don’t find this email in one of your primary inboxes, please check the Promotion tab or the Spam folder in case it was filtered out. Alternatively, you can search for the email using the tags [DHIS2 Trainingland].</p>
+<ol type="1">
+<li>Use the information in the email to create your account in Trainingland.</li>
+<p><img src="/static/image7.png" style="width:4.33333in;height:3.51389in" /></p>
+<p><strong>Your username</strong> and email address will automatically be set to the same as <strong>your registered email address</strong> for DHIS2 Online Academy.</p>
+<p>You will also need to enter a <strong>first name</strong> and <strong>last name</strong>. This will be used for messaging in the system or to identify you when you complete a data set.</p>
+<ul>
+<li>When creating your <strong>password</strong>, consider making one you can remember, while making sure it’s <strong>at least 8 characters</strong> long, with <strong>one or more uppercase letters, a number and a special character</strong>.</li>
+<li>Once you have entered the password into both the password boxes, click “<strong>Create</strong>”. This will take you to Trainingland logged in to your new user account!</li>
+</ul>
+<p>You will use this Trainingland account to complete activities throughout this course, and you’ll find the link to Trainingland at the top of each activity and assessment lab page. This account will only work for activities and assessment labs in this course, and you’ll need to make a new account for the other courses on the DHIS2 Online Academy.</p>
+<p>If you have any questions or difficulty in creating your Trainingland account, don’t hesitate to contact us by email <strong>fundamentals-support@dhis2.org</strong>.</p>
+<p>Feel free to explore the various dashboards, apps and functions in Trainingland.</p>
+<p><img src="/static/1.2_Trainingland.png" style="width:100%;height:100%" /></p>
+
+
+

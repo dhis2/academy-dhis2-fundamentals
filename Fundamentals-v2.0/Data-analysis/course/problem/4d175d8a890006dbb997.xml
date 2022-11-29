@@ -1,0 +1,23 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>
+What are the 3 ways to select organisation units in a pivot table?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Hierarchy</choice>
+      <choice correct="false">Regions</choice>
+      <choice correct="true">Levels</choice>
+      <choice correct="true">Groups</choice>
+      <choice correct="false">Urban/Rural</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In DHIS2, you can select organisation units by Hierarchy, Levels or Groups. Regions are an example of a possible level in an organisation unit hierarchy. Urban/Rural are examples of possible organisation unit groups.</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

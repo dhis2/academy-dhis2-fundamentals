@@ -1,0 +1,20 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>At birth, John received his BCG vaccination. In 6 weeks, he will receive his DPT vaccination. John will subsequently receive DPT vaccinations at 10 weeks and 16 weeks of age. </p>
+    <label>
+      <h3>To follow up on him within this vaccination program, what DHIS2 model should be used to collect these data?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Aggregate</choice>
+      <choice correct="false">Events</choice>
+      <choice correct="true">Tracker</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The tracker data model allows entering data with individual identifiers which helps to follow up people on specific health programs.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

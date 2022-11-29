@@ -1,0 +1,20 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 4" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>Which organisation units would be assigned to this data set?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">All facility level organisation units</choice>
+      <choice correct="false">All organisation units</choice>
+      <choice correct="false">All district level organisation units</choice>
+      <choice correct="false">Only the root organisation unit</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The data for this form is collected in facilities so it would need to be assigned to all facility level organisation units.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,18 @@
+<problem display_name="Question 1" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>When you create organisation units that have geographical boundaries, such as provinces, regions or districts, you don't need to fill in any opening date. This only applies to facilities.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>You still need to put in the opening date, as it is a required field. This field is required because it opens the organisation unit for data entry. No data entry can be done prior to this date. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

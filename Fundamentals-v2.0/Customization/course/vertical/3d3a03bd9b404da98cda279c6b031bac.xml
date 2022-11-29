@@ -1,0 +1,6 @@
+<vertical display_name="Module 6 Lab">
+  <html url_name="2e961da88e304b44922c39d2fe9f342c"/>
+  <html url_name="5851a436bffd496aa87c68b350c7e614"/>
+  <gradefetcher url_name="2d699b30057f4e5190183e348d3bcc24" xblock-family="xblock.v1" api_key="ifGkZpWY4P1kaGHPLAxCx6nIF0WehdiurHtFfRTg" client_id="academy-grader" user_identifier_parameter="username" authentication_password="F+aLvstl.L3" client_secret="1478ae734-d0b1-7402-98fb-49013a4f48f" authentication_endpoint="https://academy.aggregate.dhis2.org/ind_mal/uaa/oauth/token" title="Module 6 Lab Automated Grader" authentication_username="academy-grader" activity_identifier="6" extra_params="base_url=academy.aggregate.dhis2.org/ind_mal" activity_identifier_parameter="assignment_id" display_name="Grade Fetcher Module 6" grader_endpoint="https://xbht31uf84.execute-api.us-east-1.amazonaws.com/Prod/customization_agg_results"/>
+  <html url_name="1c11de6f729f411fb2376c9eae9ae07f"/>
+</vertical>

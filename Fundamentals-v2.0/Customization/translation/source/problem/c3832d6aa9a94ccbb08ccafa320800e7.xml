@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 1" markdown="null" showanswer="after_attempts">
+  <multiplechoiceresponse>
+    <label>
+      <h3>What is the domain type for the data elements in the Malaria data set?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">A. Tracker</choice>
+      <choice correct="true">B. Aggregate</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The data set we are working with, malaria, contains aggregate data elements. Tracker data elements are used to collect individual-level (or case-based) transactional data. It supports data collection, case monitoring and follow-up analysis and reporting.
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

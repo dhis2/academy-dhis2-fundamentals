@@ -1,0 +1,24 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <p>Through the dashboard interface, you can interact with objects in the dashboard.</p>
+    <label>
+      <h3>
+ Select the following interactive features that are available within the dashboard interface: 
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Zooming in and out on a map</choice>
+      <choice correct="true">Opening an object in the app where it was created</choice>
+      <choice correct="false">Rearranging the dimensions of a pivot table </choice>
+      <choice correct="true">Viewing the object in fullscreen </choice>
+      <choice correct="true">Viewing the objects’s interpretations and details</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>There are many features available in dashboards that allow you to interact with the objects on the dashboard including: Zooming in and out on a map, opening an object in the app where it was created, viewing the object in fullscreen (which is a useful feature for presentations) and viewing the object’s interpretations and details. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

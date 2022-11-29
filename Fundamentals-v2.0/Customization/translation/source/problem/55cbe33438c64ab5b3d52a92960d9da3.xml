@@ -1,0 +1,17 @@
+<problem display_name="Question 1" markdown="null">
+  <multiplechoiceresponse>
+    <h3>In the DHIS2 training databases, each participant will have their own organisation unit hierarchy. </h3>
+    <label/>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>When you register as a new user in the DHIS2 training databases, an organisation unit is automatically created for you called “TRAININGLAND - your email.” Only you can see and have access to this organisation unit. When you create additional organisation units, they will be the children of your private root organisation unit, which assures that the whole organisation unit hierarchy that you create will be private and only accessible to you and the course administrators.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

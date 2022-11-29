@@ -1,0 +1,23 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>In the Data Visualizer app open any saved pivot table by clicking on File &gt; Open. Then click on the Download button.</p>
+    <label>
+      <h3>
+ Which of the following is NOT listed under table layout downloads?
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Excel</choice>
+      <choice correct="false">CSV</choice>
+      <choice correct="true">JSON</choice>
+      <choice correct="false">HTML</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Under downloads, JSON is not listed under table layout. The options listed for table layout downloads are: Excel, CSV and HTML. JSON is listed as an option for plain data source downloads. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

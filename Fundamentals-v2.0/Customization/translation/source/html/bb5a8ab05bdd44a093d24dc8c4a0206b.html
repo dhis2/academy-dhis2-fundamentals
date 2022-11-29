@@ -1,0 +1,60 @@
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  </style>
+<h3>What is an indicator?</h3>
+<p>As you learned in the Introduction to DHIS2 course, an indicator represents a mathematical formula that is calculated using items such as data elements, constants and mathematical operators.</p>
+
+<h3>What are the components of an indicator?</h3>
+<p>Indicators consist of a <em><strong>numerator</strong></em>, a <em><strong>denominator</strong></em> and a <em><strong>factor</strong></em>. If you would like to refresh your memory on the concepts of indicators, please review the <a href = "https://youtu.be/c4GVZ6z6YZw?t=191" target = none> “DHIS2 Building Blocks: What - Data Elements and Indicators”</a> video from the Introduction to DHIS2 course </p>
+<img src="/static/OrientationToIndicators_IMG1.png" style="width:6.5in;height:4in" class="center"/>
+
+                                     
+<p>The <strong>numerator</strong> is <strong>the “top” value</strong> of a fraction. In DHIS2, when working with aggregate data, the numerator consists of <strong>one or more data elements</strong> and can include mathematical operators to form an expression. This expression must be mathematically valid. For example, a valid expression could consist of a single data element or a combination of multiple data elements.</p>
+<p>The <strong>denominator</strong> is <strong>the “bottom” value</strong> of a fraction. Just like the numerator, it usually consists of <strong>one or more data elements in an expression</strong> that may include mathematical operators and factors. An indicator with a denominator of ‘1’ is called a “numerator only” indicator. These are used to calculate the total data value from multiple data elements.</p>
+<p>A <strong>factor</strong> is defined by the <strong>indicator type</strong> in DHIS2. A <em>factor of 100</em> is the most common indicator type and is used for calculating <em>percentage</em>s. It’s used for coverage (%), completeness (%) and other indicators for easy comparisons. Other factors, such as <em>per 1,000</em> or <em>per 10,000</em> are also useful for population-based data comparisons, such as incidence or prevalence measures. <em>Rate</em> is used to calculate the ratio between the numerator and denominator. By itself, the rate indicator type uses a <em>factor of 1.</em> To show a ratio as a percentage, you would instead need to use the percentage indicator type.</p>
+
+<h3>Example of an indicator</h3>
+<p>Let’s look at an example of an indicator to identify its components:</p>
+<p><strong>"Institutional delivery rate”</strong> shows the relationship between children born in an institution (hospital, medical facility, etc.) and the total number of live births, multiplied by 100 to get a percentage.</p>
+<p>This indicator is broken up into the following components:</p>
+<ul>
+<li>The <strong>numerator</strong> is the data element <strong>“Delivery in facility”</strong></li>
+<li>The <strong>denominator</strong> is the data element <strong>“Population live births”</strong></li>
+<li>The <strong>factor is 100</strong> to get the <strong>percentage</strong></li>
+</ul>
+<img src="/static/image28.png" style="width:6.5in;height:2.81944in" class="center"/>
+
+<p>For the indicator creation demonstration, we will use two indicators from the RMNCAH program:</p>
+<ul>
+<li>Indicator 1: <strong>ANC 4 Coverage</strong></li>
+<li>Indicator 2: <strong>ANC1-8 dropout rate</strong></li>
+</ul>
+<p>Let’s look at each of these indicators in more detail.</p>
+
+<img src="/static/image34.png" style="width:6.5in;height:2.84722in" class="center"/>
+
+<p>The first indicator in our demonstration calculates the number of pregnant women (based on an expected projection) who actually attended four antenatal care (ANC) visits. It is based on two data elements: <strong>“ANC 4th visit”</strong> as the numerator and <strong>“Population expected pregnant women”</strong> as the denominator. This shows us how many pregnant women attended their 4th ANC visit as a percentage of the number of expected pregnant women.</p>
+
+<h3>Annualized indicator</h3>
+<p>Since the population data for the denominator are entered on a yearly basis, we need to create the indicator as an annualized indicator. This means that when you view this indicator in analytics applications with a period that is less than yearly, such as monthly, the numerator will need to be multiplied by the number of periods there are per year in order to generate a coverage rate for this period. In a case where the denominator is yearly population data, an annualized indicator's numerator is multiplied by 12. This allows for monthly coverage values to be calculated using yearly population figures.</p>
+<img src="/static/image22.png" style="width:6.5in;height:3.09722in" class="center"/>
+
+
+<h3>Numerators with multiple data elements</h3>
+<p>The second indicator in our demonstration calculates the percentage of women who attended the first ANC visit (ANC 1st) but “dropped out” or abandoned the program in any stage after the 1st visit and before the 8th visit (which is the final visit in the minimum recommended ANC visit series). This indicator is based on the two data elements: <strong>“ANC 1st visit”</strong> and <strong>“ANC 8th visit”</strong>. In order to calculate it, for the numerator, you will need to take the “ANC 1st visit” data element and <strong>subtract</strong> the “ANC 8th visit” data element. This will calculate the number of women who attended the 1st ANC visit, but not the 8th ANC visit. The resulting numerator value will then be divided by the denominator of the <strong>total number of women who attended the 1st ANC visit</strong>, resulting in an ANC1-8 dropout rate value for the selected period. Finally, the output is multiplied by 100 to get a percentage.</p>
+<img src="/static/image1.png" style="width:6.5in;height:2.73611in" class="center"/>
+
+
+<h3>Main takeaways on indicators:</h3>
+<p>An indicator using aggregate data is the result of a mathematical formula, expressed as a fraction, where:</p>
+<ul>
+<li>The top value is the numerator, which consists of one or more data elements and may include a mathematical operator and constants</li>
+<li>The bottom value is the denominator, which can also be formed by one or more data elements and may include mathematical operators and constants</li>
+<li>The last element of an indicator is a factor defined by the indicator type. A factor of 100 (meaning that the result of the numerator divided by the denominator formula is multiplied by 100) is the indicator type used for calculating a percentage. A factor of 1 (meaning that the result of the numerator divided by the denominator formula is multiplied by 1) is the indicator type used for calculating data element totals (i.e. numerator only indicators)</li>
+<li>If an indicator combines data elements that use yearly data in the denominator (typically population data) and data elements with monthly collection period, then the indicator should be annualized in order for you to view monthly data values in the output</li>
+</ul>

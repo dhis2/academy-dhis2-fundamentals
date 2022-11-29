@@ -1,0 +1,20 @@
+<problem display_name="Question 1" markdown="null" max_attempts="3" showanswer="finished">
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>DHIS2 can be configured to support: </h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Aggregate-level data</choice>
+      <choice correct="true">Individual-level data</choice>
+      <choice correct="true">Data entry on desktop computers </choice>
+      <choice correct="true">Data entry on Android devices</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>DHIS2 can be configured to support all of the above: aggregate and individual-level data, and data entry on both desktop and Android devices. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

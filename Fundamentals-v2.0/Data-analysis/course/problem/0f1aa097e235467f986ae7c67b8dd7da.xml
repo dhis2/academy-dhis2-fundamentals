@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 1" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>Charts are graphical representations of data based on defined parameters. The data are represented by symbols, such as bars in a bar chart, lines in a line chart or slices in a pie chart. </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Charts are graphical representations of data based on defined parameters. Within the charts, the data are represented by symbols, such as bars in a bar chart, lines in a line chart or slices in a pie chart. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

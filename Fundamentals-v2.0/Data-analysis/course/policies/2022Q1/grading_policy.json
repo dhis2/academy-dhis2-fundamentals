@@ -1,0 +1,21 @@
+{
+    "GRADER": [
+        {
+            "drop_count": 0,
+            "min_count": 4,
+            "short_label": "Quiz",
+            "type": "Quiz",
+            "weight": 0.4
+        },
+        {
+            "drop_count": 0,
+            "min_count": 4,
+            "short_label": "Lab",
+            "type": "Lab",
+            "weight": 0.6
+        }
+    ],
+    "GRADE_CUTOFFS": {
+        "Pass": 0.8
+    }
+}

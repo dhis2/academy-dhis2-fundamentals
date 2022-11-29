@@ -1,0 +1,20 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>In Trainingland, navigate to the “COVID-19 Surveillance (Aggregate)” dashboard. Find the pivot table “COVID-19 - Recovery and fatality rate by sex and age - October 2021” and use the context menu to open it in the Data Visualizer app. Update the data dimension to include “COVID-19 - Closed cases” and change the period dimension to “March 2021” (be sure to remove the current period).</p>
+    <label>
+      <h3>What was the total of closed COVID-19 cases for males in March 2021?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">442</choice>
+      <choice correct="false">1,559</choice>
+      <choice correct="true">3,230</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In this example, the total number of closed COVID-19 cases for males in March 2021 is 3,230. This number can be found at the bottom of the pivot table under the column for male and the row total. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,11 @@
+<course advanced_modules="[&quot;poll&quot;, &quot;library_content&quot;, &quot;word_cloud&quot;, &quot;gradefetcher&quot;, &quot;survey&quot;]" catalog_visibility="both" cert_html_view_enabled="true" certificates="{&quot;certificates&quot;: [{&quot;name&quot;: &quot;Name of the certificate&quot;, &quot;editing&quot;: false, &quot;signatories&quot;: [{&quot;title&quot;: &quot;Director of the HISP Centre&quot;, &quot;name&quot;: &quot;Kristin Braa&quot;, &quot;certificate&quot;: null, &quot;signature_image_path&quot;: &quot;/asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DQ2020kristin-braa.png&quot;, &quot;organization&quot;: &quot;HISP Centre&quot;, &quot;id&quot;: 112378906}], &quot;course_title&quot;: &quot;&quot;, &quot;description&quot;: &quot;Description of the certificate&quot;, &quot;version&quot;: 1, &quot;id&quot;: 1966382807, &quot;is_active&quot;: true}]}" course_image="Customization English.png" days_early_for_beta="10.0" display_name="Aggregate Customization Fundamentals" enable_subsection_gating="true" enrollment_start="&quot;2022-08-15T23:00:00+00:00&quot;" graceperiod="" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" minimum_grade_credit="0.8" pre_requisite_courses="[&quot;course-v1:hisp+GEN-D001-en+2022Q1&quot;]" self_paced="true" showanswer="finished" start="&quot;2022-08-15T23:30:00+00:00&quot;">
+  <chapter url_name="aaa71f31d8da41668e310646a87aff39"/>
+  <chapter url_name="78a41073f63044c5896a6904e4fb988e"/>
+  <chapter url_name="3c12ff9d946b425d969774ea6b20e6de"/>
+  <chapter url_name="86c52683be8a49a7b0e8e0e9d1c3d132"/>
+  <chapter url_name="da29029df7ca479093fc207c8c31adda"/>
+  <chapter url_name="151d44d458f245fab17cc4b924335271"/>
+  <chapter url_name="b2994e641ac2453cb091e207460db5a7"/>
+  <chapter url_name="7e324fba5a46402c9572d77fd735a702"/>
+  <wiki slug="hisp.GEN-D004-en.2022_Q2"/>
+</course>

@@ -1,0 +1,22 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>
+If you build a chart visualization and then decide to change to a different chart type, which of the following steps do you need to complete when changing the chart type?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="false">Select the File menu then ‘Edit’ to find a new visualization type that suits your data analysis needs</choice>
+      <choice correct="true">Select a new visualization type that suits your data analysis needs from the dropdown menu </choice>
+      <choice correct="true">Consider if the chart layout needs to be adjusted for the new visualization type selected or to suit any new data analysis needs </choice>
+      <choice correct="true">Select ‘Update’ to update the chart to the new visualization type that has been selected</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>If you decide to change to a different chart type, you need to select a new visualization type that suits your data analysis needs from the dropdown menu. When changing chart types, consider if the chart layout needs to be adjusted for the new visualization type or to suit any new data analysis needs. When a new visualization type is selected from the dropdown menu, the data displayed in the chart does not automatically update to the new visualization type. You must select the ‘Update’ button to apply the changes and generate the new visualization</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

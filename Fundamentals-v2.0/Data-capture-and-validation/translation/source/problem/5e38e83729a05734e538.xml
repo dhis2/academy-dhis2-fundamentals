@@ -1,0 +1,20 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>
+If you want to sync a large amount of data to your DHIS2 server, you can sync all of your data from the settings menu in the app.
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>True. Under the settings menu, you can select ‘Sync Data’ to sync all the data on the device.  </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

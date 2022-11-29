@@ -1,0 +1,20 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>As a part of the COVID-19 vaccination campaign, a health facility needs a summary of the number of doses received and given on a daily basis. </p>
+    <label>
+      <h3>What data model should be used to enter these data in DHIS2?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Aggregate</choice>
+      <choice correct="false">Events</choice>
+      <choice correct="false">Tracker</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Aggregate data allows you to collect and enter numerical data directly into DHIS2 and then get reports with the summary of those data.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

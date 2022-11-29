@@ -1,0 +1,188 @@
+0
+00:00:00,765 --> 00:00:03,348
+(bright music)
+
+1
+00:00:13,020 --> 00:00:14,070
+- [Instructor] In this video,
+
+2
+00:00:14,070 --> 00:00:16,830
+we'll show you how to use the key features
+
+3
+00:00:16,830 --> 00:00:21,420
+of the DHIS2 online Academy platform.
+
+4
+00:00:21,420 --> 00:00:23,640
+Once you've logged into the Academy
+
+5
+00:00:23,640 --> 00:00:25,620
+and selected your course,
+
+6
+00:00:25,620 --> 00:00:28,620
+you'll be greeted with the course page.
+
+7
+00:00:28,620 --> 00:00:30,750
+Right below the course title,
+
+8
+00:00:30,750 --> 00:00:33,930
+you'll see any messages from the course team.
+
+9
+00:00:33,930 --> 00:00:36,480
+Then you will see the course menu
+
+10
+00:00:36,480 --> 00:00:38,520
+where you can click on a module
+
+11
+00:00:38,520 --> 00:00:41,430
+to view the subsections and units
+
+12
+00:00:41,430 --> 00:00:46,320
+or expand all to view the outline of the entire course.
+
+13
+00:00:46,320 --> 00:00:47,760
+You can start the course
+
+14
+00:00:47,760 --> 00:00:51,210
+by selecting a unit from the course overview
+
+15
+00:00:51,210 --> 00:00:54,030
+or by selecting the start course button
+
+16
+00:00:54,030 --> 00:00:55,830
+in the top right corner.
+
+17
+00:00:55,830 --> 00:00:57,630
+If you've already begun,
+
+18
+00:00:57,630 --> 00:01:01,410
+you'll instead see the resume course button.
+
+19
+00:01:01,410 --> 00:01:03,030
+Every time you log in,
+
+20
+00:01:03,030 --> 00:01:06,510
+you'll launch at the subsection you were last in.
+
+21
+00:01:06,510 --> 00:01:10,050
+Once in, you'll have the detailed course overview
+
+22
+00:01:10,050 --> 00:01:13,260
+on the left, next to the course material.
+
+23
+00:01:13,260 --> 00:01:17,880
+The blue underscored subsection is where you currently are.
+
+24
+00:01:17,880 --> 00:01:20,490
+You can move between the course content
+
+25
+00:01:20,490 --> 00:01:23,190
+using the previous and next buttons
+
+26
+00:01:23,190 --> 00:01:26,250
+at the top and bottom of the page.
+
+27
+00:01:26,250 --> 00:01:28,140
+If you've completed a unit,
+
+28
+00:01:28,140 --> 00:01:30,540
+you'll see a green check mark.
+
+29
+00:01:30,540 --> 00:01:34,290
+To answer knowledge check questions or graded quizzes,
+
+30
+00:01:34,290 --> 00:01:36,390
+you'll need to select the answer
+
+31
+00:01:36,390 --> 00:01:38,580
+and click the submit button.
+
+32
+00:01:38,580 --> 00:01:41,790
+When the show answer button is enabled,
+
+33
+00:01:41,790 --> 00:01:44,850
+you can click on it to check the right answer.
+
+34
+00:01:44,850 --> 00:01:47,100
+At the very top of the page,
+
+35
+00:01:47,100 --> 00:01:50,790
+you'll find additional tabs related to your course.
+
+36
+00:01:50,790 --> 00:01:53,550
+The most important is the progress tab
+
+37
+00:01:53,550 --> 00:01:55,710
+where you can check on how you're getting on
+
+38
+00:01:55,710 --> 00:01:57,060
+through the course.
+
+39
+00:01:57,060 --> 00:02:01,440
+The FAQ tab is where you'll find answers to common questions
+
+40
+00:02:01,440 --> 00:02:05,640
+about things like grading and getting course certificates.
+
+41
+00:02:05,640 --> 00:02:08,550
+Finally, you'll find the participant's guide,
+
+42
+00:02:08,550 --> 00:02:11,220
+which gives a detailed overview of the course
+
+43
+00:02:11,220 --> 00:02:13,260
+and practical information.
+
+44
+00:02:13,260 --> 00:02:14,093
+And that's it.
+
+45
+00:02:14,093 --> 00:02:17,943
+We hope you enjoy this DHIS2 Academy course.
+
+46
+00:02:19,044 --> 00:02:21,627
+(bright music)
+

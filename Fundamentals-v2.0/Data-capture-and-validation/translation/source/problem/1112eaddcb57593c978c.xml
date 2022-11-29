@@ -1,0 +1,20 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>What information is available in the Data Element Information Box?</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">The data element history that helps compare the current value with previously entered values</choice>
+      <choice correct="true">The minimum and maximum value limits for the data element</choice>
+      <choice correct="true">The comments made by other users about this particular data element</choice>
+      <choice correct="true">Who modified the data element </choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>When clicking a data element you can see the data element history, its min/max limits, any comments made about this particular data element and the history of who has modified the data element within the Audit Trail.</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

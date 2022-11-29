@@ -1,0 +1,21 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>
+Which of the following provides geographic information and serves as a background to any map in DHIS2:
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A basemap</choice>
+      <choice correct="false">A thematic layer</choice>
+      <choice correct="false">A boundaries layer</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Each map starts with a basemap. A basemap is a layer with geographic information that serves as a background to any map created in DHIS2. There are several options of basemaps from OpenStreetMap and Microsoft Bing maps. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,20 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>In Trainingland, select a facility-level organisation unit, the RMNCAH data set and a period of your choice in the Data Entry app. In the RMNCAH data set, filter to the ‘Delivery by age’ section of the form. Enter the word “Ten” in one of the fields.</p>
+    <label>
+      <h3>What does the error message say? </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">“Error! Must be numerical value”</choice>
+      <choice correct="true">“Value must be zero or a positive integer”</choice>
+      <choice correct="false">“Invalid value type, change to zero or positive integer value”</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>If you enter a data value that doesn’t match the predefined value type for that element, such as text, characters or decimals, DHIS2 will display an error message with information about the required data value type. In this case, the data value must be a zero or positive integer. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

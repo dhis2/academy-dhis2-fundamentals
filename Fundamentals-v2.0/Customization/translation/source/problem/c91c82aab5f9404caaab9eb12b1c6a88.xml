@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 2" markdown="null">
+  <choiceresponse>
+    <label>
+      <h3>Which of the following statements are true about data sets:</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">They are used for the construction of data entry forms in DHIS2</choice>
+      <choice correct="true">They need to be assigned to one or several organisation units to be available for data entry</choice>
+      <choice correct="true">The periodicity of reporting of a data is defined in the data set</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>All options are correct. Data sets are a collection of data elements used to build data entry forms. They need to be assigned to organisation units to be available for data entry, and the periodicity of reporting (or the period dimension of data) is defined in the data set. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

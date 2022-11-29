@@ -1,0 +1,22 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>In the Maps app, select a choropleth or bubble map. </p>
+    <label>
+      <h3>
+Where do you select this feature? 
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Under basemaps, select ‘Choropleth’ or ‘Bubble map’ as the basemap</choice>
+      <choice correct="false">Click the ‘Add layer’ button the select the map layer ‘Choropleth’ or ‘Bubble map’</choice>
+      <choice correct="true">Under the Style tab within the thematic layer select ‘Choropleth’ or ‘Bubble map</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Within a thematic layer, you can select many style options under the Style tab including a choropleth or bubble map.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

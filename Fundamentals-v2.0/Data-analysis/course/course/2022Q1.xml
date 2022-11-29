@@ -1,0 +1,10 @@
+<course advanced_modules="[&quot;poll&quot;, &quot;library_content&quot;, &quot;word_cloud&quot;, &quot;survey&quot;]" cert_html_view_enabled="true" certificates="{&quot;certificates&quot;: [{&quot;name&quot;: &quot;Name of the certificate&quot;, &quot;editing&quot;: false, &quot;is_active&quot;: true, &quot;course_title&quot;: &quot;&quot;, &quot;signatories&quot;: [{&quot;title&quot;: &quot;Director of the HISP Centre&quot;, &quot;name&quot;: &quot;Kristin Braa&quot;, &quot;certificate&quot;: null, &quot;signature_image_path&quot;: &quot;/asset-v1:hisp+GEN-D003-en+2022Q1+type@asset+block@asset-v1_HISP_D2EVENTS100_Q2_2020_type_asset_block_cert-sig-kristin-braa.png&quot;, &quot;organization&quot;: &quot;HISP Centre&quot;, &quot;id&quot;: 221339924}], &quot;version&quot;: 1, &quot;id&quot;: 1085365541, &quot;description&quot;: &quot;Description of the certificate&quot;}]}" course_image="Data analysis English.png" display_name="Aggregate Data Analysis Fundamentals" enrollment_start="&quot;2022-05-30T10:00:00+00:00&quot;" graceperiod="" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" minimum_grade_credit="0.8" pre_requisite_courses="[&quot;course-v1:hisp+GEN-D001-en+2022Q1&quot;]" self_paced="true" start="&quot;2022-05-30T21:30:00+00:00&quot;">
+  <chapter url_name="5ff146b256f94d55976f9f256665f59a"/>
+  <chapter url_name="c4d040d01f3d434f83738df96fd8bcfe"/>
+  <chapter url_name="16e329a0708346b98094bea8433d8d51"/>
+  <chapter url_name="8eab85291ea843e0884121613f228e5e"/>
+  <chapter url_name="d3dd7977650644189c9950b58f9b6c0c"/>
+  <chapter url_name="1cc6d531e88b4f9aaab2ed3e02835830"/>
+  <chapter url_name="0a2fa5eff0cd4845a87ade020c3fe52f"/>
+  <wiki slug="hisp.GEN-D003-en.2022Q1"/>
+</course>

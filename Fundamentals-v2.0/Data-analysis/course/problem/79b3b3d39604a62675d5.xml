@@ -1,0 +1,21 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>
+ Which of the following menu allows you to add a title and a column total to a pivot table?
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">File</choice>
+      <choice correct="true">Options</choice>
+      <choice correct="false">Download</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The Options menu allows you to add column totals,  a title and other options to further customize the pivot table.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

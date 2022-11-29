@@ -1,0 +1,18 @@
+<problem display_name="Question 5" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>Equal counts will distribute the data values equally along the number of classes that are made. </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Equal counts will distribute the data values equally along the number of classes that are made.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

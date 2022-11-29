@@ -1,0 +1,24 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <p>Click the plus (+) button to create a new dashboard in Trainingland.</p>
+    <label>
+      <h3>
+Which of the following are available options within create mode?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="false">Dashboard color</choice>
+      <choice correct="false">Dashboard icon</choice>
+      <choice correct="true">Dashboard title</choice>
+      <choice correct="true">Dashboard description</choice>
+      <choice correct="true">Search for items to add to this dashboard</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>To create a new dashboard and enter create mode, select the plus (+) button. In create mode, the following are available options: Dashboard title, dashboard description and the “Search for items to add to this dashboard” field. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

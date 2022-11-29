@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 3" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>In DHIS2 you can open a chart from a dashboard, modify it and save it for later use.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>With the right user permissions in DHIS2, you can open a chart from a dashboard, change its dimensions, save it, share it with other users or download it. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

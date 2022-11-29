@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 2" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>You can only download your pivot table in Excel or CSV formats, as plain data source downloading is not available for pivot tables.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>You can preserve the table layout by using the Excel, CSV or HTML options, or download the plain data source by selecting JSON, XML, Excel, CSV and other advanced options.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

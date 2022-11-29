@@ -1,0 +1,23 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <p>Let’s say we built a column chart to analyze the number of yellow fever vaccines administered by district in 2022. After analyzing the data, we decide we want to add additional granularity to the analysis and view data by age and sex. </p>
+    <label>
+      <h3>
+How should you update the visualization to better suit your data analysis needs?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Change the visualization to a stacked bar or stacked column chart as they are better suited for disaggregations </choice>
+      <choice correct="true">Modify the chart layout to include a disaggregation to the layout area </choice>
+      <choice correct="true">Under “Your Dimensions” select the disaggregations for age and sex and add them to the visualization</choice>
+      <choice correct="false">Select the Options button then the Style tab to include disaggregations for age and sex</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>If you want to add granularity to the data analysis, stacked bar and stacked column charts are well suited visualization types for disaggregations. When adding a disaggregation to a visualization that is already built, you will need to modify the layout to include a disaggregation in the layout area. Under “Your Dimensions” you will need to select the disaggregations for age and sex and add them to the visualization. You cannot add disaggregations through the Options button or Style tab. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

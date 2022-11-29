@@ -1,0 +1,5 @@
+<problem>
+  <multiplechoiceresponse><p>In the Data Visualizer app, create a new pivot table using the following information: <ol><li>Data: “COVID-19 - ICU beds (occupied)” and “COVID-19 - ICU beds (total)”. </li><li>Period: June 2021 (be sure to remove the pre-selected period). </li><li>Organisation unit: Districts in Animal Region.</li></ol></p><p>Hint: You may need to update the layout. </p><label><h3>
+Which district has the highest total of COVID-19 ICU beds?
+</h3></label>&gt;<description>Select one answer. </description><choicegroup type="MultipleChoice"><choice correct="false">Cat District</choice><choice correct="false">Dog District</choice><choice correct="true">Fish District</choice></choicegroup><solution><div class="detailed-solution"><p>Explanation</p><p>In order to see the data you need to answer the question, the period needs to be in the filter and the organisation unit needs to be in the rows (or columns if data is in the rows). In Animal Region, the Fish District had the highest total of COVID-19 ICU beds in June 2021. </p></div></solution></multiplechoiceresponse>
+</problem>

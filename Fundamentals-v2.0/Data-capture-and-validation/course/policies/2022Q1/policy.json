@@ -1,0 +1,112 @@
+{
+    "course/2022Q1": {
+        "advanced_modules": [
+            "poll",
+            "library_content",
+            "word_cloud",
+            "survey"
+        ],
+        "cert_html_view_enabled": true,
+        "certificates": {
+            "certificates": [
+                {
+                    "course_title": "",
+                    "description": "Description of the certificate",
+                    "editing": false,
+                    "id": 1558819673,
+                    "is_active": true,
+                    "name": "Name of the certificate",
+                    "signatories": [
+                        {
+                            "certificate": null,
+                            "id": 1977649177,
+                            "name": "Kristin Braa",
+                            "organization": "HISP Centre",
+                            "signature_image_path": "/asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@asset-v1_HISP_D2EVENTS100_Q2_2020_type_asset_block_cert-sig-kristin-braa.png",
+                            "title": "Director of the HISP Centre"
+                        }
+                    ],
+                    "version": 1
+                }
+            ]
+        },
+        "course_image": "Data capture English.png",
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "display_name": "Aggregate Data Capture and Validation Fundamentals",
+        "enrollment_start": "2022-05-30T10:00:00Z",
+        "graceperiod": "",
+        "instructor_info": {
+            "instructors": []
+        },
+        "language": "en",
+        "learning_info": [],
+        "minimum_grade_credit": 0.8,
+        "pre_requisite_courses": [
+            "course-v1:hisp+GEN-D001-en+2022Q1"
+        ],
+        "self_paced": true,
+        "start": "2022-05-30T21:30:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Home",
+                "type": "course_info"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "FAQs",
+                "type": "static_tab",
+                "url_slug": "f0e772d34b6f48049580c4499d68fde3"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Participant's Guide",
+                "type": "static_tab",
+                "url_slug": "e9556ea6c38f4375aed596350e5e42f6"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Need support?",
+                "type": "static_tab",
+                "url_slug": "092bd2b7997e45289d97c3b65792125b"
+            }
+        ],
+        "xml_attributes": {
+            "filename": [
+                "course/2022Q1.xml",
+                "course/2022Q1.xml"
+            ]
+        }
+    }
+}

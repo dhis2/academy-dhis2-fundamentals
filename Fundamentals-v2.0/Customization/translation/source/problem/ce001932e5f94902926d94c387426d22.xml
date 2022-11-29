@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 2" markdown="null" showanswer="after_attempts">
+  <multiplechoiceresponse>
+    <label>
+      <h3>Only data element groups assigned to data element group sets can be used in the analytics applications.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A. True </choice>
+      <choice correct="false">B. False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Only data element group sets that are configured as data dimensions can be used in the analytics applications. 
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

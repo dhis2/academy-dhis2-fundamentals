@@ -1,0 +1,22 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>Create a new dashboard in Trainingland.</p>
+    <label>
+      <h3>
+In create mode, when you are finished adding objects to the dashboard, how do you save the new dashboard?
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Select ‘Create and save’</choice>
+      <choice correct="true">Select ‘Save changes’</choice>
+      <choice correct="false">Select ‘Save and continue’</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>To create a new dashboard and enter create mode, select the plus (+) button. In create mode, to save the new dashboard, you must select ‘Save changes’. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 1" markdown="null" showanswer="attempted">
+  <multiplechoiceresponse>
+    <label>
+      <h3>When entering data in DHIS2, a gray box means</h3>
+    </label>
+    <description>(select the one correct answer) </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">The data field is locked and no data can be entered</choice>
+      <choice correct="false">The data needs to be validated</choice>
+      <choice correct="false">Data needs to be entered before the data entered can be saved</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>A gray box means that the field is locked and no data can be entered.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

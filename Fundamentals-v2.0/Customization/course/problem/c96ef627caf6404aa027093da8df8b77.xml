@@ -1,0 +1,19 @@
+<problem display_name="Question 3" markdown="null" max_attempts="2" showanswer="finished">
+  <multiplechoiceresponse>
+    <label>
+      <h3>What is an indicator in DHIS2?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Raw data that are entered into DHIS2</choice>
+      <choice correct="false">Data imported from other systems</choice>
+      <choice correct="true">Formula-based calculated values such as coverages (%), incidence rates, etc.</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In DHIS2 we distinguish between data elements, which describe the raw data, such as the counts being collected, and indicators, which are formula-based and describe calculated values, such as coverage or incidence rates that are used for data analysis.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

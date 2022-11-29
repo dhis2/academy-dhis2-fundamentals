@@ -1,0 +1,19 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>If the data value cell is highlighted in green it means that:</h3>
+    </label>
+    <description>Select one answer. </description>
+    <checkboxgroup>
+      <choice correct="true">A valid data value was entered</choice>
+      <choice correct="true">The system has saved the data entered</choice>
+      <choice correct="false">You do not need to run a validation rule</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>If a data value cell is highlighted in green it means that a valid data value was entered and the system has saved the data entered. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

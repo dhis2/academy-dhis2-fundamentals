@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 1" markdown="null" showanswer="attempted">
+  <choiceresponse>
+    <label>
+      <h3>In the Batch Validation Rule Analysis, the period dates are related to two things:</h3>
+    </label>
+    <description>Select the answers that match the following statement. </description>
+    <checkboxgroup>
+      <choice correct="true">The period of the data entry</choice>
+      <choice correct="true">The period assigned to the validation rule</choice>
+      <choice correct="false">The current relative period</choice>
+      <choice correct="false">The period of least concern </choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution"><p>Explanation</p><strong>The period of the data entry and the period assigned to the validation rule</strong> are both related to the batch validation rules that will be analyzed.
+
+</div>
+    </solution>
+  </choiceresponse>
+</problem>

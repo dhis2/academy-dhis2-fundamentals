@@ -1,0 +1,1258 @@
+{
+    "2.2.1_Activity__Entering_data_in_the_Data_Entry_app_-_Part_1.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.1_Activity__Entering_data_in_the_Data_Entry_app_-_Part_1.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.1 Activity_ Entering data in the Data Entry app - Part 1.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.1_Activity__Entering_data_in_the_Data_Entry_app_-_Part_1.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "2.2.1_IMG1_HowToLoadADataSet.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.1_IMG1_HowToLoadADataSet.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.1_IMG1_HowToLoadADataSet.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.1_IMG1_HowToLoadADataSet.png",
+        "import_path": "2.2.1_IMG1_HowToLoadADataSet.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.1_IMG1_HowToLoadADataSet-png.jpg",
+            null
+        ]
+    },
+    "2.2.1_IMG2_DataSuccessfullyEntered.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.1_IMG2_DataSuccessfullyEntered.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.1_IMG2_DataSuccessfullyEntered.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.1_IMG2_DataSuccessfullyEntered.png",
+        "import_path": "2.2.1_IMG2_DataSuccessfullyEntered.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.1_IMG2_DataSuccessfullyEntered-png.jpg",
+            null
+        ]
+    },
+    "2.2.1_IMG3_GreyBars.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.1_IMG3_GreyBars.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.1_IMG3_GreyBars.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.1_IMG3_GreyBars.png",
+        "import_path": "2.2.1_IMG3_GreyBars.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.1_IMG3_GreyBars-png.jpg",
+            null
+        ]
+    },
+    "2.2.1_Img2_KC.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.1_Img2_KC.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.1_Img2_KC.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.1_Img2_KC.png",
+        "import_path": "2.2.1_Img2_KC.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.1_Img2_KC-png.jpg",
+            null
+        ]
+    },
+    "2.2.1_KC2_dragAndDrop.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.1_KC2_dragAndDrop.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.1_KC2_dragAndDrop.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.1_KC2_dragAndDrop.png",
+        "import_path": "2.2.1_KC2_dragAndDrop.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.1_KC2_dragAndDrop-png.jpg",
+            null
+        ]
+    },
+    "2.2.2_Activity___Entering_data_in_the_Data_Entry_app_-_Part_2.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.2_Activity___Entering_data_in_the_Data_Entry_app_-_Part_2.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.2 Activity_  Entering data in the Data Entry app - Part 2.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.2_Activity___Entering_data_in_the_Data_Entry_app_-_Part_2.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "2.2.2_IMG1_DataElementInfoBox.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.2_IMG1_DataElementInfoBox.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.2_IMG1_DataElementInfoBox.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.2_IMG1_DataElementInfoBox.png",
+        "import_path": "2.2.2_IMG1_DataElementInfoBox.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.2_IMG1_DataElementInfoBox-png.jpg",
+            null
+        ]
+    },
+    "2.2.2_IMG2_MetadataAndValidation.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.2_IMG2_MetadataAndValidation.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.2_IMG2_MetadataAndValidation.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.2_IMG2_MetadataAndValidation.png",
+        "import_path": "2.2.2_IMG2_MetadataAndValidation.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.2_IMG2_MetadataAndValidation-png.jpg",
+            null
+        ]
+    },
+    "2.2.3_Activity___Entering_data_in_the_Data_Entry_app_-_Part_3_-_Offline_Data_Entry.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.3_Activity___Entering_data_in_the_Data_Entry_app_-_Part_3_-_Offline_Data_Entry.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.3 Activity_  Entering data in the Data Entry app - Part 3 - Offline Data Entry.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.3_Activity___Entering_data_in_the_Data_Entry_app_-_Part_3_-_Offline_Data_Entry.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "2.2.3_IMG1_ReconnectedDataEntryApp.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.3_IMG1_ReconnectedDataEntryApp.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.3_IMG1_ReconnectedDataEntryApp.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.3_IMG1_ReconnectedDataEntryApp.png",
+        "import_path": "2.2.3_IMG1_ReconnectedDataEntryApp.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.3_IMG1_ReconnectedDataEntryApp-png.jpg",
+            null
+        ]
+    },
+    "2.2.4_IMG1_Import.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.2.4_IMG1_Import.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.2.4_IMG1_Import.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.2.4_IMG1_Import.png",
+        "import_path": "2.2.4_IMG1_Import.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.2.4_IMG1_Import-png.jpg",
+            null
+        ]
+    },
+    "2.3.1_Activity__Using_the_Android_Capture_app_for_data_entry_-_Part_1.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.1_Activity__Using_the_Android_Capture_app_for_data_entry_-_Part_1.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.1 Activity_ Using the Android Capture app for data entry - Part 1.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.1_Activity__Using_the_Android_Capture_app_for_data_entry_-_Part_1.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "2.3.1_IMG1_GooglePlayStore.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.1_IMG1_GooglePlayStore.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.1_IMG1_GooglePlayStore.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.1_IMG1_GooglePlayStore.png",
+        "import_path": "2.3.1_IMG1_GooglePlayStore.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.1_IMG1_GooglePlayStore-png.jpg",
+            null
+        ]
+    },
+    "2.3.1_IMG2_LoginScreen.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.1_IMG2_LoginScreen.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.1_IMG2_LoginScreen.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.1_IMG2_LoginScreen.png",
+        "import_path": "2.3.1_IMG2_LoginScreen.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.1_IMG2_LoginScreen-png.jpg",
+            null
+        ]
+    },
+    "2.3.1_IMG2_LoginScreenB.png.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.1_IMG2_LoginScreenB.png.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.1_IMG2_LoginScreenB.png.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.1_IMG2_LoginScreenB.png.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.1_IMG2_LoginScreenB.png-png.jpg",
+            null
+        ]
+    },
+    "2.3.2_Activity__Using_the_Android_Capture_app_for_data_entry_-_Part_2.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.2_Activity__Using_the_Android_Capture_app_for_data_entry_-_Part_2.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.2 Activity_ Using the Android Capture app for data entry - Part 2.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.2_Activity__Using_the_Android_Capture_app_for_data_entry_-_Part_2.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "2.3.2_IMG1_HomeScreen.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.2_IMG1_HomeScreen.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.2_IMG1_HomeScreen.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.2_IMG1_HomeScreen.png",
+        "import_path": "2.3.2_IMG1_HomeScreen.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.2_IMG1_HomeScreen-png.jpg",
+            null
+        ]
+    },
+    "2.3.2_IMG2_OrgUnitSelection.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.2_IMG2_OrgUnitSelection.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.2_IMG2_OrgUnitSelection.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.2_IMG2_OrgUnitSelection.png",
+        "import_path": "2.3.2_IMG2_OrgUnitSelection.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.2_IMG2_OrgUnitSelection-png.jpg",
+            null
+        ]
+    },
+    "2.3.2_IMG3_DataEntryScreen.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.2_IMG3_DataEntryScreen.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.2_IMG3_DataEntryScreen.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.2_IMG3_DataEntryScreen.png",
+        "import_path": "2.3.2_IMG3_DataEntryScreen.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.2_IMG3_DataEntryScreen-png.jpg",
+            null
+        ]
+    },
+    "2.3.3_Activity__Using_the_Android_Data_Capture_app_-_Part_3_-_Offline_Data_Capture_and_Sync_Parameters.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.3_Activity__Using_the_Android_Data_Capture_app_-_Part_3_-_Offline_Data_Capture_and_Sync_Parameters.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.3 Activity_ Using the Android Data Capture app - Part 3 - Offline Data Capture and Sync Parameters.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.3_Activity__Using_the_Android_Data_Capture_app_-_Part_3_-_Offline_Data_Capture_and_Sync_Parameters.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "2.3.3_IMG1_DataStoredLocally.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.3_IMG1_DataStoredLocally.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.3_IMG1_DataStoredLocally.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.3_IMG1_DataStoredLocally.png",
+        "import_path": "2.3.3_IMG1_DataStoredLocally.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.3_IMG1_DataStoredLocally-png.jpg",
+            null
+        ]
+    },
+    "2.3.3_IMG2_DHIS2CaptureSettings.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.3_IMG2_DHIS2CaptureSettings.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.3_IMG2_DHIS2CaptureSettings.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.3_IMG2_DHIS2CaptureSettings.png",
+        "import_path": "2.3.3_IMG2_DHIS2CaptureSettings.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.3_IMG2_DHIS2CaptureSettings-png.jpg",
+            null
+        ]
+    },
+    "2.3.3_KC_IMG1_Syncing.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.3_KC_IMG1_Syncing.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.3_KC_IMG1_Syncing.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.3_KC_IMG1_Syncing.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.3_KC_IMG1_Syncing-png.jpg",
+            null
+        ]
+    },
+    "2.3.3_KC_IMG2_Syncing.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.3_KC_IMG2_Syncing.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.3_KC_IMG2_Syncing.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.3_KC_IMG2_Syncing.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.3_KC_IMG2_Syncing-png.jpg",
+            null
+        ]
+    },
+    "2.3.3_KC_IMG3_Syncing.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "2.3.3_KC_IMG3_Syncing.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "2.3.3_KC_IMG3_Syncing.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@2.3.3_KC_IMG3_Syncing.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "2.3.3_KC_IMG3_Syncing-png.jpg",
+            null
+        ]
+    },
+    "3.1.1_Activity__Validation_rules__value_types__and_data_set_completion.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.1.1_Activity__Validation_rules__value_types__and_data_set_completion.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.1.1 Activity_ Validation rules, value types, and data set completion.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.1.1_Activity__Validation_rules__value_types__and_data_set_completion.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "3.1.1_IMG1_DataValidation.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.1.1_IMG1_DataValidation.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.1.1_IMG1_DataValidation.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.1.1_IMG1_DataValidation.png",
+        "import_path": "3.1.1_IMG1_DataValidation.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "3.1.1_IMG1_DataValidation-png.jpg",
+            null
+        ]
+    },
+    "3.2.1_Activity__Batch_validation_rule_analysis.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.2.1_Activity__Batch_validation_rule_analysis.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.2.1 Activity_ Batch validation rule analysis.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.2.1_Activity__Batch_validation_rule_analysis.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "3.2.1_IMG1_BatchValidationRulesAnalysis.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.2.1_IMG1_BatchValidationRulesAnalysis.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.2.1_IMG1_BatchValidationRulesAnalysis.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.2.1_IMG1_BatchValidationRulesAnalysis.png",
+        "import_path": "3.2.1_IMG1_BatchValidationRulesAnalysis.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "3.2.1_IMG1_BatchValidationRulesAnalysis-png.jpg",
+            null
+        ]
+    },
+    "3.2.2_Activity__Outlier_Detection.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.2.2_Activity__Outlier_Detection.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.2.2 Activity_ Outlier Detection.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.2.2_Activity__Outlier_Detection.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "3.2.2_IMG1_OutlierDetection.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.2.2_IMG1_OutlierDetection.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.2.2_IMG1_OutlierDetection.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.2.2_IMG1_OutlierDetection.png",
+        "import_path": "3.2.2_IMG1_OutlierDetection.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "3.2.2_IMG1_OutlierDetection-png.jpg",
+            null
+        ]
+    },
+    "3.2.3_Activity__Follow-Up_Analysis.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.2.3_Activity__Follow-Up_Analysis.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.2.3 Activity_ Follow-Up Analysis.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.2.3_Activity__Follow-Up_Analysis.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "3.2.3_IMG1_FollowUpAnalysis.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.2.3_IMG1_FollowUpAnalysis.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.2.3_IMG1_FollowUpAnalysis.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.2.3_IMG1_FollowUpAnalysis.png",
+        "import_path": "3.2.3_IMG1_FollowUpAnalysis.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "3.2.3_IMG1_FollowUpAnalysis-png.jpg",
+            null
+        ]
+    },
+    "3.3.2_Activity__Data_Set_Reports.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.3.2_Activity__Data_Set_Reports.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.3.2 Activity_ Data Set Reports.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.3.2_Activity__Data_Set_Reports.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "3.3.2_IMG1_dataSetReport.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.3.2_IMG1_dataSetReport.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.3.2_IMG1_dataSetReport.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.3.2_IMG1_dataSetReport.png",
+        "import_path": "3.3.2_IMG1_dataSetReport.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "3.3.2_IMG1_dataSetReport-png.jpg",
+            null
+        ]
+    },
+    "3.3.3_Activity__Reporting_Rate_Summary.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.3.3_Activity__Reporting_Rate_Summary.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.3.3 Activity_ Reporting Rate Summary.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.3.3_Activity__Reporting_Rate_Summary.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "3.3.3_IMG1_KC_Q3.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.3.3_IMG1_KC_Q3.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.3.3_IMG1_KC_Q3.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.3.3_IMG1_KC_Q3.png",
+        "import_path": "3.3.3_IMG1_KC_Q3.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "3.3.3_IMG1_KC_Q3-png.jpg",
+            null
+        ]
+    },
+    "3.3.3_IMG1_reportingRateSummary.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "3.3.3_IMG1_reportingRateSummary.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "3.3.3_IMG1_reportingRateSummary.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@3.3.3_IMG1_reportingRateSummary.png",
+        "import_path": "3.3.3_IMG1_reportingRateSummary.png",
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "3.3.3_IMG1_reportingRateSummary-png.jpg",
+            null
+        ]
+    },
+    "Android_entry_accounts.PNG": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Android_entry_accounts.PNG",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Android_entry_accounts.PNG",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Android_entry_accounts.PNG",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Android_entry_accounts-PNG.jpg",
+            null
+        ]
+    },
+    "Course_images_Data_capture.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Course_images_Data_capture.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Course images Data capture.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Course_images_Data_capture.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Course_images_Data_capture-png.jpg",
+            null
+        ]
+    },
+    "Dashboard.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Dashboard.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Dashboard.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Dashboard.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Dashboard-png.jpg",
+            null
+        ]
+    },
+    "Data_Capture.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Data_Capture.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Data_Capture.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Data_Capture.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Data_Capture-png.jpg",
+            null
+        ]
+    },
+    "Data_capture_English.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Data_capture_English.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Data capture English.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Data_capture_English.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Data_capture_English-png.jpg",
+            null
+        ]
+    },
+    "Emails.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Emails.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Emails.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Emails.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Emails-png.jpg",
+            null
+        ]
+    },
+    "General_Forum_Guidelines__intro_to_CoP_.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "General_Forum_Guidelines__intro_to_CoP_.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "General Forum Guidelines (intro to CoP).pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@General_Forum_Guidelines__intro_to_CoP_.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "HowToUseAssessments_Image.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "HowToUseAssessments_Image.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "HowToUseAssessments_Image.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@HowToUseAssessments_Image.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "HowToUseAssessments_Image-png.jpg",
+            null
+        ]
+    },
+    "HowToUsePlatform_Image.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "HowToUsePlatform_Image.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "HowToUsePlatform_Image.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@HowToUsePlatform_Image.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "HowToUsePlatform_Image-png.jpg",
+            null
+        ]
+    },
+    "LogIn.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "LogIn.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "LogIn.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@LogIn.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "LogIn-png.jpg",
+            null
+        ]
+    },
+    "Notification.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Notification.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Notification.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Notification.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Notification-png.jpg",
+            null
+        ]
+    },
+    "Participants_Guide_Data_capture_and_Validation.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Participants_Guide_Data_capture_and_Validation.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Participants Guide_Data capture and Validation.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Participants_Guide_Data_capture_and_Validation.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Platform_Navigation_Guidelines.docx.pdf": {
+        "contentType": "application/pdf",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Platform_Navigation_Guidelines.docx.pdf",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Platform Navigation Guidelines.docx.pdf",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Platform_Navigation_Guidelines.docx.pdf",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    },
+    "Team_photo.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Team_photo.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Team_photo.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Team_photo.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Team_photo-png.jpg",
+            null
+        ]
+    },
+    "Web_entry_accounts.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Web_entry_accounts.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Web_entry_accounts.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Web_entry_accounts.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Web_entry_accounts-png.jpg",
+            null
+        ]
+    },
+    "Web_validate_accounts.PNG": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "Web_validate_accounts.PNG",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "Web_validate_accounts.PNG",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@Web_validate_accounts.PNG",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "Web_validate_accounts-PNG.jpg",
+            null
+        ]
+    },
+    "asset-v1_HISP_D2EVENTS100_Q2_2020_type_asset_block_cert-sig-kristin-braa.png": {
+        "contentType": "image/png",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "asset-v1_HISP_D2EVENTS100_Q2_2020_type_asset_block_cert-sig-kristin-braa.png",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "asset-v1_HISP+D2EVENTS100+Q2_2020+type@asset+block@cert-sig-kristin-braa.png",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@asset-v1_HISP_D2EVENTS100_Q2_2020_type_asset_block_cert-sig-kristin-braa.png",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": [
+            "c4x",
+            "hisp",
+            "GEN-D002-en",
+            "thumbnail",
+            "asset-v1_HISP_D2EVENTS100_Q2_2020_type_asset_block_cert-sig-kristin-braa-png.jpg",
+            null
+        ]
+    },
+    "button-style.css": {
+        "contentType": "text/css",
+        "content_son": {
+            "category": "asset",
+            "course": "GEN-D002-en",
+            "name": "button-style.css",
+            "org": "hisp",
+            "revision": null,
+            "run": "2022Q1",
+            "tag": "c4x"
+        },
+        "displayname": "button-style.css",
+        "filename": "asset-v1:hisp+GEN-D002-en+2022Q1+type@asset+block@button-style.css",
+        "import_path": null,
+        "locked": false,
+        "thumbnail_location": null
+    }
+}

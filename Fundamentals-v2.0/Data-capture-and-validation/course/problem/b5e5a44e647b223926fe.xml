@@ -1,0 +1,20 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>You can view a data element’s Audit Trail by: </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Double clicking the data element</choice>
+      <choice correct="false">Highlighting the data element and clicking the Audit Trail button</choice>
+      <choice correct="false">Finding the data element in the Data Audit app</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>You can view the audit trail by <strong>double clicking the data element.</strong>
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 2" markdown="null" max_attempts="1" showanswer="finished">
+  <multiplechoiceresponse>
+    <label>
+      <h3>If you add a symbol to the organisation unit group, it will show the facilities within the group in the Facilities layer of the Maps application.  </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>You can associate a symbol to any organisation unit group and the facilities within this group will be displayed using that symbol on the map. 
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

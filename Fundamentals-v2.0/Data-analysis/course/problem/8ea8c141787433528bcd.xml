@@ -1,0 +1,23 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>
+Which of the following are basemaps in the Maps app?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="true">Bing Road</choice>
+      <choice correct="true">OSM Light</choice>
+      <choice correct="false">OSM Dynamic</choice>
+      <choice correct="true">Bing Aerial </choice>
+      <choice correct="false">GIS Pro</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The Maps app has 6 basemaps available including: Bing Road, OSM Light and Bing Aerial. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

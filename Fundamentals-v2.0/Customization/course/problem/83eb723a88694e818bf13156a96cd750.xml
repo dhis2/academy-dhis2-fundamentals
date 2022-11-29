@@ -1,0 +1,18 @@
+<problem display_name="Question 1" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>The compulsory check box means that ALL organisation units within the DHIS2 instance must be members of a group in that group set.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The compulsory check box indicates that every organisation unit in our hierarchy needs to be a part of the groups that are within this group set. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

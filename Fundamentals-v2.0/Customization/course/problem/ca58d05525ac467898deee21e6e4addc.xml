@@ -1,0 +1,18 @@
+<problem display_name="Question 2" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>You can add a symbol to the organisation unit group and this will be reflected in the Maps Application when you display the Facilities layer. </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>That is correct. You can associate a symbol to any organisation unit group and the facilities within this group will be displayed by symbol on the maps within the Maps application.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

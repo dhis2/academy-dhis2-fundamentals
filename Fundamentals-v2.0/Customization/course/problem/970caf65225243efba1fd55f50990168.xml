@@ -1,0 +1,18 @@
+<problem display_name="Question 2" markdown="null" max_attempts="1" showanswer="finished">
+  <multiplechoiceresponse>
+    <label>
+      <h3>If the category option you need already exists, it should be reused to avoid creating duplicate options in your DHIS2 instance.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>Category options should be reused in your DHIS2 instance to avoid creating duplicate options.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

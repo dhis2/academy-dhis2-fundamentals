@@ -1,0 +1,117 @@
+{
+    "course/2022_Q2": {
+        "advanced_modules": [
+            "poll",
+            "library_content",
+            "word_cloud",
+            "gradefetcher",
+            "survey"
+        ],
+        "catalog_visibility": "both",
+        "cert_html_view_enabled": true,
+        "certificates": {
+            "certificates": [
+                {
+                    "course_title": "",
+                    "description": "Description of the certificate",
+                    "editing": false,
+                    "id": 1966382807,
+                    "is_active": true,
+                    "name": "Name of the certificate",
+                    "signatories": [
+                        {
+                            "certificate": null,
+                            "id": 112378906,
+                            "name": "Kristin Braa",
+                            "organization": "HISP Centre",
+                            "signature_image_path": "/asset-v1:hisp+GEN-D004-en+2022_Q2+type@asset+block@DQ2020kristin-braa.png",
+                            "title": "Director of the HISP Centre"
+                        }
+                    ],
+                    "version": 1
+                }
+            ]
+        },
+        "course_image": "Customization English.png",
+        "days_early_for_beta": 10.0,
+        "discussion_topics": {
+            "General": {
+                "id": "course"
+            }
+        },
+        "display_name": "Aggregate Customization Fundamentals",
+        "enable_subsection_gating": true,
+        "enrollment_start": "2022-08-15T23:00:00Z",
+        "graceperiod": "",
+        "instructor_info": {
+            "instructors": []
+        },
+        "language": "en",
+        "learning_info": [],
+        "minimum_grade_credit": 0.8,
+        "pre_requisite_courses": [
+            "course-v1:hisp+GEN-D001-en+2022Q1"
+        ],
+        "self_paced": true,
+        "showanswer": "finished",
+        "start": "2022-08-15T23:30:00Z",
+        "tabs": [
+            {
+                "course_staff_only": false,
+                "name": "Home",
+                "type": "course_info"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Course",
+                "type": "courseware"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Discussion",
+                "type": "discussion"
+            },
+            {
+                "course_staff_only": false,
+                "is_hidden": true,
+                "name": "Wiki",
+                "type": "wiki"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Progress",
+                "type": "progress"
+            },
+            {
+                "course_staff_only": false,
+                "name": "FAQs",
+                "type": "static_tab",
+                "url_slug": "9e73692409d34aecbdcbca0e1d62fae9"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Participant's Guide",
+                "type": "static_tab",
+                "url_slug": "5ee629e3cb74415da35a9f7ef077eb80"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Textbooks",
+                "type": "textbooks"
+            },
+            {
+                "course_staff_only": false,
+                "name": "Need support?",
+                "type": "static_tab",
+                "url_slug": "7dacbd2dedd74bf4a0bf3f2e53227da9"
+            }
+        ],
+        "xml_attributes": {
+            "filename": [
+                "course/2022_Q2.xml",
+                "course/2022_Q2.xml"
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 4" markdown="null" max_attempts="1" showanswer="finished">
+  <multiplechoiceresponse>
+    <label>
+      <h3>If an organisation unit group set is used in analytics as a data dimension, each organisation unit can be in part of one or more organisation unit groups within the same set.</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>It is best practice that an organisation unit be a member of only one of the groups in a group set if that group set is used in analytics. A violation of this rule would lead to duplication of data when aggregating health facility data by the different groups, as a facility assigned to two groups in the same group set would be counted twice.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

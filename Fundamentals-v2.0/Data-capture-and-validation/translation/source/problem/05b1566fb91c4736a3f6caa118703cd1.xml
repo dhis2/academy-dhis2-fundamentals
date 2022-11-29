@@ -1,0 +1,18 @@
+<problem display_name="Question 2" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>When you enter data in offline mode, the value field turns yellow until the internet connection is on again.</h3>
+    </label>
+    <description>Select one answer </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>When you enter data offline, the field still turns green to indicate that the data value is saved; this is because the data are being stored locally on your DHIS2 browser cache.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

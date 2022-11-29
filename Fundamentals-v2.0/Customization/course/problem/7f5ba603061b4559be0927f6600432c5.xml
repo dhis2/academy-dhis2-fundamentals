@@ -1,0 +1,20 @@
+<problem display_name="Question 1" markdown="null" max_attempts="3" showanswer="finished">
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>What are the main components of an indicator?</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="false">Percentage </choice>
+      <choice correct="true">Numerator </choice>
+      <choice correct="true">Denominator </choice>
+      <choice correct="true">Factor </choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>There are three main components of an indicator: Numerator, denominator and factor.</p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 3" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>If we want the user to enter data for a data set for which categories are applied, you only need to give data access to the data set since categories are assigned to the data elements within the data set. </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>You need to give data capture access to both the data set and to the category options. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

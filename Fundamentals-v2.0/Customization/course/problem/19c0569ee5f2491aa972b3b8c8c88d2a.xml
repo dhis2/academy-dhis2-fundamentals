@@ -1,0 +1,21 @@
+<problem display_name="Question 4" markdown="null" max_attempts="1" showanswer="finished">
+  <multiplechoiceresponse>
+    <label>
+      <h3>If a data element group set is to be used as a data dimension in analytics applications, a data element should only be in one of the data element groups within the data element group set. 
+</h3>
+    </label>
+    <description>Select one answer</description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">A. True</choice>
+      <choice correct="false">B. False </choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p> Explanation:</p>
+        <p> If a data element group set is to be used as a data dimension in analytics applications, a data element should only be in one of the data element groups within the data element group set. This is to avoid double counting those values in analytics.
+
+</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

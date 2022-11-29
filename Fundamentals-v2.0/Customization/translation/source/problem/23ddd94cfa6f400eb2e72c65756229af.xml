@@ -1,0 +1,19 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 1" markdown="null">
+  <multiplechoiceresponse>
+    <label>
+      <h3>What type of data set form type would you use to recreate this paper form?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Default form</choice>
+      <choice correct="true">Section form</choice>
+      <choice correct="false">Custom form</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The paper form has specific sections with names, so it would need to be recreated as a section form in DHIS2. Default forms would be used if a specific name was not necessary, as these forms assign the name of the category combination used on the data elements as the section header.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

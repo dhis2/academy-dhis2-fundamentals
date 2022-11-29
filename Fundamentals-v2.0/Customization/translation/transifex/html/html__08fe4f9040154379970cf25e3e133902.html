@@ -1,0 +1,40 @@
+<h3>Orientation to data elements</h3>
+<p>In the introduction to DHIS2 course, you learned about the <strong>What </strong>dimension of DHIS2: <strong>data elements.</strong> You have also learned about the distinction between data elements and indicators, which are calculated using data elements.</p>
+
+<h3>Key concepts:</h3>
+<ul>
+<li>Difference between data elements and indicators</li>
+<li>DHIS2 configurable fields</li>
+<ul>
+<li>Domain type</li>
+<li>Value type</li>
+<li>Aggregation type</li>
+</ul>
+
+
+<h3>Difference between data elements and indicators</h3>
+<h4></h4>
+<blockquote>
+<img src="/static/image65.png" style="width:5.63021in;height:3.11117in" />
+
+</blockquote>
+
+<h3>DHIS2 configurable fields</h3>
+<p><strong>Domain type</strong></p>
+<p>Domain type refers to whether the data element is an <strong>aggregate</strong> or <strong>tracker</strong> type of data element.</p>
+<p>Tracker is the DHIS2 app for individual-level (or case-based) transactional data. It supports data collection, case monitoring and follow-up analysis and reporting.</p>
+<p><strong>Value type</strong></p>
+<p>Defines the <strong>type of data</strong> that the data element will record. There are many possible values types for data elements, but the most common are:</p>
+<ul>
+<li><em>Number</em>: Used to capture any numeric value including with decimal points (e.g. 7.8, 200)</li>
+<li><em>Positive Integer</em>: Used to capture only positive integers (e.g. 10, 89)</li>
+<li><em>Positive or Zero Integer</em>: Used to capture both positive integers and zero values (e.g. 70, 0)</li>
+<li><em>Text</em>: Used to capture text</li>
+<li><em>Yes/No</em>: Used to capture data for yes and no values</li>
+</ul>
+  <p>For a more complete overview of possible value types, refer to the <a href="https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#create_data_element:~:text=a%20data%20element-,%C2%B6,-Open%20the%20Maintenance" target="_blank">DHIS2 documentation.</a></p>
+<p><strong>Aggregation type</strong></p>
+<p>Defines the default <strong>aggregation operation</strong> that will be used on the data element.</p>
+<p>Most aggregate data elements will use the sum operator. This should be applied to any data element where the values entered should be summed. For example, the number of cases of a disease. Other data elements, such as staffing levels, should be set to use the Average operator when values along the time dimension should not be added together, but rather averaged.</p>
+<p>To refresh your knowledge of concepts related to data elements, we suggest you refer back to the related video from the Introduction to DHIS2 course:</p>
+<p><a href="https://www.youtube.com/watch?v=c4GVZ6z6YZw" target=none><u>Introduction to DHIS2: Data Elements and Indicators</u></a></p>

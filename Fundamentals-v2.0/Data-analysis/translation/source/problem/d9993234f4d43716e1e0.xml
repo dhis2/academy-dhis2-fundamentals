@@ -1,0 +1,22 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>When selecting the data, period and organisation unit dimensions there are two buttons available in the selection box: Hide and Update.</p>
+    <label>
+      <h3>
+ What does the Hide button do?
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">The Hide button stores your selection and allows you to continue to edit the dimensions before updating the table</choice>
+      <choice correct="false">The Hide button hides any previously selected dimensions and erases the dimension history</choice>
+      <choice correct="false">The Hide button shows if there any hidden features selected within the dimension</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In the dimension selection box, selecting the Hide button allows you to store your selection and continue to edit the other dimensions before updating the table.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

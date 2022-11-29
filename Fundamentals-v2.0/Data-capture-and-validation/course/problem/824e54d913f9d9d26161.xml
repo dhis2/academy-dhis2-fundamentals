@@ -1,0 +1,18 @@
+<problem>
+  <multiplechoiceresponse>
+    <label>
+      <h3>Data saved without an internet connection is uploaded automatically to the server when the connection is resumed. </h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>When the internet comes back on, you will get a message that says, “There is data stored locally, please upload to the server” with an upload button next to the message. You need to click that button to upload the data.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

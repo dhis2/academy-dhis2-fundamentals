@@ -1,0 +1,32 @@
+[
+    {
+        "content": "<h3>Dear Community Members,</h3>\n<p>We are happy to announce the launch of the DHIS2 Aggregate Customization course. </p>\n\n<p>With improved design and hands-on exercises, the customization course provides learners a comprehensive introduction on how to customize DHIS2 metadata. The course covers topics such as building an organisation unit hierarchy, creating data sets that enable data collection, and configuring disaggregations and indicators to facilitate data analysis.</p>\n\n<p>Thise course is the last course in the aggregate fundamentals series that consists of four courses: </p>\n<ul>\n  <li>Introduction to DHIS2: Learn about what DHIS2 is and how it is used to foster informed decision-making in public health, education, and other fields.</li>\n<li>Aggregate Data Capture and Validation 2: Learn how to capture and validate aggregate data in DHIS2.</li>\n<li>Aggregate Data Analysis: Learn how to use DHIS2\u2019s data visualization tools to create pivot tables, charts, maps and dashboards to analyze aggregate data.</li>\n<li>Aggregate customization: Learn how to customize a blank DHIS2 system by creating metadata such as organisation units, data elements, categories, data sets and indicators. </li>\n<li>These four courses replace the former DHIS2 Fundamentals course and  provide better learning experience, expanded curriculum and chance to practice with newer versions of DHIS2. </li> </ul>\n<p>We are excited to hear your impressions and feedback.</p> \n<p>Hope you have a good learning experience!</p>\n",
+        "date": "August 15, 2022",
+        "id": 1,
+        "status": "visible"
+    },
+    {
+        "content": "<p>Dear students,</p>\n<p>our <strong>Automated Grader</strong> is currently out of service.</p>\n<p>As a result, when clicking the 'Grade me' button following the labs, you will receive the following message:</p>\n<p>\n<i>\"Something went wrong, please contact the course team.\"</i>\n</p>\n<p>This technical issue is preventing your assessments from being graded, however, it does NOT affect the work you have done in our DHIS2 instances. It remains saved in the DHIS2 instances.</p>\n<p>We sincerely apologise for any inconvenience, and can assure you we are working quickly towards a resolution.</p>\n<p>Best,<br/>The DHIS2 Academy course team</p>",
+        "date": "September 15, 2022",
+        "id": 2,
+        "status": "visible"
+    },
+    {
+        "content": "<p>Dear Learners,</p> \n\n<p>Unfortunately, our Automated Grader remains out of service, meaning that you <strong>will not be able to grade your units after completion</strong>.</p> \n\n<p>In order to fix the identified issue we have removed the grader from the course. We are working towards a solution as quickly as possible.</p> \n\n<p>We sincerely apologise for any inconvenience.</p> \n\n<p>Regards,<br/>\nThe DHIS2 Academy course team</p> ",
+        "date": "September 21, 2022",
+        "id": 3,
+        "status": "visible"
+    },
+    {
+        "content": "<p>Dear Learner,</p>\n<p>Thanks for your patience during this time!</p>\n<p>We apologise again for the delay in your ability to grade your work. Our team are working on the issue, and expect the grader to be working again by October 14th.</p>\n<p>In case you were worried, all of your work remains <strong>saved</strong>, we are just unable to grade it. Feel free to proceed through the course, knowing that your work will remain saved.</p>\n<p>If the automatic grader isn't working by then, we will look to do a manual grading of the course. For clarity, manual grading takes <emphasis>a long time to perform</emphasis>, which is why we are prioritising fixing the automatic grader.</p>\n<p>We <strong>will not</strong> be able to perform individual grading during this time, and won't respond to any requests that come in for it (sorry!).</p>\n<p>We will update you when we have more information!</p>\n<p>Kind Regards,<br/>The DHIS2 Academy Team</p>",
+        "date": "September 23, 2022",
+        "id": 4,
+        "status": "visible"
+    },
+    {
+        "content": "<p>Dear learner,</p>\n<p>Good News!</p>\n<p>The automated grader is now working again. Please check the <em>'Grade me'</em> buttons within the course - you should be able to grade your work. If you have any issue, please get in touch.</p>\n<p>Thanks again for your patience</p>\n<p>Kind regards,<br/>The DHIS2 Academy Team</p>",
+        "date": "October 14, 2022",
+        "id": 5,
+        "status": "visible"
+    }
+]

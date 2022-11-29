@@ -1,0 +1,18 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 3" markdown="null" showanswer="attempted">
+  <multiplechoiceresponse>
+    <label>
+      <h3>When you enter data in DHIS2, the system automatically run a Validation Rule Analysis.</h3>
+    </label>
+    <description>Select one answer </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="true">False</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>DHIS2 identifies when a value entered in a field does not belong to a predefined range, if this range was set previously. However, to run a Validation Rule Analysis, you need to click the option right after entering the data.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

@@ -1,0 +1,28 @@
+<problem>
+  <multiplechoiceresponse>
+    <p>In the Data Visualizer app, create a stacked bar using the following information: </p>
+    <ol>
+      <li>Data: “EPI - DPT-HepB-HIB 1 doses given”, “EPI - DPT-HepB-HIB 2 doses given” and “EPI - DPT-HepB-HIB 3 doses given” (be sure to select the data elements, not the indicators).</li>
+      <li>Period: January - December 2021.</li>
+      <li>Organisation unit: Districts in Food Region. Find the disaggregation “Age in Years (0-1, 1+, unknown)” and add “1+ years” to the series.</li>
+    </ol>
+    <p>Hint: You may need to modify the layout. </p>
+    <label>
+      <h3>
+Which data element had the highest number of doses given for those 1+ years old?
+</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">EPI - DPT-HepB-HIB 1 doses given</choice>
+      <choice correct="false">EPI - DPT-HepB-HIB 2 doses given</choice>
+      <choice correct="true">EPI - DPT-HepB-HIB 3 doses given</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>In this example, the data element “EPI - DPT-HepB-HIB 3 doses given” had the highest number of doses given for those 1+ years old. The recommended layout to easily analyze the data for this visualization is: The disaggregation in the series, data is the category, and the organisation unit and period in the filter. </p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>

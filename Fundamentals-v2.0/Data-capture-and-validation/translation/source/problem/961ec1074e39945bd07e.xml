@@ -1,0 +1,23 @@
+<problem>
+  <choiceresponse partial_credit="EDC">
+    <label>
+      <h3>
+In Trainingland, navigate to the app where you can use the Reporting Rate Summary. Select the Bird District as the organisation unit, the RMNCAH data set and the period as six-monthly July-December 2021. Which organisation units did not complete all of their data sets in a timely fashion?
+</h3>
+    </label>
+    <description>Select all that apply. </description>
+    <checkboxgroup>
+      <choice correct="false">Peacock Dispensary</choice>
+      <choice correct="true">Hawk Primary Health Centre</choice>
+      <choice correct="true">Ostrich Health Centre</choice>
+      <choice correct="true">Parrot District Hospital </choice>
+      <choice correct="false">Woodpecker Health Centre</choice>
+    </checkboxgroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>The Reporting Rate Summary is available in the Reports app. The Reporting Rate on Time was less than 100% for the Hawk Primary Health Centre, Ostrich Health Centre and Parrot District Hospital, indicating they did not submit their data sets in a timely manner. </p>
+      </div>
+    </solution>
+  </choiceresponse>
+</problem>

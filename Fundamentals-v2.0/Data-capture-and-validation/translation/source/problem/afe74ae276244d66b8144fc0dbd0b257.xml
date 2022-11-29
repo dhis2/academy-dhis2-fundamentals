@@ -1,0 +1,24 @@
+<problem attempts_before_showanswer_button="1" display_name="Question 4" markdown="null" showanswer="attempted">
+  <multiplechoiceresponse>
+    <label>
+      <h3>Select the sync icon below.</h3>
+    </label>
+    <description> Select one answer </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">
+        <img src="/static/2.3.3_KC_IMG1_Syncing.png" style="width:1.16667in;height:0.95833in"/>
+      </choice>
+      <choice correct="true">
+        <img src="/static/2.3.3_KC_IMG2_Syncing.png" style="width:1.12758in;height:1.10814in"/>
+      </choice>
+      <choice correct="false">
+        <img src="/static/2.3.3_KC_IMG3_Syncing.png" style="width:1.18229in;height:1.18229in"/>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution"><p>Explanation</p><img src="/static/2.3.3_KC_IMG2_Syncing.png" style="width:1.16667in;height:0.95833in"/> is the correct icon.
+
+</div>
+  </solution>
+</problem>

@@ -1,0 +1,21 @@
+<problem display_name="Question 1 " markdown="null">
+  <multiplechoiceresponse>
+    <img src="/static/4.2.3_Img2_KCImage.png" style="width:100%;height:100%"/>
+    <label>
+      <h3>How many districts have a BCG vaccination coverage between 80% and 90%?</h3>
+    </label>
+    <description>Select one answer. </description>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">0</choice>
+      <choice correct="false">2</choice>
+      <choice correct="false">3</choice>
+      <choice correct="true">5</choice>
+    </choicegroup>
+    <solution>
+      <div class="detailed-solution">
+        <p>Explanation</p>
+        <p>There are 5 organisation units with EPI-BCG coverage between 80% - 90%. You can find this information in the legend as “High 80 – 90 (5)”.</p>
+      </div>
+    </solution>
+  </multiplechoiceresponse>
+</problem>
