@@ -1,0 +1,8 @@
+git:
+  filters:
+  - filter_type: dir
+    file_format: HTML_FRAGMENT
+    source_file_extension: html
+    source_language: en
+    source_file_dir: source/html
+    translation_files_expression: 'language-versions/<lang>/html'
