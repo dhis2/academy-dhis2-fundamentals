@@ -1,0 +1,8 @@
+git:
+  filters:
+  - filter_type: dir
+    file_format: HTML_FRAGMENT
+    source_file_extension: html
+    source_language: en
+    source_file_dir: 'Fundamentals-v2.0/Data-analysis/translation/transifex/html'
+    translation_files_expression: 'Fundamentals-v2.0/Data-analysis/translation/language-versions/<lang>/html'
