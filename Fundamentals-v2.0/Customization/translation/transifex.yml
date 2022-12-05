@@ -4,5 +4,5 @@ git:
     file_format: HTML_FRAGMENT
     source_file_extension: html
     source_language: en
-    source_file_dir: 'Fundamentals-v2.0/Customization/translation/source/html'
-    translation_files_expression: 'Fundamentals-v2.0/Customization/translation/language-versions/<lang>/html'
+    source_file_dir: 'Fundamentals-v2.0/Customization/translation/transifex'
+    translation_files_expression: 'Fundamentals-v2.0/Customization/translation/language-versions/<lang>'
