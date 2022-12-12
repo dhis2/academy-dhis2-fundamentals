@@ -1,0 +1,28 @@
+
+
+<h3>Use Case 1: Use Case: Fast-tracking COVID-19 response using DHIS2 metadata packages</h3>
+
+<p>When the COVID-19 outbreak started in early 2020, more than 40 countries turned to DHIS2 to manage their data for various components of their COVID-19 response, including disease surveillance, port of entry screening, test result monitoring, and vaccination programs, with countries using aggregate, Event and Tracker data depending on their specific needs and capacity.</p>
+
+<p>In this use case, we will focus on <strong>COVID-19 Aggregate Weekly Surveillance</strong>, and explain how the <strong>data set</strong>, <strong>validation rules</strong> and <strong>dashboards</strong> in DHIS2 function to capture weekly data needed for rapid response to disease transmission and provide key statistics related to COVID-19.</p>
+<p> <img src="/static/Image_1_-_COVID19_Data_Set.png" width="100%"/></p>
+<p>The COVID-19 Aggregate Weekly Surveillance data set is a surveillance report that is used as a weekly data collection form filled out at the facility level (i.e. at a hospital, health center, etc.). The data set has six separate components, which are displayed in DHIS2 as <strong>sections</strong> of the data entry form:</p>
+<ol>
+  <li>New confirmed and probable cases</li>
+  <li>New confirmed and probable deaths</li>
+  <li>Health worker infection and death</li>
+  <li>Hospitalization and discharges</li>
+  <li>Tests conducted</li>
+  <li>Transmission classification</li>
+</ol>
+<p>Each section of this form includes two or more fields. For example, <strong>new confirmed and probable cases</strong> has: 1) New confirmed cases and 2) New probable cases, both of which are <strong>disaggregated</strong> by age and sex. This means that the number of male, female and unknown sex cases are reported separately, within defined age categories, which allows for more granular analysis of these data. The other sections of this form collect aggregate data values without disaggregations applied.</p>
+<p>All of these elements of the COVID-19 data set, including frequency and level of reporting and disaggregations, <strong>can be configured in DHIS2 to suit the local context</strong>. You can learn more about configuring DHIS2 for aggregate data in the <strong>DHIS2 Customization course</strong>.</p>
+<p> <img src="/static/Image_2_-_Validation_Rules.png" width="100%"/></p>
+<p><strong>Validation rules</strong> allow you to run checks on the data that you have entered and stored in DHIS2. In this particular COVID-19 use case, the validation rules are scheduled to run weekly. These validation rules provide a straightforward <strong>data quality check before any analytic outputs are created</strong> from the collected data. You can learn more about validation rules for aggregate data in the <strong>DHIS2 Data Capture and Validation course</strong>.</p>
+<img src="/static/Image_3_-_COVID19_Weekly_Surveillance_Dashboard.png" width="100%"/>
+<p>This use case also includes a DHIS2 <strong>dashboard</strong> for analyzing and monitoring COVID-19 data. In DHIS2, once data has been collected, visualizations can be created for data analysis. Dashboards are a collection of visualizations and other outputs, enabling you to quickly find, share and analyze important outputs. In this use case, the dashboard includes a number of outputs, including charts, a pivot table and a map, which illustrate key data points, such as the number of cumulative tests conducted, cases reported, cases hospitalized, cases discharged and deaths. Users can adjust the settings on the dashboard to view outputs at various levels of the health system hierarchy, to facilitate analysis from the national to the facility level.</p>
+<p>This COVID-19 use case is an example of a <strong>DHIS2 metadata package</strong>, which are <strong>installable, pre-built configurations</strong> of metadata (including data sets, indicators, validation rules, and dashboards, among other components) that can be downloaded and installed into any DHIS2 system. </p>
+<p>Metadata packages are designed in collaboration with the World Health Organization (WHO), United Nations Children's Fund (UNICEF) and other subject matter experts, and are designed around global standards and guidelines for key health programs. Metadata packages also <strong>allow countries to fast-track their implementation of DHIS2</strong> by starting from installable templates instead of a blank slate. Because of the flexibility of DHIS2, <strong>each metadata package can be further adapted and customized</strong> according to country requirements and context.</p>
+<p>For more information on DHIS2 for COVID-19 response and metadata packages, please visit the <a href="https://dhis2.org/covid-19/" target="_blank">DHIS2 website</a>. </p>
+
+

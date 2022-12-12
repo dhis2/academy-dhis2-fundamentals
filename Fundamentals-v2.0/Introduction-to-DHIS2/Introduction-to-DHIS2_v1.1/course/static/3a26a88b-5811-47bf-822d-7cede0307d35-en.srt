@@ -1,0 +1,296 @@
+0
+00:00:00,218 --> 00:00:02,801
+(upbeat music)
+
+1
+00:00:22,849 --> 00:00:26,041
+- I'm Khadija from HISP: Tanzania.
+
+2
+00:00:26,041 --> 00:00:29,310
+- My name is Zeferino Saugene, I'm from Mozambique.
+
+3
+00:00:29,310 --> 00:00:32,603
+- My name is John Lewis from HISP: Vietnam.
+
+4
+00:00:36,290 --> 00:00:38,830
+- My role is as a system analyst,
+
+5
+00:00:38,830 --> 00:00:40,760
+but as well as a teachers to implement that.
+
+6
+00:00:40,760 --> 00:00:44,210
+- I am coordinating the team a foreign community that told
+
+7
+00:00:44,210 --> 00:00:47,520
+us is Mozambique, which is also called and so Digitas.
+
+8
+00:00:47,520 --> 00:00:51,720
+- I'm a director now for his Vietnam leading the adjust
+
+9
+00:00:51,720 --> 00:00:54,650
+to implementation in Southeast Asia and Pacific Islands.
+
+10
+00:00:58,360 --> 00:01:01,840
+- I heard about DHIS2 when I was in my university studies,
+
+11
+00:01:01,840 --> 00:01:05,300
+started engaging myself, went around asked about it,
+
+12
+00:01:05,300 --> 00:01:07,570
+and at least they were cooperative enough,
+
+13
+00:01:07,570 --> 00:01:10,550
+shared me the link, DHIS2 to fundamentals.
+
+14
+00:01:10,550 --> 00:01:12,360
+And I started to learn more about it.
+
+15
+00:01:12,360 --> 00:01:15,050
+And I would say everything started from there.
+
+16
+00:01:15,050 --> 00:01:19,327
+- I think started I getting involved with this group in 2003
+
+17
+00:01:20,210 --> 00:01:21,690
+in the master program.
+
+18
+00:01:21,690 --> 00:01:24,300
+And then I went to Oslo in August,
+
+19
+00:01:24,300 --> 00:01:25,420
+stayed there for one year.
+
+20
+00:01:25,420 --> 00:01:27,070
+And then we come back to Mozambique
+
+21
+00:01:27,070 --> 00:01:29,690
+and then I had one hour field work
+
+22
+00:01:29,690 --> 00:01:34,060
+and then start writing and then finalize it in 2005.
+
+23
+00:01:35,400 --> 00:01:39,750
+- 2000 When I was interviewed for as a software developer
+
+24
+00:01:39,750 --> 00:01:44,430
+to join his India project and one of the small constancy
+
+25
+00:01:44,430 --> 00:01:45,263
+in India.
+
+26
+00:01:45,263 --> 00:01:49,053
+So I was appointed as a system developer for DHIS21.
+
+27
+00:01:52,730 --> 00:01:54,300
+- As the DHIS2 team,
+
+28
+00:01:54,300 --> 00:01:56,750
+we managed to support our ministry of health
+
+29
+00:01:56,750 --> 00:02:00,030
+in implementing the DHIS2 country-wise
+
+30
+00:02:00,030 --> 00:02:03,390
+and it's the key system that is used to by the minister
+
+31
+00:02:03,390 --> 00:02:05,220
+of health in Tanzania in data collection
+
+32
+00:02:05,220 --> 00:02:06,127
+and of course boarding.
+
+33
+00:02:06,127 --> 00:02:09,670
+- The DHIS, I'm a conference is the event where we,
+
+34
+00:02:09,670 --> 00:02:11,623
+there is a lot of sharing experience,
+
+35
+00:02:12,890 --> 00:02:16,500
+and then a lot of users, implementers, donors,
+
+36
+00:02:16,500 --> 00:02:18,240
+they attend then we get there
+
+37
+00:02:18,240 --> 00:02:20,080
+and then we share all our experience
+
+38
+00:02:20,080 --> 00:02:21,020
+from the implementation side.
+
+39
+00:02:21,020 --> 00:02:23,410
+And also from the user perspective.
+
+40
+00:02:23,410 --> 00:02:26,560
+- When we started HISP India I was the only person
+
+41
+00:02:26,560 --> 00:02:31,240
+and then like three group to the national level
+
+42
+00:02:31,240 --> 00:02:32,511
+for the entire country.
+
+43
+00:02:32,511 --> 00:02:35,300
+I guess that that was the key event for me.
+
+44
+00:02:35,300 --> 00:02:40,130
+We take a small NGO operating in a very small constancy
+
+45
+00:02:40,130 --> 00:02:44,150
+in one particular village to move to the national entity
+
+46
+00:02:44,150 --> 00:02:47,793
+and working with the Indian ministry of health.
+
+47
+00:02:51,600 --> 00:02:53,100
+- A lot, honestly speaking,
+
+48
+00:02:53,100 --> 00:02:55,070
+because since I've started using it,
+
+49
+00:02:55,070 --> 00:02:57,410
+or since I started knowing about it,
+
+50
+00:02:57,410 --> 00:03:01,280
+it has proved to be a very very flexible platform.
+
+51
+00:03:01,280 --> 00:03:05,580
+It was initially aimed just for health information systems.
+
+52
+00:03:05,580 --> 00:03:08,760
+We managed to extend beyond healthy,
+
+53
+00:03:08,760 --> 00:03:12,830
+but even using it in agriculture sector, as well as water.
+
+54
+00:03:12,830 --> 00:03:15,948
+So I would say it's a very flexible platform
+
+55
+00:03:15,948 --> 00:03:19,330
+and it can support a number of use cases.
+
+56
+00:03:19,330 --> 00:03:23,681
+As we have had different use cases from different countries,
+
+57
+00:03:23,681 --> 00:03:27,341
+- HISP is a family we have been supporting many countries
+
+58
+00:03:27,341 --> 00:03:31,690
+and then when I get to know several people
+
+59
+00:03:33,831 --> 00:03:36,180
+they share the same challenges.
+
+60
+00:03:36,180 --> 00:03:38,440
+For example, as in Mozambique, then we will,
+
+61
+00:03:38,440 --> 00:03:41,050
+we go and we find that same challenge and you find that you
+
+62
+00:03:41,050 --> 00:03:44,170
+will also find it in countries like the Guinea-Bissau
+
+63
+00:03:44,170 --> 00:03:45,010
+or Sao Tome.
+
+64
+00:03:45,010 --> 00:03:49,710
+So it has been to me it is a community., it's a family.
+
+65
+00:03:49,710 --> 00:03:51,720
+- For me, it's an ideology,
+
+66
+00:03:51,720 --> 00:03:56,720
+which basically thinks about how best we can try to use
+
+67
+00:03:57,360 --> 00:04:01,460
+informal system in the health settings and how best we can
+
+68
+00:04:01,460 --> 00:04:06,100
+try to get the right tool to white people and DHIS2
+
+69
+00:04:07,557 --> 00:04:09,690
+what we believe is a tool which helps
+
+70
+00:04:09,690 --> 00:04:12,000
+the health administrators and people
+
+71
+00:04:12,000 --> 00:04:14,740
+to make a decision at the local level.
+
+72
+00:04:14,740 --> 00:04:16,206
+And as well as the national level.
+
+73
+00:04:16,206 --> 00:04:18,789
+(upbeat music)
+

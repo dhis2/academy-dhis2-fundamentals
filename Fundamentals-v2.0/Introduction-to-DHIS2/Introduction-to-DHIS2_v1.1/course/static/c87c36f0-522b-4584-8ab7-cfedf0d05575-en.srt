@@ -1,0 +1,404 @@
+0
+00:00:01,354 --> 00:00:03,937
+(bright music)
+
+1
+00:00:13,660 --> 00:00:17,090
+- If we want to make informed data-driven decisions
+
+2
+00:00:17,090 --> 00:00:19,280
+that have an impact on people,
+
+3
+00:00:19,280 --> 00:00:21,310
+we first need to understand
+
+4
+00:00:21,310 --> 00:00:24,580
+how those data are captured and verified.
+
+5
+00:00:24,580 --> 00:00:27,670
+It&#39;s only when we have reliable data
+
+6
+00:00:27,670 --> 00:00:29,780
+that we can trust in our analysis
+
+7
+00:00:29,780 --> 00:00:31,853
+to support decision-making.
+
+8
+00:00:33,020 --> 00:00:37,383
+In this video, you will see how data are entered into DHIS2.
+
+9
+00:00:38,450 --> 00:00:41,940
+In the next video, you&#39;ll find out how DHIS2
+
+10
+00:00:41,940 --> 00:00:44,633
+helps to ensure data quality.
+
+11
+00:00:46,890 --> 00:00:51,030
+DHIS2 works as a centralized data warehouse
+
+12
+00:00:51,030 --> 00:00:52,890
+capable of capturing data
+
+13
+00:00:52,890 --> 00:00:56,240
+from a number of different sources and devices
+
+14
+00:00:56,240 --> 00:01:01,100
+including direct entry through the web or an Android device,
+
+15
+00:01:01,100 --> 00:01:06,010
+SMS, and even other data sources, such as spreadsheets
+
+16
+00:01:06,010 --> 00:01:08,453
+or other electronic systems.
+
+17
+00:01:10,410 --> 00:01:12,890
+Within the DHIS2 platform,
+
+18
+00:01:12,890 --> 00:01:15,460
+there are several data collection tools
+
+19
+00:01:15,460 --> 00:01:18,410
+that we can use depending on the type of data
+
+20
+00:01:18,410 --> 00:01:20,230
+we want to capture.
+
+21
+00:01:20,230 --> 00:01:25,230
+We can distinguish three broad categories of data in DHIS2
+
+22
+00:01:25,610 --> 00:01:28,270
+also known as data models,
+
+23
+00:01:28,270 --> 00:01:31,320
+numerical or aggregate data,
+
+24
+00:01:31,320 --> 00:01:34,490
+anonymous individualized data,
+
+25
+00:01:34,490 --> 00:01:38,070
+and individual data with identifiers.
+
+26
+00:01:38,070 --> 00:01:41,223
+Let&#39;s briefly review each of these models.
+
+27
+00:01:42,910 --> 00:01:47,380
+The first data model is numerical or aggregate data.
+
+28
+00:01:47,380 --> 00:01:51,913
+And we use the Data Entry app to capture data of this type.
+
+29
+00:01:53,280 --> 00:01:54,550
+For example,
+
+30
+00:01:54,550 --> 00:01:58,740
+let&#39;s say 10 children received their vaccines today
+
+31
+00:01:58,740 --> 00:02:00,760
+in a given health facility
+
+32
+00:02:00,760 --> 00:02:04,140
+in the context of an immunization program,
+
+33
+00:02:04,140 --> 00:02:07,723
+and we want to enter this information into DHIS2.
+
+34
+00:02:09,340 --> 00:02:13,630
+What are the steps we need to follow to enter these data?
+
+35
+00:02:13,630 --> 00:02:16,733
+Let&#39;s go to the platform and see how it works.
+
+36
+00:02:18,410 --> 00:02:23,410
+After logging in, go to the applications icon in DHIS2
+
+37
+00:02:24,800 --> 00:02:27,520
+and open the Data Entry app.
+
+38
+00:02:27,520 --> 00:02:32,193
+Then, use the search field to find the facility.
+
+39
+00:02:35,390 --> 00:02:38,040
+From the data set dropdown,
+
+40
+00:02:38,040 --> 00:02:41,460
+select the immunization program.
+
+41
+00:02:41,460 --> 00:02:46,220
+And finally, select the time period you want to update.
+
+42
+00:02:46,220 --> 00:02:50,330
+To enter the data, click on the data value cell
+
+43
+00:02:50,330 --> 00:02:52,113
+and enter the values.
+
+44
+00:02:56,720 --> 00:03:01,650
+Note that forms as well as the configuration and hierarchy
+
+45
+00:03:01,650 --> 00:03:04,990
+of the health system are completely customizable
+
+46
+00:03:04,990 --> 00:03:06,660
+within the platform.
+
+47
+00:03:06,660 --> 00:03:09,533
+This will be discussed further later on.
+
+48
+00:03:10,560 --> 00:03:14,340
+The second category of data or data model
+
+49
+00:03:14,340 --> 00:03:18,520
+captures anonymous individualized data
+
+50
+00:03:18,520 --> 00:03:20,850
+also called events.
+
+51
+00:03:20,850 --> 00:03:25,023
+And we use the Capture app to register event data.
+
+52
+00:03:26,710 --> 00:03:30,040
+For example, let&#39;s say we want to register
+
+53
+00:03:30,040 --> 00:03:35,020
+a new COVID-19 case in a given health facility.
+
+54
+00:03:35,020 --> 00:03:39,170
+What are the steps to enter these data in DHIS2?
+
+55
+00:03:39,170 --> 00:03:40,973
+Let&#39;s go back to the platform.
+
+56
+00:03:42,960 --> 00:03:45,110
+To enter event data,
+
+57
+00:03:45,110 --> 00:03:49,223
+select the Capture app from the applications icon.
+
+58
+00:03:51,010 --> 00:03:53,593
+Then, search for the facility,
+
+59
+00:03:58,030 --> 00:04:00,540
+and select the event program.
+
+60
+00:04:00,540 --> 00:04:04,300
+In this case, COVID-19 Cases.
+
+61
+00:04:04,300 --> 00:04:07,450
+And then click on new event.
+
+62
+00:04:07,450 --> 00:04:09,280
+Once you fill out the form,
+
+63
+00:04:09,280 --> 00:04:11,593
+the data are stored in DHIS2.
+
+64
+00:04:14,050 --> 00:04:16,630
+Note that when entering events,
+
+65
+00:04:16,630 --> 00:04:19,430
+the data being captured are anonymous,
+
+66
+00:04:19,430 --> 00:04:21,990
+and follow-up on individual cases
+
+67
+00:04:21,990 --> 00:04:24,713
+is not possible within this model.
+
+68
+00:04:26,160 --> 00:04:29,650
+The third type of data is individual data
+
+69
+00:04:29,650 --> 00:04:33,760
+with identifiers that can be tracked over time.
+
+70
+00:04:33,760 --> 00:04:37,450
+This is also known as the tracker data model.
+
+71
+00:04:37,450 --> 00:04:39,630
+We use the Tracker Capture app
+
+72
+00:04:39,630 --> 00:04:42,653
+to register and enter this type of data.
+
+73
+00:04:43,820 --> 00:04:48,160
+Using this data model, it&#39;s possible to identify a person
+
+74
+00:04:48,160 --> 00:04:50,840
+by their name, phone number,
+
+75
+00:04:50,840 --> 00:04:54,313
+or a combination of any other identifiers.
+
+76
+00:04:55,640 --> 00:04:59,860
+We use this model when we want to follow up on individuals
+
+77
+00:04:59,860 --> 00:05:01,840
+to track their services
+
+78
+00:05:01,840 --> 00:05:05,903
+and perform individual level management of cases.
+
+79
+00:05:07,460 --> 00:05:11,360
+For example, let&#39;s say we want to register a patient
+
+80
+00:05:11,360 --> 00:05:15,910
+with COVID-19 to facilitate disease surveillance.
+
+81
+00:05:15,910 --> 00:05:19,433
+What steps will you need to follow to enter these data?
+
+82
+00:05:22,030 --> 00:05:24,420
+As in the previous examples,
+
+83
+00:05:24,420 --> 00:05:26,810
+go to the applications icon.
+
+84
+00:05:26,810 --> 00:05:31,033
+And in this case, open the Tracker Capture app.
+
+85
+00:05:32,810 --> 00:05:35,103
+Then, select the facility,
+
+86
+00:05:40,200 --> 00:05:42,003
+select the program,
+
+87
+00:05:44,350 --> 00:05:46,590
+and click on register.
+
+88
+00:05:46,590 --> 00:05:51,220
+The form contains data that identify the individuals
+
+89
+00:05:51,220 --> 00:05:54,410
+and track the services they receive.
+
+90
+00:05:54,410 --> 00:05:58,640
+To wrap up, there are three broad categories of data
+
+91
+00:05:58,640 --> 00:06:01,840
+or data models in DHIS2,
+
+92
+00:06:01,840 --> 00:06:04,810
+numerical or aggregate data,
+
+93
+00:06:04,810 --> 00:06:07,840
+anonymous individualized data
+
+94
+00:06:07,840 --> 00:06:09,710
+or events,
+
+95
+00:06:09,710 --> 00:06:13,010
+and individual data with identifiers
+
+96
+00:06:13,010 --> 00:06:15,400
+or the tracker data model.
+
+97
+00:06:15,400 --> 00:06:19,680
+And for each one, there is a specific entry tool;
+
+98
+00:06:19,680 --> 00:06:24,680
+Data Entry for aggregate data, the Capture app for events,
+
+99
+00:06:25,220 --> 00:06:28,153
+and the Tracker Capture app for tracker data.
+
+100
+00:06:29,876 --> 00:06:32,459
+(bright music)
+

@@ -1,0 +1,10 @@
+<video youtube="1.00:5Sq4Zn0IJ1c" url_name="acb58e7eff8f40019517b56e82a2f1df" sub="" transcripts="{&quot;en&quot;: &quot;f8576eaf-d721-48f8-8d63-6b168f36de60-en.srt&quot;}" display_name="Introduction to DHIS2 – How is data quality ensured?" download_track="true" download_video="true" edx_video_id="f8576eaf-d721-48f8-8d63-6b168f36de60" handout="/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block@1.2.2_Data_Review.pdf" html5_sources="[&quot;https://academy.downloads.dhis2.org/Intro/Low-res/1-2-2-How-is-data-quality-ensured-in-DHIS2.mp4&quot;]" youtube_id_0_75="" youtube_id_1_0="5Sq4Zn0IJ1c" youtube_id_1_25="" youtube_id_1_5="">
+  <source src="https://academy.downloads.dhis2.org/Intro/Low-res/1-2-2-How-is-data-quality-ensured-in-DHIS2.mp4"/>
+  <handout src="/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block@1.2.2_Data_Review.pdf"/>
+  <video_asset client_video_id="external video" duration="0.0" image="">
+    <transcripts>
+      <transcript file_format="srt" language_code="en" provider="Custom"/>
+    </transcripts>
+  </video_asset>
+  <transcript language="en" src="f8576eaf-d721-48f8-8d63-6b168f36de60-en.srt"/>
+</video>

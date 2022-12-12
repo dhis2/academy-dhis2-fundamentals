@@ -1,0 +1,24 @@
+<problem display_name="Question 3" markdown="null" weight="0.0">
+  <multiplechoiceresponse>
+    <label>
+      <h3>True or False: Aggregate data can be entered into DHIS2 using SMS
+</h3>
+    </label>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">
+        <span style="font-size:16px;">A. True</span>
+      </choice>
+      <choice correct="false">
+        <span style="font-size:16px;">B. False</span>
+      </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p style="font-size:16px;">Feedback</p>
+      <p style="font-size:16px;">True. Data can be entered into DHIS2 using the web interface, the Android app, SMS, spreadsheets, and other electronic means.
+
+</p>
+    </div>
+  </solution>
+</problem>
