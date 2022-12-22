@@ -1,0 +1,37 @@
+git:
+  filters:
+
+  - filter_type: dir
+    file_format: HTML_FRAGMENT
+    source_file_extension: html
+    source_language: en
+    source_file_dir: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/transifex'
+    translation_files_expression: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/language-versions/<lang>/html'
+
+  - filter_type: dir
+    file_format: SRT
+    source_file_extension: srt
+    source_language: en
+    source_file_dir: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/transifex'
+    translation_files_expression: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/language-versions/<lang>/captions'
+
+  - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: en
+    source_file_dir: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/transifex'
+    translation_files_expression: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/language-versions/<lang>/extra'
+
+  - filter_type: dir
+    file_format: MS_DOCX
+    source_file_extension: docx
+    source_language: en
+    source_file_dir: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/transifex'
+    translation_files_expression: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/language-versions/<lang>/extra'
+
+  - filter_type: dir
+    file_format: MS_PPTX
+    source_file_extension: pptx
+    source_language: en
+    source_file_dir: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/transifex'
+    translation_files_expression: 'Fundamentals-v2.0/Introduction-to-DHIS2/translation/language-versions/<lang>/presentations'
