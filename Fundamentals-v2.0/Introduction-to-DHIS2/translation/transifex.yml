@@ -1,7 +1,6 @@
 git:
   filters:
-  - git:
-  filters:
+
   - filter_type: dir
     file_format: HTML_FRAGMENT
     source_file_extension: html
