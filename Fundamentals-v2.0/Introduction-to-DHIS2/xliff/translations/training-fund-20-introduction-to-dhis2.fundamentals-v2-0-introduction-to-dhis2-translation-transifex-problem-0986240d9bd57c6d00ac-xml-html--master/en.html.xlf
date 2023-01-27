@@ -1,0 +1,36 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-0986240d9bd57c6d00ac-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="62da784a972487c3462f8eff73eed363">
+        <source>The analyses/outputs that we create cannot be shared with other users directly within DHIS2.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="5af0212eb7fc3039326686bb252b446b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. True&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="271c6d9a01bd2e0f4c6f73a1d94b1f5f">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. False&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="0b041f8c0927601bdb2df330a87a6f56">
+        <source>The analyses/outputs that are created can be shared with other users directly within DHIS2. This will be discussed more in later sessions.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

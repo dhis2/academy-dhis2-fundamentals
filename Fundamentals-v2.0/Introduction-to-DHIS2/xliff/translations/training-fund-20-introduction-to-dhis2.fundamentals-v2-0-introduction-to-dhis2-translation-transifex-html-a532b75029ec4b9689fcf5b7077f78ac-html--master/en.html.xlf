@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a532b75029ec4b9689fcf5b7077f78ac-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="6ebd7e1f3875914cba5804a9b26194c9">
+        <source>https://dhis2-academy.ispring.com/s/embed_player/80b500b6-eefa-11eb-ae06-ee629771cfd6?layoutOptions=eyJsb2dvVHlwZSI6InNwYWNlIiwidGl0bGUiOiJIaXN0b3J5IG9mIERISVMyIiwiYmFja2dyb3VuZENvbG9yIjoiIzIxOTZmMyIsInRleHRDb2xvciI6IiNGRkZGRkYifQ%253D%253D</source>
+        <context-group>
+          <context context-type="x-transifex-context">iframe</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

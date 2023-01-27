@@ -1,0 +1,504 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-3-what-data-elements-and-indicators-pptx--master" source-language="en" datatype="MS_PPTX">
+    <body>
+      <trans-unit id="1" resname="ef852ad5cf883859c0750712d189bea0">
+        <source>What&lt;tx&gt;: Data &lt;/tx&gt;&lt;tx&gt;Elements&lt;/tx&gt;&lt;tx&gt; and &lt;/tx&gt;Indicators</source>
+      </trans-unit>
+      <trans-unit id="2" resname="a272f9f8200d606f2f2dc46a741681fd">
+        <source>Introduction to DHIS2 </source>
+      </trans-unit>
+      <trans-unit id="3" resname="98b74440fab1e5968a4cf4748dee6524">
+        <source>Introduction</source>
+      </trans-unit>
+      <trans-unit id="4" resname="fbdef78cd887e358dcc5fee54859ff9d">
+        <source>Data &lt;tx&gt;e&lt;/tx&gt;lements</source>
+      </trans-unit>
+      <trans-unit id="5" resname="5b838c68ecb341a49bd800fa60bc897d">
+        <source>In &lt;tx&gt;this video, we &lt;/tx&gt;&lt;tx&gt;will discuss the second DHIS2 &lt;/tx&gt;&lt;tx&gt;building block: the &lt;/tx&gt;&lt;tx&gt;data elements&lt;/tx&gt;. </source>
+      </trans-unit>
+      <trans-unit id="6" resname="5e4aa39eb904840a2367e45f3c814ad7">
+        <source>“What”</source>
+      </trans-unit>
+      <trans-unit id="7" resname="d021496ea20e4fc238348128b9d99aff">
+        <source>By now, you know that the data &lt;tx&gt;elements define  ‘&lt;/tx&gt;&lt;tx&gt;what’ is being represented by a particular data value of the DHIS2 &lt;/tx&gt;system.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="d28033bb884ad6180e183f6ede2ea6b0">
+        <source>Positive Malaria Cases</source>
+      </trans-unit>
+      <trans-unit id="9" resname="db33abee7b58985dac3c34c49f979355">
+        <source>“When”</source>
+      </trans-unit>
+      <trans-unit id="10" resname="93be29e9913a81d2210aa83e827cccb0">
+        <source>“Where”</source>
+      </trans-unit>
+      <trans-unit id="11" resname="22780f7eb748bfb12f81ab231f7c73dc">
+        <source>Namchala Health Center</source>
+      </trans-unit>
+      <trans-unit id="12" resname="05ee55edb45ee5638028be014d666c09">
+        <source>October 2020</source>
+      </trans-unit>
+      <trans-unit id="13" resname="e58bcf550b662f2d764cb8f0a92feed9">
+        <source>Let’s go back to our &lt;tx&gt;example Positive &lt;/tx&gt;&lt;tx&gt;Malaria Cases recorded &lt;/tx&gt;&lt;tx&gt;in Namchala &lt;/tx&gt;&lt;tx&gt;Health Center &lt;/tx&gt;&lt;tx&gt;in October &lt;/tx&gt;&lt;tx&gt;2020. The data element details what is being counted, in this &lt;/tx&gt;&lt;tx&gt;case Positive &lt;/tx&gt;&lt;tx&gt;Malaria Cases. We can &lt;/tx&gt;&lt;tx&gt;conceptualize Data &lt;/tx&gt;&lt;tx&gt;Elements as labels or variables that describe what a particular data &lt;/tx&gt;value represents. </source>
+      </trans-unit>
+      <trans-unit id="14" resname="34c0d0c899a1b477daf587678cb657e6">
+        <source>Examples of data elements</source>
+      </trans-unit>
+      <trans-unit id="15" resname="2ef8c9829b686be071eee850f8ba1e61">
+        <source>&lt;tx&gt;Examples&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="16" resname="2a39f204d4eac05604c2059e5ac2f9f7">
+        <source>Number</source>
+      </trans-unit>
+      <trans-unit id="17" resname="63ad73ec90575c4d3d9b56c2fa26492d">
+        <source>Individuals immunized</source>
+      </trans-unit>
+      <trans-unit id="18" resname="b8789608dcd6b6918fac57f736fe89d0">
+        <source>Total population</source>
+      </trans-unit>
+      <trans-unit id="19" resname="68bc983284c2c0ff61356421e2afc52d">
+        <source>Available hospital &lt;tx&gt;b&lt;/tx&gt;eds</source>
+      </trans-unit>
+      <trans-unit id="20" resname="6ebc1b385838fd5ae0d61fa7be98ba8f">
+        <source>Value type</source>
+      </trans-unit>
+      <trans-unit id="21" resname="657ea86b891f5dc640a182e311f853bb">
+        <source>Data Elements often represent a count. For instance “total population” “individuals immunized with measles vaccine”  and “available hospital beds” are all examples of data elements that contain numerical values. </source>
+      </trans-unit>
+      <trans-unit id="22" resname="a64ec0c8bf3b01b13e329624e2add95b">
+        <source>Data elements value types</source>
+      </trans-unit>
+      <trans-unit id="23" resname="ed2fc2838f7edb7607dd1cd19f3a82e0">
+        <source>Text</source>
+      </trans-unit>
+      <trans-unit id="24" resname="01429c4cdf21cbe40dd0cb0bbff8460f">
+        <source>&lt;tx&gt;Yes&lt;/tx&gt;&lt;tx&gt;/No&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="25" resname="fc1858e766ad35ccd1e3aaa0766a7fea">
+        <source>Other</source>
+      </trans-unit>
+      <trans-unit id="26" resname="48d9d81bf1d9ddfb9d0a8641c0ceb3cc">
+        <source>Value Type</source>
+      </trans-unit>
+      <trans-unit id="27" resname="901b18fd1dd8938751721810fff2dac0">
+        <source>Note that data elements are able to store other value types too such as text, yes/no values and others.</source>
+      </trans-unit>
+      <trans-unit id="28" resname="25a3b7389f9ede230b833e831cfe2aed">
+        <source>Features of d&lt;tx&gt;ata &lt;/tx&gt;&lt;tx&gt;e&lt;/tx&gt;lements</source>
+      </trans-unit>
+      <trans-unit id="29" resname="990f7a59fb245cb2501a3f3b0897e3af">
+        <source>Can be &lt;tx&gt;aggregated&lt;/tx&gt;…</source>
+      </trans-unit>
+      <trans-unit id="30" resname="4a58f4c0f9257cf3493a97a592159945">
+        <source>  1</source>
+      </trans-unit>
+      <trans-unit id="31" resname="eb3f9903e95669ed9012f2e1f9257d0d">
+        <source>  4</source>
+      </trans-unit>
+      <trans-unit id="32" resname="0ca6c20e6dba5e6598d9a778d4031bfc">
+        <source>  3</source>
+      </trans-unit>
+      <trans-unit id="33" resname="54aee1c3cb6106823cca2bdadb5a8729">
+        <source>  2</source>
+      </trans-unit>
+      <trans-unit id="34" resname="70ae554a380e09071fdfdfa314c67e31">
+        <source>An important feature of Data Elements is that they can &lt;tx&gt;be aggregated &lt;/tx&gt;in various ways. The data elements captured in DHIS2 representing numerical values</source>
+      </trans-unit>
+      <trans-unit id="35" resname="262aa660ed1fa8fbfc293d202d9cb083">
+        <source>Can &lt;tx&gt;be &lt;/tx&gt;&lt;tx&gt;summed&lt;/tx&gt;&lt;tx&gt; over&lt;/tx&gt; time…</source>
+      </trans-unit>
+      <trans-unit id="36" resname="914ff1aa416ea635f18fa1531d1176a0">
+        <source>=</source>
+      </trans-unit>
+      <trans-unit id="37" resname="3afcdbfeb6ecfbdd0ba628696e3cc163">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="38" resname="7693e302dc09b57483d26522ef25feb4">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit id="39" resname="cdee9bf40a070d58d14dfa3bb61e0032">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit id="40" resname="247730f9d0d2eaad265a470e32aa0cdf">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit id="41" resname="a7d6fcfc537b66a63062cd141ac8bd87">
+        <source>10</source>
+      </trans-unit>
+      <trans-unit id="42" resname="be6877cde268bae72d524329f944cfbe">
+        <source>can be summed over time, </source>
+      </trans-unit>
+      <trans-unit id="43" resname="fa5d2af83bd824b15dc9afc1515efa13">
+        <source>… &lt;tx&gt;averaged&lt;/tx&gt;&lt;tx&gt; over&lt;/tx&gt; time…</source>
+      </trans-unit>
+      <trans-unit id="44" resname="df7b5e380fc7704630d35117ff5fede4">
+        <source>2.5</source>
+      </trans-unit>
+      <trans-unit id="45" resname="84e934d5af8f8b6dec8c6a743b6b4414">
+        <source>averaged over time (such as from monthly to quarterly values)</source>
+      </trans-unit>
+      <trans-unit id="46" resname="f64be5eef68442a8f50cf535b92ad3e4">
+        <source>Country</source>
+      </trans-unit>
+      <trans-unit id="47" resname="da70eb9be2b267b74b7a47f5840af7a2">
+        <source>Provinces</source>
+      </trans-unit>
+      <trans-unit id="48" resname="5478bd686f4a77138dc26a887a5d233a">
+        <source>Distric&lt;tx&gt;t&lt;/tx&gt;&lt;tx&gt;s&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="49" resname="beed44dfdf514240cb26cec17e6941fb">
+        <source>&lt;tx&gt;Facilities&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="50" resname="016ce7cd3f0850d6c33696df9f9440d5">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit id="51" resname="8572f81f02517e0c1f0d9b93e407697a">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit id="52" resname="5878d2cab3c6e53c4a1a9526c3df451d">
+        <source>9</source>
+      </trans-unit>
+      <trans-unit id="53" resname="26101031d5115f57d3e8c34f2ac1f741">
+        <source>15</source>
+      </trans-unit>
+      <trans-unit id="54" resname="41a51e6f53b03ff2f11c5f8464ef315a">
+        <source>n</source>
+      </trans-unit>
+      <trans-unit id="55" resname="33134cf15b6dca901a984b03a2b42b14">
+        <source>… and &lt;tx&gt;counted&lt;/tx&gt;&lt;tx&gt; up&lt;/tx&gt;…</source>
+      </trans-unit>
+      <trans-unit id="56" resname="61f20ce093d2612248fb8d3072c82790">
+        <source>and counted (or aggregated) up the organisational hierarchy ( such as from facility to district values).</source>
+      </trans-unit>
+      <trans-unit id="57" resname="8c77d775174a9ba3ef762c7414f5df23">
+        <source>Can be &lt;tx&gt;disaggregated&lt;/tx&gt;…</source>
+      </trans-unit>
+      <trans-unit id="58" resname="93a592701954b15d5cbb34ba9983b713">
+        <source>Data elements can &lt;tx&gt;also be &lt;/tx&gt;disaggregated. </source>
+      </trans-unit>
+      <trans-unit id="59" resname="afa9e271f50a5343e0ae1a609f3a9716">
+        <source>Aggregation and dissagregation</source>
+      </trans-unit>
+      <trans-unit id="60" resname="6e9116f840afbd926b8e9ca82797809c">
+        <source>Dissagregate</source>
+      </trans-unit>
+      <trans-unit id="61" resname="d0f00700c3e63cddad04466675ec4b9c">
+        <source>Aggregate</source>
+      </trans-unit>
+      <trans-unit id="62" resname="e470262730cedf777093021238e11142">
+        <source>Adding things together</source>
+      </trans-unit>
+      <trans-unit id="63" resname="34ffff498d09fbdf8d96bd056a06a703">
+        <source>Separate it into its components parts</source>
+      </trans-unit>
+      <trans-unit id="64" resname="65e7d018a7c9b1f1cdd8b98129932f25">
+        <source>While aggregation means adding &lt;tx&gt;things together, &lt;/tx&gt;&lt;tx&gt;to disaggregate something means to separate &lt;/tx&gt;it into its component parts. </source>
+      </trans-unit>
+      <trans-unit id="65" resname="34fdff521d9ac4e3c69936df0319b1e0">
+        <source>Examples of dissagregation</source>
+      </trans-unit>
+      <trans-unit id="66" resname="a06c7d3410adb35cee12c46df5756f11">
+        <source>&lt; 1</source>
+      </trans-unit>
+      <trans-unit id="67" resname="467a2d4e2c8271ed384793a774e7c286">
+        <source>1 – 4</source>
+      </trans-unit>
+      <trans-unit id="68" resname="4da9c3df2a83bae1f3aa34e647161fab">
+        <source>&gt; 5</source>
+      </trans-unit>
+      <trans-unit id="69" resname="ef9f154d9b1682716807499db62da285">
+        <source>Male</source>
+      </trans-unit>
+      <trans-unit id="70" resname="46c231f173fc187d02a4a160e05d580a">
+        <source>Female</source>
+      </trans-unit>
+      <trans-unit id="71" resname="058bc557e13685b52329658043ed282f">
+        <source>Age and sex are common examples of disaggregations applied to data elements. </source>
+      </trans-unit>
+      <trans-unit id="72" resname="b394ac17143c1b406e4b9219f9850fb3">
+        <source>Example of data dissagregation by sex</source>
+      </trans-unit>
+      <trans-unit id="73" resname="847689320ab5aeb27844619d16a9f610">
+        <source>Lao PDR </source>
+      </trans-unit>
+      <trans-unit id="74" resname="bc32171ed65d7f6e99f4ba9b0fc65f81">
+        <source>Data</source>
+      </trans-unit>
+      <trans-unit id="75" resname="b9a228ce7501d5f4598ca05463284cb1">
+        <source>Malaria Cases RDT positive</source>
+      </trans-unit>
+      <trans-unit id="76" resname="1305815ef1375a4b72432143c1fa7226">
+        <source>Period/Sex</source>
+      </trans-unit>
+      <trans-unit id="77" resname="e209dc36129135d5024fdd14633cf5a7">
+        <source>Male </source>
+      </trans-unit>
+      <trans-unit id="78" resname="f45bce00d721741c76e555d1e0d701ce">
+        <source>2017</source>
+      </trans-unit>
+      <trans-unit id="79" resname="723249194c053f1311c503c2f49f757d">
+        <source>26 868 </source>
+      </trans-unit>
+      <trans-unit id="80" resname="a2df9c511475f65866ad4aca5900d129">
+        <source>4 981</source>
+      </trans-unit>
+      <trans-unit id="81" resname="4ac7776cf86374f6a8cbbd1c02f5528d">
+        <source>2018</source>
+      </trans-unit>
+      <trans-unit id="82" resname="70b15160e2cce403480c0a0288a6cafb">
+        <source>11 358   </source>
+      </trans-unit>
+      <trans-unit id="83" resname="9d9eb11aab90534803ea9b312d9cebf0">
+        <source>2 788</source>
+      </trans-unit>
+      <trans-unit id="84" resname="4339ad3cb5cdfc6c1f32a76768ceb574">
+        <source>2019</source>
+      </trans-unit>
+      <trans-unit id="85" resname="a0e28e53473772d99e8406686164590f">
+        <source>5 800</source>
+      </trans-unit>
+      <trans-unit id="86" resname="fb121fc41ce107244c3818c2f542f41c">
+        <source>2 523</source>
+      </trans-unit>
+      <trans-unit id="87" resname="2726d68fefc77d1a17e18e6e71078cf5">
+        <source>2020</source>
+      </trans-unit>
+      <trans-unit id="88" resname="4c721e022b5a32ee69362c96c983caa3">
+        <source>5 655</source>
+      </trans-unit>
+      <trans-unit id="89" resname="d006bd273e3c8ba60959cf684ce5d4e5">
+        <source>2 163</source>
+      </trans-unit>
+      <trans-unit id="90" resname="6cdf79bd244e833232a2d650b070039f">
+        <source>Here, we disaggregated the data element &quot;Malaria cases RDT positive&quot; by sex, so that we can see the number of Male and Female cases as separate values. This type of data disaggregation is very useful for data analysis because it can reveal if there are any differences between sex or age groups. </source>
+      </trans-unit>
+      <trans-unit id="91" resname="941b43973ee3eee1053ec56228cc70ae">
+        <source> Indicators vs data elements</source>
+      </trans-unit>
+      <trans-unit id="92" resname="1932565e3bbc0ea0e269a7f4a2c38ed8">
+        <source>&lt;tx&gt;C&lt;/tx&gt;&lt;tx&gt;ollected&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="93" resname="aa5b9a941c864fc8d0b9d4e94cc47453">
+        <source>VS.</source>
+      </trans-unit>
+      <trans-unit id="94" resname="cf37fd4afb1e40c8253152c792ce2888">
+        <source>&lt;tx&gt;Data &lt;/tx&gt;&lt;tx&gt;elements&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="95" resname="9872484085a9b531ad0555d132c38e3e">
+        <source>&lt;tx&gt;“Raw&lt;/tx&gt;&lt;tx&gt;” values&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="96" resname="db51dee2bfb0b1002dc863b2308b93fe">
+        <source>Ex: 	Number &lt;tx&gt;of immunized &lt;/tx&gt;&lt;tx&gt;i&lt;/tx&gt;ndividuals</source>
+      </trans-unit>
+      <trans-unit id="97" resname="5a5d8fd4b9366a5506a91f827e7660c8">
+        <source>Calculated</source>
+      </trans-unit>
+      <trans-unit id="98" resname="29b153ee60541b2b3c440d1d3d1a5b82">
+        <source>Ex&lt;tx&gt;: Immunization c&lt;/tx&gt;&lt;tx&gt;overage &lt;/tx&gt;&lt;tx&gt;r&lt;/tx&gt;ate</source>
+      </trans-unit>
+      <trans-unit id="99" resname="89a66695fe94a399a0fb2b2af7210041">
+        <source>Indicators</source>
+      </trans-unit>
+      <trans-unit id="100" resname="bc45e5e3c76ce3d35d9855c523c5adf3">
+        <source>Now &lt;tx&gt;let's &lt;/tx&gt;&lt;tx&gt;talk about &lt;/tx&gt;&lt;tx&gt;indicators, which are used in DHIS2 data &lt;/tx&gt;&lt;tx&gt;analysis. What &lt;/tx&gt;&lt;tx&gt;are indicators and how &lt;/tx&gt;&lt;tx&gt;do they differ &lt;/tx&gt;&lt;tx&gt;from data elements&lt;/tx&gt;&lt;tx&gt;? While &lt;/tx&gt;&lt;tx&gt;data elements &lt;/tx&gt;&lt;tx&gt;are “&lt;/tx&gt;&lt;tx&gt;raw” values that &lt;/tx&gt;&lt;tx&gt;are collected&lt;/tx&gt;&lt;tx&gt;, indicators are values that &lt;/tx&gt;&lt;tx&gt;are calculated&lt;/tx&gt;&lt;tx&gt;. To illustrate the difference, an example of a Data Element would be &lt;/tx&gt;&lt;tx&gt;a number &lt;/tx&gt;&lt;tx&gt;of &lt;/tx&gt;&lt;tx&gt;Immunised&lt;/tx&gt;&lt;tx&gt; Individuals, while indicator would &lt;/tx&gt;&lt;tx&gt;be Immunisation &lt;/tx&gt;Coverage Rate that is calculated based on a defined formula. </source>
+      </trans-unit>
+      <trans-unit id="101" resname="670673405a62561bb826c79fa7d81e87">
+        <source>Example of &lt;tx&gt;an indicator: immunization &lt;/tx&gt;&lt;tx&gt;c&lt;/tx&gt;overage</source>
+      </trans-unit>
+      <trans-unit id="102" resname="100d756b778f8e64b3e7872a90e91652">
+        <source>Immunization&lt;tx&gt; coverage&lt;/tx&gt;:</source>
+      </trans-unit>
+      <trans-unit id="103" resname="bc255e15eb3daa9026fc4a5a9942ddcc">
+        <source>P&lt;tx&gt;ercentage&lt;/tx&gt;&lt;tx&gt; of individuals &lt;/tx&gt;&lt;tx&gt;vaccinated Captured &lt;/tx&gt;&lt;tx&gt;as &lt;/tx&gt;&lt;tx&gt;doses given&lt;/tx&gt;&lt;tx&gt; in a &lt;/tx&gt;&lt;tx&gt;target population &lt;/tx&gt;of all eligible persons.</source>
+      </trans-unit>
+      <trans-unit id="104" resname="d22f5df596d158fe4889618f9be2c06f">
+        <source>64%</source>
+      </trans-unit>
+      <trans-unit id="105" resname="3aec3148a4d4e1fd5a4223e8bff6d035">
+        <source>Target population</source>
+      </trans-unit>
+      <trans-unit id="106" resname="94916469d3047ab316e1a98578fc4cc9">
+        <source>The immunization &lt;tx&gt;coverage represents &lt;/tx&gt;&lt;tx&gt;a percentage &lt;/tx&gt;&lt;tx&gt;of individuals vaccinated captured as doses &lt;/tx&gt;&lt;tx&gt;given in &lt;/tx&gt;a target population of all eligible persons.</source>
+      </trans-unit>
+      <trans-unit id="107" resname="6a9253d564831910194157ed806c07b8">
+        <source>P&lt;tx&gt;ercentage&lt;/tx&gt;&lt;tx&gt; of individuals &lt;/tx&gt;vaccinated </source>
+      </trans-unit>
+      <trans-unit id="108" resname="904036d5ee4d39f0d07a6efc5e098be7">
+        <source>C&lt;tx&gt;aptured &lt;/tx&gt;&lt;tx&gt;as &lt;/tx&gt;&lt;tx&gt;doses given &lt;/tx&gt;&lt;tx&gt;in a &lt;/tx&gt;&lt;tx&gt;target population &lt;/tx&gt;of all eligible persons.</source>
+      </trans-unit>
+      <trans-unit id="109" resname="61cbc80585b5f32b9bc9a818bc51fccc">
+        <source>Indicator</source>
+      </trans-unit>
+      <trans-unit id="110" resname="8772a525252527a4a959d36195fef78e">
+        <source>Data element </source>
+      </trans-unit>
+      <trans-unit id="111" resname="2b8623ff93612f5152edfd95ade4f843">
+        <source>Here, the indicator is Immunisation coverage,  while doses given and target population are both data elements in DHIS2. Now, let’s put all these elements together in a mathematical formula.</source>
+      </trans-unit>
+      <trans-unit id="112" resname="dbe173c8a33a90084e6bfb003d608a89">
+        <source>target population</source>
+      </trans-unit>
+      <trans-unit id="113" resname="2a760f09b517b75120794fadd4af6b11">
+        <source>doses given</source>
+      </trans-unit>
+      <trans-unit id="114" resname="bb39b138360b09df1571fa3c642d1630">
+        <source>&lt;tx&gt;Example of &lt;/tx&gt;&lt;tx&gt;an indicator: common formula&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="115" resname="2386f70b5cf6b7aa74189e5a7fe6a2d6">
+        <source>&lt;tx&gt;DONE&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="116" resname="e3454a06bec778753e27636d72ed8ee8">
+        <source>Immunization coverage</source>
+      </trans-unit>
+      <trans-unit id="117" resname="c60e6a272e58e79c813bc24ec394412e">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit id="118" resname="6183bcbc6a0c54d44f910e532e96896d">
+        <source>100</source>
+      </trans-unit>
+      <trans-unit id="119" resname="7bec497480c47ba85562c421e32330e1">
+        <source>Numerator</source>
+      </trans-unit>
+      <trans-unit id="120" resname="efce75a5f0e5e19ab371601d24018841">
+        <source>Factor</source>
+      </trans-unit>
+      <trans-unit id="121" resname="9ea2091e4f7dff6732fab9c92bfccb82">
+        <source>Denominator</source>
+      </trans-unit>
+      <trans-unit id="122" resname="486185fa3092888ae18e0881b868d419">
+        <source>&lt;tx&gt;Here in this formula, we can see that immunization coverage is calculated by dividing doses given--the numerator--by the target population--the denominator--and multiplied by a factor of 100 to get a percentage&lt;/tx&gt;&lt;tx&gt;. &lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="123" resname="cf7060e11c5c03f7620101cb8832472d">
+        <source>Example of an indicator: common formula</source>
+      </trans-unit>
+      <trans-unit id="124" resname="5b4bc5d474ca2215edbc33e6867103c1">
+        <source>Indicator </source>
+      </trans-unit>
+      <trans-unit id="125" resname="2a7010221f39326490669da0a555673b">
+        <source>Numerator </source>
+      </trans-unit>
+      <trans-unit id="126" resname="13363586b64263b0770ced03570ca42b">
+        <source>Denominator </source>
+      </trans-unit>
+      <trans-unit id="127" resname="8495d9a7d0da48d3434a2f1a2653530b">
+        <source>&lt;tx&gt;Similar formulas can be used for calculating many other indicators in DHIS2. &lt;/tx&gt;&lt;tx&gt;In typical cases, these formulas consist of a numerator, denominator and factor of some kind. &lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="128" resname="d1391e9593d6c9a4dec2d51cf9cfff18">
+        <source>Example of &lt;tx&gt;an indicator&lt;/tx&gt;&lt;tx&gt;: &lt;/tx&gt;Confirmed malaria cases</source>
+      </trans-unit>
+      <trans-unit id="129" resname="94d07fce3e039779ad539f8b7dfa7394">
+        <source>Confirmed cases of malaria     =</source>
+      </trans-unit>
+      <trans-unit id="130" resname="17f3b6cf1ab50bdf34d5d9dea9451452">
+        <source> RDT* </source>
+      </trans-unit>
+      <trans-unit id="131" resname="02dbcac5bd353a37914fc5abdee6b056">
+        <source>Microscopy </source>
+      </trans-unit>
+      <trans-unit id="132" resname="a542d95139177ad45701585fa0f033b9">
+        <source>&lt;tx&gt; RDT* =  &lt;/tx&gt;&lt;tx&gt;Rapid Diagnostic Testing&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="133" resname="85bff1c9750d36198bc949336621b906">
+        <source>Indicator calculations can also give totals, such as the indicator of number of Confirmed cases of Malaria is calculated as a sum of cases diagnosed by various methods (such as RDT or rapid diagnostic testing and Microscopy).</source>
+      </trans-unit>
+      <trans-unit id="134" resname="4b78db8ecd1efcdfeb1a2771918a08c2">
+        <source>Advantages &lt;tx&gt;of &lt;/tx&gt;&lt;tx&gt;using &lt;/tx&gt;&lt;tx&gt;i&lt;/tx&gt;ndicators </source>
+      </trans-unit>
+      <trans-unit id="135" resname="d1a378fdb6ae88849b584290f8f53394">
+        <source> %</source>
+      </trans-unit>
+      <trans-unit id="136" resname="bc4f72d9bcb14bb797e968dca03b1794">
+        <source>Enables comparison of health performance:</source>
+      </trans-unit>
+      <trans-unit id="137" resname="ac84e2a62f7b82d8d3d070ccdad659db">
+        <source>Across geographical areas</source>
+      </trans-unit>
+      <trans-unit id="138" resname="6f9ff3bcbbc23ad4111350b7f9de010e">
+        <source>With different population sizes</source>
+      </trans-unit>
+      <trans-unit id="139" resname="da0c947d3b1dcc9a40f666d2a42ceb65">
+        <source>Using indicators &lt;tx&gt;that are calculated &lt;/tx&gt;&lt;tx&gt;using population data enables &lt;/tx&gt;&lt;tx&gt;comparison of health &lt;/tx&gt;&lt;tx&gt;performance across &lt;/tx&gt;&lt;tx&gt;geographical areas &lt;/tx&gt;&lt;tx&gt;with different &lt;/tx&gt;&lt;tx&gt;population sizes, which is often more useful then comparing raw data&lt;/tx&gt;. </source>
+      </trans-unit>
+      <trans-unit id="140" resname="6f5ed160f4fdb3019fdd3aea407080a5">
+        <source>Data elements and indicators</source>
+      </trans-unit>
+      <trans-unit id="141" resname="f8140bd8593d84244f56dd0bbc4c721e">
+        <source>&gt;</source>
+      </trans-unit>
+      <trans-unit id="142" resname="948303c3dc3a88623aaa3a3fd431849a">
+        <source>District A</source>
+      </trans-unit>
+      <trans-unit id="143" resname="a884ffee8bb44cb827129edb867e59f2">
+        <source>District B</source>
+      </trans-unit>
+      <trans-unit id="144" resname="874ebe6768ab65016ffa3eebfb22297e">
+        <source>Population </source>
+      </trans-unit>
+      <trans-unit id="145" resname="f71dbd5ebcd54463755f9f114c7b8818">
+        <source>Doses given </source>
+      </trans-unit>
+      <trans-unit id="146" resname="cadcfa2749b0cfb51d88837d4a934ad1">
+        <source>Coverage</source>
+      </trans-unit>
+      <trans-unit id="147" resname="ee74f490b62cb658f10786c17ecb209b">
+        <source>(Data Element)</source>
+      </trans-unit>
+      <trans-unit id="148" resname="fa85c95405a9b6b7079de9f0f2c6f381">
+        <source>(Indicator)</source>
+      </trans-unit>
+      <trans-unit id="149" resname="126ef1328bcc89c98f3c78b3a0f07356">
+        <source>3&lt;tx&gt;0&lt;/tx&gt;%</source>
+      </trans-unit>
+      <trans-unit id="150" resname="671e395da7ee8e234fc44bbd23742981">
+        <source>50%</source>
+      </trans-unit>
+      <trans-unit id="151" resname="2c5ad07d49abde0f13491e787ddb757b">
+        <source>&lt;</source>
+      </trans-unit>
+      <trans-unit id="152" resname="691513953ea19e01a0e7881a339ce106">
+        <source>20</source>
+      </trans-unit>
+      <trans-unit id="153" resname="407193d01738ec57d5f1b49802e95351">
+        <source>In this table,  we see both the data element values 1(Doses Given) and 2population  and indicator values 3(Coverage) for two districts with different population size. Comparing the two districts, we can see that District A has a  higher number of doses given than District B. But if we look at the coverage rate instead, which takes the target population's size into account, a different picture emerges.  District B  has a coverage of 50 %, while District A has only 30 % coverage. It means that District B has a better record in immunizing their target population despite having the lowest absolute number of doses given.</source>
+      </trans-unit>
+      <trans-unit id="154" resname="1300f86974cafc2d65eb1f082a26bdf1">
+        <source>Summary</source>
+      </trans-unit>
+      <trans-unit id="155" resname="4329e9f4e31732cd754bc1dc0c194b50">
+        <source>&lt;tx&gt;Data &lt;/tx&gt;&lt;tx&gt;Elements&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="156" resname="ce212d400fe7d9305ad8ed4ac9a9ad5b">
+        <source> x Factor</source>
+      </trans-unit>
+      <trans-unit id="157" resname="43f71ddc73e8ce7097f4f76315b60256">
+        <source>&lt;tx&gt;Collected&lt;/tx&gt;&lt;tx&gt; data&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="158" resname="cc4d8093ccc6f3c8c7ddcf8babadfc5a">
+        <source>&lt;tx&gt;Cases&lt;/tx&gt;&lt;tx&gt; of a disease&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="159" resname="d7b3bd8ca1c9eff00083d7da4f80362c">
+        <source>&lt;tx&gt;Population&lt;/tx&gt;&lt;tx&gt; data&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="160" resname="2d335c5de94e50880dadefc617128dd4">
+        <source>&lt;tx&gt;Number&lt;/tx&gt;&lt;tx&gt; of hospital beds&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="161" resname="7ab56e6747978f494d98709757a0c63c">
+        <source>&lt;tx&gt;Calculated&lt;/tx&gt;&lt;tx&gt; values&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="162" resname="1152fbd2a00c667c673cc7ce7058232b">
+        <source>Using two or more data elements</source>
+      </trans-unit>
+      <trans-unit id="163" resname="e5c91d12ef04ad5892cbe9913f0465b5">
+        <source>&lt;tx&gt;Immunization &lt;/tx&gt;&lt;tx&gt;coverage&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="164" resname="93e34756f27d1c148efd716c579277e0">
+        <source>&lt;tx&gt;Maternal mortality &lt;/tx&gt;&lt;tx&gt;rate&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="165" resname="6176c8befb4213bfc84ca629c926e2ad">
+        <source>&lt;tx&gt;Total&lt;/tx&gt;&lt;tx&gt; of data elements&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="166" resname="a849dcee81439da9491cdebff65fe035">
+        <source>Let's &lt;tx&gt;quickly review the main features &lt;/tx&gt;&lt;tx&gt;of Data &lt;/tx&gt;&lt;tx&gt;Elements &lt;/tx&gt;&lt;tx&gt;and Indicators &lt;/tx&gt;&lt;tx&gt;and &lt;/tx&gt;&lt;tx&gt;the differences &lt;/tx&gt;&lt;tx&gt;between them. Both Data Elements and Indicators &lt;/tx&gt;&lt;tx&gt;represent “&lt;/tx&gt;&lt;tx&gt;what” is being measured. Data elements often &lt;/tx&gt;&lt;tx&gt;represent collected &lt;/tx&gt;&lt;tx&gt;data, usually a raw count , such &lt;/tx&gt;&lt;tx&gt;as confirmed &lt;/tx&gt;&lt;tx&gt;cases of a disease&lt;/tx&gt;&lt;tx&gt;, population &lt;/tx&gt;&lt;tx&gt;data, or &lt;/tx&gt;&lt;tx&gt;a number &lt;/tx&gt;&lt;tx&gt;of &lt;/tx&gt;&lt;tx&gt;hospital beds. &lt;/tx&gt;&lt;tx&gt;On the other hand, indicators refer to values that are not entered directly, but instead &lt;/tx&gt;&lt;tx&gt;are calculated using &lt;/tx&gt;&lt;tx&gt;two or more data elements. Typically, the calculation includes &lt;/tx&gt;&lt;tx&gt;a numerator&lt;/tx&gt;&lt;tx&gt;, denominator and a factor such as in &lt;/tx&gt;&lt;tx&gt;the calculation immunization &lt;/tx&gt;&lt;tx&gt;coverage &lt;/tx&gt;&lt;tx&gt;or maternal &lt;/tx&gt;&lt;tx&gt;mortality rate. They can also &lt;/tx&gt;&lt;tx&gt;be a total &lt;/tx&gt;of multiple data elements added together, like we saw when we discussed the number of confirmed malaria cases. </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

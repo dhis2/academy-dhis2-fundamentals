@@ -1,0 +1,48 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c044a5f00bd055d0f00d-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="4fa0802cbe6aa7032222e71b7d393633">
+        <source>Which of the following statements about Indicators are true:</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="ee5f91d039d0911faa28e0683f332359">
+        <source>(Select 2 options)</source>
+      </trans-unit>
+      <trans-unit id="5" resname="94d2e42634cb5e7eb364af08ff61a687">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. They are raw data values  &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="6e786b034dec966db384449e07e3349c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. They are collected &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="d059b5cc7a44ae966d74d4bc378495a3">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. They are calculated values &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="d2a3c2c241347cf0eb958b93589a65ba">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. They are often useful for comparison of health performance across geographical areas with very disparate target population sizes&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="02b76696cf146ee9c1935f7e2b17c657">
+        <source> Indicators refer to values that are not entered directly, but instead are calculated using one or more data elements.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

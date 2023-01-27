@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-87fd7be3be4b321c8dcc-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="f2da9be6900fbf0c1ac463532fffed84">
+        <source>Which 2014 outbreak did the HISP network assist in with deploying DHIS2 in Liberia?    </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="a9952cf02d39914c6a3f31ca31ec2e2f">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. MERS &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="2ad41f336771665c8d501b58f5e23469">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. H1N1&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="c4401b344cb0f17dd3df8fc184e7e04c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Ebola&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="295b77a6a8081fd5bafe39f86e2e0063">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Measles &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="dd72a19237d462ee0281a1d5d2f71de0">
+        <source>The HISP network assisted health authorities in Liberia in deploying DHIS2 for the Ebola outbreak response. The initial Tracker model deployed there have since been expanded upon for case-based surveillance of other diseases.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

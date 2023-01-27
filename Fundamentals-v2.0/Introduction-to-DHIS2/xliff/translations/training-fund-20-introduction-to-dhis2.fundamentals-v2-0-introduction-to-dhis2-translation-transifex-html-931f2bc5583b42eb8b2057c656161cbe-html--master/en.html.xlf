@@ -1,0 +1,36 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-931f2bc5583b42eb8b2057c656161cbe-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="5d1907de161d6f6788d0cd089f2cd10d">
+        <source>Data review</source>
+      </trans-unit>
+      <trans-unit id="2" resname="aca21909a753aad426c1555d7ad4c22f">
+        <source>Now that you understand how data are entered into DHIS2, let’s see &lt;strong&gt;how data are reviewed&lt;/strong&gt; to ensure their quality</source>
+      </trans-unit>
+      <trans-unit id="3" resname="0f2b4f93fa3ae11055fad38525e57656">
+        <source>In this video, you will discover &lt;strong&gt;some of the tools available in DHIS2 that perform quality checks on the data entered in the system&lt;/strong&gt;. This quality review is key to having reliable data for analysis and informed decision-making. Click the play button below to start</source>
+      </trans-unit>
+      <trans-unit id="4" resname="84433574035940e92cd837543c50f34d">
+        <source>Key concepts</source>
+      </trans-unit>
+      <trans-unit id="5" resname="be4238786cc082393835df339e350884">
+        <source>Data quality</source>
+      </trans-unit>
+      <trans-unit id="6" resname="5cc8564bd9e6ec007332b9c6a3889c24">
+        <source>Validation rule analysis</source>
+      </trans-unit>
+      <trans-unit id="7" resname="953aad0eea27061edbf99bdf61dfc2e0">
+        <source>Standard deviation outlier analysis</source>
+      </trans-unit>
+      <trans-unit id="8" resname="c702f16142a726655872afc12455f70d">
+        <source>Minimum maximum outlier analysis</source>
+      </trans-unit>
+      <trans-unit id="9" resname="625952523dd997579edc1b1526bb2be0">
+        <source>Follow-up analysis</source>
+      </trans-unit>
+      <trans-unit id="10" resname="8dc38146f0508b9347e1e625f6051a8c">
+        <source>WHO Data Quality Tool</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

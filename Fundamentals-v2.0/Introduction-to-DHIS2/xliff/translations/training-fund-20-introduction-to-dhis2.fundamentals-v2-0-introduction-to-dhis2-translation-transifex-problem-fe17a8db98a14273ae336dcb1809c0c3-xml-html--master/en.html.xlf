@@ -1,0 +1,32 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fe17a8db98a14273ae336dcb1809c0c3-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="c59740c4f5483d27fc001861e761eadc">
+        <source>Organisation units determine where data can be captured.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="dbffd20747e935da3797c3c26dca38bc">
+        <source>True</source>
+      </trans-unit>
+      <trans-unit id="5" resname="c8e473c07c8fd58d819693d1a3da019c">
+        <source>False</source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="c3e657878bda89803f889c238c553475">
+        <source>Organisation units determine where data are captured.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

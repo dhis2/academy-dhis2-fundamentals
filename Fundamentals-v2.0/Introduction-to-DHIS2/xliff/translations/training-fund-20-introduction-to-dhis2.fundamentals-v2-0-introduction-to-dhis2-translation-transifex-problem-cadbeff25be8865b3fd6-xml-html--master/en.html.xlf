@@ -1,0 +1,48 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-cadbeff25be8865b3fd6-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="255c011844b730eb93503d0a1ce98041">
+        <source>Which of the following would be best classified as data elements in DHIS2?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="1ca658cb40abfeef27da3e7593eb2676">
+        <source>(Select 2 options)  </source>
+      </trans-unit>
+      <trans-unit id="5" resname="dc54ecd09a29825f8615139c410105d1">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Number of available hospital beds&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="f316a641058fd81c42e7d1ead3a8f649">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Maternal mortality ratio (per 100,000)&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="7d79181c1a6985b3e9507937f8a54082">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Number of positive malaria cases &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="cc2a9f03dfa5df315e2679b08ecc6cbf">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Oral polio vaccine coverage  &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="11e21cdd98b44fad4a6dc27ff95fc79b">
+        <source>“Number of available hospital beds” and “Number of positive malaria cases” are considered data elements as they represent a simple count and can be collected directly. On the other hand, indicator values are not collected like the data element values, but are calculated based on defined formulas. </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

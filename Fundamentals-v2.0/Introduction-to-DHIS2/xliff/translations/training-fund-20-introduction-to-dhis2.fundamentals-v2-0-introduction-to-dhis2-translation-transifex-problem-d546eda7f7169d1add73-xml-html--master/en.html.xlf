@@ -1,0 +1,56 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-d546eda7f7169d1add73-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="7ec4da02ec0cb3c67cad0378074fe366">
+        <source> Which of the following statements are true about dashboards in DHIS2? </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="3e810b220dd0e2161f5dc972ebf8e156">
+        <source> (Select 3 options) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="b118e6f9732dc9bf4400e1a018aaad18">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Dashboards provide quick access to different analytical outputs (tables, maps, charts)&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="79eb29603a1101ad91b7b65787c112d2">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. You can have different dashboards with collections of objects based on a program &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="ea4e6641f1903104a29ef0ed74fa1f76">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. You can make dashboards public or private but you are not able to share a dashboard with specific users or user groups &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="ea881404a2a665ccd8fd7927974bfbc0">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. All users within a country see the same dashboards&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="d2a336022f33cc2c80232c7aa89311d3">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;E. You can make interpretations of the outputs from the Dashboard and discuss them with other users
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="58f1b06132655c40a2b4419972661052">
+        <source>Dashboard is typically the first thing users see when they log into DHIS2 so it’s especially useful if users need quick access to information. Typically, a dashboard contains a collection of outputs regarding a specific topic or a program. The data that are shown in a user’s dashboard depends on their own level of access. Interpretations can be made through the dashboard.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

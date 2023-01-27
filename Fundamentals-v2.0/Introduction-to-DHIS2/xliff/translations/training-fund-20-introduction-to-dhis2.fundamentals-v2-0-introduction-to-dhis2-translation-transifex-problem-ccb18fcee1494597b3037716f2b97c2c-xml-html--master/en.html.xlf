@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ccb18fcee1494597b3037716f2b97c2c-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="17ccd74b57f8a90e97f6195b94b4c9e8">
+        <source>DHIS2 is most similar to a:</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="990d780594372a02da56d2a21825976a">
+        <source>(Select 1 option)</source>
+      </trans-unit>
+      <trans-unit id="5" resname="74288a958acedd3fc0e159f9acb16631">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Data port&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="146977dbbede209243dfd03e21443a5c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Data warehouse&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="34e42978589313ec9e319831fe233a8b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Data driveway&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="1f2534b49f793e7bd1026eaf5752a41c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Data highway &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="302b9d8bbc1baa65989d83eda67bc248">
+        <source>Data warehouse is correct. DHIS2 works as a centralized data warehouse capable of capturing data from a number of different sources and devices including direct entry through the web or an Android device, SMS, and even other data sources such as spreadsheets or other electronic systems.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

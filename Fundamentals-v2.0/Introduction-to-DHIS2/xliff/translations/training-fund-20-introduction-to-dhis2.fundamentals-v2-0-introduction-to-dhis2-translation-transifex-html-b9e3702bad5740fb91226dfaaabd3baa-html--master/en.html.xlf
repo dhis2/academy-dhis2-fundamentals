@@ -1,0 +1,30 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b9e3702bad5740fb91226dfaaabd3baa-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="4dc28cdcd2ac3a03b948ceff959de9be">
+        <source>Data dissemination &amp;amp; feedback</source>
+      </trans-unit>
+      <trans-unit id="2" resname="b8a7df7eb59864119c00f869f8631575">
+        <source>Now you know how data are entered into DHIS2, how the quality of the data is checked, and the different outputs and visualizations that are available on the platform, but &lt;strong&gt;how do we share the data that we have collected?&lt;/strong&gt;</source>
+      </trans-unit>
+      <trans-unit id="3" resname="15d5f406e0525e119a4e9a813ab7173d">
+        <source>In the conclusion of this series of videos, you'll discover how to share data outputs with other users and discuss findings and interpretations with them. Click the play button below to start.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="84433574035940e92cd837543c50f34d">
+        <source>Key concepts</source>
+      </trans-unit>
+      <trans-unit id="5" resname="4ca3e0c2b0c2acd46e857dadb0059514">
+        <source>Dashboard</source>
+      </trans-unit>
+      <trans-unit id="6" resname="345c6634cd77596443b428b2192de275">
+        <source>Descriptions</source>
+      </trans-unit>
+      <trans-unit id="7" resname="d3000011fcdc436bba53a002d04ead98">
+        <source>Interpretations</source>
+      </trans-unit>
+      <trans-unit id="8" resname="20c36cf512d6ba83e2269de2192d2170">
+        <source>Users' level of access to DHIS2</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

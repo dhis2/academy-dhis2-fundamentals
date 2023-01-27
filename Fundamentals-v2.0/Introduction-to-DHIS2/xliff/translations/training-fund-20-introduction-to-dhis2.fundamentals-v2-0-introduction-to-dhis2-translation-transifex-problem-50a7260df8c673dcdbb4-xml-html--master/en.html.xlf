@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-50a7260df8c673dcdbb4-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="64f9415969cca0b152a69f6ab867973c">
+        <source>  HISP groups are the most important source of requirements of DHIS2 features that are then implemented by the HISP UiO software development team.  </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="adb914d2d772476bda77204c88c07ba0">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. True &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="00e19deae45c32a2cf0dd28cee28573b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. False  &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="e09d1a5739ef5ed0912d171bffea24bc">
+        <source>While software development is led by HISP UiO,  the HISP groups are the most important source of requirements for software features and field testing of DHIS2 releases, due to their close work with country governments.
+
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

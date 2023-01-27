@@ -1,0 +1,43 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-cee86385fbad18df93f4-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="77b20e4f75e99707e66a66dd4505d07b">
+        <source> As a part of the COVID-19 vaccination campaign, a health facility needs a summary of the number of doses received and given on a daily basis. What data model should be used to enter these data in DHIS2?   </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="e4aa37dc8abbbdca6a27551f08d4c4a1">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Aggregate&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="f08643f6919f11ebd6f47eb91f734c12">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Events&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="9042a8459758d6833a112bfdcbb8cea6">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Tracker&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="8" resname="3948ba482b3cdc2bcf3def16bbf185fd">
+        <source>Aggregate data allows you to collect and enter numerical data directly into DHIS2 and then get reports with the summary of those data.
+
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-795807d7dbcfa8acdea5-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="014b31d44e709ac4eae74d5a7123506b">
+        <source>  If you want to find detailed information about each of the DHIS2 features you can do it in:  </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="1ab1b13907038ecc716f5dd07b1e53c9">
+        <source> (Select 1 option)  </source>
+      </trans-unit>
+      <trans-unit id="5" resname="ff33f11ff34e0220b93e07d05dd862fe">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. translate.dhis2.org
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="54cac456cb7c7a4c8017a2de711a7218">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. jira.dhis2.org
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="c9042e59052db90bc8f958f867e38f20">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. play.dhis2.org
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="cbb2c78f05ffdf2952a4f87933c343bb">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. docs.dhis2.org
+
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="75a6c6931e528ccd88021ba8ae060e6f">
+        <source>The DHIS2 documentation contains detailed information and implementation considerations available for DHIS2, and is written by a core team of DHIS2 experts. These guides are all available at &lt;strong&gt;docs.dhis2.org&lt;/strong&gt;.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

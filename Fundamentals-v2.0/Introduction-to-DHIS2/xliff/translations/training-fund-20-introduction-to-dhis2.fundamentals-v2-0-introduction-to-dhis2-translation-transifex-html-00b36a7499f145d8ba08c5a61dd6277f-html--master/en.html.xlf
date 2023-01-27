@@ -1,0 +1,24 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-00b36a7499f145d8ba08c5a61dd6277f-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="327ea7c07e2c98a405e55d3673283846">
+        <source>When: Periods</source>
+      </trans-unit>
+      <trans-unit id="2" resname="99c8a9f5971fa39d26099bf56c7d8b4e">
+        <source>In the last video of the series about DHIS2 building blocks, you will learn about the &lt;strong&gt;“When” dimension&lt;/strong&gt; of DHIS2: &lt;strong&gt;Periods&lt;/strong&gt;. Periods in DHIS2 refer to the time frame associated with data. You will learn the similarities and differences of how periods are used in &lt;strong&gt;data collection&lt;/strong&gt;, where data are captured for a predefined period of time, and &lt;strong&gt;data analysis&lt;/strong&gt;, where data can be viewed in either &lt;strong&gt;fixed&lt;/strong&gt; or &lt;strong&gt;relative periods&lt;/strong&gt; to produce different analytics outputs.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="84433574035940e92cd837543c50f34d">
+        <source>Key concepts</source>
+      </trans-unit>
+      <trans-unit id="4" resname="0abc69788bd617d39c9e88aa74816c34">
+        <source>Period</source>
+      </trans-unit>
+      <trans-unit id="5" resname="dd2157aaab677c66db5dd0a954738c01">
+        <source>Relative period</source>
+      </trans-unit>
+      <trans-unit id="6" resname="6689b27722b10ac0e841ba094353f6be">
+        <source>Fixed period</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

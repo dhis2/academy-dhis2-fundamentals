@@ -1,0 +1,50 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-e76ff002688977f2547c-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="21bf61e1824ce8a80b6cb59c1fb1a8ad">
+        <source>Who is each HISP led by?    </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="0af11dcebe6af095d5054fb1dbd85dcc">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. The local Health Ministry &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="c99d4795d562dc55ce473d923d5f246c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. DHIS2 experts&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="06aff3f4da4201a1e953f5fed70945b7">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. A regional NGO &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="56c34fdc644e709799cee4085857e17a">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. The University of Oslo&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="6241e9eb8420961f8492931a9751e7dc">
+        <source>HISPs are led by local DHIS2 experts, and work alongside local Health Ministries, regional NGOs and the core DHIS2 team based at the University of Oslo to implement DHIS2.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

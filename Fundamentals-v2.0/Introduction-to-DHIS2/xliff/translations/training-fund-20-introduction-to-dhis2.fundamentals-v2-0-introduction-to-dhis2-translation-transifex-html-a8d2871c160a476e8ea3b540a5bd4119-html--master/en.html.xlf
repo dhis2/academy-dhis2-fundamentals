@@ -1,0 +1,42 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a8d2871c160a476e8ea3b540a5bd4119-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="ea75174345abf596a885aa195bc73daa">
+        <source>DHIS2 Fundamentals</source>
+      </trans-unit>
+      <trans-unit id="2" resname="c3b922e10d61222dac523fe3d693d3ae">
+        <source>We want to briefly introduce you to the following courses from the DHIS2 Fundamentals series:</source>
+      </trans-unit>
+      <trans-unit id="3" resname="b1ba560751d2f52bf2eb711e8ff25ff2">
+        <source>&lt;a href=&quot;https://hisp.tahoe.appsembler.com/courses/course-v1:hisp+GEN-D002-en+2022Q1/course/&quot; target=&quot;_blank&quot;&gt;Data Capture and Validation in DHIS2&lt;/a&gt;: In this course, you will learn how to use DHIS2 applications to enter aggregate data and verify its quality.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="5696e198507de2d11c036cd4c4cfcf30">
+        <source>&lt;a href=&quot;https://hisp.tahoe.appsembler.com/courses/course-v1:hisp+GEN-D003-en+2022Q1/course/&quot; target=&quot;_blank&quot;&gt;DHIS2 Data Analysis&lt;/a&gt;: In this course, you will learn to create pivot tables and visualize aggregate data through charts and maps to support data interpretation and decision-making.</source>
+      </trans-unit>
+      <trans-unit id="5" resname="469f0244e5c0d81d39e24398330254f0">
+        <source>&lt;a href=&quot;https://hisp.tahoe.appsembler.com/dashboard&quot; target=&quot;_blank&quot;&gt;DHIS2 Customization&lt;/a&gt;: In this course, you will get to know the key elements that can be customized in DHIS2 according to your program and organizational structure.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="f6fed9a6408ce47f6a2278c1ea00d8b9">
+        <source>&lt;a href=&quot;https://hisp.tahoe.appsembler.com/dashboard&quot; target=&quot;_blank&quot;&gt;DHIS2 Events Fundamentals&lt;/a&gt;: In this course, you will learn to work with individual-level data with an emphasis on event programs, including creating event data outputs and configuring event program metadata within DHIS2.</source>
+      </trans-unit>
+      <trans-unit id="7" resname="f585bc559b5a8ce03d2a8b11c375e082">
+        <source>How can you enroll in these courses?</source>
+      </trans-unit>
+      <trans-unit id="8" resname="5da36cf2c5220abdfa7f4d1c8f87ecf0">
+        <source>Directly at the DHIS2 online academy. Select each course from the course catalog to learn more about it, including any prerequisites for each specific course. You will find an enrollment button on the course description page for each active course.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="610502329c2d1803481e59031222261c">
+        <source>When and in what order should I take these courses?</source>
+      </trans-unit>
+      <trans-unit id="10" resname="f4469fcc6ab4ed4ca44d32b996843dd4">
+        <source>There is no specific order to take the courses, it depends on your own learning needs. There are also no specific dates to start or finish as all courses are self-paced.</source>
+      </trans-unit>
+      <trans-unit id="11" resname="86a371e88474ddb7697910d2d8eef39b">
+        <source>Do I have to take all the courses to be eligible for level 1 or level 2 academies?</source>
+      </trans-unit>
+      <trans-unit id="12" resname="2f9e150bbcf764f8c7b95a7b46ae14a3">
+        <source>It is not necessary that you take all the courses in the Fundamentals series to qualify for level 1 or level 2 academies. In the following interactive diagram you will see the sequence of courses that we recommend you follow according to your user profile/role and interests. By selecting a particular course you will see a description of it, including the prerequisites for the course. For more information about the DHIS2 Academy program, visit the &lt;a href=&quot;https://www.dhis2.org/academy&quot; target=&quot;_blank&quot;&gt;DHIS2 website&lt;/a&gt;.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

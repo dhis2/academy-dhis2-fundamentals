@@ -1,0 +1,231 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-2-1-dhis2-and-hisp-pptx--master" source-language="en" datatype="MS_PPTX">
+    <body>
+      <trans-unit id="1" resname="fcab606c7128c159cb4f873263d3ae85">
+        <source>DHIS2 &amp; HISP</source>
+      </trans-unit>
+      <trans-unit id="2" resname="a272f9f8200d606f2f2dc46a741681fd">
+        <source>Introduction to DHIS2 </source>
+      </trans-unit>
+      <trans-unit id="3" resname="f335ad369c521928a6e73f92228fc25f">
+        <source>HISP</source>
+      </trans-unit>
+      <trans-unit id="4" resname="2aca15e8f54461082355d5be9ed2df89">
+        <source>It’s impossible to talk about +DHIS2 without mentioning the +HISP program and HISP groups. </source>
+      </trans-unit>
+      <trans-unit id="5" resname="fcc38c8ef94c4ff7b6a0361a1064d2f3">
+        <source>But what +exactly is a HISP group, and how do they work with DHIS2? In this video, we will provide an overview.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="dd57da7518fa2d51a2f384933493a33f">
+        <source>HISP and the origins of DHIS2</source>
+      </trans-unit>
+      <trans-unit id="7" resname="90fa98ae6fdeaa31c8bfcb619b11e208">
+        <source>DHIS</source>
+      </trans-unit>
+      <trans-unit id="8" resname="1d4119cd6d5d2ed4a522fcf8e2d21296">
+        <source>Health Information Systems Programme</source>
+      </trans-unit>
+      <trans-unit id="9" resname="68cfbdc173c7527e75805bff66100687">
+        <source>Let’s start with the original +Health Information Systems &lt;tx&gt;Programme&lt;/tx&gt;, or +HISP, which developed version 1 of the +DHIS software in post-Apartheid South Africa in 1994 as a +collaboration between the University of Oslo and the University of the Western Cape.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="07126c4efcf463f051e7a37b2d59d6a1">
+        <source>Growth of the HISP network</source>
+      </trans-unit>
+      <trans-unit id="11" resname="dd3c4bf18c54412d615cc160772a38c5">
+        <source>HISP has since become a +global movement to strengthen Health Information Systems world-wide, as DHIS2 experts--many of whom are former &lt;tx&gt;UiO&lt;/tx&gt; PhD students--have gone on to found and lead HISP groups in Africa, Asia and the Americas.</source>
+      </trans-unit>
+      <trans-unit id="12" resname="7da4453ed4dd9ff0d5737d3ea348a723">
+        <source>Direct country support:</source>
+      </trans-unit>
+      <trans-unit id="13" resname="0cc96e17e940378ff9d846e93ad0d806">
+        <source>&lt;tx&gt;Implementation &lt;/tx&gt;&lt;tx&gt;&amp; maintenance&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="14" resname="ce1cc058043153965832bf9aeb79f318">
+        <source>Capacity building </source>
+      </trans-unit>
+      <trans-unit id="15" resname="2be09cebe03e2f7132dab5926f8d64bd">
+        <source>System integration</source>
+      </trans-unit>
+      <trans-unit id="16" resname="df748d65d4bbe27180ecf2abc6d1618c">
+        <source>Innovative solutions</source>
+      </trans-unit>
+      <trans-unit id="17" resname="9c31009dc3343f89377f9da976a201ce">
+        <source>These HISP groups  offer long-term +support to country governments on DHIS2 +implementation and maintenance, provide +capacity-building through the DHIS2 Academy program, and work with countries and organizations to adapt +DHIS2 systems and create +innovative solutions to meet local needs.</source>
+      </trans-unit>
+      <trans-unit id="18" resname="6248bf4d20888643208dba7844961527">
+        <source>Collaborating based on shared values</source>
+      </trans-unit>
+      <trans-unit id="19" resname="ea8aaa216b1224b59c95dd679a20a402">
+        <source>&lt;tx&gt;Local &lt;/tx&gt;&lt;tx&gt;ownership&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="20" resname="070313a2ca6f25fd3bad2154a8658d39">
+        <source>Sustainability</source>
+      </trans-unit>
+      <trans-unit id="21" resname="6d8dc76fd049b932f25bd620a82c8303">
+        <source>Transparency</source>
+      </trans-unit>
+      <trans-unit id="22" resname="f754cbe2b83b3fb5e683da6d365f489d">
+        <source>&lt;tx&gt;Empowering&lt;/tx&gt;&lt;tx&gt; data use&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="23" resname="5d2553624dce218c228294c6c3a1608d">
+        <source>Open-&lt;tx&gt;source&lt;/tx&gt; principles</source>
+      </trans-unit>
+      <trans-unit id="24" resname="aac057109d7358a9dd7f17c14c31d9d9">
+        <source>&lt;tx&gt;Learn more: &lt;/tx&gt;&lt;tx&gt;https://hisp.uio.no/&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="25" resname="8cfa148154b0d77b858a971ed57733ab">
+        <source>HISP groups--together with HISP +&lt;tx&gt;UiO&lt;/tx&gt;--form a global network of partners that shares common values, including +open source principles, +local ownership, +sustainability, +transparency, and +empowering data use. </source>
+      </trans-unit>
+      <trans-unit id="26" resname="ca0fcaa14ef76f34a35482c9534ff732">
+        <source>While each group operates independently, the HISP network as a whole collaborates in a variety of ways.</source>
+      </trans-unit>
+      <trans-unit id="27" resname="0f98b24cd21f8fb52b8a0646ecbb2e97">
+        <source>Action research, assessment and information sharing</source>
+      </trans-unit>
+      <trans-unit id="28" resname="b2a2235bd6cbc8405e1fc9db310773cc">
+        <source>Global Public Good</source>
+      </trans-unit>
+      <trans-unit id="29" resname="21b9a91fb59ccc4b782742388188eea9">
+        <source>Best&lt;tx&gt; practice&lt;/tx&gt;&lt;tx&gt; through&lt;/tx&gt; intervention</source>
+      </trans-unit>
+      <trans-unit id="30" resname="cf24c52c7f31c8ae81eec1872dc4d868">
+        <source>Assess&lt;tx&gt; and &lt;/tx&gt;&lt;tx&gt;evaluate&lt;/tx&gt;&lt;tx&gt; DHIS2 &lt;/tx&gt;&lt;tx&gt;i&lt;/tx&gt;mplementations</source>
+      </trans-unit>
+      <trans-unit id="31" resname="6f542ae2c16e2fd9607dd1b48b2598f1">
+        <source>Explore new &lt;tx&gt;domains&lt;/tx&gt;&lt;tx&gt; and &lt;/tx&gt;challenges</source>
+      </trans-unit>
+      <trans-unit id="32" resname="56b6cdc962f54f65263c4b8a5ab80eff">
+        <source>Document&lt;tx&gt; findings&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="33" resname="bc6de4c92919f110bf195d28ebec28e7">
+        <source>Action research</source>
+      </trans-unit>
+      <trans-unit id="34" resname="3f4a2d10da53e0c9621e1f98bfb1e6db">
+        <source>HISP Groups</source>
+      </trans-unit>
+      <trans-unit id="35" resname="d25d246e322b1307d0724af0a42f43bf">
+        <source>HISP UiO</source>
+      </trans-unit>
+      <trans-unit id="36" resname="ff067a1376f602a3aa116b876f0072fe">
+        <source>+</source>
+      </trans-unit>
+      <trans-unit id="37" resname="4b39a92253acd9412603b53598c0f3ff">
+        <source>In keeping with &lt;tx&gt;DHIS2’s +academic &lt;/tx&gt;&lt;tx&gt;origins, a primary area &lt;/tx&gt;&lt;tx&gt;of +HISP &lt;/tx&gt;&lt;tx&gt;collaboration is research. &lt;/tx&gt;&lt;tx&gt;Working +with &lt;/tx&gt;&lt;tx&gt;the Information Systems research group at HISP &lt;/tx&gt;&lt;tx&gt;UiO&lt;/tx&gt;, HISP groups engage in +action research, uncovering +best practices through targeted country interventions and deep dives. They +assess and evaluate country DHIS2 implementations, +explore new domains and challenges, and +document their findings for input into global products and strategies.</source>
+      </trans-unit>
+      <trans-unit id="38" resname="56e940638dde72ad6d3e2b7dc0fce363">
+        <source>Software requirements, development and testing</source>
+      </trans-unit>
+      <trans-unit id="39" resname="7c18772f9ab2120e1cbf67bfdf69a9b9">
+        <source>Software development</source>
+      </trans-unit>
+      <trans-unit id="40" resname="53d388c6b34c15f56978d996f4d47bbd">
+        <source>Software requirements</source>
+      </trans-unit>
+      <trans-unit id="41" resname="71e489d926209fc7c8f4e15d2ca6f2ed">
+        <source>Field testing of DHIS2 releases</source>
+      </trans-unit>
+      <trans-unit id="42" resname="f23bdaea827fbacb663e48fbfc960b91">
+        <source>Input and feedback</source>
+      </trans-unit>
+      <trans-unit id="43" resname="2626104ef5bd0a0cc5dbcd359056de09">
+        <source>Another key area of collaboration is &lt;tx&gt;the +ongoing &lt;/tx&gt;&lt;tx&gt;development of &lt;/tx&gt;&lt;tx&gt;the DHIS2 &lt;/tx&gt;&lt;tx&gt;platform. While +software development is led by HISP &lt;/tx&gt;&lt;tx&gt;UiO&lt;/tx&gt;&lt;tx&gt;,  the HISP groups are the most important source of +requirements for software features &lt;/tx&gt;&lt;tx&gt;and +field &lt;/tx&gt;&lt;tx&gt;testing of DHIS2 +releases, due to their close work with country governments. &lt;/tx&gt;&lt;tx&gt;Their +input &lt;/tx&gt;&lt;tx&gt;and feedback &lt;/tx&gt;&lt;tx&gt;is essential &lt;/tx&gt;to ensuring that DHIS2 continues to meet local needs and function in local contexts.</source>
+      </trans-unit>
+      <trans-unit id="44" resname="95f8502eb716bf2a88390b21e1ac18dc">
+        <source>Local innovations</source>
+      </trans-unit>
+      <trans-unit id="45" resname="b18f0254e9aab72fbe1eedc8f4cf9254">
+        <source>Custom applications</source>
+      </trans-unit>
+      <trans-unit id="46" resname="30d2deb31681d76f4c32cd3e7ef1719f">
+        <source>Metadata configuration</source>
+      </trans-unit>
+      <trans-unit id="47" resname="8a9a77601ecb8f0f3260f50a3d9a6de3">
+        <source>Modifications to the core platform</source>
+      </trans-unit>
+      <trans-unit id="48" resname="ca8ab03ecaa257580a950c2090ccfee5">
+        <source>HISP groups are also &lt;tx&gt;a +source of local innovations&lt;/tx&gt;&lt;tx&gt;, such &lt;/tx&gt;&lt;tx&gt;as +custom &lt;/tx&gt;&lt;tx&gt;applications&lt;/tx&gt;&lt;tx&gt;, +metadata &lt;/tx&gt;&lt;tx&gt;configurations, &lt;/tx&gt;&lt;tx&gt;and +modifications &lt;/tx&gt;&lt;tx&gt;to the core platform, developed to rapidly solve specific country challenges. These local solutions &lt;/tx&gt;&lt;tx&gt;are +shared &lt;/tx&gt;&lt;tx&gt;throughout the network and can be adapted by +the core team at HISP &lt;/tx&gt;&lt;tx&gt;UiO&lt;/tx&gt;&lt;tx&gt; for global deployment, followed &lt;/tx&gt;&lt;tx&gt;by +iterative &lt;/tx&gt;&lt;tx&gt;improvements based on &lt;/tx&gt;&lt;tx&gt;further feedback &lt;/tx&gt;from HISP groups based on real-world experiences.</source>
+      </trans-unit>
+      <trans-unit id="49" resname="f37d09c54840426cd74fe2abef2a4e47">
+        <source>Example: global resource based on local innovation</source>
+      </trans-unit>
+      <trans-unit id="50" resname="676593c5f08a0b53e3168799f6ccc60c">
+        <source>One example of a +local innovation becoming a +global resource was the +HISP network’s response to the +COVID-19 pandemic, where a DHIS2 program for port of entry screening and contact tracing</source>
+      </trans-unit>
+      <trans-unit id="51" resname="f7325b1936fc634e7ba69b23b1b39bb5">
+        <source>developed by +HISP Sri Lanka became the basis for a +metadata package quickly deployed in +almost 40 countries for the COVID-19 response.</source>
+      </trans-unit>
+      <trans-unit id="52" resname="90e25f0dfe68d3902310fb25378dbf34">
+        <source>HISP Hubs for regional collaboration</source>
+      </trans-unit>
+      <trans-unit id="53" resname="33c2ab18889575a766c182aedbd1dac9">
+        <source>System Architecture</source>
+      </trans-unit>
+      <trans-unit id="54" resname="8ab407c3cece8a72ea14cba74c9fcbc4">
+        <source>Implementation</source>
+      </trans-unit>
+      <trans-unit id="55" resname="fa5423b41b9f2c34c22dcc5c0d26b7e7">
+        <source>Research</source>
+      </trans-unit>
+      <trans-unit id="56" resname="75ed4d1e5f02c808a95df832c02cdf42">
+        <source>Capacity Building Projects</source>
+      </trans-unit>
+      <trans-unit id="57" resname="aedd6391310e086c9ccd90b66ddaa51a">
+        <source>Hubs:</source>
+      </trans-unit>
+      <trans-unit id="58" resname="2bbc4bedc59568d093cbec047b30de6f">
+        <source>National</source>
+      </trans-unit>
+      <trans-unit id="59" resname="bf1e3ffdb9402d848e5bbb5935f64971">
+        <source>Multi-country</source>
+      </trans-unit>
+      <trans-unit id="60" resname="e8a69178b2e7baec1da3e72fc3aeca7c">
+        <source>Regional</source>
+      </trans-unit>
+      <trans-unit id="61" resname="4a1dd0fae78aea408985594872f8e692">
+        <source>+HISP groups also work together in regional hubs on +national, +multi-country and +regional DHIS2 +system architecture, +implementation, +research and +capacity building &lt;tx&gt;projects +in &lt;/tx&gt;&lt;tx&gt;collaboration with HISP &lt;/tx&gt;&lt;tx&gt;UiO&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="62" resname="6a9708d1fa2847024c6b8342ead9dd7b">
+        <source>Helping produce core products</source>
+      </trans-unit>
+      <trans-unit id="63" resname="edf0fb3977ffdf283d5d593df348b70a">
+        <source>In addition to this cycle &lt;tx&gt;of collaboration between HISP &lt;/tx&gt;&lt;tx&gt;groups in the field and HISP &lt;/tx&gt;&lt;tx&gt;UiO&lt;/tx&gt;&lt;tx&gt;, +individual &lt;/tx&gt;&lt;tx&gt;members from &lt;/tx&gt;&lt;tx&gt;various HISP &lt;/tx&gt;&lt;tx&gt;groups also serve as +members of core DHIS2 teams, where they directly contribute &lt;/tx&gt;&lt;tx&gt;to development of +global &lt;/tx&gt;metadata packages, +applications, and +training materials.</source>
+      </trans-unit>
+      <trans-unit id="64" resname="1300f86974cafc2d65eb1f082a26bdf1">
+        <source>Summary</source>
+      </trans-unit>
+      <trans-unit id="65" resname="e4b663a6792a4b86f180b46d24670f03">
+        <source>The origin of the DHIS software</source>
+      </trans-unit>
+      <trans-unit id="66" resname="ff2f3257383426172be16630257eda4a">
+        <source>The driving force in developing DHIS2</source>
+      </trans-unit>
+      <trans-unit id="67" resname="358a05657d2f7129c958289ec3510e29">
+        <source>Provide implementation and maintenance support</source>
+      </trans-unit>
+      <trans-unit id="68" resname="1d471a437628d602d3980a18be328204">
+        <source>Build local and regional capacity</source>
+      </trans-unit>
+      <trans-unit id="69" resname="ca40509d11155a5f270d2633cf77583d">
+        <source>H&lt;tx&gt;ealth &lt;/tx&gt;&lt;tx&gt;I&lt;/tx&gt;&lt;tx&gt;nformation &lt;/tx&gt;&lt;tx&gt;S&lt;/tx&gt;&lt;tx&gt;ystems &lt;/tx&gt;&lt;tx&gt;P&lt;/tx&gt;rogramme</source>
+      </trans-unit>
+      <trans-unit id="70" resname="7d75a393eee742b5225489fa5cc228de">
+        <source>Perform research and assessment</source>
+      </trans-unit>
+      <trans-unit id="71" resname="6b50f472fec1d81f7f4fb34294efd893">
+        <source>Provide input and feedback on DHIS2 software</source>
+      </trans-unit>
+      <trans-unit id="72" resname="d4d49ad0cb5f491ce71982595e2354e4">
+        <source>Develop and share local innovations</source>
+      </trans-unit>
+      <trans-unit id="73" resname="ea11df85019d3846df307353f47809da">
+        <source>Ensure that DHIS2 meets local needs</source>
+      </trans-unit>
+      <trans-unit id="74" resname="d3d61ffc27c748fe643667a5bba12247">
+        <source>The HISP project &lt;tx&gt;, was +the &lt;/tx&gt;&lt;tx&gt;origin of the DHIS software, &lt;/tx&gt;&lt;tx&gt;and HISP &lt;/tx&gt;&lt;tx&gt;groups have &lt;/tx&gt;&lt;tx&gt;been +the &lt;/tx&gt;&lt;tx&gt;driving force in developing DHIS2 from a local solution &lt;/tx&gt;&lt;tx&gt;into the &lt;/tx&gt;&lt;tx&gt;world’s largest health information management system. &lt;/tx&gt;&lt;tx&gt;They +provide long-term &lt;/tx&gt;&lt;tx&gt;implementation and maintenance support&lt;/tx&gt;&lt;tx&gt;, +conduct &lt;/tx&gt;&lt;tx&gt;capacity-building&lt;/tx&gt;&lt;tx&gt;, +perform &lt;/tx&gt;&lt;tx&gt;information system research and assessment, +provide input and feedback on software releases&lt;/tx&gt;&lt;tx&gt;, +develop &lt;/tx&gt;&lt;tx&gt;and share local innovations, &lt;/tx&gt;&lt;tx&gt;and +ensure &lt;/tx&gt;that DHIS2 continues to meet local needs.</source>
+      </trans-unit>
+      <trans-unit id="75" resname="f9e74447ff00935351447d75f977e4f3">
+        <source>HISP &lt;tx&gt;groups are not just &lt;/tx&gt;&lt;tx&gt;a +part &lt;/tx&gt;of the DHIS2 story--they are the foundation of DHIS2’s history. Without the HISP groups, there would be no DHIS2.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

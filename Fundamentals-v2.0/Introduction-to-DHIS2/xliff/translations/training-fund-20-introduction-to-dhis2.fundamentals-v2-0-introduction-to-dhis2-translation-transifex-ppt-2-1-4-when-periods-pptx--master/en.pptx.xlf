@@ -1,0 +1,318 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-4-when-periods-pptx--master" source-language="en" datatype="MS_PPTX">
+    <body>
+      <trans-unit id="1" resname="327ea7c07e2c98a405e55d3673283846">
+        <source>When: Periods</source>
+      </trans-unit>
+      <trans-unit id="2" resname="a272f9f8200d606f2f2dc46a741681fd">
+        <source>Introduction to DHIS2 </source>
+      </trans-unit>
+      <trans-unit id="3" resname="98b74440fab1e5968a4cf4748dee6524">
+        <source>Introduction</source>
+      </trans-unit>
+      <trans-unit id="4" resname="0abc69788bd617d39c9e88aa74816c34">
+        <source>Period</source>
+      </trans-unit>
+      <trans-unit id="5" resname="db33abee7b58985dac3c34c49f979355">
+        <source>“When”</source>
+      </trans-unit>
+      <trans-unit id="6" resname="0736b3bb78c7d0a920deab109a7c1223">
+        <source>In the+ &lt;tx&gt;last video of the series about building blocks in DHIS2 we will discuss the +“when” dimension&lt;/tx&gt;&lt;tx&gt;, the+ &lt;/tx&gt;“period”. </source>
+      </trans-unit>
+      <trans-unit id="7" resname="15e347c89b921db1334b701c78b177d6">
+        <source>The use of periods</source>
+      </trans-unit>
+      <trans-unit id="8" resname="f870875776098f57b22e67429684e81f">
+        <source>Collecting data</source>
+      </trans-unit>
+      <trans-unit id="9" resname="8b15c39015a9c8be49eeb92cb782f09b">
+        <source>Analyzing data</source>
+      </trans-unit>
+      <trans-unit id="10" resname="8624cd3a4d0cb87d38f4822eabe52b38">
+        <source>Creating periodic reports</source>
+      </trans-unit>
+      <trans-unit id="11" resname="c5160124b9d70e61ee5f1a4d8a94940c">
+        <source>The period is a &lt;tx&gt;significant factor+ &lt;/tx&gt;&lt;tx&gt;when you &lt;/tx&gt;&lt;tx&gt;are + collecting data, +analysing &lt;/tx&gt;&lt;tx&gt;data &lt;/tx&gt;&lt;tx&gt;over time &lt;/tx&gt;&lt;tx&gt;or when +creating periodic reports, such &lt;/tx&gt;&lt;tx&gt;as monthly, quarterly or annual &lt;/tx&gt;aggregated reports. </source>
+      </trans-unit>
+      <trans-unit id="12" resname="79978ac216c61085bcb4c3a4fc70d439">
+        <source>Example of periods for data collection </source>
+      </trans-unit>
+      <trans-unit id="13" resname="5e4aa39eb904840a2367e45f3c814ad7">
+        <source>“What”</source>
+      </trans-unit>
+      <trans-unit id="14" resname="d28033bb884ad6180e183f6ede2ea6b0">
+        <source>Positive Malaria Cases</source>
+      </trans-unit>
+      <trans-unit id="15" resname="93be29e9913a81d2210aa83e827cccb0">
+        <source>“Where”</source>
+      </trans-unit>
+      <trans-unit id="16" resname="22780f7eb748bfb12f81ab231f7c73dc">
+        <source>Namchala Health Center</source>
+      </trans-unit>
+      <trans-unit id="17" resname="05ee55edb45ee5638028be014d666c09">
+        <source>October 2020</source>
+      </trans-unit>
+      <trans-unit id="18" resname="5178b8d03f469f7c43aeb004fb0cdc54">
+        <source>Let's revisit our example of +New cases of Malaria reported in +&lt;tx&gt;Namchala&lt;/tx&gt; Health Center. We see that those cases were reported for the period of +October 2020. That is a very simple example of a period for aggregate data collection. </source>
+      </trans-unit>
+      <trans-unit id="19" resname="9b473834785544cf6f525357a30b991c">
+        <source>Example of periods for data analysis</source>
+      </trans-unit>
+      <trans-unit id="20" resname="33cfad5600142b88f6b4eaa20bdfe78a">
+        <source>&lt;tx&gt;October&lt;/tx&gt;&lt;tx&gt; 2020&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="21" resname="ff067a1376f602a3aa116b876f0072fe">
+        <source>+</source>
+      </trans-unit>
+      <trans-unit id="22" resname="c7570073769e0cf7ca1833d0005b0ec9">
+        <source>Month-to-month</source>
+      </trans-unit>
+      <trans-unit id="23" resname="0b3c7f4b87831520a2f45fe43fe457dd">
+        <source>Annual </source>
+      </trans-unit>
+      <trans-unit id="24" resname="f64426c6c4c71c4b5a214f210a068b14">
+        <source>In the context of data analysis in DHIS2,periods +can be combined in many ways, and how you use them depends very much on the type of insight you are looking for. You can get aggregated numbers for a specific period, +such as October 2020, +month-to-month trend, or +annual trend.</source>
+      </trans-unit>
+      <trans-unit id="25" resname="03bb51471e0f2473de7bc76bfe3dc42a">
+        <source>Jan</source>
+      </trans-unit>
+      <trans-unit id="26" resname="6a74ce51002bba1bb463e9a0e7c185ba">
+        <source>Feb</source>
+      </trans-unit>
+      <trans-unit id="27" resname="5ce5315a454d2eca32027cda015f4b07">
+        <source>Mar</source>
+      </trans-unit>
+      <trans-unit id="28" resname="ad897e92b93e5fb573e26e2ffa05fc2f">
+        <source>Jun</source>
+      </trans-unit>
+      <trans-unit id="29" resname="a6e0afa7e715381fa940c255d72df3cc">
+        <source>Jul</source>
+      </trans-unit>
+      <trans-unit id="30" resname="a374fadea11adc43aab54d01e1718e36">
+        <source>Aug</source>
+      </trans-unit>
+      <trans-unit id="31" resname="0d8876df88d206b94da450359b4e9363">
+        <source>Sep</source>
+      </trans-unit>
+      <trans-unit id="32" resname="66341e4131213f6af73916941aaccef3">
+        <source>Oct</source>
+      </trans-unit>
+      <trans-unit id="33" resname="8731b13e84c4fc52d7ac6722d51c5087">
+        <source>Nov</source>
+      </trans-unit>
+      <trans-unit id="34" resname="6767d325c74efbcd65c63c51e8d9c4ae">
+        <source>Dec</source>
+      </trans-unit>
+      <trans-unit id="35" resname="752c7c82f8ed75b44073f47d96f49882">
+        <source>Apr</source>
+      </trans-unit>
+      <trans-unit id="36" resname="197aa5352ed0333887c964d69637983c">
+        <source>Last year</source>
+      </trans-unit>
+      <trans-unit id="37" resname="01963e19c1e1c7bcce688f5d8e391eab">
+        <source>Monthly</source>
+      </trans-unit>
+      <trans-unit id="38" resname="cdf1300e2a09f2e93a1ff0bf9b212b78">
+        <source>For example, we might be interested in +Malaria data for this +facility  displayed +monthly for the +last year +to++ analyse trends</source>
+      </trans-unit>
+      <trans-unit id="39" resname="513bc6fc08024109e80b0db90514c730">
+        <source>2016</source>
+      </trans-unit>
+      <trans-unit id="40" resname="f45bce00d721741c76e555d1e0d701ce">
+        <source>2017</source>
+      </trans-unit>
+      <trans-unit id="41" resname="4ac7776cf86374f6a8cbbd1c02f5528d">
+        <source>2018</source>
+      </trans-unit>
+      <trans-unit id="42" resname="4339ad3cb5cdfc6c1f32a76768ceb574">
+        <source>2019</source>
+      </trans-unit>
+      <trans-unit id="43" resname="2726d68fefc77d1a17e18e6e71078cf5">
+        <source>2020</source>
+      </trans-unit>
+      <trans-unit id="44" resname="7c8d25c8aa17e4581c1d8aa1e3274569">
+        <source>2016-2020</source>
+      </trans-unit>
+      <trans-unit id="45" resname="4919239459b33df25bbb89c38b35f42f">
+        <source>Yearly</source>
+      </trans-unit>
+      <trans-unit id="46" resname="e12e70223a3281b3fd5ea0bcd8182c84">
+        <source>or perhaps we are concerned about +yearly aggregate Malaria data for the period of 2016-2020.  </source>
+      </trans-unit>
+      <trans-unit id="47" resname="805b07a64a45455a4363101c1b7e47b9">
+        <source>“yearly, 2016-2020”  and +“Monthly, last year” are both examples of periods in DHIS2. </source>
+      </trans-unit>
+      <trans-unit id="48" resname="e130919e23bb4fd2f80d56b31e8b1d7d">
+        <source>Frequency</source>
+      </trans-unit>
+      <trans-unit id="49" resname="0fea0555a4d8c0069e510d80754a1279">
+        <source>Time frame</source>
+      </trans-unit>
+      <trans-unit id="50" resname="30c5feffd67f965c98beb9e529e30f92">
+        <source>Notice that the first part (+“yearly”, “monthly”) refers to the +frequency you would like to display the data for. The second part +(last year, 2016-2020) refers to the +overall time frame for which you would like to aggregate the data. </source>
+      </trans-unit>
+      <trans-unit id="51" resname="eb6251949838eed98b266be5353421c2">
+        <source>Weekly</source>
+      </trans-unit>
+      <trans-unit id="52" resname="df0ebb858ff9e66f7a5b512257d08305">
+        <source>Quarterly</source>
+      </trans-unit>
+      <trans-unit id="53" resname="127f767712a83f8ac69abc5dfb761c4a">
+        <source>&lt;tx&gt;Last&lt;/tx&gt;&lt;tx&gt; 5 years&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="54" resname="663f4236db8003f6d3b2433ad8cac767">
+        <source>&lt;tx&gt;Last&lt;/tx&gt;&lt;tx&gt; month&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="55" resname="8ebbc3702fe16ae0c078f493a9016930">
+        <source>For data analysis in DHIS2, any period in DHIS2 will be some +combination of those two components, frequency and time frame. </source>
+      </trans-unit>
+      <trans-unit id="56" resname="5ad79786fdf683ce36079228d787ccae">
+        <source>Relationship between periods for data collection and analysis</source>
+      </trans-unit>
+      <trans-unit id="57" resname="cafa819e55bb18ba692f59c337c345d2">
+        <source>Aggregate data</source>
+      </trans-unit>
+      <trans-unit id="58" resname="cb429554aaf61730ad21f38ccbb20277">
+        <source>Periods available for &lt;tx&gt;analysis&lt;/tx&gt; depend on:</source>
+      </trans-unit>
+      <trans-unit id="59" resname="a96c5d9bcc4f06561d4d3cfadd98ca9e">
+        <source>&lt;tx&gt;When data are &lt;/tx&gt;&lt;tx&gt;collected&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="60" resname="f3f328c8d166628dee10d38183c2ff2d">
+        <source>The &lt;tx&gt;reporting schedule &lt;/tx&gt;of a program</source>
+      </trans-unit>
+      <trans-unit id="61" resname="f8aa5a2e096db8f6b851a68d6b6f800c">
+        <source>Annual</source>
+      </trans-unit>
+      <trans-unit id="62" resname="38ce211a97e201e2de4da80a963582fa">
+        <source>&lt;tx&gt;Can be configured &lt;/tx&gt;&lt;tx&gt;for each data element&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="63" resname="97c8c2c41d024367030254bacc4cc048">
+        <source>Reports</source>
+      </trans-unit>
+      <trans-unit id="64" resname="6c14bd83eda8818008829ee0487d1553">
+        <source>For +aggregate data, the +periods available for you to analyze your data are dependent upon the predefined +period in which your data are collected. This depends on the +reporting schedule of a given health program, which +may call for +weekly…+ +monthly… ++quarterly…+ or +annual reports, among others. These periods +can be configured for each data element collected.</source>
+      </trans-unit>
+      <trans-unit id="65" resname="6201a8a908785e33bc5d20a8dbf4b7f0">
+        <source>Example of periods of data collection and data analysis of malaria new cases</source>
+      </trans-unit>
+      <trans-unit id="66" resname="7202c8d9137a12dba6e53598938528d7">
+        <source>May</source>
+      </trans-unit>
+      <trans-unit id="67" resname="225fe16646ec4b2c719e8ce01ea97f77">
+        <source>Data collection</source>
+      </trans-unit>
+      <trans-unit id="68" resname="47ac779f6b2c87cec8f670c279cee14d">
+        <source>Data analysis</source>
+      </trans-unit>
+      <trans-unit id="69" resname="11184ffefd16bddb8b3e38cc82df2397">
+        <source>6-monthly</source>
+      </trans-unit>
+      <trans-unit id="70" resname="1d22365caffacd13e2925fa850049d44">
+        <source>For example, if the +data element new malaria cases is +collected monthly, we can display this data for +each month +it is collected or we can sum this +data to +show it by +quarter, ++6-monthly or+ +yearly. We would not be able+ to show this monthly data by +week however, as the lowest level of collection is by month, so it cannot be disaggregated any further.</source>
+      </trans-unit>
+      <trans-unit id="71" resname="a992c5055dd1f6a4b5837dd2092d2b3d">
+        <source>Fixed and relative periods</source>
+      </trans-unit>
+      <trans-unit id="72" resname="6689b27722b10ac0e841ba094353f6be">
+        <source>Fixed period</source>
+      </trans-unit>
+      <trans-unit id="73" resname="762a845098b246fd6446390227b73922">
+        <source>&lt;tx&gt;201&lt;/tx&gt;&lt;tx&gt;6&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="74" resname="a1a0a9f15220f477dc33b1a3306defa8">
+        <source>Oct 2020</source>
+      </trans-unit>
+      <trans-unit id="75" resname="269811e5ae844bdd2e99e146f84df51d">
+        <source>&lt;tx&gt;Relative &lt;/tx&gt;&lt;tx&gt;period&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="76" resname="537427d318a52f49f69e467cbcf358c6">
+        <source>Specific&lt;tx&gt; and &lt;/tx&gt;&lt;tx&gt;defined&lt;/tx&gt; period of time</source>
+      </trans-unit>
+      <trans-unit id="77" resname="fe5c1f8f8faa81614c3bce05feb8865f">
+        <source>DHIS2 supports two +period types when analyzing or reviewing your data, including fixed and relative periods</source>
+      </trans-unit>
+      <trans-unit id="78" resname="868ebb4c5bc1314fe21b9ac210d96093">
+        <source>+October 2020 or the years +2016-2020 are examples of fixed periods, meaning they refer to a +specific and defined period of time. </source>
+      </trans-unit>
+      <trans-unit id="79" resname="772dcfc17fc55dbddaf505c5e0e1d349">
+        <source>Last month</source>
+      </trans-unit>
+      <trans-unit id="80" resname="6f7b7de2529ab438d816890ac4fff4df">
+        <source>This quarter</source>
+      </trans-unit>
+      <trans-unit id="81" resname="6444dd80e0efcebb6840303ebc507c03">
+        <source>Defined &lt;tx&gt;in relation to the date &lt;/tx&gt;the analysis is carried out</source>
+      </trans-unit>
+      <trans-unit id="82" resname="3f1f63d1e9d012ef77559c41d6888485">
+        <source>DHIS2 also &lt;tx&gt;supports relative &lt;/tx&gt;&lt;tx&gt;periods such as +“last year”, +“last month&lt;/tx&gt;&lt;tx&gt;” and +“&lt;/tx&gt;&lt;tx&gt;this quarter,” which &lt;/tx&gt;&lt;tx&gt;are +defined &lt;/tx&gt;in relation to the date the analysis is carried out. </source>
+      </trans-unit>
+      <trans-unit id="83" resname="914ff1aa416ea635f18fa1531d1176a0">
+        <source>=</source>
+      </trans-unit>
+      <trans-unit id="84" resname="4c536be117d26ad1a19f82f599adce40">
+        <source>&lt;tx&gt;Does not update &lt;/tx&gt;&lt;tx&gt;automatically over time&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="85" resname="58649852f86364264610b92587ef80a0">
+        <source>Automatically updates &lt;tx&gt;with new data &lt;/tx&gt;over time </source>
+      </trans-unit>
+      <trans-unit id="86" resname="f01f86fd7d374711ca4cc78ae1f403af">
+        <source>In year 2021</source>
+      </trans-unit>
+      <trans-unit id="87" resname="4bb1c71cc157d5c5043d1143a3072fba">
+        <source>Year 2020</source>
+      </trans-unit>
+      <trans-unit id="88" resname="243f975c885ee528737d522a4b9651e1">
+        <source>Jan – Dec 2020</source>
+      </trans-unit>
+      <trans-unit id="89" resname="ecd34681d314c6b39cbec00b20779457">
+        <source>In &lt;tx&gt;some cases fixed and relative periods both refer &lt;/tx&gt;&lt;tx&gt;to +the &lt;/tx&gt;&lt;tx&gt;same period of time, for example if the +current year is in 2021&lt;/tx&gt;&lt;tx&gt;, then &lt;/tx&gt;&lt;tx&gt;the fixed period  +“year 2020”  and the relative period +“last year” &lt;/tx&gt;&lt;tx&gt;both +refer &lt;/tx&gt;&lt;tx&gt;to &lt;/tx&gt;&lt;tx&gt;the same &lt;/tx&gt;&lt;tx&gt;period.  The key difference is that a fixed period +does not update automatically over time for an analysis item; whereas a relative period &lt;/tx&gt;&lt;tx&gt;will +automatically update with &lt;/tx&gt;new data over time in relation to the real world date. When creating analytical resources within DHIS2 it is possible to make use of this functionality. </source>
+      </trans-unit>
+      <trans-unit id="90" resname="6b58eb8d73d89db4d3a0b159ee17c03d">
+        <source>The&lt;tx&gt; use of &lt;/tx&gt;&lt;tx&gt;relative&lt;/tx&gt;&lt;tx&gt; periods&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="91" resname="3fb21ec6367bf6348a5fe162e4e290d4">
+        <source>January</source>
+      </trans-unit>
+      <trans-unit id="92" resname="2363a1945a61f204c4ee47105328a648">
+        <source>February</source>
+      </trans-unit>
+      <trans-unit id="93" resname="9d3e0132138772176ed009b5878e78a1">
+        <source>March</source>
+      </trans-unit>
+      <trans-unit id="94" resname="2852f7a05b84c7e7cd9303b32fd84777">
+        <source>Last month </source>
+      </trans-unit>
+      <trans-unit id="95" resname="7991cf3c6ae4759002e21a6848856c45">
+        <source>&lt;tx&gt;M&lt;/tx&gt;&lt;tx&gt;onthly report that can be reused &lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="96" resname="84e715d3d423fd4c105741ba644aa2f1">
+        <source>Relative periods can be +useful if you, for instance, want to design a +monthly report that can be reused +every month without having to+ manually change the report to reset the+ period to the+ correct month. </source>
+      </trans-unit>
+      <trans-unit id="97" resname="1300f86974cafc2d65eb1f082a26bdf1">
+        <source>Summary</source>
+      </trans-unit>
+      <trans-unit id="98" resname="4005ad9e81bbae898feeefbdeb2b208e">
+        <source>Period </source>
+      </trans-unit>
+      <trans-unit id="99" resname="aca0ed9fd4e74135361856ababbf6876">
+        <source>Time dimension in DHIS2</source>
+      </trans-unit>
+      <trans-unit id="100" resname="edef305546fcd983a092dc3bb2c26bf2">
+        <source>+ time frame</source>
+      </trans-unit>
+      <trans-unit id="101" resname="756896f129a612f4aec22a07cd4cd6ec">
+        <source>In summary, we learned that the +“period” is the +time dimension in DHIS2 for both +data collection and +data analysis.</source>
+      </trans-unit>
+      <trans-unit id="102" resname="98bcb7b4e734c620f5c603be0c82e511">
+        <source>Periods within DHIS2 consist of a combination of +frequency (such as monthly, yearly..) and +time frame (for example 2020, 2016-2020, Last six months).</source>
+      </trans-unit>
+      <trans-unit id="103" resname="9d95035fff33f19e256e6ba3f2cc4580">
+        <source>The +set frequency of the data collected defines the +lowest level of period detail of the Data analysis</source>
+      </trans-unit>
+      <trans-unit id="104" resname="a1d6f52333a9d6f4ab1146181fc96026">
+        <source>While aggregate data capture uses +only fixed periods, in data analysis, two types of periods are used, +fixed and +relative. Unlike fixed periods which +do not update automatically over time, relative periods will +update automatically over time based on the current date of analysis.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

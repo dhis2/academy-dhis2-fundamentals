@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-0920eb8ac87c4c589b8a027f73a2093a-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b25b19a6a2a0b4dc746c2685e180a94f">
+        <source>Check your score</source>
+      </trans-unit>
+      <trans-unit id="2" resname="69a14cee414bf4d3a9a1d333d3a6dcf0">
+        <source>To view your quiz score and check your overall progress, click on the button below or select the &lt;b&gt;Progress&lt;/b&gt; tab at the top of the page.  To pass the course you will need to score &lt;strong&gt;80% or more&lt;/strong&gt;  on  average between the 3 graded quizzes.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="997e7e06abe22698b63a875695266f77">
+        <source>&lt;strong&gt;&lt;a id=&quot;certGetButton&quot; href=&quot;&quot;&gt;Take me to the progress tab&lt;/a&gt;&lt;/strong&gt;</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

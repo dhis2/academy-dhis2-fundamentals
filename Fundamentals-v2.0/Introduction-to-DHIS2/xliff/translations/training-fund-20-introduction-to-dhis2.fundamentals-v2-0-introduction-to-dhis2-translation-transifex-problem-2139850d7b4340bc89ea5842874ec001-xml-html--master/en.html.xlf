@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-2139850d7b4340bc89ea5842874ec001-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="55b227e6b0d86a7290cd51d9f76d4064">
+        <source>True or False: Aggregate data can be entered into DHIS2 using SMS
+</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="5af0212eb7fc3039326686bb252b446b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. True&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="271c6d9a01bd2e0f4c6f73a1d94b1f5f">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. False&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="aa7f87e434d4cd5a9bf7f761b0e535ac">
+        <source>True. Data can be entered into DHIS2 using the web interface, the Android app, SMS, spreadsheets, and other electronic means.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

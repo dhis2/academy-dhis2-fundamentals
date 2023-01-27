@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-1ceae0b662cf4db6a93259f076e77484-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="a554e9d6841b9a60fece8cafd9f1664e">
+        <source>DHIS2 around the world</source>
+      </trans-unit>
+      <trans-unit id="2" resname="543dba9bfb5c7c4f9141c76141d98d49">
+        <source>Since DHIS launched in the nineties, DHIS2 has been implemented in over 70 countries around the world, and additional countries are deploying DHIS2 every year. The interactive map below shows you where and when DHIS2 was implemented.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="827311df986c7d79393c6b5ca5e6e044">
+        <source>Click on the items in the sidebar on the left to see the geographical scope of different DHIS2 implementations, including as a Health Management Information System (HMIS), for &lt;a href=&quot;https://www.dhis2.org/covid-surveillance&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;COVID-19 Surveillance&lt;/u&gt;&lt;/a&gt; and &lt;a href=&quot;https://www.dhis2.org/covid-vaccine-delivery&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;COVID-19 Vaccine Delivery&lt;/u&gt;&lt;/a&gt;, for collecting individual-level data with &lt;a href=&quot;https://dhis2.org/tracker-in-action/&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;Tracker&lt;/u&gt;&lt;/a&gt;, for mobile data entry with the &lt;a href=&quot;https://dhis2.org/android-in-action/&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;DHIS2 Android App&lt;/u&gt;&lt;/a&gt;, for standardized &lt;a href=&quot;https://dhis2.org/who/&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;WHO digital data packages&lt;/u&gt;&lt;/a&gt;, and as an &lt;a href=&quot;https://dhis2.org/education/&quot;&gt;&lt;u&gt;Education Management Information System&lt;/u&gt;&lt;/a&gt; (EMIS). In each view, click on the highlighted countries for more information about their specific implementations.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

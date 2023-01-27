@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-1fd28b999daa42d5808f22a3305f1559-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="68e0f73c91858d154ebc00c00bde43f1">
+        <source>Components of the DHIS2 ecosystem</source>
+      </trans-unit>
+      <trans-unit id="2" resname="d557cb2fd836b4b2753fee16f6c97596">
+        <source>DHIS2 is more than just a piece of software. As you’ve learned, it is a community effort that wouldn’t be possible without the people who research, develop, implement, localize and use the platform. This community effort is facilitated by a range of initiatives, programs, platforms and tools that make up the DHIS2 ecosystem.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="c6c3a3d5dd61c631a827befdcdccdf7a">
+        <source>In this video, you’ll discover the different parts of the ecosystem, and how you can get involved. Click the play button below to get started.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

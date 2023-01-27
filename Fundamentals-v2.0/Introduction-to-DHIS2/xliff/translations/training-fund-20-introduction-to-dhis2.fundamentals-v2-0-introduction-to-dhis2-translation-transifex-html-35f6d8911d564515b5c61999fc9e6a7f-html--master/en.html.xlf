@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-35f6d8911d564515b5c61999fc9e6a7f-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="ea310333c8c2efb94152588e762ddff7">
+        <source>DHIS2 and HISP</source>
+      </trans-unit>
+      <trans-unit id="2" resname="fac1cfb605710d8e05043d1958826cdc">
+        <source>As you saw in previous lessons, DHIS2 originally launched as a project from the Health Information Systems Programme, or HISP, in South Africa in 1994. But what does HISP do now? And how does it relate to DHIS2?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="db6900f9ac6306102bac414296a38638">
+        <source>In this video, you will discover how HISP works as a global movement to strengthen health information systems. You will also learn about how HISP is involved in the development of DHIS2, and helps implement DHIS2 around the world. Click the play button below to get started.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

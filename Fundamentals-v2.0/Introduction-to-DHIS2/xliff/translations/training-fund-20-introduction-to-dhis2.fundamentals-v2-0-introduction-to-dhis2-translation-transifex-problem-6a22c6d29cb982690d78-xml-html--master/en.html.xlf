@@ -1,0 +1,54 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-6a22c6d29cb982690d78-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="a1a86026892f04b8d4faf6c286a02012">
+        <source>If you want to notify the software development team of anything that might do not work with the platform, you can do it in:    </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="1ab1b13907038ecc716f5dd07b1e53c9">
+        <source> (Select 1 option)  </source>
+      </trans-unit>
+      <trans-unit id="5" resname="ff33f11ff34e0220b93e07d05dd862fe">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. translate.dhis2.org
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="54cac456cb7c7a4c8017a2de711a7218">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. jira.dhis2.org
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="c9042e59052db90bc8f958f867e38f20">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. play.dhis2.org
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="08f8e988624a289fc5be3ed839c6ae57">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. github.com/dhis2
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="0d9b1b082a3f72c02517f93ea71bb0cb">
+        <source>On the website &lt;strong&gt;jira.dhis2.org&lt;/strong&gt;, you can report bugs or request features by creating a support ticket for the DHIS2 software development team.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

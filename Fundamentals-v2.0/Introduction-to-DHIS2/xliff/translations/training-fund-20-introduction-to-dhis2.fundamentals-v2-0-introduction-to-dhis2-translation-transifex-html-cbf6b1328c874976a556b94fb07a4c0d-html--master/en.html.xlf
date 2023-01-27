@@ -1,0 +1,39 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-cbf6b1328c874976a556b94fb07a4c0d-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="ff79813c296b3c030646e7881b003fe5">
+        <source>What is in this module?</source>
+      </trans-unit>
+      <trans-unit id="2" resname="43bd436d0438b740a2563fffde39c42e">
+        <source>What are the unique features of DHIS2? What are its building blocks? Why is it relevant that DHIS2 is open-source? How does it integrate with other software systems?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="302a627b55c6b66582bc537a479d4f63">
+        <source>In this module, you will see &lt;strong&gt;how DHIS2 organizes and categorizes data internally&lt;/strong&gt;, which is one of its unique features. You will start to familiarize yourself with concepts such as &lt;strong&gt;data elements&lt;/strong&gt;, &lt;strong&gt;organisation units&lt;/strong&gt;, and &lt;strong&gt;periods,&lt;/strong&gt; which we refer to as the &lt;strong&gt;building blocks&lt;/strong&gt; of DHIS2. You will then learn some of the advantages of managing data with an open-source platform like DHIS2. Finally, you will see how DHIS2 can be integrated with other platforms and applications to extend its capabilities.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="944def91981212f8de9a4a7315d571fe">
+        <source>Learning objectives</source>
+      </trans-unit>
+      <trans-unit id="5" resname="de523640c0a01270179e3898f0507f84">
+        <source>At the end of this module you will be able to:</source>
+      </trans-unit>
+      <trans-unit id="6" resname="aff07796a5ee6cf8dff469c510c37b9f">
+        <source>Identify the DHIS2 building blocks that make it possible to customize and extend the capabilities of the platform.</source>
+      </trans-unit>
+      <trans-unit id="7" resname="912d1dacc06c014112f2d4b1d8f5ccd4">
+        <source>Indicate DHIS2's advantages as open-source software and its potential for integration with other platforms.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="25a253fb31b11ec5bbe678ecb87a8ac4">
+        <source>How will you be evaluated?</source>
+      </trans-unit>
+      <trans-unit id="9" resname="bdd728be7c72033f4418414ccad4e7d7">
+        <source>At the end of the module there is a graded quiz. It contributes 30% to your final grade, and you will have unlimited attempts to complete it.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="ce8e0cc3b0a6fc349460a22f9900be34">
+        <source>How long will this module take?</source>
+      </trans-unit>
+      <trans-unit id="11" resname="892853e52aa8ada4152925d1c661c7dc">
+        <source>The module should take about &lt;strong&gt;45 minutes&lt;/strong&gt; to complete.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

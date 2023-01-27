@@ -1,0 +1,39 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a87383e3aabc44738a6ef0652a100380-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="64c8f5bcac6a43457613b645e912d0b9">
+        <source>DHIS2 as an open-source platform</source>
+      </trans-unit>
+      <trans-unit id="2" resname="028de139a5b13e81ea165412db2bd6f1">
+        <source>DHIS2 is developed and supported as a &lt;strong&gt;global public good&lt;/strong&gt;. This means that any country, organization or institution can download and use it to collect and utilize data to improve public services. Essential to the DHIS2 design is the ability of the platform to be extended and modified to meet specific, local needs. To facilitate this, DHIS2 utilizes an open-source model to make the platform open and accessible by all.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="da4b759acd968c3aded99ad01c87b4c5">
+        <source>What does “open-source” mean?</source>
+      </trans-unit>
+      <trans-unit id="4" resname="8c7f18efce7d42dc0664f445fcecd724">
+        <source>DHIS2 is released as free and open software under the &lt;a href=&quot;https://opensource.org/licenses/BSD-3-Clause&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;BSD 3-clause license&lt;/strong&gt;.&lt;/a&gt; This means that the application can be used free of charge, anyone can access the source code, and the software can be modified and redistributed with few restrictions. This allows the global DHIS2 community to innovate and extend the software to meet local needs, and share these contributions globally.</source>
+      </trans-unit>
+      <trans-unit id="5" resname="6ae5a45f04e859c7bbc3f39d81f6b7e3">
+        <source>HISP UiO also considers all supporting material that we produce in relation to the DHIS2 project (documentation, translations and training materials) to be open-source, and we make them freely available for local modification and use.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="2b8c300f43b007bbfbaea1ddd032620f">
+        <source>The advantages of the open-source model</source>
+      </trans-unit>
+      <trans-unit id="7" resname="21afbddb5429aea91a8813cd107d5f36">
+        <source>Offering DHIS2 as free and open-source means that &lt;strong&gt;anyone can download, configure and deploy it&lt;/strong&gt; for as many users and devices as required, &lt;strong&gt;at no cost for the software itself and with no licensing fees&lt;/strong&gt;. In comparison, proprietary software systems typically require the purchase of a license for each user. It is important to note, however, that while DHIS2 is free to download and use, it is not a fully out-of-the-box solution and will require additional configuration, planning, training, infrastructure and maintenance resources.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="9d6b97c481fa0de960446ee23ac16558">
+        <source>Another primary advantage of the DHIS2 code and data models being open is that it allows individuals and organizations &lt;strong&gt;full access to the platform architecture&lt;/strong&gt;. This means individuals and organizations can more easily build custom applications to extend the functionality of their system, or link DHIS2 with other systems through interoperability solutions or metadata exchange. These local innovations and solutions can subsequently be integrated back into the DHIS2 source code, thus contributing to the greater good. Individuals and organizations also have the ability to modify and/or redistribute the core DHIS2 source code directly, with some limitations. However, this is relatively uncommon in practice, due to the complexities for long-term code maintenance.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="adb5ac0adefa20619cf540e9cb7c524c">
+        <source>While the core platform is developed by the University of Oslo, each implementation of DHIS2 (including configuration settings and the data contained within it) is &lt;strong&gt;locally owned and controlled&lt;/strong&gt; by the organization responsible for the system. This allows members of the DHIS2 community to leverage global DHIS2 resources while also having their own, customized DHIS2 system, which they completely own and operate themselves.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="28c80426b42c904f50d111a4b6843148">
+        <source>Finally, there is a large &lt;strong&gt;community&lt;/strong&gt; available to provide guidance on implementing DHIS2, as well as additional training and documentation that is available to support organizations in making DHIS2 work for them, all governed by open-source principles.</source>
+      </trans-unit>
+      <trans-unit id="11" resname="2994cdb89de0d33d6c66fac0d8546c79">
+        <source>Open-source code also supports platform &lt;strong&gt;security and stability&lt;/strong&gt;. External developers and security experts who identify errors in functionality or security, can refer back to the source code to help determine the source of any issues they identify.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

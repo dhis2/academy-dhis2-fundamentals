@@ -1,0 +1,54 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-b2af77399a794c7f86a8850d408db347-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="197e8ac00c5f1552e52d2073f0e87560">
+        <source>What can be done with a Dashboard in DHIS2?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="2cb8426623018e03ee80b9842f56fead">
+        <source>Select all that apply. </source>
+      </trans-unit>
+      <trans-unit id="5" resname="bb37b0405ae7e8e5a981c359d3fd1744">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. View the charts, pivot tables, and maps most frequently used.&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="5cadffdfb03f3929d3005b3b2977cad2">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Enter data directly to any output.&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="154677c1a19e740c8364f9bf0d8e4a6c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Quickly monitor program progress.&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="bb314055ed7da27478b1fde859fc9c6a">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Readily share information with others.&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e771ad550fea6348bb9ef64597abb970">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;E. Establish a routine for regularly checking key program aspects.&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="e74c60fb4e7e562af01b216e5a087e41">
+        <source>With a Dashboard, you can view the charts/tables/maps you use most frequently; quickly monitor program progress; readily share information with other users and user groups, and establish a routine for regularly checking key program aspects. Data cannot be entered through the Dashboard.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,57 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-2ab6ffee89c14dcb820ec4d42c75f737-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="0baf0466c0936de0907af7db7f4766e3">
+        <source>Get involved with DHIS2</source>
+      </trans-unit>
+      <trans-unit id="2" resname="e726e5d5bdbe7e3a29f5ebbf474b3f76">
+        <source>Now that you have learned about the different parts of the DHIS2 ecosystem, here you’ll find a list of the various components with links that allow you to learn more and get involved in the DHIS2 project.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="24f5bac40fcf9d3aaeed66d4f11e70ec">
+        <source>HISP research: &lt;a href=&quot;https://dhis2.org/research/&quot;target=&quot;_blank&quot;&gt;https://dhis2.org/research/ &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="4" resname="16d9f70e37c1898784b47f90c599c5b7">
+        <source>HISP network: &lt;a href=&quot;https://dhis2.org/hisp-network/&quot;target=&quot;_blank&quot;&gt;https://dhis2.org/hisp-network &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="5" resname="b01da98effc0edaa07d25b9ecd9e3714">
+        <source>Community of Practice: &lt;a href=&quot;https://community.dhis2.org/&quot;target=&quot;_blank&quot;&gt;https://community.dhis2.org/&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="6" resname="374ff6a576a3b992bc742a224568a3a3">
+        <source>Documentation: &lt;a href=&quot;https://docs.dhis2.org/&quot;target=&quot;_blank&quot;&gt;https://docs.dhis2.org/ &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="7" resname="a75b0bb1db512421aa61fc7d32ae0d93">
+        <source>GitHub: &lt;a href=&quot;https://github.com/dhis2/&quot;target=&quot;_blank&quot;&gt;https://github.com/dhis2/&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="8" resname="5c20c7583c6eeb14e6f2bac8552305ec">
+        <source>Transifex: &lt;a href=&quot;https://www.transifex.com/hisp-uio/public/&quot;target=&quot;_blank&quot;&gt;https://www.transifex.com/hisp-uio/public/ &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="9" resname="6d8c520d4124845fefa9cc18fcb46fc8">
+        <source>DHIS2 Academy: &lt;a href=&quot;https://www.dhis2.org/academy/&quot;target=&quot;_blank&quot;&gt;https://www.dhis2.org/academy &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="10" resname="b2c576ad9d19632b859ef77c9e552725">
+        <source>Demo databases: &lt;a href=&quot;https://play.dhis2.org/&quot;target=&quot;_blank&quot;&gt;https://play.dhis2.org/&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="11" resname="8bf1d02b6b122c4ae5b4b060a3211635">
+        <source>Jira: &lt;a href=&quot;http://jira.dhis2.org/&quot;target=&quot;_blank&quot;&gt;http://jira.dhis2.org/&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="12" resname="b2844df055fc80fd100413f4230db3cc">
+        <source>Developer Portal: &lt;a href=&quot;https://developers.dhis2.org/&quot;target=&quot;_blank&quot;&gt;https://developers.dhis2.org/ &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="13" resname="4197c2cd86e92b58875ec118797855d3">
+        <source>App Hub: &lt;a href=&quot;https://apps.dhis2.org/&quot;target=&quot;_blank&quot;&gt;https://apps.dhis2.org/ &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="14" resname="2e3db1f7a9d6d69b183f4103d3ea0274">
+        <source>Website: &lt;a href=&quot;https://www.dhis2.org/&quot;target=&quot;_blank&quot;&gt;https://www.dhis2.org/ &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="15" resname="6a10ef86556c4d23beb70e26a1c75313">
+        <source>DHIS2 newsletter: &lt;a href=&quot;https://www.dhis2.org/contact/&quot;target=&quot;_blank&quot;&gt;https://dhis2.org/contact/&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="16" resname="7f75ca3f5faf13bc544df5e4251a2fc5">
+        <source>Twitter: &lt;a href=&quot;https://www.twitter.com/dhis_2/&quot;target=&quot;_blank&quot;&gt;https://twitter.com/dhis_2 &lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="17" resname="5ccf54f98866a402f69b6c1dd9618475">
+        <source>Facebook:&lt;a href=&quot;https://www.facebook.com/dhis2/&quot;target=&quot;_blank&quot;&gt;https://www.facebook.com/dhis2/ &lt;/a&gt;</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

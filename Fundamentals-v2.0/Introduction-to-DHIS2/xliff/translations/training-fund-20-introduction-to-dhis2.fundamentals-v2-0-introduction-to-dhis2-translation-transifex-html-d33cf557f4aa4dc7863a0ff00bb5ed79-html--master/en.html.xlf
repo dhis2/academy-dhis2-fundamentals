@@ -1,0 +1,54 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-d33cf557f4aa4dc7863a0ff00bb5ed79-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="2876b090cfd7fce9fae82fbda1a0044e">
+        <source>Assess your progress: Knowledge checks and quizzes</source>
+      </trans-unit>
+      <trans-unit id="2" resname="0cc45f1955a360c6fb1da05086e5e650">
+        <source>In this screenshot you can see an overview of a Module Quiz style assessment. When you enter a Module Quiz, Lab, or unit Knowledge Check, you will see:</source>
+      </trans-unit>
+      <trans-unit id="3" resname="e2bc285298fbd1b1b623573f3b5607e0">
+        <source>
+&lt;img src=&quot;/static/HowToUseAssessments_Image.png&quot; style=&quot;width:100%;height:100%&quot; /&gt;
+
+</source>
+      </trans-unit>
+      <trans-unit id="4" resname="46ca8160147c939d7045c65e5778aca8">
+        <source>The type of assessment you are taking: </source>
+      </trans-unit>
+      <trans-unit id="5" resname="59df6057abd38c0d2d545090dcb906cb">
+        <source>A Knowledge Check is an ungraded test that helps check your understanding of a video or activity after you have completed it.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="08d60db474fb6939d7a18633d3a74da1">
+        <source>A Module Quiz is a graded test at the end of a module to test your knowledge of the items covered in the module.</source>
+      </trans-unit>
+      <trans-unit id="7" resname="92c722b716e0f14c536109547ff1cfb2">
+        <source>A Module Lab is a graded activity; you will be given the details of an instance of DHIS2 to log in to, and the questions will ask you to complete activities to find the answer.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="f831b8f7833b08be21c72d8f0bffd5aa">
+        <source>You will be informed if the quiz is graded or ungraded, and what percentage of the course certificate the quiz is worth.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="f154e21c25e7e4ef8399acc0960cda4a">
+        <source>The number of attempts you have to complete the quiz.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="68bed82a0e63165ad13c3f549c59c027">
+        <source>How many points the question is worth as a total weight of the quiz.</source>
+      </trans-unit>
+      <trans-unit id="11" resname="cbf09ab2aceafb0f219cbc8b942688c3">
+        <source>The question and the answer field. There are 3 types of questions used in this quiz:</source>
+      </trans-unit>
+      <trans-unit id="12" resname="d56662b919871dcfd021197b0c707fd5">
+        <source>Single answer multiple choice questions: These have circular check boxes, and you can only select one.</source>
+      </trans-unit>
+      <trans-unit id="13" resname="d28b44440775c059784da6775fe1a3a6">
+        <source>Multiple answer multiple choice questions: These have square check boxes and you can select multiple .</source>
+      </trans-unit>
+      <trans-unit id="14" resname="941b7e4ca237f322546389d3b5c99ab6">
+        <source>Drag and Drop answers: these are often diagrams with either pictures or text in boxes, and require you to drag the answer to the correct are of the field.</source>
+      </trans-unit>
+      <trans-unit id="15" resname="d968608d82bb6bef27052e3b52efc5d3">
+        <source>The Submit button, as well as how many attempts you have at the question. Some questions allow one attempt, and others allow three.   </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

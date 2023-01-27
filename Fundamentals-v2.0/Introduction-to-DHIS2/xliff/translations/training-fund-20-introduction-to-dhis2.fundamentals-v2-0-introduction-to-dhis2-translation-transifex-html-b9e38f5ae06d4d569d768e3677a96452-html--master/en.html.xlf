@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b9e38f5ae06d4d569d768e3677a96452-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="7c08052a6d9716541a655fc77fff93fe">
+        <source>Learning Path Interaction</source>
+        <context-group>
+          <context context-type="x-transifex-context">iframe</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2" resname="8e89aa97313a6403a15aaa6021182c49">
+        <source>https://s3-eu-west-1.amazonaws.com/content.dhis2.org/academy/learning-path/DHIS2+Training+paths/story.html</source>
+        <context-group>
+          <context context-type="x-transifex-context">iframe</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3" resname="179dffeb7f9b1d59c00f1e64a294cd45">
+        <source>
+Your browser does not support IFrames.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,24 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-07abf8ae37b14f8987b6fe04af9b18e7-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="db8ccacba1dd72c887bf912e7e614504">
+        <source>Course closing</source>
+      </trans-unit>
+      <trans-unit id="2" resname="37d4e4ffe0d3691f39ee1ab25cda4fdc">
+        <source>You have now finished the Introduction to DHIS2 course. You should now have a good grasp of how DHIS2 can be used in multiple fields to capture, analyze, and share data to facilitate decision-making. Remember, even though you have completed the course, you can return to it in the future, so if you need to revisit a concept or demonstration, just come back to the DHIS2 online academy and review the course.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="7e86e87322cfb76483c9e9265426db22">
+        <source>Download your course certificate</source>
+      </trans-unit>
+      <trans-unit id="4" resname="e82f975445afd2d29d4645ba5b9cec38">
+        <source>To get the course certificate, you need to achieve a passing grade of 80% or more. To check your current grade, go to the &lt;strong&gt;Progress&lt;/strong&gt; page in the top menu and review your score. If you have already achieved a passing grade, congratulations!  You can download your course certificate by going to your &lt;strong&gt;Dashboard&lt;/strong&gt; and selecting &lt;strong&gt;My courses&lt;/strong&gt;. You will find the list of courses you are enrolled in, locate the &lt;strong&gt;Introduction to DHIS2&lt;/strong&gt; and click on the course certificate to download or print it.</source>
+      </trans-unit>
+      <trans-unit id="5" resname="35d9cd61e73884271efb48e5950a39c3">
+        <source>Tell us how we can improve</source>
+      </trans-unit>
+      <trans-unit id="6" resname="fad6a6cd029de4c458726af1f4e7b951">
+        <source>Once you finish the course, please give us your feedback by completing the end-of-course survey. We constantly check participants’ feedback and look for ways to improve our courses. We truly appreciate your input.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

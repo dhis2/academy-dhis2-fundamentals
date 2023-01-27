@@ -1,0 +1,53 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-57af2e1313ebc27ce480-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="c3f32ec64baefe1ee0f66dff38dc5d9b">
+        <source>
+  &lt;img src=&quot;/static/image2.png&quot; alt=&quot;graph&quot; width=&quot;100%&quot; max-width=&quot;600px&quot;/&gt;
+  </source>
+      </trans-unit>
+      <trans-unit id="2" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="3" resname="8d3279a00cc773369cc056c1bb0dcda2">
+        <source>This chart was generated in March 2021. The chart uses what period type? </source>
+      </trans-unit>
+      <trans-unit id="4" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="5" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="6" resname="3622157b1ab6f94f5009aa2156fe5c26">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. A fixed period in which all months in 2020 were selected &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="0679433bb9516919b4705f0c9241108b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. A relative period in which the last 12 months was selected&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="4da5304c1a8483eedd986017570d578d">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. A fixed period in which the year 2020 was selected&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="3dc8cf2f1ec9a3c8bbd1ec1d3dbcda64">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. A relative period in which the last year was selected &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="a8ba4a063f5749bd8a0cefa10673e846">
+        <source>The period used in the graph is monthly 2020.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-db7a4bbf9b722b3eb6bf-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="4668f073fa9789670e12270dd0a4450a">
+        <source>Follow-up analysis creates a list of all data values marked for follow-up by the user. </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="5af0212eb7fc3039326686bb252b446b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. True&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="271c6d9a01bd2e0f4c6f73a1d94b1f5f">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. False&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="432e9dfd7e3b0816ecaf88668c386bc0">
+        <source>The follow-up analysis creates a list of all data values marked for follow-up. You can mark a data value for follow-up in the data entry app and in the result list you get from a standard deviation outlier or minimum maximum outlier analysis.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

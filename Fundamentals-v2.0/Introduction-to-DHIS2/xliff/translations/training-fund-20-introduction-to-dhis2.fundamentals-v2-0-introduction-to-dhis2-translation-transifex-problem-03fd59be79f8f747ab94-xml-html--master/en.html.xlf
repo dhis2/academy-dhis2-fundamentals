@@ -1,0 +1,52 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-03fd59be79f8f747ab94-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="dec141817b3caa7e2a1d2ac20de98a1d">
+        <source>What aspect of DHIS2 started in 2018, allowing DHIS2 users to discuss, interact and learn from each other?  </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="59cf0a654f663d1bde8e71dfe48c27c9">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. DHIS2 Design Lab
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="895fc61e5a2b21e1d8c714d9ad0595c8">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. DHIS2 Documentation&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="09e6a556ed33dae410fbdf54472240d5">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. DHIS2 Community of Practice&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="9afbc88f979066d9c4dbf725e3de2c32">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. DHIS2 Jira &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="12921b1f8eb3aa3e699308bb10690c5d">
+        <source>The Community of Practice is a website that allows DHIS2 practitioners to connect with others and share best practices globally.  
+
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

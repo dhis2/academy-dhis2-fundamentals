@@ -1,0 +1,47 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-4edbc32226f216d6692a-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="519ffc3773391706cfddfcfb687085af">
+        <source>  The DHIS2 data quality tool that checks if the data entered follow predefined conditions or rules for the data to follow is:  </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="71c7a8f165161d2fdda87dccd41ccd37">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Validation rule analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="2acb9724aa0fa2818360567792867585">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Standard deviation outlier analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="9e0cb197aafa3ab878069f8bcca68ce2">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Minimum maximum outlier analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="7efea3e462e24a69a0d4cb4108309439">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Follow-up analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="9" resname="6204c1bed95af031f87cbd4527409977">
+        <source>Validation rule analysis, tests validation rules against the data entered in the system. 
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

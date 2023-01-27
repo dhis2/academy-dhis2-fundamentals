@@ -1,0 +1,46 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-151ade908d6ed07a7e3a-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="6eadd1d92c9b356ce2b575b4e2a245bb">
+        <source>The Ministry of Health is running a survey to know the needs of pregnant and lactating women in the country. The survey is collected at one point in time and the data do not need to be tracked to an individual woman.</source>
+      </trans-unit>
+      <trans-unit id="2" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="3" resname="8ed02a2a3987d9db776de649b5311dc8">
+        <source>What model would you use for this purpose?</source>
+      </trans-unit>
+      <trans-unit id="4" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="5" resname="6319f6f19348b369f82ecf6e13b95ec1">
+        <source>Select one answer. </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e4aa37dc8abbbdca6a27551f08d4c4a1">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Aggregate&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="f08643f6919f11ebd6f47eb91f734c12">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Events&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="9042a8459758d6833a112bfdcbb8cea6">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Tracker&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="bbf163f54cf85643b50a9bf74572f683">
+        <source>The events data model captures anonymous individualized data, which is useful for storing survey data captured for a single point in time rather than by period. This allows health ministries to obtain and analyze information to make informed decisions.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

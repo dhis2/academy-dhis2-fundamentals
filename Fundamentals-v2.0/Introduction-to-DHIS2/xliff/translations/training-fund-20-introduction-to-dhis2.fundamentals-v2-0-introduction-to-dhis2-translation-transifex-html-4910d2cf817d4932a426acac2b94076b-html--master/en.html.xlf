@@ -1,0 +1,51 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-4910d2cf817d4932a426acac2b94076b-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="ef7bc970976202aa8e42e8753cd7b781">
+        <source>Meet the DHIS2 Online Academy Team</source>
+      </trans-unit>
+      <trans-unit id="2" resname="d3e25b87f0a84d9bd586228415272005">
+        <source>The DHIS2 Fundamentals course program is the first of the three levels of the DHIS2 Academy curriculum, and aims to introduce essential concepts and build foundational DHIS2 skills through demonstrations, hands-on exercises and labs. Creating and maintaining the materials for the DHIS2 Fundamentals courses is a team effort, drawing on experts in the DHIS2 platform, instructional and media design, and online learning technologies.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="74d51c7274c835fc3aca3558f30db67e">
+        <source>The team behind the DHIS2 Fundamentals are:</source>
+      </trans-unit>
+      <trans-unit id="4" resname="594d61272d8ef356dadd1fe537bd5f85">
+        <source>&lt;strong&gt;Subject matter experts and reviewers&lt;/strong&gt;, responsible for defining the curriculum, contents, and course structure, and validating all learning resources:</source>
+      </trans-unit>
+      <trans-unit id="5" resname="1aa2f0cefbd9b3a13868c98836e3489f">
+        <source>Shurajit Dutta</source>
+      </trans-unit>
+      <trans-unit id="6" resname="ed6d55808a26d14741869c5ce39fd7c8">
+        <source>Megan Kill</source>
+      </trans-unit>
+      <trans-unit id="7" resname="5ab7699c152a2df6dc920f489395dc68">
+        <source>Matthieu Pinard</source>
+      </trans-unit>
+      <trans-unit id="8" resname="339c1bb75f063ef97a2c311990081188">
+        <source>Max Krafft</source>
+      </trans-unit>
+      <trans-unit id="9" resname="faf0db1abe435cc6410c272189227f53">
+        <source>Rachel Zink</source>
+      </trans-unit>
+      <trans-unit id="10" resname="5b651c2bad6725713d970db8efd1c2b1">
+        <source>&lt;strong&gt;Production and support team&lt;/strong&gt;, responsible for designing and developing all multimedia learning resources and implementing the course in the platform, and providing student support:</source>
+      </trans-unit>
+      <trans-unit id="11" resname="156a5a3a31f46fbc106eb74768bf7110">
+        <source>Alejandra Ávila</source>
+      </trans-unit>
+      <trans-unit id="12" resname="19634c14a14f8341dc8b242b5c834b52">
+        <source>Grant Chapman-Clarke</source>
+      </trans-unit>
+      <trans-unit id="13" resname="b817b4013a80f1c2360b82b3560874c0">
+        <source>Simona Sekerova</source>
+      </trans-unit>
+      <trans-unit id="14" resname="2d88c0c60f7125155f2f74c01f62261d">
+        <source>Martin Evensen</source>
+      </trans-unit>
+      <trans-unit id="15" resname="8e3473aa760766af5ba19aafe8c7de2f">
+        <source>&lt;img src=&quot;/static/Team_photo.png&quot;&gt;</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

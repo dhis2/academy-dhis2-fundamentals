@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-1c60a4f2fd9c0006d000-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="475cc2e52535c691e5b1eb3a4413f9e1">
+        <source> The data quality tool that identifies values that are well above or below the standard deviation and are therefore potential errors is:   </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="71c7a8f165161d2fdda87dccd41ccd37">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Validation rule analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="2acb9724aa0fa2818360567792867585">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Standard deviation outlier analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="9e0cb197aafa3ab878069f8bcca68ce2">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Minimum maximum outlier analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="7efea3e462e24a69a0d4cb4108309439">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Follow-up analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="9" resname="15a3986b4b4d708a554dcf4ee5d42521">
+        <source>The standard deviation outlier analysis checks data quality, identifying those values that are potential outliers when compared to the standard normal distribution of the data under review.
+
+
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-72c43f53a8e85489ae6a-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="bbcd061e11059d675823260ccd7b3094">
+        <source> Which of the following resources allows you to explore DHIS2 features and check the latest version of the platform?   </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="ff33f11ff34e0220b93e07d05dd862fe">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. translate.dhis2.org
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="54cac456cb7c7a4c8017a2de711a7218">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. jira.dhis2.org
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="c9042e59052db90bc8f958f867e38f20">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. play.dhis2.org
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="08f8e988624a289fc5be3ed839c6ae57">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. github.com/dhis2
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="3530a15b83a34e8b19955f1238e036ce">
+        <source>On the website &lt;strong&gt;play.dhis2.org&lt;/strong&gt;, you can explore DHIS2 features and practice your skills on a demo version of the platform.
+
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

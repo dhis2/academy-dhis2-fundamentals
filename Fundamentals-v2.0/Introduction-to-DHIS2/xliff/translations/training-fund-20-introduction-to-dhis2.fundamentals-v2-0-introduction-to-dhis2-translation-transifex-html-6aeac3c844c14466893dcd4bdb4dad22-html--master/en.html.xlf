@@ -1,0 +1,33 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-6aeac3c844c14466893dcd4bdb4dad22-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b660ef6b8c48f4d91c4017dc7b280113">
+        <source>Data outputs, data interpretation</source>
+      </trans-unit>
+      <trans-unit id="2" resname="601db63e773e49bb917a03df491e686a">
+        <source>Once we have our data entered into the platform and after reviewing the data quality, we are ready to create outputs in DHIS2. In this video, you will learn how creating outputs helps visualize and analyze the data available within DHIS2. Click the play button below to start.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="84433574035940e92cd837543c50f34d">
+        <source>Key concepts</source>
+      </trans-unit>
+      <trans-unit id="4" resname="775e2d9c6c37404e99ed29fb2820efc7">
+        <source>Data visualization</source>
+      </trans-unit>
+      <trans-unit id="5" resname="47ac779f6b2c87cec8f670c279cee14d">
+        <source>Data analysis</source>
+      </trans-unit>
+      <trans-unit id="6" resname="10aee884df4591f02815a05c35730d37">
+        <source>Pivot tables</source>
+      </trans-unit>
+      <trans-unit id="7" resname="d85303ec5a4c9bdf433218c49ef32b35">
+        <source>Charts</source>
+      </trans-unit>
+      <trans-unit id="8" resname="f64d846a4aaf8648c8705304f12ba051">
+        <source>Maps</source>
+      </trans-unit>
+      <trans-unit id="9" resname="97c8c2c41d024367030254bacc4cc048">
+        <source>Reports</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,36 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-c0bcb6ab516f44be9610c0f2b676b168-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="ff79813c296b3c030646e7881b003fe5">
+        <source>What is in this module?</source>
+      </trans-unit>
+      <trans-unit id="2" resname="d8bd34169243947ab87623f509eef1d2">
+        <source>Now that you’ve covered the where, what and when of the DHIS2 system, alongside some of the basic use cases of DHIS2, it’s time to put DHIS2 into context. How did DHIS2 get started? How is it used to help save lives and improve health outcomes? In this module, we’ll look at each of these questions, and help you understand DHIS2 in the world of Global Digital Health programs.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="944def91981212f8de9a4a7315d571fe">
+        <source>Learning objectives</source>
+      </trans-unit>
+      <trans-unit id="4" resname="de523640c0a01270179e3898f0507f84">
+        <source>At the end of this module you will be able to:</source>
+      </trans-unit>
+      <trans-unit id="5" resname="60e489d96ea92b5280d8dfe88d8d82eb">
+        <source>Recognize the roles and the relationship between the University of Oslo (UiO) and the HISP network to create, develop, apply, and improve DHIS2 in the context of Global Digital Health programs.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="43bd17da586bf7359c55cdab5620beec">
+        <source>Distinguish the elements that comprise the DHIS2 ecosystem and the ways to interact with the DHIS2 global community.</source>
+      </trans-unit>
+      <trans-unit id="7" resname="25a253fb31b11ec5bbe678ecb87a8ac4">
+        <source>How will you be evaluated?</source>
+      </trans-unit>
+      <trans-unit id="8" resname="ed9ea3b49dcf77e14f4541459f01b628">
+        <source>At the end of the module there is a graded quiz. It contributes &lt;strong&gt;30% to your final grade,&lt;/strong&gt; and you will have unlimited attempts to complete it.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="ce8e0cc3b0a6fc349460a22f9900be34">
+        <source>How long will this module take?</source>
+      </trans-unit>
+      <trans-unit id="10" resname="892853e52aa8ada4152925d1c661c7dc">
+        <source>The module should take about &lt;strong&gt;45 minutes&lt;/strong&gt; to complete.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

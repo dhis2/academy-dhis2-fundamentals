@@ -1,0 +1,68 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-efc1b5f593ae4538a6a4f5badf854f26-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="d82f3f7ec1e04198bee2b7121f5897d7">
+        <source>Use Case 1: Use Case: Fast-tracking COVID-19 response using DHIS2 metadata packages</source>
+      </trans-unit>
+      <trans-unit id="2" resname="8f510edc73e3102226cecd9fe70b50bb">
+        <source>When the COVID-19 outbreak started in early 2020, more than 40 countries turned to DHIS2 to manage their data for various components of their COVID-19 response, including disease surveillance, port of entry screening, test result monitoring, and vaccination programs, with countries using aggregate, Event and Tracker data depending on their specific needs and capacity.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="fa3584bbf1f25d1677263901f0d355cf">
+        <source>In this use case, we will focus on &lt;strong&gt;COVID-19 Aggregate Weekly Surveillance&lt;/strong&gt;, and explain how the &lt;strong&gt;data set&lt;/strong&gt;, &lt;strong&gt;validation rules&lt;/strong&gt; and &lt;strong&gt;dashboards&lt;/strong&gt; in DHIS2 function to capture weekly data needed for rapid response to disease transmission and provide key statistics related to COVID-19.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="53e801e4ae58438b616dff8f82b4a1b7">
+        <source> &lt;img src=&quot;/static/Image_1_-_COVID19_Data_Set.png&quot; width=&quot;100%&quot;/&gt;</source>
+      </trans-unit>
+      <trans-unit id="5" resname="59f3be97779ee425cf0c8e807d66c7e7">
+        <source>The COVID-19 Aggregate Weekly Surveillance data set is a surveillance report that is used as a weekly data collection form filled out at the facility level (i.e. at a hospital, health center, etc.). The data set has six separate components, which are displayed in DHIS2 as &lt;strong&gt;sections&lt;/strong&gt; of the data entry form:</source>
+      </trans-unit>
+      <trans-unit id="6" resname="edd413bd94931a3733fcd697a73c54c8">
+        <source>New confirmed and probable cases</source>
+      </trans-unit>
+      <trans-unit id="7" resname="37375f7ed36b6395256d9be0d4886932">
+        <source>New confirmed and probable deaths</source>
+      </trans-unit>
+      <trans-unit id="8" resname="83650bf637fa9a470bc015c0f5b662e7">
+        <source>Health worker infection and death</source>
+      </trans-unit>
+      <trans-unit id="9" resname="a2ec8a09edd19e6865a3b3aaf0944a95">
+        <source>Hospitalization and discharges</source>
+      </trans-unit>
+      <trans-unit id="10" resname="beb5b96b43ee9bea2a9b98b52fac79bc">
+        <source>Tests conducted</source>
+      </trans-unit>
+      <trans-unit id="11" resname="1552b10296da680f005c874929e560f6">
+        <source>Transmission classification</source>
+      </trans-unit>
+      <trans-unit id="12" resname="78d8481516747a3fe762bd264cbab96d">
+        <source>Each section of this form includes two or more fields. For example, &lt;strong&gt;new confirmed and probable cases&lt;/strong&gt; has: 1) New confirmed cases and 2) New probable cases, both of which are &lt;strong&gt;disaggregated&lt;/strong&gt; by age and sex. This means that the number of male, female and unknown sex cases are reported separately, within defined age categories, which allows for more granular analysis of these data. The other sections of this form collect aggregate data values without disaggregations applied.</source>
+      </trans-unit>
+      <trans-unit id="13" resname="addee1ec8f300959c7ab781276565808">
+        <source>All of these elements of the COVID-19 data set, including frequency and level of reporting and disaggregations, &lt;strong&gt;can be configured in DHIS2 to suit the local context&lt;/strong&gt;. You can learn more about configuring DHIS2 for aggregate data in the &lt;strong&gt;DHIS2 Customization course&lt;/strong&gt;.</source>
+      </trans-unit>
+      <trans-unit id="14" resname="d761bf6da57bfe34b8e53a5d56292d80">
+        <source> &lt;img src=&quot;/static/Image_2_-_Validation_Rules.png&quot; width=&quot;100%&quot;/&gt;</source>
+      </trans-unit>
+      <trans-unit id="15" resname="0bef31bbc69b63db8d83fb3f6f5e4563">
+        <source>&lt;strong&gt;Validation rules&lt;/strong&gt; allow you to run checks on the data that you have entered and stored in DHIS2. In this particular COVID-19 use case, the validation rules are scheduled to run weekly. These validation rules provide a straightforward &lt;strong&gt;data quality check before any analytic outputs are created&lt;/strong&gt; from the collected data. You can learn more about validation rules for aggregate data in the &lt;strong&gt;DHIS2 Data Capture and Validation course&lt;/strong&gt;.</source>
+      </trans-unit>
+      <trans-unit id="16" resname="9c947baaef40d4885144cf10e2088472">
+        <source>
+&lt;img src=&quot;/static/Image_3_-_COVID19_Weekly_Surveillance_Dashboard.png&quot; width=&quot;100%&quot;/&gt;
+</source>
+      </trans-unit>
+      <trans-unit id="17" resname="59d6b50a1f486c7969bf80d33d906d4b">
+        <source>This use case also includes a DHIS2 &lt;strong&gt;dashboard&lt;/strong&gt; for analyzing and monitoring COVID-19 data. In DHIS2, once data has been collected, visualizations can be created for data analysis. Dashboards are a collection of visualizations and other outputs, enabling you to quickly find, share and analyze important outputs. In this use case, the dashboard includes a number of outputs, including charts, a pivot table and a map, which illustrate key data points, such as the number of cumulative tests conducted, cases reported, cases hospitalized, cases discharged and deaths. Users can adjust the settings on the dashboard to view outputs at various levels of the health system hierarchy, to facilitate analysis from the national to the facility level.</source>
+      </trans-unit>
+      <trans-unit id="18" resname="7e389a148ad293bd7aeec323bdefe48b">
+        <source>This COVID-19 use case is an example of a &lt;strong&gt;DHIS2 metadata package&lt;/strong&gt;, which are &lt;strong&gt;installable, pre-built configurations&lt;/strong&gt; of metadata (including data sets, indicators, validation rules, and dashboards, among other components) that can be downloaded and installed into any DHIS2 system. </source>
+      </trans-unit>
+      <trans-unit id="19" resname="8d2af45699950f94d00f2567bc195277">
+        <source>Metadata packages are designed in collaboration with the World Health Organization (WHO), United Nations Children's Fund (UNICEF) and other subject matter experts, and are designed around global standards and guidelines for key health programs. Metadata packages also &lt;strong&gt;allow countries to fast-track their implementation of DHIS2&lt;/strong&gt; by starting from installable templates instead of a blank slate. Because of the flexibility of DHIS2, &lt;strong&gt;each metadata package can be further adapted and customized&lt;/strong&gt; according to country requirements and context.</source>
+      </trans-unit>
+      <trans-unit id="20" resname="7a3157e222b68f54bf4c58df32ef96cd">
+        <source>For more information on DHIS2 for COVID-19 response and metadata packages, please visit the &lt;a href=&quot;https://dhis2.org/covid-19/&quot; target=&quot;_blank&quot;&gt;DHIS2 website&lt;/a&gt;. </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

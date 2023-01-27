@@ -1,0 +1,35 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-5f4b8e7d6e43241603b8-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="9465c8b4d785105c079daf071244f2fd">
+        <source>Organisation Units determine how the data can be aggregated and disaggregated along the geographical dimension.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="5af0212eb7fc3039326686bb252b446b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. True&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="4e360d92bc63bde666ee09d9d4f20c1c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. False &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="f7eb64757e813f514c45aa9e7dc0852d">
+        <source> Organisation Units are one of the keystones of the DHIS2 system and as such are vital for many of its functions, such as data capture, data aggregation and disaggregation along the geographical dimensions.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-d01cdfab3fa041bdb417b0829673c3cc-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="c5d658168499b30266ecd7d811ea3073">
+        <source>Which of the following statements about Indicators is true?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="8b9638eeda1212e05e810c226edcbad5">
+        <source>Select all that apply </source>
+      </trans-unit>
+      <trans-unit id="5" resname="d87d06fb0f640169caeb7561fffd9da8">
+        <source>A. They are raw data values</source>
+      </trans-unit>
+      <trans-unit id="6" resname="57237725c06eee7a07c2e62e3f7603e1">
+        <source>B. They are calculated values</source>
+      </trans-unit>
+      <trans-unit id="7" resname="66ffa3e617a2a1af9afa37e3ca103565">
+        <source>C. They are often useful for comparison of health performance across geographical areas with very disparate target population sizes</source>
+      </trans-unit>
+      <trans-unit id="8" resname="ee40ccaaf79d53869e7275a618ccd157">
+        <source>D. They are collected</source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="497ae029cdcb78e576828b0dd35bc7cb">
+        <source>Indicators refer to values that are not entered directly, but instead are calculated using one or more data elements.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f85de8a2007a41079f4d17e22f6c6939-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="b3fe5cd3ec14a08f62089327dbf6c05e">
+        <source>Which of the following would be best classified as Data Elements in DHIS2?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="8b9638eeda1212e05e810c226edcbad5">
+        <source>Select all that apply </source>
+      </trans-unit>
+      <trans-unit id="5" resname="3e9fdf8f5ccb246cfa37cc115264abcd">
+        <source>A. Number of available hospital beds</source>
+      </trans-unit>
+      <trans-unit id="6" resname="65244645399852f8753bcd7f16ac5310">
+        <source>B. Maternal mortality ratio (per 100,000)</source>
+      </trans-unit>
+      <trans-unit id="7" resname="0a4f9662deb8ba4465e3f3f4a9e746e1">
+        <source>C. Oral polio vaccine coverage</source>
+      </trans-unit>
+      <trans-unit id="8" resname="97d515895a7b15367b3da5630cf599ed">
+        <source>D. Number of positive malaria cases</source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="857bb47caae6b2c89da739234df20250">
+        <source>“Number of available hospital beds” and “Number of positive malaria cases” are considered Data Elements as they represent a simple count and can be collected directly. On the other hand, indicator values are not collected like the data element values, but are calculated based on defined formulas.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

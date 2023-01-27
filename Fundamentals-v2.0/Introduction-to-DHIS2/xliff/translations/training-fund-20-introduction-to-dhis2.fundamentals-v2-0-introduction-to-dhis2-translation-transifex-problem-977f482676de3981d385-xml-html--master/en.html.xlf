@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-977f482676de3981d385-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="36f7660b5473a26ba6758564a111cb59">
+        <source> Which country did the HISP project launch in?   </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="83cac4862b951e960094a3293cd76787">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Norway&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="a22be0685a06db59eceb7653a9a92ae8">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. South Africa&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="65b2b38bf11addba2ed6c66f20a00f59">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Kenya&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="916c85ffa8257607de31e5ccfdc5d88b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Gambia &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="8025757cbd664f2056846f66c5d0e757">
+        <source>HISP launched in South Africa in 1994, and set the DHIS project in motion.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

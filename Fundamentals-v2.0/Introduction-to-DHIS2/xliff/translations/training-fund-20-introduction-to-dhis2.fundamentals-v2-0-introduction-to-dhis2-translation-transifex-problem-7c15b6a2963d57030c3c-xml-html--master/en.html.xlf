@@ -1,0 +1,54 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-7c15b6a2963d57030c3c-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="4b4750471a627d75b4b5f4a63810ef9b">
+        <source>Which of the following are examples of relative periods? </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="7d6778b840f7bd59a7f97794942ad0d0">
+        <source>(Select all that apply)  </source>
+      </trans-unit>
+      <trans-unit id="5" resname="01ff990baf607294bb80090d5bcea692">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. 2018 
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="1d28da1d874d7ef01f1c1b7345be0324">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Last month &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="3abdfa702bc5044a86837262ab9b94cc">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. October 2020  &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="51e0da3f0694bf34840aca2aac143a52">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Last year &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="1ffc3cd32c303782b9f1c65d3049d70c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;E. Last 6 months&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="0a6d5ef3742007ac04ac862d6b97f0c2">
+        <source>Relative periods such as “last year”, “last month”, and “last 6 months”, are not defined in an absolute sense but rather in relation to the current date. The key difference between fixed and relative periods is that a fixed period does not update automatically over time for an analytic object; whereas a relative period will show new data as we move ahead with time.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-beb7379bf5bcb9757ea5-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="9104064198bf0296bc21e5c443fee738">
+        <source> HISP can be described as: </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="3b81d9b569fe0f3b0c484532f806bd41">
+        <source>(Select 3 options)  </source>
+      </trans-unit>
+      <trans-unit id="5" resname="e9c4cc0ef66afddf781a94aead10bb2c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. A global movement&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="0f4c64701872f9856a2f07b9ae6390cc">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. A group that provides DHIS2 implementation support 
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="acaea41fcb8729ee6359ecadbabd12c3">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. A group that provides standards and requirements for DHIS2 &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="6fa348891c17a600d507c10fd7a17cb4">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. The group responsible for the development of the DHIS2 software 
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="cb2a2e8170c4ab6014782631d3f39352">
+        <source>HISP can be described as a global movement that provides DHIS2 implementation support, including standards and requirements for DHIS2. The University of Oslo (UiO) is responsible for the development of the DHIS2 software.
+
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,129 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-712d23b8159146f2bd59f363220b08f4-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="fc5446d374f09e12ba9adb200844978b">
+        <source>Welcome to the &lt;strong&gt;Introduction to DHIS2&lt;/strong&gt; course, part of the &lt;strong&gt;DHIS2 Fundamentals&lt;/strong&gt; course program. We at the DHIS2 Academy Team want to thank you for your interest in DHIS2, and hope that this course provides you with a helpful
+    overview of the DHIS2 software and some of its common uses that can serve as the foundation for your DHIS2 learning journey.</source>
+      </trans-unit>
+      <trans-unit id="2" resname="ef83892bb996cb89dd956395765c7a3c">
+        <source>In this module 0, you’ll find an overview of the course, get familiarized with the DHIS2 Online Academy platform, and find the most important information to get started.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="730b8be591a155e82a432f0e4d63ef43">
+        <source>What is this course about?</source>
+      </trans-unit>
+      <trans-unit id="4" resname="1b79bb8edd06ded136155575c1a0cf45">
+        <source>What is DHIS2? What are the conceptual building blocks of the system? How can data be entered into DHIS2? What type of data analysis can be done with it? Throughout this course, you will learn about the &lt;strong&gt;fundamental concepts&lt;/strong&gt; that underpin
+    how DHIS2 works, such as its &lt;strong&gt;building blocks&lt;/strong&gt; and how data are entered, validated, analyzed, and shared. You will also discover the &lt;strong&gt;community&lt;/strong&gt; that surrounds DHIS2, and learn about its &lt;strong&gt;history&lt;/strong&gt; and its
+    &lt;strong&gt;supporting ecosystem&lt;/strong&gt;.</source>
+      </trans-unit>
+      <trans-unit id="5" resname="90e6f1e1a19ab18fbcdacce51f3b10c1">
+        <source>In this course, we will primarily use the field of public health for our examples, but note that DHIS2 is also used in other sectors such as education and environment.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="91f4f0042989b3cb0e1f0b7e66ef80e7">
+        <source>What will I learn?</source>
+      </trans-unit>
+      <trans-unit id="7" resname="12e69b156505d99179d5e6736edcd3e2">
+        <source>After completing this course, you’ll be able to:</source>
+      </trans-unit>
+      <trans-unit id="8" resname="5a465a78dd1a8e8dcb441a45a636778b">
+        <source>Identify examples of the use of DHIS2 in the implementation, monitoring, and evaluation of public health programs.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="7e605d188f25badeb2f6e3f83cce7671">
+        <source>Recognize how DHIS2 can be used to capture, analyze, and share data to make informed decisions in public health and other fields.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="aff07796a5ee6cf8dff469c510c37b9f">
+        <source>Identify the DHIS2 building blocks that make it possible to customize and extend the capabilities of the platform.</source>
+      </trans-unit>
+      <trans-unit id="11" resname="b8d3d0b3aff19aca2b45d69fc980532c">
+        <source>Indicate DHIS2 advantages as open-source software and its potential for integration with other platforms.</source>
+      </trans-unit>
+      <trans-unit id="12" resname="60e489d96ea92b5280d8dfe88d8d82eb">
+        <source>Recognize the roles and the relationship between the University of Oslo (UiO) and the HISP network to create, develop, apply, and improve DHIS2 in the context of Global Digital Health programs.</source>
+      </trans-unit>
+      <trans-unit id="13" resname="43bd17da586bf7359c55cdab5620beec">
+        <source>Distinguish the elements that comprise the DHIS2 ecosystem and the ways to interact with the DHIS2 global community.</source>
+      </trans-unit>
+      <trans-unit id="14" resname="7c7b950a4162286b678bb64471186d68">
+        <source>What are the course prerequisites?</source>
+      </trans-unit>
+      <trans-unit id="15" resname="cdd0517667f2525825919ab8cf0ac15f">
+        <source>There are no specific prerequisites to take this course.</source>
+      </trans-unit>
+      <trans-unit id="16" resname="929b04757701c016b485830f8ed06eb7">
+        <source>How is the course structured?</source>
+      </trans-unit>
+      <trans-unit id="17" resname="64ae2c6dc1405f42e32dd707c77d3771">
+        <source>Introduction to DHIS2 is comprised of 4 modules:</source>
+      </trans-unit>
+      <trans-unit id="18" resname="a60a38d9814eeb205d3bd10062f6dac6">
+        <source>&lt;strong&gt;Module 1&lt;/strong&gt;: What is DHIS2 and how is it used? (60 min)</source>
+      </trans-unit>
+      <trans-unit id="19" resname="01f65a99240c5ed7178334d707fa0c59">
+        <source>&lt;strong&gt;Module 2&lt;/strong&gt;: Understanding the basics of DHIS2 (45 min)</source>
+      </trans-unit>
+      <trans-unit id="20" resname="cd0351712e2da0819ce03bd3974ad8d0">
+        <source>&lt;strong&gt;Module 3&lt;/strong&gt;: DHIS2: A global community-driven project (45 min)</source>
+      </trans-unit>
+      <trans-unit id="21" resname="61f2d6cd3aacccc7014af700b655738e">
+        <source>&lt;strong&gt;Module 4&lt;/strong&gt;: Next steps (10 min)</source>
+      </trans-unit>
+      <trans-unit id="22" resname="c8913f7ca4856083991890ad48d2bbc7">
+        <source>How will I learn?</source>
+      </trans-unit>
+      <trans-unit id="23" resname="578287d5914c266d40a2f7a38655a027">
+        <source>In each module, you will find &lt;strong&gt;video presentations, demonstrations, and knowledge check questions.&lt;/strong&gt; Modules 1, 2 and 3 also contain &lt;strong&gt;assessment quizzes&lt;/strong&gt; that you’ll need to pass to finish the course.</source>
+      </trans-unit>
+      <trans-unit id="24" resname="0fa9a7e2538954564ff8bc86b713d1e1">
+        <source>Each topic is presented in the form of videos of approximately 5 minutes. Watch them at your leisure (or download them to save them for later), participate in the discussions, and see how much you’ve learned by taking the quizzes afterward.</source>
+      </trans-unit>
+      <trans-unit id="25" resname="ae0c5731d0b6e5e21ab0fd10acc18b00">
+        <source>How long will it take to complete the course?</source>
+      </trans-unit>
+      <trans-unit id="26" resname="43c48d07a000761acac8b893d05df7e2">
+        <source>We estimate the course will take approximately &lt;strong&gt;3 hours&lt;/strong&gt; to complete. This includes the review of all videos and completing the graded assessments. As this is a self-paced course, note that this may vary slightly for each learner.</source>
+      </trans-unit>
+      <trans-unit id="27" resname="5f4b41fa595b1bdd712cfd52da4181fe">
+        <source>How do I pass the course?</source>
+      </trans-unit>
+      <trans-unit id="28" resname="d321e33d0e8d6f8130bf76bec90984ab">
+        <source>The course consists of 3 graded quizzes that you will find at the end of modules 1, 2, and 3. In those quizzes, you will find 10 randomized questions from a question bank and have &lt;strong&gt;unlimited attempts&lt;/strong&gt; to pass the quizzes. The weighting of the quizzes is as follows:</source>
+      </trans-unit>
+      <trans-unit id="29" resname="25b1d797e48d9ecdf326bed5b292b73c">
+        <source>40% for Module 1</source>
+      </trans-unit>
+      <trans-unit id="30" resname="b8948fbe588fc65b500c74b3c0db41c4">
+        <source>30% for Module 2</source>
+      </trans-unit>
+      <trans-unit id="31" resname="84789fc063c8d4f281f384eaad9c0b98">
+        <source>30% for Module 3</source>
+      </trans-unit>
+      <trans-unit id="32" resname="a1bcc0cc99ccc9eccb801aab19d8a4af">
+        <source>In order to pass the course, an &lt;strong&gt;overall grade of 80%&lt;/strong&gt; is required.</source>
+      </trans-unit>
+      <trans-unit id="33" resname="504ca078de3a019bac1a92e1978c8e7d">
+        <source>This is the first course in the DHIS2 Fundamentals course program, which also contains the &lt;strong&gt;Aggregate Data Capture &amp;amp; Validation, Aggregate Data Analysis&lt;/strong&gt;, &lt;strong&gt;Aggregate Customization,&lt;/strong&gt; and &lt;strong&gt;Events Fundamentals&lt;/strong&gt; courses. If you are interested
+    in getting higher level training on DHIS2, you will find information about Level 1 and Level 2 Academies at the end of the course.</source>
+      </trans-unit>
+      <trans-unit id="34" resname="4a3debafaf9f2ee947b40ef17abb5f90">
+        <source>What is the course timeline?</source>
+      </trans-unit>
+      <trans-unit id="35" resname="6a259667ecb1d00794a44ed63ca4f0ed">
+        <source>This course is &lt;strong&gt;self-paced&lt;/strong&gt;, which means there are &lt;strong&gt;no set deadlines&lt;/strong&gt; and you can go through it as fast or as slow as you prefer. This course does not currently have a set end date. In the event that an end date is scheduled,
+    you will be notified with enough time to finish your work in the course.</source>
+      </trans-unit>
+      <trans-unit id="36" resname="de87b9e5ab197bc84032b90c34f6348e">
+        <source>How do I get support?</source>
+      </trans-unit>
+      <trans-unit id="37" resname="8ecdf8a7e126912d16094fc13281e028">
+        <source>For &lt;strong&gt;technical&lt;/strong&gt; support or when you have issues &lt;strong&gt;navigating the platform&lt;/strong&gt;, you can contact the course moderators for help by email at &lt;a href=&quot;mailto:fundamentals-support@dhis2.org&quot; target=&quot;_top&quot;&gt;fundamentals-support@dhis2.org&lt;/a&gt;. For a quicker response, please don't forget
+    to indicate your username or the email address you used to register on the platform.</source>
+      </trans-unit>
+      <trans-unit id="38" resname="a1309f02f314a0873bffe92faeb32487">
+        <source>What should I do now?</source>
+      </trans-unit>
+      <trans-unit id="39" resname="4af563a977ec3b2651064f718c7988ff">
+        <source>If this is your first time using the DHIS2 Online Academy, go to the next unit to learn how to navigate the platform.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

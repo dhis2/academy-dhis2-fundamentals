@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-07b657f29f4544a9bc9a0f605db79038-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="f321a8bb38b2143d55d2752d754aff55">
+        <source>Module 2 Feedback Survey</source>
+      </trans-unit>
+      <trans-unit id="2" resname="9e7919fe1be99440667c33e9cc562b96">
+        <source>Once you are done with the module, please take 2 or 3 minutes to complete this feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!</source>
+      </trans-unit>
+      <trans-unit id="3" resname="abd10c14e3372eb4f7c799d52dcbbb79">
+        <source>https://docs.google.com/forms/d/e/1FAIpQLSfgJEXW7ZODzsHNRwU5rOxnaIQ8jD5GGCCzItgQ4Ce4UYG0XA/viewform?embedded=true</source>
+        <context-group>
+          <context context-type="x-transifex-context">iframe</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4" resname="282669cd322ce8f0862ce41c77b96f83">
+        <source>Loading…</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

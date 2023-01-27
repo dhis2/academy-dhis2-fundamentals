@@ -1,0 +1,50 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c1ed7bdf2cff366bd7e8-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="c72702bcc905b775007167d11bff9632">
+        <source> In which country did the first implementation of DHIS2 launch in 2004?  </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="83cac4862b951e960094a3293cd76787">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Norway&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="a22be0685a06db59eceb7653a9a92ae8">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. South Africa&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="90a2cb4b983a2e65f1b248ef5cb92a75">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Uganda&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="596419090b3a298a7667a088f05d686a">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. India &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="0252425fa3621026406b3f1c9832b5a2">
+        <source>DHIS2 launched in Kerala, India after development began in 2000.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

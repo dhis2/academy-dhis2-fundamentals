@@ -1,0 +1,53 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-eddd8f73bfb272302ecc-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="df4f4f0e05cd9e036740da1a3b2a445c">
+        <source>Which of the following are the core dimensions of data values in DHIS2?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="95c614b3cb275d199c0c923c4faeb331">
+        <source>(Select 3 options)</source>
+      </trans-unit>
+      <trans-unit id="5" resname="271959f5bc7558d061d211ee448e2870">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Organisation Unit (the “Where”)&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="0101d7d04246c0477727a0aba328a591">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Data Set (the “What”)&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="b2c5376eba8b6e80fd40e8578ac865af">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Data Element (the “What”)&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="ee05ab6342b423c493b2512c4c4db80c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Period (the “When”)&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="46363cbb738c7c9449c2af20995c6e40">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;E. Patients and clients (the “Who”)&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="0a980eb5048f7f415aee40762bcb387a">
+        <source> As highlighted in the building blocks presentation, there are 3 core dimensions in DHIS2. The Organisation Unit refers to the geographical location or “where” aspect, Data Element refers to “what” we are collecting, and Period refers to “when” we are collecting that information. </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

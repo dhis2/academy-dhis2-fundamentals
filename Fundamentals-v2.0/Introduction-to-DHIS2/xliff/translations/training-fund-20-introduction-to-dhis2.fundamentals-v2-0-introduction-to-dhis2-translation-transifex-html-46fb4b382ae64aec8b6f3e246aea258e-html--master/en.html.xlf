@@ -1,0 +1,24 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-46fb4b382ae64aec8b6f3e246aea258e-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="69017fa9a2401e14f6fa544f64502dcc">
+        <source>Pre-course survey</source>
+      </trans-unit>
+      <trans-unit id="2" resname="c3d35bf569598afd8482afc577fe457c">
+        <source>Tell the DHIS2 Academy team more about yourself by filling out our &lt;strong&gt;Pre-course Survey&lt;/strong&gt; below.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="208cef65f54af0d893c2eece8e2acc9d">
+        <source>Your responses to this survey will help the DHIS2 Academy team improve our course offerings by providing valuable insight into our Academy audience. Whether you are just browsing or you are determined to complete the entire course, the more we know about you, &lt;strong&gt;the better we can serve all participants&lt;/strong&gt; in this course.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="4c6297640b628116f0991e9728857640">
+        <source>https://docs.google.com/forms/d/e/1FAIpQLSeQC8RNYY1CgO1XrVS96_tCBDXSu62DFFnjZLXzHYqJxSZqng/viewform?usp=sf_link</source>
+        <context-group>
+          <context context-type="x-transifex-context">iframe</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5" resname="3e821e9d71921a84d763ad2b54cfb8b0">
+        <source>Loading&amp;hellip;</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

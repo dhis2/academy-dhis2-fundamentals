@@ -1,0 +1,48 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-9067537398bf62ace29c-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="3b579e51976149054ca76fe06d4711f3">
+        <source> Organisation Units represent: </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="eae7ffd8376fcff582a61c998c072911">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. The geographical location of the data &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="d84348558cf742855613639dd76c70c0">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Calculated data values &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="456959a07727ec5791c0d24fffa09378">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Health program projects &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="ca437b33183764d98a3efb2bb0e07e6f">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. The type of health facilities &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="aa38c0bd54c47cd0f7d85bba2934f014">
+        <source> Organisation Units are referred to as the geographical location of the data.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

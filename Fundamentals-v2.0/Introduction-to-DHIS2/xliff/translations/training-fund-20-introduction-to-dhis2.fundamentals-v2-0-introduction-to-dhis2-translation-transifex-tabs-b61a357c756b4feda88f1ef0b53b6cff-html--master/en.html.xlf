@@ -1,0 +1,61 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-tabs-b61a357c756b4feda88f1ef0b53b6cff-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="f5c5f360ad41f64718833ba633c7b673">
+        <source>Frequently Asked Questions (FAQs) </source>
+      </trans-unit>
+      <trans-unit id="2" resname="82c6498c00ddcb0b2b1da783a8e82bfc">
+        <source>&lt;a class=&quot;accordion__link&quot; tabindex=&quot;1&quot;&gt;How long will it take to complete the course?&lt;/a&gt;
+</source>
+      </trans-unit>
+      <trans-unit id="3" resname="1677ffceeb49aaab64ed372640ee17ce">
+        <source>&lt;span style=&quot;color: #000000;&quot;&gt;We estimate the course will take approximately 3 hours to complete. This includes the review of all videos, readings, knowledge checks, and quizzes. As this is a self-paced course, note that this may vary slightly for each learner.&lt;/span&gt;</source>
+      </trans-unit>
+      <trans-unit id="4" resname="fbd61cb606ed0f4541807e59587fb971">
+        <source>&lt;a class=&quot;accordion__link&quot; tabindex=&quot;1&quot;&gt;Is there a deadline to complete the course?&lt;/a&gt;
+</source>
+      </trans-unit>
+      <trans-unit id="5" resname="07f663f47e3f0849e2efa83eddb3bac8">
+        <source>No. In the event that an end date is scheduled, you will be notified with enough time to finish your work in the course.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="ec77737293b23bbef812aa5bc4f959e9">
+        <source>&lt;a class=&quot;accordion__link&quot; tabindex=&quot;1&quot;&gt;How will I be evaluated?&lt;/a&gt;
+</source>
+      </trans-unit>
+      <trans-unit id="7" resname="525989329bd3ffb6dd055c54dcaca71f">
+        <source>The course consists of 3 graded quizzes that you will find at the end of modules 1, 2, and 3. In those quizzes, you will find 10 randomized questions from a question bank and have unlimited attempts to pass the quizzes.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="10b9dd5d8b1cf4c7ee0c9bb706220105">
+        <source>To pass the course, an overall grade of 80% is required</source>
+      </trans-unit>
+      <trans-unit id="9" resname="5ee13d4ac1ea1a5883ace7356b49c83a">
+        <source>&lt;a class=&quot;accordion__link&quot; tabindex=&quot;1&quot;&gt;When and where will my certificate be available?&lt;/a&gt;
+</source>
+      </trans-unit>
+      <trans-unit id="10" resname="6871bab93cf6715493eb76eb589ebdf4">
+        <source>To get the course certificate, you need to achieve a passing grade of 80% or more. To check your current grade, go to the &lt;strong&gt;Progress&lt;/strong&gt; page in the top menu and review your score. If you have already achieved a passing grade, congratulations! You can download your course certificate by going to your &lt;strong&gt;Dashboard&lt;/strong&gt; and selecting &lt;strong&gt;My courses&lt;/strong&gt;. You will find the list of courses you are enrolled in, locate the &lt;strong&gt;Introduction to DHIS2&lt;/strong&gt; and click on the course certificate to download or print it</source>
+      </trans-unit>
+      <trans-unit id="11" resname="125894aae5128c7c244a55fc4989f6cd">
+        <source>&lt;a class=&quot;accordion__link&quot; tabindex=&quot;1&quot;&gt;This is my first time taking a course on the DHIS2 Online Academy, how do I navigate the platform?&lt;/a&gt;
+</source>
+      </trans-unit>
+      <trans-unit id="12" resname="483fdc768f2faa35325fdedbeab12d89">
+        <source>We prepared a document with some &lt;a href=&quot;/static/Navigating_edX__Introduction_to_DHIS2.pdf&quot; target=&quot;_blank&quot;&gt;navigation guidelines&lt;/a&gt; that will help you to learn how to move between modules, subsections, and units. You will also find a 5-minute video tutorial in module 0 on how to navigate the platform.</source>
+      </trans-unit>
+      <trans-unit id="13" resname="e14dbd667428467310361b2c13426a02">
+        <source>&lt;a class=&quot;accordion__link&quot; tabindex=&quot;1&quot;&gt;Do I need to be connected to the course at specific times?&lt;/a&gt;
+</source>
+      </trans-unit>
+      <trans-unit id="14" resname="1178b00960d7952e485553fd1a013877">
+        <source>No, all the contents and activities are asynchronous, which means that real-time interactions are not needed to complete the course and all content is available to access when it best suits your schedule</source>
+      </trans-unit>
+      <trans-unit id="15" resname="d121ed6997899664e56c33d5b116149a">
+        <source>&lt;a class=&quot;accordion__link&quot; tabindex=&quot;1&quot;&gt;What should I do if I experience technical issues?&lt;/a&gt;
+</source>
+      </trans-unit>
+      <trans-unit id="16" resname="d6617465028724fc37b07577b4a0b886">
+        <source>For technical support, you can contact the course moderators for help by email at &lt;a href=&quot;mailto:fundamentals-support@dhis2.org&quot;&gt;fundamentals-support@dhis2.org&lt;/a&gt;. For a quicker response, please don’t forget to indicate your username or the email address you used to register on the platform.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

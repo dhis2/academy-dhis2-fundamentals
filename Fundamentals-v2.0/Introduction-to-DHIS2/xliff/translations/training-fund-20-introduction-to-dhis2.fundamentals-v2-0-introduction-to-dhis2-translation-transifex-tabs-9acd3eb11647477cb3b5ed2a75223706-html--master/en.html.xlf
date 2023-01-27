@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-tabs-9acd3eb11647477cb3b5ed2a75223706-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="7317497cd887149abc5a81556fc457c0">
+        <source>Need support?</source>
+      </trans-unit>
+      <trans-unit id="2" resname="c13629c681115b25de4bdf1d4bd2eb61">
+        <source>If you have not found answers in the frequently asked questions section, please send us an email at &lt;strong&gt;fundamentals-support@dhis2.org&lt;/strong&gt;</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

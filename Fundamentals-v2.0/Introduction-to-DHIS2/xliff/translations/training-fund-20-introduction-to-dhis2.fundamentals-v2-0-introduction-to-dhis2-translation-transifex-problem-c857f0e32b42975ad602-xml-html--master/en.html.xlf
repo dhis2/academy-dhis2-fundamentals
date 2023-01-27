@@ -1,0 +1,55 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c857f0e32b42975ad602-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="9c697978d16922b51cd9c845879729f8">
+        <source>What is the main use of organisation units groups and group sets? </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="1ca658cb40abfeef27da3e7593eb2676">
+        <source>(Select 2 options)  </source>
+      </trans-unit>
+      <trans-unit id="5" resname="4e78ddc156488bc5789f97aab1a02d51">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. They help to disaggregate data by gender and age  &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="9626d7eba8fb75d25a9775863bf7a0f4">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. They allow for organisation units to be classified by other criteria, such as facility type or type of ownership&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="d4523adbb46637118e2711304143c0b5">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. They allow for disaggregating data in our analysis to reveal any variations between defined organisation unit groups (such as private vs public facilities)
+      &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="7dea1da21e064c5d06a365304d54e96e">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. They help to create the organisational structure or hierarchy&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="1c649f015cec7a588dc5bb3b38787783">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;E. They allow for selecting a specific group or health facilities based on the data collected on them&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="0618ed41605ec8352772b059c5745f22">
+        <source> Organisation unit groups and organisation unit group sets allow for classifying organisation units by criteria other than the main administrative hierarchy, such as type of ownership, type of facility etc. In analytics, they are useful for viewing data by groups to see if trends differ (for example, private vs public health facilities).
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

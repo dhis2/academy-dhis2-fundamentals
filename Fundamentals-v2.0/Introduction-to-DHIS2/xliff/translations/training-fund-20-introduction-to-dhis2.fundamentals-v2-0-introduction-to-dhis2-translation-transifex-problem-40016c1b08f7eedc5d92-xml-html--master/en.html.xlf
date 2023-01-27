@@ -1,0 +1,43 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-40016c1b08f7eedc5d92-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="da4ce30d815671a12bc9c7f530106146">
+        <source> To visualize any data in DHIS2 we need at least these three dimensions:</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="64d687b71bf7de1500179f5504242f8d">
+        <source>(Select 3 options) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="999878946e08ffca35315e201487905d">
+        <source>A. The data element</source>
+      </trans-unit>
+      <trans-unit id="6" resname="8eb3a09cf29f3c307eb3d1dcdc4ccc12">
+        <source>B. The period</source>
+      </trans-unit>
+      <trans-unit id="7" resname="fba8fbf06fc625891fc357d4f606d8b9">
+        <source>C. The organisation unit</source>
+      </trans-unit>
+      <trans-unit id="8" resname="c9ef841b35638fab9c6377e216d21f44">
+        <source>D. The people</source>
+      </trans-unit>
+      <trans-unit id="9" resname="6e8382be1cbff3f6c28ab4c3353884bb">
+        <source>E. The data form</source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="07887164db60bfb3d677e6b24bb56543">
+        <source> For creating any visualization in DHIS2 you need to add three dimensions: the Data Element or the “what”, the Period or the “when“ and the Organisation Unit or the “where”. The people and data form are not dimensions for creating data visualizations in DHIS2. </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

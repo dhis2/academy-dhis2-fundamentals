@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-485608abdaa444c8953019105f877db0-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="1035f452ef98e7d8cffb5566447c2eb3">
+        <source>DHIS2: Information for action</source>
+      </trans-unit>
+      <trans-unit id="2" resname="0af3fa79edb70028db4eb5bb2dda6e1c">
+        <source>&lt;strong&gt;DHIS2&lt;/strong&gt; - is not only an open-source platform for reporting, analysis, and dissemination of data, but is also an initiative supported by a &lt;strong&gt;global network&lt;/strong&gt; called &lt;strong&gt;HISP&lt;/strong&gt; - and a growing community of users from more than 100 countries globally.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="7af17dc5d567e8cc39994eb192061506">
+        <source>Before getting started with the course, watch this video to get a first look at how DHIS2 is used in public health to benefit billions of people around the world. Click the play button below to start.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

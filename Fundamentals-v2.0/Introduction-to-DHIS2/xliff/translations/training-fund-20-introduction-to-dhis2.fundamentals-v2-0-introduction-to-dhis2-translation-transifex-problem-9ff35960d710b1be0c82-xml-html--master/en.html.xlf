@@ -1,0 +1,48 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-9ff35960d710b1be0c82-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="c14cda5bf074f1e292431410ad181ada">
+        <source>How many levels does an organisation unit hierarchy have?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="2d1e6132180bdcd5434fc57c054fb395">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. 4 levels (country, province, district, facility)  &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="006713d1aa765077fc526f34652c0528">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Maximum of 5 levels  &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="947b0b9d36960e858326f14d0d235029">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Maximum of 10 levels  &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="f7f11fc449fd9a9791d750f0df8e5a8e">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Dependent on each country´s context or project analytical requirements &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="c46484a300e0feca1758a6ba52fac93d">
+        <source> The structure of each organisation unit hierarchy, including the number of levels, is fully customizable in DHIS2 to adapt to each country's context or analytics requirements of the program being supported.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

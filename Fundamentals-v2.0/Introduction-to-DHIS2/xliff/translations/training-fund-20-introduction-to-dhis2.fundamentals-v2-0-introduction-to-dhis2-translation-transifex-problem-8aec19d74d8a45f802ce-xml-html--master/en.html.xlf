@@ -1,0 +1,42 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-8aec19d74d8a45f802ce-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="8254136476195eb7940168633ea04e28">
+        <source> At birth, John received his BCG vaccination. In 6 weeks, he will receive his DPT vaccination. John will subsequently receive DPT vaccinations at 10 weeks and 16 weeks of age. To follow up on him within this vaccination program, what DHIS2 model should be used to collect these data?   </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="e4aa37dc8abbbdca6a27551f08d4c4a1">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Aggregate&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="f08643f6919f11ebd6f47eb91f734c12">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Events&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="9042a8459758d6833a112bfdcbb8cea6">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Tracker&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="8" resname="e2646e80eba28908ffdff2cef6ad1214">
+        <source>The tracker data model allows entering data with individual identifiers which helps to follow up people on specific health programs.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

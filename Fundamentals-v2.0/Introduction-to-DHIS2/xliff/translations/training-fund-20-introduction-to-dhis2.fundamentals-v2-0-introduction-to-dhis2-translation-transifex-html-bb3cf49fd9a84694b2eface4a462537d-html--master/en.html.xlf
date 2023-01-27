@@ -1,0 +1,43 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-bb3cf49fd9a84694b2eface4a462537d-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="d98644b85c55327aa562c5a7fc89a0e7">
+        <source>Use Case 3: DHIS2 used as an integrated Education Management Information System</source>
+      </trans-unit>
+      <trans-unit id="2" resname="c4c3bb78aef5722037dd21243c403416">
+        <source>While DHIS2 is most commonly used as an information system in the health sector, the platform is also used in other sectors like education. Ministries of Education use DHIS2 for school management, resource allocation, multi-sectoral analysis (e.g. health, education, nutrition, social protection) and more. In this section, you will learn how DHIS2 is used as an &lt;strong&gt;Education Management Information System (EMIS)&lt;/strong&gt; in The Gambia to equip educational providers with data to &lt;strong&gt;improve school management, attendance and learning outcomes&lt;/strong&gt;.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="d278c95e1f59889e7525668fa122bb45">
+        <source>&lt;img src=&quot;/static/Image_6_-_Absenteeism_indicators.png&quot; width=&quot;100%&quot;/&gt;</source>
+      </trans-unit>
+      <trans-unit id="4" resname="eac1a6fb6f1c4bd2513c5bda65913c62">
+        <source>Through DHIS2, The Gambia was able to set up &lt;strong&gt;essential indicators&lt;/strong&gt; needed to manage various administrative functions within an education system. These indicators provide data on &lt;strong&gt;enrollment rates by grade&lt;/strong&gt;, &lt;strong&gt;absenteeism rates&lt;/strong&gt; for students and teachers, &lt;strong&gt;gender parity rates by school type&lt;/strong&gt;, as well as various school infrastructure indicators such as, the &lt;strong&gt;number of classrooms&lt;/strong&gt;, &lt;strong&gt;recreational facilities&lt;/strong&gt; and &lt;strong&gt;textbooks&lt;/strong&gt; by subject.</source>
+      </trans-unit>
+      <trans-unit id="5" resname="05d79a48e81c44e3a53ee4dfee9ed6ef">
+        <source>The Gambia used the &lt;strong&gt;aggregate data model&lt;/strong&gt; in DHIS2 to collect and manage data for &lt;strong&gt;large-scale annual school census reports&lt;/strong&gt; as well as the everyday operations of school attendance records. They replaced their paper-based annual school census form with a digital form in DHIS2, collecting various enrollment details for each school (e.g. the number of classes, enrollment by grade, with disaggregations for age and sex) as well as data on classrooms, overall facilities, water resources, and textbooks for students and teachers.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="1dfb737d92aa63b988cb1a81478b7cc0">
+        <source>The Gambia also utilized DHIS2 to collect &lt;strong&gt;daily attendance records&lt;/strong&gt;. In their case, they needed to collect attendance twice every day, as the number of students can fluctuate between morning and afternoon school shifts. The Gambia was able to rely on DHIS2 to meet their different needs regarding the frequency of data collection.</source>
+      </trans-unit>
+      <trans-unit id="7" resname="8a9fdaf1541f7b4ca97fcc5070ecb650">
+        <source>&lt;img src=&quot;/static/Image_7_-_EMIS_attendance_dashboard.png&quot; width=&quot;100%&quot;/&gt;</source>
+      </trans-unit>
+      <trans-unit id="8" resname="e8a857d1b4556644fc27c7acecbc3aed">
+        <source>In addition to DHIS2’s data collection solutions, the platform enabled The Gambia to analyze and routinely monitor their educational data through various &lt;strong&gt;dashboards&lt;/strong&gt;. For example, an attendance dashboard was created with data visualizations on absenteeism for students and teachers by school type. Using dashboards enabled education planners in The Gambia to quickly view data visualizations on attendance to &lt;strong&gt;understand trends or address any immediate concerns&lt;/strong&gt;. Since the data in the visualizations are automatically updated as new data is entered in DHIS2, they can immediately analyze the most recent data. </source>
+      </trans-unit>
+      <trans-unit id="9" resname="90b870743acc670b58f11a02a05a0401">
+        <source>The Gambia has also introduced additional data models into their implementation of DHIS2. This includes the use of the &lt;strong&gt;tracker data model&lt;/strong&gt; for collecting more detailed information on both students and teachers. Using the tracker data model in DHIS2 allows The Gambia to &lt;strong&gt;follow the progress of individual students over time&lt;/strong&gt;, for example to track their grades and subjects as they progress through their education.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="f09b8e52e575f842b458d72977512c5a">
+        <source>DHIS2 provides countries like The Gambia with a flexible platform for data collection, reporting and analysis in the education sector, equipping Ministries of Education and institutions of learning with the data they need to make informed decisions regarding the management of schools, infrastructure and resources to improve learning outcomes.
+ </source>
+      </trans-unit>
+      <trans-unit id="11" resname="3a681008f20ab28f80af4a03c6771f74">
+        <source>For more information on DHIS2 for education, please visit the &lt;a href=&quot;https://dhis2.org/education/#:~:text=What%20is%20DHIS2%20for%20Education%3F</source>
+      </trans-unit>
+      <trans-unit id="12" resname="77675d2972d44706e0853acea1c6ff29">
+        <source>text=DHIS2%20for%20Education%20extends%20the,data%20from%20institutions%20of%20learning.&quot; target=&quot;_blank&quot;&gt;DHIS2 website&lt;/a&gt;. </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

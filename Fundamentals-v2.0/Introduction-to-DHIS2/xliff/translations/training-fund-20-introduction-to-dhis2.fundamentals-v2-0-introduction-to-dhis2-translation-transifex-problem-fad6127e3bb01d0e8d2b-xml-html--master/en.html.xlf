@@ -1,0 +1,41 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fad6127e3bb01d0e8d2b-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="3b958a9596f4ff7d14401b996b17d109">
+        <source> HISP groups, together with HISP UiO, form a global network of partners that share common values, including open-source principles, local ownership, sustainability, transparency, and empowering data use.    </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="e777f4df79fe3d912bcd16555309a61d">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. True
+
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="9e4b4c573d5ea6ee7bca8d7ffc52e465">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. False
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="82c40ee0f9c11379c3ed6923d76c64b3">
+        <source>True. HISP groups and HISP UiO work as a global network of partners that share common values and support each other in various ways.
+
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

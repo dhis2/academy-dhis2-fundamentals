@@ -1,0 +1,48 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-428708a20962695d5b80-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="2d74c1fa097e85c332f6083b11f37078">
+        <source> “The value registered for the third antenatal care visit (ANC 3), &lt;b&gt;cannot be higher than&lt;/b&gt; the value registered for the second ANC visit (ANC 2)” is an example of a:</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="71c7a8f165161d2fdda87dccd41ccd37">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Validation rule analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="2acb9724aa0fa2818360567792867585">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Standard deviation outlier analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="9e0cb197aafa3ab878069f8bcca68ce2">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Minimum maximum outlier analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="7efea3e462e24a69a0d4cb4108309439">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Follow-up analysis&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="9" resname="084ef61a896f2fe27b6af4a87b802359">
+        <source>One way to check the quality of the data entered in DHIS2 is by testing them against predefined validation rules. The validation rule analysis tests validation rules against the data registered in the system. Validation violations are reported when the condition defined in the validation rule expression is not met, which means when the condition is false.
+
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

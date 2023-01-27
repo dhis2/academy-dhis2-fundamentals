@@ -1,0 +1,44 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-345f5ea2c6114fc8ad1ae9f34dd95a65-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="742a1ac83eb8ca1ed0c446d3f8775320">
+        <source>Which of the following are examples of relative periods?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="8b9638eeda1212e05e810c226edcbad5">
+        <source>Select all that apply </source>
+      </trans-unit>
+      <trans-unit id="5" resname="abe837d303238e9f2ab6e5c55f68d99e">
+        <source>A. 2018</source>
+      </trans-unit>
+      <trans-unit id="6" resname="a3677c4c6fbd646b85f737bf88f999d7">
+        <source>B. Last month</source>
+      </trans-unit>
+      <trans-unit id="7" resname="dd6f729bae8fb9a1c45ab3e256550249">
+        <source>C. October 2020</source>
+      </trans-unit>
+      <trans-unit id="8" resname="244e38f2efa95dde6a2978387ff393d8">
+        <source>D. Last year</source>
+      </trans-unit>
+      <trans-unit id="9" resname="42fcb9e54290c210d1973301d827aa4c">
+        <source>E. Last six months</source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="98726c49f1ee547bf4611f9ecaa19f1d">
+        <source>Relative periods such as “last year”, “last month”, and “last six months,” are not defined in an absolute sense but rather in relation to the current date. The key difference between fixed and relative periods is that a fixed period does not update automatically over time for an analytic object; whereas a relative period will show new data as we move ahead with time.
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

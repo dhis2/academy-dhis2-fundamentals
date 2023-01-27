@@ -1,0 +1,39 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-f62ae03432534402964b9326f5046411-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="8ca3ac57d89a3f602b713234ef54bcce">
+        <source>Data entry</source>
+      </trans-unit>
+      <trans-unit id="2" resname="26f0dcc90d58a763097a5e92151fdc79">
+        <source>DHIS2 brings together a wide variety of data &lt;strong&gt;from a large number of sources to one central system&lt;/strong&gt;, allowing for better planning, information sharing, and decision making at all levels.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="805c4b8c61b04ddd65ac6accc7623393">
+        <source>In this video, you will find out &lt;strong&gt;how data are captured in DHIS2&lt;/strong&gt;. Click the play button below to start.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="84433574035940e92cd837543c50f34d">
+        <source>Key concepts</source>
+      </trans-unit>
+      <trans-unit id="5" resname="94cefe7515305132604ccc005674de0c">
+        <source>Data models</source>
+      </trans-unit>
+      <trans-unit id="6" resname="d0f00700c3e63cddad04466675ec4b9c">
+        <source>Aggregate</source>
+      </trans-unit>
+      <trans-unit id="7" resname="cff38d365780cfef7110b672cde59102">
+        <source>Data entry app</source>
+      </trans-unit>
+      <trans-unit id="8" resname="694c09f956ea387b3785dcceee21834c">
+        <source>Events</source>
+      </trans-unit>
+      <trans-unit id="9" resname="e90e23fd2ec7b886e86fcc36684fffb6">
+        <source>Capture app</source>
+      </trans-unit>
+      <trans-unit id="10" resname="6e63e4fd546158b635d2575aa1f9e5a8">
+        <source>Tracker</source>
+      </trans-unit>
+      <trans-unit id="11" resname="4be5436f8dc6d84ff7ba81f6605630e0">
+        <source>Tracker capture app</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

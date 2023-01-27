@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5913bd3a79994385b3f317d23aac62a9-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="a8c35e55d7de7d8a20e7689234bc968c">
+        <source>What is DHIS2?</source>
+      </trans-unit>
+      <trans-unit id="2" resname="0acefb05397a6e6cf27b26c7f0e2de7c">
+        <source>What exactly is DHIS2? In the word cloud below, you can see what other people think DHIS2 is and what it does. You can add what you think DHIS2 is by using the text entry box below the word cloud.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="6bdd89c719eda6cb8b71a2de2ada0155">
+        <source>In each of the provided text boxes, please&lt;strong&gt; enter a single word&lt;/strong&gt;.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

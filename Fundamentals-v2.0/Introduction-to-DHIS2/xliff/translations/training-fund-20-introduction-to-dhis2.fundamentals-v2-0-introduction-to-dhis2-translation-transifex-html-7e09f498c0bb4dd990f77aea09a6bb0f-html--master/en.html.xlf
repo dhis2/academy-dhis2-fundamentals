@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-7e09f498c0bb4dd990f77aea09a6bb0f-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="6aba604e38ae0d9dd79035c9dc174628">
+        <source>Key milestones of DHIS2</source>
+      </trans-unit>
+      <trans-unit id="2" resname="0427f679d35eb6b4076ad54c82a7fb9d">
+        <source>Now that you have seen an overview of the history of DHIS2, now you can explore the key milestones in more detail. Click the play button below to get started. You can use the Next and Back buttons to navigate through the slides.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-2eeea9ef673b4450bac291e2e1818087-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="853dd6815e710aa228ff0928411cd9fc">
+        <source>What: Data Elements and Indicators</source>
+      </trans-unit>
+      <trans-unit id="2" resname="be76fb908889f10784ccb349cd89624b">
+        <source>In this video, you will learn about the &lt;strong&gt;“What” dimension&lt;/strong&gt; of DHIS2: &lt;strong&gt;Data Elements.&lt;/strong&gt; You will learn about the main features of Data Elements, which define what kind of data are captured. You will also learn the distinction between Data Elements and &lt;strong&gt;Indicators,&lt;/strong&gt; which are calculated using Data Elements. Along the way, you will find examples of each to clarify the distinction between the two.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="84433574035940e92cd837543c50f34d">
+        <source>Key concepts</source>
+      </trans-unit>
+      <trans-unit id="4" resname="2fa5e2a19422a51596bbb6d66561c66a">
+        <source>Data element</source>
+      </trans-unit>
+      <trans-unit id="5" resname="61cbc80585b5f32b9bc9a818bc51fccc">
+        <source>Indicator</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

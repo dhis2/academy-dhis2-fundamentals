@@ -1,0 +1,55 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-14e7befb1e91b6b9ac71-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="c368099244b27423812afa6ec719fc91">
+        <source>Which of the following options could be an Organisation Unit in DHIS2?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="3b81d9b569fe0f3b0c484532f806bd41">
+        <source>(Select 3 options)  </source>
+      </trans-unit>
+      <trans-unit id="5" resname="07cb34e15bcf54a231659074e9dff008">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Country 
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="ba8ce7ccd8e1fcc1cee4c88ac026a5de">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Immunization Program&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="a4c22ab201150923ae12cbc15cd4ac6c">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Health Clinic &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="099b37e229de879ff91ba05cb1e00704">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. District &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="8d08dbad63c39ae033d2062f123f99d7">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;E. Hospitalizations and discharges data entry form &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="cf8b8ab650c78093ebf97f2588ea515a">
+        <source>Countries generally represent a level in the organisation unit hierarchy. The country is usually subdivided into smaller administrative units, such as districts or regions. Commonly, the lowest level in the organisation unit hierarchy is the level of data collection where services are provided, such as health clinics.
+ </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

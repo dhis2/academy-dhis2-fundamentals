@@ -1,0 +1,45 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-6d3e2a857a9d483bb7833db5763de455-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="284f735a1850bb8ec6102cfdbc432501">
+        <source>Navigating the platform</source>
+      </trans-unit>
+      <trans-unit id="2" resname="a7db6abf1d245e39f3f1a2960eb5b69b">
+        <source>If you need a refresher on how to navigate the DHIS2 Online Academy, please watch the following video to review the basics of the platform.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="a66296222fa3a76c860f88e684ab1aea">
+        <source>You can also download and review the complete &lt;a href=&quot;/static/Navigating_edX__Introduction_to_DHIS2.pdf&quot; target=&quot;blank&quot;&gt;platform navigation guidelines&lt;/a&gt; to get more detailed information.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="e64468f8941ba969bc58579fdeaf41ce">
+        <source>The course content page</source>
+      </trans-unit>
+      <trans-unit id="5" resname="8b28e03e85cbf42a3c584a85258ca8bf">
+        <source>In this screenshot you can see an overview of the most used navigation options of the platform. When you select the course content page, you will see:</source>
+      </trans-unit>
+      <trans-unit id="6" resname="c152f644a615ad271c9306b74662e53c">
+        <source>
+&lt;img src=&quot;/static/HowToUsePlatform_Image.png&quot; style=&quot;width:100%;height:100%&quot; /&gt;
+
+</source>
+      </trans-unit>
+      <trans-unit id="7" resname="6397dc0e43919ca8dd0142c42b195781">
+        <source>The left side menu shows you all of the modules as well as their respective subsections.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="56ff116b195eee337f15b626c8516b42">
+        <source>Arrows or pages that allow you to navigate within a subsection. These can be found at the top and bottom of the page.  </source>
+      </trans-unit>
+      <trans-unit id="9" resname="6e4eb9e16edab7e68bc3c1f88b7687f8">
+        <source>Breadcrumbs, to see in what unit, subsection, and module you are currently in.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="484444ff9921269989015e2d401a525c">
+        <source>In the upper tabs there are links to check your progress with the graded activities of the course (Progress), links to read the most frequently asked questions about the course (FAQs), and links to read or download the Participant's Guide.</source>
+      </trans-unit>
+      <trans-unit id="11" resname="5a8d4d511c6746a4e935e411d413c30f">
+        <source>The bookmarks button will show you all of your bookmarked content.</source>
+      </trans-unit>
+      <trans-unit id="12" resname="ac9f56d5cce8389dc043d592ca08d7a4">
+        <source>A search field that allows you to search the course content. Type the search terms and hit “Enter” or click on the magnifying glass to perform the search.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-36c1fbe4f7a29dd8a991-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="bb8d0cfc6fc345f83415194a14c86f9c">
+        <source> What are the 3 types of data visualizations available in DHIS2? </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="64d687b71bf7de1500179f5504242f8d">
+        <source>(Select 3 options) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="947a1b7beb868b49619f185438b1dda2">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Pivot Tables&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e8958c289a3bac0da9bac72a9413e34f">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Interpretations&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="117c3f2b75756f3b272a35a256dc4b09">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Charts&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="affaefc054550f4c25574c01a419d0da">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Description&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="c6a7e238c35f555c9f0cc019869827ab">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;E. Maps&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="10" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="11" resname="8ce76b569c01b26662f0415e893ccb26">
+        <source>The 3 data visualizations available in DHIS2 are Pivot tables, Charts, and Maps. These can be expanded upon using descriptions and interpretations.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

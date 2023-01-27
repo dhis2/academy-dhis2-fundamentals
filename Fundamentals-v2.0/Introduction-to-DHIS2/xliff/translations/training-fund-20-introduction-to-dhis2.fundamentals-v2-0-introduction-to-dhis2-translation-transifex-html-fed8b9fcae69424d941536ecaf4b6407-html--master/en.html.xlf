@@ -1,0 +1,30 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-fed8b9fcae69424d941536ecaf4b6407-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="a63066c3c3222b2f0cb6713c1b28b960">
+        <source>Where, what, and when in DHIS2</source>
+      </trans-unit>
+      <trans-unit id="2" resname="c32844460b2a31d495afe3904699bc17">
+        <source>Now that you have learned about how data are collected, reviewed, shared, and you’ve seen some of the DHIS2 use-cases, how does DHIS2 actually work? What are its &lt;strong&gt;building blocks?&lt;/strong&gt;</source>
+      </trans-unit>
+      <trans-unit id="3" resname="48dde2dc87b4352b56f40becaa691816">
+        <source>In this series of videos, you will explore the &lt;strong&gt;three building blocks&lt;/strong&gt; of the DHIS2 data model, which is key to understanding how the platform works. This first video will introduce the three building blocks that represent the basic dimensions associated with any data value in DHIS2. In the subsequent videos, you will explore each of the three dimensions in more detail. Click the play button below to start.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="84433574035940e92cd837543c50f34d">
+        <source>Key concepts</source>
+      </trans-unit>
+      <trans-unit id="5" resname="98852cc0838b9da316d1ea3f0f42291d">
+        <source>Metadata</source>
+      </trans-unit>
+      <trans-unit id="6" resname="2fa5e2a19422a51596bbb6d66561c66a">
+        <source>Data element</source>
+      </trans-unit>
+      <trans-unit id="7" resname="03f197f847ddc593379b1b4a9bbc5429">
+        <source>Organisation unit</source>
+      </trans-unit>
+      <trans-unit id="8" resname="0abc69788bd617d39c9e88aa74816c34">
+        <source>Period</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

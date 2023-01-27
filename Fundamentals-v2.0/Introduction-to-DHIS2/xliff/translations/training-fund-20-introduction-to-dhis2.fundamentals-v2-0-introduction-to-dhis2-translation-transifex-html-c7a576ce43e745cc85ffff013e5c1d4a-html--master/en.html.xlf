@@ -1,0 +1,42 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-c7a576ce43e745cc85ffff013e5c1d4a-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="ff79813c296b3c030646e7881b003fe5">
+        <source>What is in this module?</source>
+      </trans-unit>
+      <trans-unit id="2" resname="e68567368cd5c5b1821cd837cbf44fe4">
+        <source>What is DHIS2? What does it do? How is it used to help meet real-world needs?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="53d2323c11a150a5fc1a015ecfa3c45a">
+        <source>In this module, you will discover &lt;strong&gt;what DHIS2 is&lt;/strong&gt;, &lt;strong&gt;what it does&lt;/strong&gt;, and &lt;strong&gt;how it helps manage data to inform decision-making&lt;/strong&gt;. You will start by seeing &lt;strong&gt;how data are captured, reviewed, analyzed, and shared&lt;/strong&gt; within DHIS2. Then, you will &lt;strong&gt;review some use cases&lt;/strong&gt; that show how DHIS2 is used in different fields, such as health and education. </source>
+      </trans-unit>
+      <trans-unit id="4" resname="944def91981212f8de9a4a7315d571fe">
+        <source>Learning objectives</source>
+      </trans-unit>
+      <trans-unit id="5" resname="de523640c0a01270179e3898f0507f84">
+        <source>At the end of this module you will be able to:</source>
+      </trans-unit>
+      <trans-unit id="6" resname="465ab766027d744e49a41814211d1443">
+        <source>Recognize how DHIS2 can be used to capture, analyze, and share data to make informed decisions.</source>
+      </trans-unit>
+      <trans-unit id="7" resname="a14ee86d8abad2b5887a3b39dc76675e">
+        <source>Understand what a use case is in the DHIS2 context.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="7206631b415fa792b8cbf9702ef94e52">
+        <source>Identify examples of the use of DHIS2 in public health programs and other fields.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="25a253fb31b11ec5bbe678ecb87a8ac4">
+        <source>How will you be evaluated?</source>
+      </trans-unit>
+      <trans-unit id="10" resname="ef5e6998c8c2ad4f729d05f3ebe0abff">
+        <source>At the end of the module there is a graded quiz. It contributes 40% to your final grade, and you will have unlimited attempts to complete it.</source>
+      </trans-unit>
+      <trans-unit id="11" resname="ce8e0cc3b0a6fc349460a22f9900be34">
+        <source>How long will this module take?</source>
+      </trans-unit>
+      <trans-unit id="12" resname="3c2018d11b71f5f7264e834454cda930">
+        <source>The module should take about &lt;strong&gt;60 minutes&lt;/strong&gt; to complete.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

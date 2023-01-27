@@ -1,0 +1,12 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-d0c49a97f6a5474c9254c1575a13e2aa-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="4cb236f851c682caa17ad4c58a11fa2f">
+        <source>https://dhis2.github.io/dhis2-in-action/</source>
+        <context-group>
+          <context context-type="x-transifex-context">iframe</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

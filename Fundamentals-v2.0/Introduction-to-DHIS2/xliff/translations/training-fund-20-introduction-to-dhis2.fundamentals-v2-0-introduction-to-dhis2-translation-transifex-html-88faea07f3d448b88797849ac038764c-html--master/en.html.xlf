@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-88faea07f3d448b88797849ac038764c-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="ebdd5b7d94156e4f17bc79ab1201394d">
+        <source>Once upon a time…(the history of DHIS2)</source>
+      </trans-unit>
+      <trans-unit id="2" resname="5e4b8238572a73a5ecaf393d3c45ebe5">
+        <source>Before DHIS2 was able to help billions of people around the world, it started as an idea to support an equitable health system in South Africa following the end of apartheid.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="3a9165fcb9d0c99729c29eb38cbfc78c">
+        <source>In this video, you will discover how DHIS2 started, and the major milestones it has hit along the way. Select the play button below to get started.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

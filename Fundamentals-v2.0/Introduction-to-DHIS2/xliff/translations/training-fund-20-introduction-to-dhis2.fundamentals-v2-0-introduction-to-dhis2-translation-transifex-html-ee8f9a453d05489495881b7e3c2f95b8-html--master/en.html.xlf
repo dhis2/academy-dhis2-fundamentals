@@ -1,0 +1,36 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ee8f9a453d05489495881b7e3c2f95b8-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="49424d3f16f25ef45c539b623614c4f0">
+        <source>Use Case 2: DHIS2 as a flexible platform to meet the national strategy needs from malaria reporting to malaria tracking for elimination</source>
+      </trans-unit>
+      <trans-unit id="2" resname="61ea49c26c05252f6d9d0990b193173f">
+        <source>In this section, you will learn how DHIS2 was used for &lt;strong&gt;malaria control and elimination programs&lt;/strong&gt; in Lao. This is an excellent use case to demonstrate &lt;strong&gt;DHIS2’s ability to evolve over time&lt;/strong&gt; as new data requirements and needs emerge. While this example focuses specifically on malaria data, the same processes and tools can apply to other types of programs managed in DHIS2.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="b4f37c73828d4885b7a5f9d9eed78fa4">
+        <source>&lt;img src=&quot;/static/Image_4_-_Custom_Timeline_Graphic_-_Lao_Malaria.png&quot; width=&quot;100%&quot;/&gt;</source>
+      </trans-unit>
+      <trans-unit id="4" resname="e827b61694e9c09d98f8b099a16b5032">
+        <source>In 2016, Lao started using DHIS2 as a health information system for their national malaria program. This included adding their historical data–data they had previously collected –into DHIS2 using the &lt;strong&gt;aggregate data model&lt;/strong&gt;. This data model was required since their data was numerical summaries of records. At the time, Lao was predominately collecting summaries of malaria records over the course of several years, as well as aggregate summaries of new cases reported on a monthly basis. </source>
+      </trans-unit>
+      <trans-unit id="5" resname="8dc07b859725ba929c7c8c68bb3206e9">
+        <source>With DHIS2, Lao used &lt;strong&gt;customized tools within the platform&lt;/strong&gt; to match the same format as their paper data collection forms, enabling their digital data collection forms to &lt;strong&gt;keep the same appearance and requirements outlined by the national malaria program&lt;/strong&gt;. In addition, since DHIS2 includes &lt;strong&gt;built-in translation and localization support&lt;/strong&gt;, these forms could be translated in the local Lao language for staff. Collecting this data using electronic forms in DHIS2 meant that it was &lt;strong&gt;immediately available for analysis using dashboards, charts, maps&lt;/strong&gt; and other analytical outputs, instead of the time-consuming process of assembling these statistical outputs from data collected on paper forms.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="9c21e5c00b9373728bee808910994a9c">
+        <source>&lt;img src=&quot;/static/Image_5_-_Lao_Dashboard.png&quot; width=&quot;100%&quot;/&gt;</source>
+      </trans-unit>
+      <trans-unit id="7" resname="7ecb673d8818a707b770e0de99a956a1">
+        <source>In 2018, health authorities in Lao decided to start &lt;strong&gt;tracking individual malaria cases over time&lt;/strong&gt;, instead of simply collecting aggregate data on the number of cases. Through DHIS2, they were able to introduce the &lt;strong&gt;tracker data model&lt;/strong&gt; for malaria elimination settings. In contrast to the aggregate model, this involves &lt;strong&gt;collecting detailed information on each individual case&lt;/strong&gt; of malaria in these settings, and allows the individual cases to be monitored over time. This meant Lao was not only able to collect more malaria data, but more detailed malaria data, allowing for follow-up actions down to the patient-level, instead of just interventions based on analysis of regional and national trends.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="9d3c9126bb220fcd72c0471592644eb3">
+        <source>In 2019, Lao decided to replace their aggregate data collection forms entirely and instead use the &lt;strong&gt;event data model&lt;/strong&gt; for all positive malaria cases. In contrast to the tracker model, the event model is used to &lt;strong&gt;capture individual data points, but not to monitor individual cases over time&lt;/strong&gt;. This meant that, for positive cases, no more numerical summary forms would need to be collected or tabulated, since event data can be aggregated automatically in DHIS2 according to the program’s requirements. In addition, the source data became available for verification purposes at a more granular level than the aggregate model allows.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="25b23e71d4e443d2191f2a95624b49eb">
+        <source>As Lao’s malaria program adapted over the years, DHIS2 was fully capable to meet their data needs, adapting to changing requirements and additional complexity without the need to implement a new software system.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="4930d6adcef55cf6dc223957615ca05f">
+        <source>Several DHIS2 metadata packages for malaria are available to help countries deploy best-practice systems for malaria program management. For more information on DHIS2 for malaria management, please visit the &lt;a href=&quot;https://dhis2.org/metadata-package-downloads#malaria&quot; target=&quot;_blank&quot;&gt;DHIS2 website&lt;/a&gt;. </source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,249 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-2-3-components-of-the-dhis2-ecosystem-pptx--master" source-language="en" datatype="MS_PPTX">
+    <body>
+      <trans-unit id="1" resname="67e998f2afc5d3eaad41f43fee9c21fa">
+        <source>Components of the DHIS2 Ecosystem</source>
+      </trans-unit>
+      <trans-unit id="2" resname="a272f9f8200d606f2f2dc46a741681fd">
+        <source>Introduction to DHIS2 </source>
+      </trans-unit>
+      <trans-unit id="3" resname="2c3ab6ed106ff9b7cf174d972249d49f">
+        <source>&lt;tx&gt;Components of the &lt;/tx&gt;&lt;tx&gt;DHIS2 ecosystem&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="4" resname="193df6db934f06c4bd94cb734a588eec">
+        <source>+DHIS2 isn’t just a piece of software. It is made up of +applications, +resources, different +&lt;tx&gt;organisations&lt;/tx&gt;, and most importantly, +people. So, let’s take a look at how you can interact with the different parts of the DHIS2 ecosystem. </source>
+      </trans-unit>
+      <trans-unit id="5" resname="6cc8d077c83b523faf8084bfe721f7a9">
+        <source>HISP research</source>
+      </trans-unit>
+      <trans-unit id="6" resname="46503af0a0f0162ed13253f5acd3a1a2">
+        <source>Founded to strengthen &lt;tx&gt;health information &lt;/tx&gt;systems</source>
+      </trans-unit>
+      <trans-unit id="7" resname="bfa22930e70ba42dc925253c36d945fb">
+        <source>Researches broader &lt;tx&gt;health information &lt;/tx&gt;systems</source>
+      </trans-unit>
+      <trans-unit id="8" resname="17eeeeef1be9698b7679637ee19df584">
+        <source>Materials, people, competencies, institutions, and practices</source>
+      </trans-unit>
+      <trans-unit id="9" resname="d25d246e322b1307d0724af0a42f43bf">
+        <source>HISP UiO</source>
+      </trans-unit>
+      <trans-unit id="10" resname="00ca1ae1517b75bfde9e82668d1beb29">
+        <source>Let’s start with the research of the +HISP Centre at the University of Oslo, HISP UiO. +HISP was founded to strengthen Health Information Systems in low-and-middle income countries. +To support this goal, the group +researches the broader ecosystem of health information systems. This +includes their +materials, people, competencies, institutions, and practices. You can get involved in a HISP-led academic program, or take part in their action research projects. </source>
+      </trans-unit>
+      <trans-unit id="11" resname="b3c2f868eed023c5ea9fe7ab382db99f">
+        <source>DHIS2 Design Lab</source>
+      </trans-unit>
+      <trans-unit id="12" resname="c5fcfdf60f0da6e86e6580d89e7a6b4d">
+        <source>Facilitates design and Innovation</source>
+      </trans-unit>
+      <trans-unit id="13" resname="6ef90cb35f28216cfefeda0ba6481144">
+        <source>The HISP &lt;tx&gt;UiO&lt;/tx&gt; research program also includes the +DHIS2 Design Lab, which explores how researchers and practitioners working within the DHIS2 software +ecosystem can +facilitate the design and innovation of tools that provide value to the work of end-users.</source>
+      </trans-unit>
+      <trans-unit id="14" resname="407c1b5a5a70ff88d1bc1b03caa1fecc">
+        <source>HISP network </source>
+      </trans-unit>
+      <trans-unit id="15" resname="9dcf6248a2b83b6aa44794c951ba36ee">
+        <source>Implementation support</source>
+      </trans-unit>
+      <trans-unit id="16" resname="6c1f892b36dd22eb7538fcdc88df6290">
+        <source>Platform customization</source>
+      </trans-unit>
+      <trans-unit id="17" resname="6a3059fc603d7261e5945ec243dc489c">
+        <source>Develop innovative solutions</source>
+      </trans-unit>
+      <trans-unit id="18" resname="a43fa216dc1738616124673957dc67b9">
+        <source>Build capacity</source>
+      </trans-unit>
+      <trans-unit id="19" resname="000c321443765e49b39664f79bb30454">
+        <source>In addition &lt;tx&gt;to +HISP-UiO&lt;/tx&gt;&lt;tx&gt;, there is &lt;/tx&gt;&lt;tx&gt;a global &lt;/tx&gt;&lt;tx&gt;network &lt;/tx&gt;&lt;tx&gt;of HISP &lt;/tx&gt;&lt;tx&gt;groups, staffed and led by DHIS2 experts. They provide +implementation support, assist with +platform customization, +develop innovative solutions, and +build capacity through the DHIS2 &lt;/tx&gt;Academy program and local training efforts.</source>
+      </trans-unit>
+      <trans-unit id="20" resname="48e7bde12d2a144999a7a2feb1b4fee0">
+        <source>&lt;tx&gt;Community &lt;/tx&gt;&lt;tx&gt;of practice&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="21" resname="1cf4f784e9fbbcb3561a6a031815dcb5">
+        <source>Discuss</source>
+      </trans-unit>
+      <trans-unit id="22" resname="488bda6087cba5b46ed7533d36965c99">
+        <source>Interact</source>
+      </trans-unit>
+      <trans-unit id="23" resname="e45d3e703f207f4dd720da78309c3b20">
+        <source>Learn</source>
+      </trans-unit>
+      <trans-unit id="24" resname="a8c85cc24e0a3a132abfb89a28bd7c5a">
+        <source>As you get &lt;tx&gt;more +involved &lt;/tx&gt;&lt;tx&gt;with DHIS2, you’ll likely want to learn more about &lt;/tx&gt;&lt;tx&gt;what +others &lt;/tx&gt;&lt;tx&gt;are doing with &lt;/tx&gt;&lt;tx&gt;their implementations, +share &lt;/tx&gt;&lt;tx&gt;details of &lt;/tx&gt;&lt;tx&gt;your own &lt;/tx&gt;&lt;tx&gt;implementation, or just +ask for help. The +DHIS2 Community of Practice is &lt;/tx&gt;&lt;tx&gt;a +discussion &lt;/tx&gt;&lt;tx&gt;platform where you &lt;/tx&gt;&lt;tx&gt;can +interact &lt;/tx&gt;&lt;tx&gt;with other practitioners, &lt;/tx&gt;&lt;tx&gt;and +learn &lt;/tx&gt;from each other.</source>
+      </trans-unit>
+      <trans-unit id="25" resname="caaf9ed759a9e782f909ffbee225a225">
+        <source>DHIS2 documentation</source>
+      </trans-unit>
+      <trans-unit id="26" resname="b9aa117c92d4ce0f8dfad0406b411cc1">
+        <source>docs.dhis2.org</source>
+      </trans-unit>
+      <trans-unit id="27" resname="1e3211680421b2ed34f5c40542ec8e4c">
+        <source>Application functionality</source>
+      </trans-unit>
+      <trans-unit id="28" resname="52144a6a5ea9d66ee61ebfe37d9be3b1">
+        <source>Implementation guidelines</source>
+      </trans-unit>
+      <trans-unit id="29" resname="ca3a4664f94f1a53208cffbaa0dd0501">
+        <source>Expert advice</source>
+      </trans-unit>
+      <trans-unit id="30" resname="453d070ceb8d4952743737a0e3450bbe">
+        <source>As you start to &lt;tx&gt;use +DHIS2&lt;/tx&gt;&lt;tx&gt;, you may want to check the +functionality of a &lt;/tx&gt;&lt;tx&gt;particular application+. &lt;/tx&gt;&lt;tx&gt;The DHIS2 +documentation contains detailed &lt;/tx&gt;&lt;tx&gt;information and+ &lt;/tx&gt;&lt;tx&gt;implementation considerations available for DHIS2, and is  &lt;/tx&gt;&lt;tx&gt;+&lt;/tx&gt;written by a core team of DHIS2 experts. </source>
+      </trans-unit>
+      <trans-unit id="31" resname="21d9f12f52ff823e3eec7209c241dcd8">
+        <source>These guides are all available +at docs.dhis2.org. </source>
+      </trans-unit>
+      <trans-unit id="32" resname="df1cdf34f068c0b7bcde33e5722ce600">
+        <source>GitHub</source>
+      </trans-unit>
+      <trans-unit id="33" resname="767db4b72ba6710bd232cfb9e0ce4675">
+        <source>github.com/dhis2</source>
+      </trans-unit>
+      <trans-unit id="34" resname="48c8b76ad6cc9646bbc24c8d7993d324">
+        <source>DHIS2 source code</source>
+      </trans-unit>
+      <trans-unit id="35" resname="b58de2c4006068f1245f596e97073435">
+        <source>Find documentation</source>
+      </trans-unit>
+      <trans-unit id="36" resname="c49c4857694e156896124ac89c9e7dba">
+        <source>Make suggestions</source>
+      </trans-unit>
+      <trans-unit id="37" resname="b0304c3d7b4fa75ab7e7b45853a41cee">
+        <source>As DHIS2 is +Open-Source, you can find &lt;tx&gt;all +its &lt;/tx&gt;&lt;tx&gt;source code &lt;/tx&gt;&lt;tx&gt;inside +GitHub&lt;/tx&gt;&lt;tx&gt;. You can also find all &lt;/tx&gt;&lt;tx&gt;of the+ &lt;/tx&gt;&lt;tx&gt;DHIS2 Documentation; you can help us improve it &lt;/tx&gt;&lt;tx&gt;by +suggesting &lt;/tx&gt;changes or additions.   </source>
+      </trans-unit>
+      <trans-unit id="38" resname="cd0cb75b65c5cc96c39f15589e30a345">
+        <source>Transifex</source>
+      </trans-unit>
+      <trans-unit id="39" resname="94c10b5b9bf64ea67e54a1693845c43e">
+        <source>Hello!</source>
+      </trans-unit>
+      <trans-unit id="40" resname="f3d461df100e169e1f7c60d582bef9e6">
+        <source>हैलो</source>
+      </trans-unit>
+      <trans-unit id="41" resname="de763913f5c17506498fd460cb200e20">
+        <source>你好</source>
+      </trans-unit>
+      <trans-unit id="42" resname="2997e0043f2c8754be25435944410c27">
+        <source>&lt;tx&gt; Olá&lt;/tx&gt;!</source>
+      </trans-unit>
+      <trans-unit id="43" resname="20fbbc6f2e232753b86b433011ba178e">
+        <source>Bonjour! </source>
+      </trans-unit>
+      <trans-unit id="44" resname="6ff9f1a73c0ab9045c3636e733c5cd71">
+        <source>&lt;tx&gt;Lumela&lt;/tx&gt;&lt;tx&gt;!&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="45" resname="74dc240f89ba51c98a26be9c4a9d7655">
+        <source>▲</source>
+      </trans-unit>
+      <trans-unit id="46" resname="b80447760e4e9d22cf61951001a209fa">
+        <source>User interface</source>
+      </trans-unit>
+      <trans-unit id="47" resname="53488e4e281c04a26dc9bb8e13ef1da6">
+        <source>Messages</source>
+      </trans-unit>
+      <trans-unit id="48" resname="f269fa11392035840defd9cf3fe8f2cf">
+        <source>Core Software &amp; Applications</source>
+      </trans-unit>
+      <trans-unit id="49" resname="98852cc0838b9da316d1ea3f0f42291d">
+        <source>Metadata</source>
+      </trans-unit>
+      <trans-unit id="50" resname="8a900ffc8668d06f20016deeb2cf3c44">
+        <source>translate.dhis2.org</source>
+      </trans-unit>
+      <trans-unit id="51" resname="1e4616ff812d6f11398519d6641bc3ce">
+        <source>Being a global public good means that DHIS2 needs to be +available for +users all over the world. Translation of  +user interface elements and +messages for the +core software and applications, +metadata, and other elements is a key part of DHIS2 localization. To facilitate a community-driven, global translation effort, DHIS2 uses the +transifex platform. You can view and contribute to +DHIS2 translations on transifex at translate.dhis2.org.</source>
+      </trans-unit>
+      <trans-unit id="52" resname="dbe274806d08077c92ac0bb9195da1cb">
+        <source>DHIS2 academy</source>
+      </trans-unit>
+      <trans-unit id="53" resname="65ba6c3bd357c2e0161bbb77c8a702cb">
+        <source>Build DHIS2 skills</source>
+      </trans-unit>
+      <trans-unit id="54" resname="82f1db417ffc8e0ef5496950a41ca3b5">
+        <source>Interact with experts</source>
+      </trans-unit>
+      <trans-unit id="55" resname="5f063bc31375b295f52229661d4d749c">
+        <source>If you want &lt;tx&gt;to +develop &lt;/tx&gt;&lt;tx&gt;your DHIS2 skills, you can take a  +DHIS2 Academy course. &lt;/tx&gt;&lt;tx&gt;The academy+ &lt;/tx&gt;&lt;tx&gt;program includes both +online and +in-person courses on both general and specialized topics. Attending an Academy will &lt;/tx&gt;&lt;tx&gt;help +build &lt;/tx&gt;&lt;tx&gt;your skills to support DHIS2 implementations and allow you &lt;/tx&gt;&lt;tx&gt;to +interact &lt;/tx&gt;with DHIS2 experts.</source>
+      </trans-unit>
+      <trans-unit id="56" resname="9ef38efc54734e1ab3cdbb436c3605ee">
+        <source>Demo databases</source>
+      </trans-unit>
+      <trans-unit id="57" resname="03b166613ffd06e1ff46c088afe90908">
+        <source>play.dhis2.org</source>
+      </trans-unit>
+      <trans-unit id="58" resname="b9b50e0ca7644db2921d5a88389e03fe">
+        <source>Explore DHIS2 features</source>
+      </trans-unit>
+      <trans-unit id="59" resname="ca6eb49f47e43752d5d4a1b8a4c499dc">
+        <source>Test new software versions</source>
+      </trans-unit>
+      <trans-unit id="60" resname="2d5c9d2a9dfb41e0680957167854a2ed">
+        <source>If you want to explore +DHIS2 features and practice your skills, you can try it out on a demo+ version of DHIS2. You can find the latest +demo at play.dhis2.org. </source>
+      </trans-unit>
+      <trans-unit id="61" resname="1724ef33bae39dd4a670b2889fd24052">
+        <source>Jira</source>
+      </trans-unit>
+      <trans-unit id="62" resname="3afcdbfeb6ecfbdd0ba628696e3cc163">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit id="63" resname="d5dc628916c0af49e40cd3a20abeda4c">
+        <source>Report bugs</source>
+      </trans-unit>
+      <trans-unit id="64" resname="2915a99157fd4b848334dedbb07c5940">
+        <source>Request features</source>
+      </trans-unit>
+      <trans-unit id="65" resname="c8c021a8b75a1d621f3b8059f90404e0">
+        <source>jira.dhis2.org</source>
+      </trans-unit>
+      <trans-unit id="66" resname="2d4f15e25cc119fc7ad87a0c9f88d990">
+        <source>As you use DHIS2, you might find that something +does not work as it is supposed to, or you might +even think of a new feature. In the +DHIS2 Jira, you can +notify the Software Development Group at HISP &lt;tx&gt;UiO&lt;/tx&gt; and they will look into it. </source>
+      </trans-unit>
+      <trans-unit id="67" resname="826c7422a34dcd8ac888fe88f3b28658">
+        <source>Developer portal &lt;tx&gt;&amp; &lt;/tx&gt;App hub</source>
+      </trans-unit>
+      <trans-unit id="68" resname="e967c0ffc076258b92aaceb6cf21195c">
+        <source>Developer tools &amp; training</source>
+      </trans-unit>
+      <trans-unit id="69" resname="ab0944ae847b572ec50a7435c864a3a8">
+        <source>Custom app submission</source>
+      </trans-unit>
+      <trans-unit id="70" resname="94e1e5d1ea8e8b17b04767ca918b2bd5">
+        <source>Events &amp; discussion</source>
+      </trans-unit>
+      <trans-unit id="71" resname="1fa9378de7078023bb5c9625dbcd0d12">
+        <source>If you are interested in +developing applications for DHIS2, make sure you have a look at the +DHIS2 Developer Portal. Here, you will find the latest information &lt;tx&gt;about +DHIS2 &lt;/tx&gt;application development tools, tips, and training events. </source>
+      </trans-unit>
+      <trans-unit id="72" resname="a9532deb9c13572f6a7d3166edbbe1b0">
+        <source>DHIS2 website and social &lt;tx&gt;m&lt;/tx&gt;edia</source>
+      </trans-unit>
+      <trans-unit id="73" resname="4f10153ca09579959bf34bc1e0adb619">
+        <source>&lt;tx&gt;dhis2&lt;/tx&gt;&lt;tx&gt;.org&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="74" resname="0757f5c00ea12eb7aad7c638bef63626">
+        <source>i</source>
+      </trans-unit>
+      <trans-unit id="75" resname="b133977c770ed64fd770f711f9aaeae6">
+        <source>You can find links &lt;tx&gt;to +all &lt;/tx&gt;&lt;tx&gt;the parts of the ecosystem directly on the DHIS2 website&lt;/tx&gt;&lt;tx&gt;, dhis2&lt;/tx&gt;&lt;tx&gt;.org. &lt;/tx&gt;&lt;tx&gt;The +website &lt;/tx&gt;&lt;tx&gt;acts as &lt;/tx&gt;&lt;tx&gt;a +Hub&lt;/tx&gt;&lt;tx&gt;, where you can &lt;/tx&gt;&lt;tx&gt;find +useful &lt;/tx&gt;&lt;tx&gt;information and the latest updates on DHIS2--&lt;/tx&gt;&lt;tx&gt;including +software &lt;/tx&gt;&lt;tx&gt;downloads--&lt;/tx&gt;&lt;tx&gt;plus links to all &lt;/tx&gt;&lt;tx&gt;of the resources mentioned in this video. You can also get all the latest updates by signing up for the DHIS2 newsletter and by following &lt;/tx&gt;&lt;tx&gt;DHIS2 +on Twitter and Facebook&lt;/tx&gt;.</source>
+      </trans-unit>
+      <trans-unit id="76" resname="1300f86974cafc2d65eb1f082a26bdf1">
+        <source>Summary</source>
+      </trans-unit>
+      <trans-unit id="77" resname="8fc3415554226c23103b2b31687d394d">
+        <source>DHIS2 is a community-driven project</source>
+      </trans-unit>
+      <trans-unit id="78" resname="4411ec1ff01d6841ecb2e180ea02866d">
+        <source>Global innovation and collaboration</source>
+      </trans-unit>
+      <trans-unit id="79" resname="9d1428026406b4d897780968d21f8489">
+        <source>Many different ways to get involved</source>
+      </trans-unit>
+      <trans-unit id="80" resname="9c674bd26c61b9e61943be01036e131d">
+        <source>Above all, DHIS2 is a +community-driven project that has succeeded through +local innovation and &lt;tx&gt;collaboration across &lt;/tx&gt;&lt;tx&gt;countries in the global south&lt;/tx&gt;. </source>
+      </trans-unit>
+      <trans-unit id="81" resname="a9fc60404caa3cb11ac97beecc9270fe">
+        <source>There are +many ways to get involved, whether you are a DHIS2 +user, +implementer, +developer, or +researcher. Take a look around the DHIS2 ecosystem, and join the global community!</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1123 @@
+[main]
+host = https://www.transifex.com
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-effort-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-effort-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-effort-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/about__effort.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-overview-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-overview-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-overview-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/about__overview.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-short-description-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-short-description-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-short-description-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/about__short__description.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-0-1-1-dhis2-information-for-action-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-0-1-1-dhis2-information-for-action-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-0-1-1-dhis2-information-for-action-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_0.1.1_DHIS2-Information-for-Action.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-0-3-1-navigating-the-learning-platform-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-0-3-1-navigating-the-learning-platform-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-0-3-1-navigating-the-learning-platform-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_0.3.1_Navigating-the-learning-platform.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-1-data-entry-in-dhis2-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-1-data-entry-in-dhis2-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-1-data-entry-in-dhis2-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_1.1.1_Data-entry-in-DHIS2.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-2-data-review-in-dhis2-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-2-data-review-in-dhis2-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-2-data-review-in-dhis2-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_1.1.2_.Data-review-in-DHIS2.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-3-data-outputs-data-interpretation-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-3-data-outputs-data-interpretation-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-3-data-outputs-data-interpretation-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_1.1.3_Data-outputs-data-interpretation.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-4-data-dissemination-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-4-data-dissemination-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-1-1-4-data-dissemination-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_1.1.4_Data-dissemination.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-1-what-where-and-when-in-dhis2-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-1-what-where-and-when-in-dhis2-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-1-what-where-and-when-in-dhis2-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_2.1.1 _What-where-and-when-in-DHIS2.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-2-where-organisation-unit-hierarchies-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-2-where-organisation-unit-hierarchies-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-2-where-organisation-unit-hierarchies-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_2.1.2_Where-organisation-unit-hierarchies.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-3-what-data-elements-and-indicators-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-3-what-data-elements-and-indicators-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-3-what-data-elements-and-indicators-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_2.1.3_What-Data-elements-and-indicators.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-4-introduction-to-dhis2-when-periods-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-4-introduction-to-dhis2-when-periods-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-2-1-4-introduction-to-dhis2-when-periods-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_2.1.4 Introduction to DHIS2 - When Periods.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-1-1-where-does-dhis2-come-from-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-1-1-where-does-dhis2-come-from-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-1-1-where-does-dhis2-come-from-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_3.1.1_Where-does-DHIS2-come from.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-1-dhis2-and-hisp-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-1-dhis2-and-hisp-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-1-dhis2-and-hisp-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_3.2.1_DHIS2-and-HISP.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-2-you-are-not-alone-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-2-you-are-not-alone-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-2-you-are-not-alone-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_3.2.2_You-are-not-alone.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-3-components-of-the-dhis2-ecosystem-srt--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-3-components-of-the-dhis2-ecosystem-srt--master/<lang>.srt
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-captions-3-2-3-components-of-the-dhis2-ecosystem-srt--master/en.srt
+source_lang   = en
+type          = SRT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/CAPTIONS_3.2.3_Components-of-the-DHIS2 ecosystem.srt (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-00b36a7499f145d8ba08c5a61dd6277f-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-00b36a7499f145d8ba08c5a61dd6277f-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-00b36a7499f145d8ba08c5a61dd6277f-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__00b36a7499f145d8ba08c5a61dd6277f.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-0570936d8d1b4ad5af378bed8a3adedf-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-0570936d8d1b4ad5af378bed8a3adedf-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-0570936d8d1b4ad5af378bed8a3adedf-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__0570936d8d1b4ad5af378bed8a3adedf.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-07abf8ae37b14f8987b6fe04af9b18e7-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-07abf8ae37b14f8987b6fe04af9b18e7-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-07abf8ae37b14f8987b6fe04af9b18e7-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__07abf8ae37b14f8987b6fe04af9b18e7.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-07b657f29f4544a9bc9a0f605db79038-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-07b657f29f4544a9bc9a0f605db79038-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-07b657f29f4544a9bc9a0f605db79038-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__07b657f29f4544a9bc9a0f605db79038.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-0920eb8ac87c4c589b8a027f73a2093a-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-0920eb8ac87c4c589b8a027f73a2093a-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-0920eb8ac87c4c589b8a027f73a2093a-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__0920eb8ac87c4c589b8a027f73a2093a.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-113fadd3a1d34d1f8fab514f99ac9a2a-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-113fadd3a1d34d1f8fab514f99ac9a2a-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-113fadd3a1d34d1f8fab514f99ac9a2a-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__113fadd3a1d34d1f8fab514f99ac9a2a.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-1ceae0b662cf4db6a93259f076e77484-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-1ceae0b662cf4db6a93259f076e77484-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-1ceae0b662cf4db6a93259f076e77484-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__1ceae0b662cf4db6a93259f076e77484.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-1fd28b999daa42d5808f22a3305f1559-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-1fd28b999daa42d5808f22a3305f1559-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-1fd28b999daa42d5808f22a3305f1559-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__1fd28b999daa42d5808f22a3305f1559.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-2ab6ffee89c14dcb820ec4d42c75f737-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-2ab6ffee89c14dcb820ec4d42c75f737-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-2ab6ffee89c14dcb820ec4d42c75f737-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__2ab6ffee89c14dcb820ec4d42c75f737.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-2eeea9ef673b4450bac291e2e1818087-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-2eeea9ef673b4450bac291e2e1818087-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-2eeea9ef673b4450bac291e2e1818087-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__2eeea9ef673b4450bac291e2e1818087.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-35f6d8911d564515b5c61999fc9e6a7f-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-35f6d8911d564515b5c61999fc9e6a7f-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-35f6d8911d564515b5c61999fc9e6a7f-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__35f6d8911d564515b5c61999fc9e6a7f.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-3c5f10eece094bab813e8a2d9f4a8586-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-3c5f10eece094bab813e8a2d9f4a8586-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-3c5f10eece094bab813e8a2d9f4a8586-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__3c5f10eece094bab813e8a2d9f4a8586.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-446349abdc6941eca58d1b2d79d40890-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-446349abdc6941eca58d1b2d79d40890-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-446349abdc6941eca58d1b2d79d40890-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__446349abdc6941eca58d1b2d79d40890.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-461d32547c364a9783751544a410eded-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-461d32547c364a9783751544a410eded-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-461d32547c364a9783751544a410eded-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__461d32547c364a9783751544a410eded.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-46fb4b382ae64aec8b6f3e246aea258e-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-46fb4b382ae64aec8b6f3e246aea258e-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-46fb4b382ae64aec8b6f3e246aea258e-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__46fb4b382ae64aec8b6f3e246aea258e.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-485608abdaa444c8953019105f877db0-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-485608abdaa444c8953019105f877db0-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-485608abdaa444c8953019105f877db0-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__485608abdaa444c8953019105f877db0.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-4910d2cf817d4932a426acac2b94076b-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-4910d2cf817d4932a426acac2b94076b-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-4910d2cf817d4932a426acac2b94076b-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__4910d2cf817d4932a426acac2b94076b.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-4a6d7332a6194b11b28b93e295679cf3-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-4a6d7332a6194b11b28b93e295679cf3-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-4a6d7332a6194b11b28b93e295679cf3-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__4a6d7332a6194b11b28b93e295679cf3.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-529a4746c0c64735a192a2d6ac92d66b-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-529a4746c0c64735a192a2d6ac92d66b-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-529a4746c0c64735a192a2d6ac92d66b-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__529a4746c0c64735a192a2d6ac92d66b.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-57cf727b97944696bf1c02d1aa55abb8-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-57cf727b97944696bf1c02d1aa55abb8-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-57cf727b97944696bf1c02d1aa55abb8-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__57cf727b97944696bf1c02d1aa55abb8.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5913bd3a79994385b3f317d23aac62a9-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5913bd3a79994385b3f317d23aac62a9-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5913bd3a79994385b3f317d23aac62a9-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__5913bd3a79994385b3f317d23aac62a9.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5a1ca93af79f4807991d9abafd0d2cf6-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5a1ca93af79f4807991d9abafd0d2cf6-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5a1ca93af79f4807991d9abafd0d2cf6-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__5a1ca93af79f4807991d9abafd0d2cf6.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5c66916e89dd472ba7ae43b7c437b6d4-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5c66916e89dd472ba7ae43b7c437b6d4-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5c66916e89dd472ba7ae43b7c437b6d4-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__5c66916e89dd472ba7ae43b7c437b6d4.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5f147dc2f81347f9a29782629b681058-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5f147dc2f81347f9a29782629b681058-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-5f147dc2f81347f9a29782629b681058-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__5f147dc2f81347f9a29782629b681058.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-6aeac3c844c14466893dcd4bdb4dad22-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-6aeac3c844c14466893dcd4bdb4dad22-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-6aeac3c844c14466893dcd4bdb4dad22-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__6aeac3c844c14466893dcd4bdb4dad22.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-6d3e2a857a9d483bb7833db5763de455-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-6d3e2a857a9d483bb7833db5763de455-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-6d3e2a857a9d483bb7833db5763de455-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__6d3e2a857a9d483bb7833db5763de455.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-712d23b8159146f2bd59f363220b08f4-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-712d23b8159146f2bd59f363220b08f4-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-712d23b8159146f2bd59f363220b08f4-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__712d23b8159146f2bd59f363220b08f4.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-7d8f8aac774942d2ad73655ac8ecde81-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-7d8f8aac774942d2ad73655ac8ecde81-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-7d8f8aac774942d2ad73655ac8ecde81-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__7d8f8aac774942d2ad73655ac8ecde81.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-7e09f498c0bb4dd990f77aea09a6bb0f-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-7e09f498c0bb4dd990f77aea09a6bb0f-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-7e09f498c0bb4dd990f77aea09a6bb0f-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__7e09f498c0bb4dd990f77aea09a6bb0f.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-88faea07f3d448b88797849ac038764c-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-88faea07f3d448b88797849ac038764c-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-88faea07f3d448b88797849ac038764c-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__88faea07f3d448b88797849ac038764c.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-931f2bc5583b42eb8b2057c656161cbe-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-931f2bc5583b42eb8b2057c656161cbe-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-931f2bc5583b42eb8b2057c656161cbe-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__931f2bc5583b42eb8b2057c656161cbe.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-96803ee3f11d477c86d4728bf7dab339-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-96803ee3f11d477c86d4728bf7dab339-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-96803ee3f11d477c86d4728bf7dab339-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__96803ee3f11d477c86d4728bf7dab339.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-96be99298f9847fcb49133495ffe1f49-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-96be99298f9847fcb49133495ffe1f49-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-96be99298f9847fcb49133495ffe1f49-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__96be99298f9847fcb49133495ffe1f49.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a532b75029ec4b9689fcf5b7077f78ac-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a532b75029ec4b9689fcf5b7077f78ac-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a532b75029ec4b9689fcf5b7077f78ac-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__a532b75029ec4b9689fcf5b7077f78ac.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a87383e3aabc44738a6ef0652a100380-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a87383e3aabc44738a6ef0652a100380-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a87383e3aabc44738a6ef0652a100380-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__a87383e3aabc44738a6ef0652a100380.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a8d2871c160a476e8ea3b540a5bd4119-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a8d2871c160a476e8ea3b540a5bd4119-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-a8d2871c160a476e8ea3b540a5bd4119-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__a8d2871c160a476e8ea3b540a5bd4119.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b68ff8636c884c64bbac8276ae8987f3-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b68ff8636c884c64bbac8276ae8987f3-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b68ff8636c884c64bbac8276ae8987f3-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__b68ff8636c884c64bbac8276ae8987f3.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b9e3702bad5740fb91226dfaaabd3baa-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b9e3702bad5740fb91226dfaaabd3baa-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b9e3702bad5740fb91226dfaaabd3baa-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__b9e3702bad5740fb91226dfaaabd3baa.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b9e38f5ae06d4d569d768e3677a96452-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b9e38f5ae06d4d569d768e3677a96452-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-b9e38f5ae06d4d569d768e3677a96452-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__b9e38f5ae06d4d569d768e3677a96452.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-bb3cf49fd9a84694b2eface4a462537d-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-bb3cf49fd9a84694b2eface4a462537d-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-bb3cf49fd9a84694b2eface4a462537d-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__bb3cf49fd9a84694b2eface4a462537d.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-c0bcb6ab516f44be9610c0f2b676b168-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-c0bcb6ab516f44be9610c0f2b676b168-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-c0bcb6ab516f44be9610c0f2b676b168-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__c0bcb6ab516f44be9610c0f2b676b168.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-c7a576ce43e745cc85ffff013e5c1d4a-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-c7a576ce43e745cc85ffff013e5c1d4a-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-c7a576ce43e745cc85ffff013e5c1d4a-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__c7a576ce43e745cc85ffff013e5c1d4a.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-cbf6b1328c874976a556b94fb07a4c0d-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-cbf6b1328c874976a556b94fb07a4c0d-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-cbf6b1328c874976a556b94fb07a4c0d-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__cbf6b1328c874976a556b94fb07a4c0d.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ce53c2cdc8084214918090066f28f6c9-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ce53c2cdc8084214918090066f28f6c9-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ce53c2cdc8084214918090066f28f6c9-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__ce53c2cdc8084214918090066f28f6c9.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-d0c49a97f6a5474c9254c1575a13e2aa-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-d0c49a97f6a5474c9254c1575a13e2aa-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-d0c49a97f6a5474c9254c1575a13e2aa-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__d0c49a97f6a5474c9254c1575a13e2aa.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-d33cf557f4aa4dc7863a0ff00bb5ed79-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-d33cf557f4aa4dc7863a0ff00bb5ed79-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-d33cf557f4aa4dc7863a0ff00bb5ed79-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__d33cf557f4aa4dc7863a0ff00bb5ed79.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ee8f9a453d05489495881b7e3c2f95b8-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ee8f9a453d05489495881b7e3c2f95b8-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ee8f9a453d05489495881b7e3c2f95b8-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__ee8f9a453d05489495881b7e3c2f95b8.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ef01cbafc38d458bac69159fd7442bc5-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ef01cbafc38d458bac69159fd7442bc5-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-ef01cbafc38d458bac69159fd7442bc5-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__ef01cbafc38d458bac69159fd7442bc5.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-efc1b5f593ae4538a6a4f5badf854f26-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-efc1b5f593ae4538a6a4f5badf854f26-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-efc1b5f593ae4538a6a4f5badf854f26-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__efc1b5f593ae4538a6a4f5badf854f26.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-f62ae03432534402964b9326f5046411-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-f62ae03432534402964b9326f5046411-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-f62ae03432534402964b9326f5046411-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__f62ae03432534402964b9326f5046411.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-f85a84666009461b9856490c3cf4db6e-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-f85a84666009461b9856490c3cf4db6e-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-f85a84666009461b9856490c3cf4db6e-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__f85a84666009461b9856490c3cf4db6e.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-fed8b9fcae69424d941536ecaf4b6407-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-fed8b9fcae69424d941536ecaf4b6407-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-fed8b9fcae69424d941536ecaf4b6407-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/html__fed8b9fcae69424d941536ecaf4b6407.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-1-data-entry-in-dhis2-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-1-data-entry-in-dhis2-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-1-data-entry-in-dhis2-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__1.1.1_Data-entry-in-DHIS2.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-2-data-review-in-dhis2-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-2-data-review-in-dhis2-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-2-data-review-in-dhis2-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__1.1.2_Data-review-in-DHIS2.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-3-data-outputs-data-interpretation-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-3-data-outputs-data-interpretation-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-3-data-outputs-data-interpretation-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__1.1.3_Data-outputs-data-interpretation.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-4-data-dissemination-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-4-data-dissemination-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-4-data-dissemination-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__1.1.4_Data-dissemination.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-1-where-what-and-when-in-dhis2-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-1-where-what-and-when-in-dhis2-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-1-where-what-and-when-in-dhis2-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__2.1.1_Where-what-and-when-in-DHIS2.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-2-where-organisation-unit-hierarchies-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-2-where-organisation-unit-hierarchies-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-2-where-organisation-unit-hierarchies-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__2.1.2_Where---Organisation-unit-hierarchies.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-3-what-data-elements-and-indicators-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-3-what-data-elements-and-indicators-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-3-what-data-elements-and-indicators-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__2.1.3_What---Data-elements-and-indicators.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-4-when-periods-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-4-when-periods-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-2-1-4-when-periods-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__2.1.4_When--Periods.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-1-1-once-upon-a-time-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-1-1-once-upon-a-time-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-1-1-once-upon-a-time-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__3.1.1_Once-upon-a-time.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-2-1-dhis2-and-hisp-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-2-1-dhis2-and-hisp-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-2-1-dhis2-and-hisp-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__3.2.1_DHIS2-and-HISP.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-2-3-components-of-the-dhis2-ecosystem-pptx--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-2-3-components-of-the-dhis2-ecosystem-pptx--master/<lang>.pptx
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-3-2-3-components-of-the-dhis2-ecosystem-pptx--master/en.pptx
+source_lang   = en
+type          = MS_PPTX
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/PPT__3.2.3_Components-of-the-DHIS2-Ecosystem.pptx (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-03fd59be79f8f747ab94-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-03fd59be79f8f747ab94-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-03fd59be79f8f747ab94-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__03fd59be79f8f747ab94__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-090bac294170adb3c583-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-090bac294170adb3c583-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-090bac294170adb3c583-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__090bac294170adb3c583__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-0986240d9bd57c6d00ac-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-0986240d9bd57c6d00ac-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-0986240d9bd57c6d00ac-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__0986240d9bd57c6d00ac__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-14e7befb1e91b6b9ac71-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-14e7befb1e91b6b9ac71-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-14e7befb1e91b6b9ac71-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__14e7befb1e91b6b9ac71__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-151ade908d6ed07a7e3a-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-151ade908d6ed07a7e3a-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-151ade908d6ed07a7e3a-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__151ade908d6ed07a7e3a__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-1c60a4f2fd9c0006d000-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-1c60a4f2fd9c0006d000-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-1c60a4f2fd9c0006d000-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__1c60a4f2fd9c0006d000__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-2139850d7b4340bc89ea5842874ec001-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-2139850d7b4340bc89ea5842874ec001-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-2139850d7b4340bc89ea5842874ec001-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__2139850d7b4340bc89ea5842874ec001__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-23ce61dabd7f92b53251-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-23ce61dabd7f92b53251-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-23ce61dabd7f92b53251-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__23ce61dabd7f92b53251__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-293dff9a0a4e4cbf92c113346b187330-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-293dff9a0a4e4cbf92c113346b187330-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-293dff9a0a4e4cbf92c113346b187330-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__293dff9a0a4e4cbf92c113346b187330__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-345f5ea2c6114fc8ad1ae9f34dd95a65-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-345f5ea2c6114fc8ad1ae9f34dd95a65-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-345f5ea2c6114fc8ad1ae9f34dd95a65-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__345f5ea2c6114fc8ad1ae9f34dd95a65__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-36c1fbe4f7a29dd8a991-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-36c1fbe4f7a29dd8a991-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-36c1fbe4f7a29dd8a991-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__36c1fbe4f7a29dd8a991__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-40016c1b08f7eedc5d92-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-40016c1b08f7eedc5d92-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-40016c1b08f7eedc5d92-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__40016c1b08f7eedc5d92__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-428708a20962695d5b80-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-428708a20962695d5b80-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-428708a20962695d5b80-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__428708a20962695d5b80__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-4afa81a27a9ee2913caf-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-4afa81a27a9ee2913caf-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-4afa81a27a9ee2913caf-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__4afa81a27a9ee2913caf__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-4edbc32226f216d6692a-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-4edbc32226f216d6692a-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-4edbc32226f216d6692a-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__4edbc32226f216d6692a__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-50a7260df8c673dcdbb4-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-50a7260df8c673dcdbb4-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-50a7260df8c673dcdbb4-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__50a7260df8c673dcdbb4__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-56387bc8a6107dea9ad4-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-56387bc8a6107dea9ad4-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-56387bc8a6107dea9ad4-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__56387bc8a6107dea9ad4__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-57af2e1313ebc27ce480-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-57af2e1313ebc27ce480-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-57af2e1313ebc27ce480-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__57af2e1313ebc27ce480__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-5f4b8e7d6e43241603b8-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-5f4b8e7d6e43241603b8-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-5f4b8e7d6e43241603b8-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__5f4b8e7d6e43241603b8__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-6152166369be1a30734b-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-6152166369be1a30734b-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-6152166369be1a30734b-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__6152166369be1a30734b__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-65da4f2849f6d8d5680d-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-65da4f2849f6d8d5680d-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-65da4f2849f6d8d5680d-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__65da4f2849f6d8d5680d__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-6a22c6d29cb982690d78-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-6a22c6d29cb982690d78-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-6a22c6d29cb982690d78-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__6a22c6d29cb982690d78__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-72372e3521f7684541fa-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-72372e3521f7684541fa-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-72372e3521f7684541fa-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__72372e3521f7684541fa__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-72c43f53a8e85489ae6a-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-72c43f53a8e85489ae6a-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-72c43f53a8e85489ae6a-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__72c43f53a8e85489ae6a__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-795807d7dbcfa8acdea5-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-795807d7dbcfa8acdea5-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-795807d7dbcfa8acdea5-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__795807d7dbcfa8acdea5__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-7c15b6a2963d57030c3c-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-7c15b6a2963d57030c3c-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-7c15b6a2963d57030c3c-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__7c15b6a2963d57030c3c__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-855f0769bdb3be64fbd5-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-855f0769bdb3be64fbd5-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-855f0769bdb3be64fbd5-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__855f0769bdb3be64fbd5__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-870393df1e1bbad26b73-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-870393df1e1bbad26b73-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-870393df1e1bbad26b73-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__870393df1e1bbad26b73__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-87fd7be3be4b321c8dcc-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-87fd7be3be4b321c8dcc-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-87fd7be3be4b321c8dcc-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__87fd7be3be4b321c8dcc__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-8aec19d74d8a45f802ce-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-8aec19d74d8a45f802ce-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-8aec19d74d8a45f802ce-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__8aec19d74d8a45f802ce__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-9067537398bf62ace29c-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-9067537398bf62ace29c-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-9067537398bf62ace29c-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__9067537398bf62ace29c__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-977f482676de3981d385-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-977f482676de3981d385-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-977f482676de3981d385-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__977f482676de3981d385__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-9ff35960d710b1be0c82-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-9ff35960d710b1be0c82-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-9ff35960d710b1be0c82-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__9ff35960d710b1be0c82__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-a2a0b944aa3858dde6cc-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-a2a0b944aa3858dde6cc-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-a2a0b944aa3858dde6cc-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__a2a0b944aa3858dde6cc__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-a4033099a4644a18ae7740ea36a35e2b-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-a4033099a4644a18ae7740ea36a35e2b-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-a4033099a4644a18ae7740ea36a35e2b-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__a4033099a4644a18ae7740ea36a35e2b__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ad63b1be4fca54253163-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ad63b1be4fca54253163-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ad63b1be4fca54253163-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__ad63b1be4fca54253163__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-b1c2008157a2d7a9df92-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-b1c2008157a2d7a9df92-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-b1c2008157a2d7a9df92-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__b1c2008157a2d7a9df92__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-b2af77399a794c7f86a8850d408db347-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-b2af77399a794c7f86a8850d408db347-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-b2af77399a794c7f86a8850d408db347-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__b2af77399a794c7f86a8850d408db347__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-beb7379bf5bcb9757ea5-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-beb7379bf5bcb9757ea5-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-beb7379bf5bcb9757ea5-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__beb7379bf5bcb9757ea5__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-bf52137b95b9296bc13e-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-bf52137b95b9296bc13e-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-bf52137b95b9296bc13e-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__bf52137b95b9296bc13e__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c044a5f00bd055d0f00d-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c044a5f00bd055d0f00d-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c044a5f00bd055d0f00d-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__c044a5f00bd055d0f00d__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c1ed7bdf2cff366bd7e8-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c1ed7bdf2cff366bd7e8-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c1ed7bdf2cff366bd7e8-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__c1ed7bdf2cff366bd7e8__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c857f0e32b42975ad602-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c857f0e32b42975ad602-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-c857f0e32b42975ad602-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__c857f0e32b42975ad602__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-cadbeff25be8865b3fd6-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-cadbeff25be8865b3fd6-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-cadbeff25be8865b3fd6-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__cadbeff25be8865b3fd6__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ccb18fcee1494597b3037716f2b97c2c-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ccb18fcee1494597b3037716f2b97c2c-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ccb18fcee1494597b3037716f2b97c2c-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__ccb18fcee1494597b3037716f2b97c2c__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-cee86385fbad18df93f4-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-cee86385fbad18df93f4-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-cee86385fbad18df93f4-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__cee86385fbad18df93f4__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-d01cdfab3fa041bdb417b0829673c3cc-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-d01cdfab3fa041bdb417b0829673c3cc-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-d01cdfab3fa041bdb417b0829673c3cc-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__d01cdfab3fa041bdb417b0829673c3cc__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-d546eda7f7169d1add73-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-d546eda7f7169d1add73-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-d546eda7f7169d1add73-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__d546eda7f7169d1add73__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-db7a4bbf9b722b3eb6bf-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-db7a4bbf9b722b3eb6bf-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-db7a4bbf9b722b3eb6bf-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__db7a4bbf9b722b3eb6bf__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-e76ff002688977f2547c-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-e76ff002688977f2547c-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-e76ff002688977f2547c-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__e76ff002688977f2547c__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-eddd8f73bfb272302ecc-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-eddd8f73bfb272302ecc-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-eddd8f73bfb272302ecc-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__eddd8f73bfb272302ecc__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ee02135b3df37f6e08fc-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ee02135b3df37f6e08fc-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ee02135b3df37f6e08fc-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__ee02135b3df37f6e08fc__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f42d94565fe5985e7493-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f42d94565fe5985e7493-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f42d94565fe5985e7493-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__f42d94565fe5985e7493__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f85de8a2007a41079f4d17e22f6c6939-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f85de8a2007a41079f4d17e22f6c6939-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f85de8a2007a41079f4d17e22f6c6939-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__f85de8a2007a41079f4d17e22f6c6939__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f9989257240d2cffc8f1-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f9989257240d2cffc8f1-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-f9989257240d2cffc8f1-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__f9989257240d2cffc8f1__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fad6127e3bb01d0e8d2b-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fad6127e3bb01d0e8d2b-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fad6127e3bb01d0e8d2b-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__fad6127e3bb01d0e8d2b__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fcdbb3fd683b532fb667-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fcdbb3fd683b532fb667-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fcdbb3fd683b532fb667-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__fcdbb3fd683b532fb667__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fe17a8db98a14273ae336dcb1809c0c3-xml-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fe17a8db98a14273ae336dcb1809c0c3-xml-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fe17a8db98a14273ae336dcb1809c0c3-xml-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/problem__fe17a8db98a14273ae336dcb1809c0c3__xml.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-tabs-9acd3eb11647477cb3b5ed2a75223706-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-tabs-9acd3eb11647477cb3b5ed2a75223706-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-tabs-9acd3eb11647477cb3b5ed2a75223706-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/tabs__9acd3eb11647477cb3b5ed2a75223706.html (master)
+
+[o:hisp-uio:p:training-fund-20-introduction-to-dhis2:r:fundamentals-v2-0-introduction-to-dhis2-translation-transifex-tabs-b61a357c756b4feda88f1ef0b53b6cff-html--master]
+file_filter   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-tabs-b61a357c756b4feda88f1ef0b53b6cff-html--master/<lang>.html
+source_file   = translations/training-fund-20-introduction-to-dhis2.fundamentals-v2-0-introduction-to-dhis2-translation-transifex-tabs-b61a357c756b4feda88f1ef0b53b6cff-html--master/en.html
+source_lang   = en
+type          = HTML_FRAGMENT
+minimum_perc  = 0
+resource_name = Fundamentals-v2.0..transifex/tabs__b61a357c756b4feda88f1ef0b53b6cff.html (master)
+

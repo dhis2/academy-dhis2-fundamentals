@@ -1,0 +1,48 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-b1c2008157a2d7a9df92-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="737f883d5c3b5ba3e1952eedca509d09">
+        <source>What is the term used that describes the type of data that classifies and organizes other data?</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="2d58bdfbead19444cc5a314b6283442a">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. Alter-Data &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="65bcd17686c19a56f9e244dcb472ca6d">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. Metadata &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="fa10e2dbceb99eb02d8c569f540637c6">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. Customized data &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="45c4cae23447eb27a3409af09831a552">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. Categories &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="a7e113f5141f692f5ac13affc8c2e42a">
+        <source> Metadata is the correct answer. We refer to metadata as any information that is describing your data.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

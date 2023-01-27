@@ -1,0 +1,66 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-7d8f8aac774942d2ad73655ac8ecde81-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="31fb6d90bc4aea011ee41f6c3fd8d6f0">
+        <source>What is interoperability?</source>
+      </trans-unit>
+      <trans-unit id="2" resname="cb3985c62fdd8b5fa508dba1aaf57d40">
+        <source>In a national health system, it is common to have several different information management platforms performing complementary functions alongside one another. These systems may need to exchange information - or “talk” to each other- in order for decision makers to obtain a broader, more detailed picture of what is happening in the health system as a whole. The ability to send and receive information between different systems, software and file formats is referred to as &lt;strong&gt;interoperability&lt;/strong&gt;.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="d325c10bcf571da5eb9bc2832f57e5c5">
+        <source>For example, DHIS2 and OpenMRS (&lt;strong&gt;M&lt;/strong&gt;edical &lt;strong&gt;R&lt;/strong&gt;ecords &lt;strong&gt;S&lt;/strong&gt;ystem) are interoperable, because they allow the sharing of data and data definitions with each other. In this example, a health system may use OpenMRS to store detailed medical records for each individual hospital admission (among other hospital data). Meanwhile, the health system’s DHIS2 implementation may only require the aggregate number of hospital admissions separated by various criteria. Interoperability allows DHIS2 to receive these totals from OpenMRS and use them for analysis in combination with other data stored in DHIS2. This is commonly referred to as a 1:1 integration, as you are linking one system directly to another.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="5c57e2c918b40564467b52ad217dc541">
+        <source>How does interoperability work?</source>
+      </trans-unit>
+      <trans-unit id="5" resname="b4992d6a8ee34c3ebd668436c3320ea1">
+        <source>Interoperability depends on standards for data formats, interfaces, codes and terminologies. In an ideal situation, these would be drawn from international standards. However, in most contexts, a mix of international and local standards are used. These standards can be broken down into two levels:</source>
+      </trans-unit>
+      <trans-unit id="6" resname="64e1ce780b69af46bc2dd545b6e0b78a">
+        <source>&lt;strong&gt;Content:&lt;/strong&gt; Ensuring what is being shared between systems represents the same item conceptually</source>
+      </trans-unit>
+      <trans-unit id="7" resname="ce9d403478e8d7593f287aaf0c20ecc2">
+        <source>&lt;strong&gt;Technical:&lt;/strong&gt; Involving the mechanism used to actually transmit the data from one system to the other</source>
+      </trans-unit>
+      <trans-unit id="8" resname="be1986a3a9e99bea522e4f1cf0c92c78">
+        <source>At the &lt;strong&gt;content&lt;/strong&gt; level, consistency of definitions is required. This includes not just consistency of data element definitions, but also of their disaggregations. To return to our OpenMRS example, if the “hospital admissions” data element in DHIS2 did not include the required disaggregations from OpenMRS (such as age and sex), but instead defined admissions as a total value, this would result in difficulty sharing these data.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="7086e27889de1e22a0336e821b3b7885">
+        <source>At the &lt;strong&gt;technical&lt;/strong&gt; level, various data exchange standards can be adopted. One standard example for aggregate data is called &lt;a href=&quot;https://wiki.ihe.net/index.php/Aggregate_Data_Exchange&quot; target=&quot;_blank&quot;&gt;ADX&lt;/a&gt; (&lt;strong&gt;A&lt;/strong&gt;ggregate &lt;strong&gt;D&lt;/strong&gt;ata e&lt;strong&gt;X&lt;/strong&gt;change), which is used to share aggregate data across various systems, including DHIS2. Another commonly discussed standard is &lt;a href=&quot;https://www.hl7.org/fhir/overview.html&quot; target=&quot;_blank&quot;&gt;FHIR&lt;/a&gt; (&lt;strong&gt;F&lt;/strong&gt;ast &lt;strong&gt;H&lt;/strong&gt;ealthcare &lt;strong&gt;I&lt;/strong&gt;nteroperability &lt;strong&gt;R&lt;/strong&gt;esource), which is a standard for exchanging healthcare information electronically. HISP and the DHIS2 community are actively involved in supporting the development and use of global standards such as these.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="51c507d104ebbb4f9ff7b996ec0bc10c">
+        <source>Interoperability between DHIS2 and other systems</source>
+      </trans-unit>
+      <trans-unit id="11" resname="cdf9e4010606fd1e63c08bf30ca6ac37">
+        <source>One of the most common DHIS2 interoperability scenarios is using DHIS2 as a &lt;strong&gt;data warehouse&lt;/strong&gt;. This term describes how DHIS2 can be used to receive information from multiple information systems and sources to facilitate data triangulation. In this scenario, DHIS2 often acts as the standard for metadata that is shared across these connected systems, allowing for alignment of codes, definitions and IDs for the information being exchanged.</source>
+      </trans-unit>
+      <trans-unit id="12" resname="28b42f236aba6df5f9e84a7eee31919a">
+        <source>Let’s look at an example of how specific ADX-compatible systems could be linked to DHIS2:</source>
+      </trans-unit>
+      <trans-unit id="13" resname="9564276427bd364c1c7c637d77f369e9">
+        <source>&lt;a href=&quot;https://www.ihris.org/&quot; target=&quot;_blank&quot;&gt;iHRIS&lt;/a&gt;: A system for tracking and managing health workforce data</source>
+      </trans-unit>
+      <trans-unit id="14" resname="5227659e0130beec653d07a8c9d78130">
+        <source>&lt;a href=&quot;https://openmrs.org/&quot; target=&quot;_blank&quot;&gt;OpenMRS&lt;/a&gt;: A medical records system</source>
+      </trans-unit>
+      <trans-unit id="15" resname="d85a1b6feaf2c0bb5db5a23a08b7af2c">
+        <source>&lt;a href=&quot;https://openelis-global.org/&quot; target=&quot;_blank&quot;&gt;OpenELIS&lt;/a&gt;: A laboratory enterprise information system.</source>
+      </trans-unit>
+      <trans-unit id="16" resname="b2d85ccfa4be0e65083d8899af6218da">
+        <source>
+&lt;img src=&quot;/static/interoperatibility_diagram.png&quot; style=&quot;width:100%&quot; /&gt;
+
+</source>
+      </trans-unit>
+      <trans-unit id="17" resname="efb51f40e413a291d66ed4f8d37c14a0">
+        <source>As the diagram shows, iHRIS can send relevant data to DHIS2, such as the &quot;number of doctors&quot;, &quot;number of nurses&quot; and &quot;total number of staff”. OpenMRS is able to aggregate data on inpatient diseases and send the aggregated data to DHIS2. OpenELIS can generate data on the outcome of laboratory tests and send them to DHIS2. In this interoperable network, the DHIS2 application serves as an integrated data warehouse that hosts data from these various sources, where the data can be used on a national level to make informed decisions.</source>
+      </trans-unit>
+      <trans-unit id="18" resname="0879d08e76a9d8eff742f4a4b78268da">
+        <source>There are additional interoperability scenarios in which DHIS2 may play a smaller overall role. In these scenarios, instead of using DHIS2 to combine data from other systems, data in DHIS2 may be sent to other systems that require it. This can include national, global or regional systems that require information from DHIS2. For example, DHIS2 may send national disease surveillance data to a regional surveillance information system to facilitate cross-regional/border surveillance.</source>
+      </trans-unit>
+      <trans-unit id="19" resname="9c8499b46c214c15bb48ba5130a674c9">
+        <source>While these interoperability and data exchange models are achievable, in practice there are often many practical challenges. Many of the systems involved in exchanging information will face ongoing, dynamic developments over time; this can include changes to the content as well as software version revisions or technical updates. As a result, an exchange that is working at a certain point in time may not work as systems are developed further. Interoperability is a process that requires strong governance to coordinate content across systems, as well as technical skills that are available on an ongoing basis as systems are initially implemented and modified. For more information on interoperability concepts, please consult our &lt;a href=&quot;https://docs.dhis2.org/master/en/dhis2_implementation_guide/integration-concepts.html&quot; target=&quot;_blank&quot;&gt;documentation&lt;/a&gt;.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

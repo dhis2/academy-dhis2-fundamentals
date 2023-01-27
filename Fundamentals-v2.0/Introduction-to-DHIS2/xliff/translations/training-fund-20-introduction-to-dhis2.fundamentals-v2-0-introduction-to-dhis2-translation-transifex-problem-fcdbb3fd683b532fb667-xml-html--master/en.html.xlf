@@ -1,0 +1,58 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-fcdbb3fd683b532fb667-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="59aa0232c7d8697996afec4762582275">
+        <source> If you want to take a course to develop your DHIS2 skills and interact with DHIS2 experts, you can do it in:   </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="126eddb17c4ca468acb45106b2d33db2">
+        <source> (Select 1 option) </source>
+      </trans-unit>
+      <trans-unit id="5" resname="45694cd38815c023ffdbc229edb18d51">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. DHIS2 Design Lab
+
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="08f3325e2d8d661d9709c210277a7bd7">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. DHIS2 Academy
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="7" resname="266b93a13daab606eb39b728f551318d">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;C. DHIS2 Developer Portal
+
+ &lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="8" resname="dfbace96017bd4212d8d305d81eeb8e5">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;D. DHIS2 Community of Practice
+
+
+&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="9" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="10" resname="d1cced1f9ca2c37339142099dcc002a8">
+        <source>If you want to develop your DHIS2 skills, you can take a  DHIS2 Academy course. The academy program includes both online and in-person courses on both general and specialized topics.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

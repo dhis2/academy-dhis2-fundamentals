@@ -1,0 +1,30 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-96be99298f9847fcb49133495ffe1f49-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="f6de5bf245ba9daeebb356e747795889">
+        <source>Where: Organisation Unit</source>
+      </trans-unit>
+      <trans-unit id="2" resname="6aa30dd8079d1b301772b726c5d78ceb">
+        <source>Now that you understand the basics of the three building blocks of DHIS2, let’s start looking at each of these building blocks in a bit more detail.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="3a151f6e4310e8f5f7ea62ce26e0a833">
+        <source>In this video, you will learn about the &lt;strong&gt;“Where” dimension&lt;/strong&gt; of DHIS2: &lt;strong&gt;Organisation Units. Organisation Units represent the geographical dimension of the data&lt;/strong&gt;. They define where data are &lt;strong&gt;captured&lt;/strong&gt; and how they can be &lt;strong&gt;aggregated&lt;/strong&gt; from a geographical/organisational perspective, such as aggregation from facility data to regional data, and from regional to national levels. You will also learn about alternative ways of grouping facilities using “&lt;strong&gt;organisation unit groups&lt;/strong&gt;” and “&lt;strong&gt;organisation unit group sets&lt;/strong&gt;”, which are useful in data analysis.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="84433574035940e92cd837543c50f34d">
+        <source>Key concepts</source>
+      </trans-unit>
+      <trans-unit id="5" resname="03f197f847ddc593379b1b4a9bbc5429">
+        <source>Organisation unit</source>
+      </trans-unit>
+      <trans-unit id="6" resname="bbb84cdf71a8131057e5d7d7b19dad30">
+        <source>Hierarchy</source>
+      </trans-unit>
+      <trans-unit id="7" resname="6cbbb387c40ea7e36d436bd36425a637">
+        <source>Organisation unit groups</source>
+      </trans-unit>
+      <trans-unit id="8" resname="e2c47d26a60082b99595861e8638fa7c">
+        <source>Organisation unit group sets</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

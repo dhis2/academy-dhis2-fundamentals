@@ -1,0 +1,24 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-57cf727b97944696bf1c02d1aa55abb8-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="d853be3a52f2a5b542eee941409717b7">
+        <source>Module 3 Quiz</source>
+      </trans-unit>
+      <trans-unit id="2" resname="20c5010ab804348a3d7b2daa2859fd1e">
+        <source>This is a graded quiz and it is worth 30% of your final grade.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="b2bd2a72481f9d4880565df51b5ad9dd">
+        <source>You have &lt;strong&gt;unlimited attempts&lt;/strong&gt; to answer each question.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="8a5e93203b199c93585c0aedb5924446">
+        <source>Note that to succeed the course you need a &lt;strong&gt;passing grade of 80%&lt;/strong&gt;</source>
+      </trans-unit>
+      <trans-unit id="5" resname="da35a1fd94d245b3e4dcb6d8457d582d">
+        <source>For more detailed information about quiz navigation and grading, refer to the unit &lt;a href=&quot;https://academy.dhis2.org/courses/course-v1:hisp+GEN-D001-en+2022Q1/jump_to/block-v1:hisp+GEN-D001-en+2022Q1+type@vertical+block@363e7dce250441f58f3289a77b85e7ed&quot; target=&quot;_blank&quot;&gt;Assess your progress: Knowledge checks and quizzes&lt;/a&gt;  in section 0.3 Using the Online academy platform.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="5fc3e23215eef1942515fed2c82170f0">
+        <source>Select the &quot;&lt;strong&gt;submit&lt;/strong&gt;&quot; button to submit your answers.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-about-overview-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="64e10a88caaaede6855b11cd266b0e05">
+        <source>About This Course</source>
+      </trans-unit>
+      <trans-unit id="2" resname="93f4022abe6cd5b3741c04393a056e6a">
+        <source>In this course, you will learn about the fundamental concepts that underpin how DHIS2 works, such as its building blocks and how data are entered, validated, analyzed, and shared. You will also discover the community that surrounds DHIS2, learn about its history and its supporting ecosystem. This course is the first course in the DHIS2 Fundamentals courses program. If you are new to DHIS2, we recommend you start your DHIS2 learning journey here. </source>
+      </trans-unit>
+      <trans-unit id="3" resname="91f4f0042989b3cb0e1f0b7e66ef80e7">
+        <source>What will I learn?</source>
+      </trans-unit>
+      <trans-unit id="4" resname="12e69b156505d99179d5e6736edcd3e2">
+        <source>After completing this course, you’ll be able to:</source>
+      </trans-unit>
+      <trans-unit id="5" resname="57ec73cecebe53e0bf4a0c9f737abab5">
+        <source>Identify examples of the use of DHIS2 in the implementation, monitoring, and evaluation of public health and education programs.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="465ab766027d744e49a41814211d1443">
+        <source>Recognize how DHIS2 can be used to capture, analyze, and share data to make informed decisions.</source>
+      </trans-unit>
+      <trans-unit id="7" resname="7535ca967e9e524cf2049ab337b6c598">
+        <source>Identify the DHIS2 building blocks that make it possible to customize and extend the capabilities of the platform.
+</source>
+      </trans-unit>
+      <trans-unit id="8" resname="b8d3d0b3aff19aca2b45d69fc980532c">
+        <source>Indicate DHIS2 advantages as open-source software and its potential for integration with other platforms.</source>
+      </trans-unit>
+      <trans-unit id="9" resname="60e489d96ea92b5280d8dfe88d8d82eb">
+        <source>Recognize the roles and the relationship between the University of Oslo (UiO) and the HISP network to create, develop, apply, and improve DHIS2 in the context of Global Digital Health programs.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="43bd17da586bf7359c55cdab5620beec">
+        <source>Distinguish the elements that comprise the DHIS2 ecosystem and the ways to interact with the DHIS2 global community.</source>
+      </trans-unit>
+      <trans-unit id="11" resname="3b31c3fb3c507b79d3f86f2b1e3392f5">
+        <source>Requirements</source>
+      </trans-unit>
+      <trans-unit id="12" resname="cdd0517667f2525825919ab8cf0ac15f">
+        <source>There are no specific prerequisites to take this course.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

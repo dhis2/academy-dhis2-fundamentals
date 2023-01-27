@@ -1,0 +1,15 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-0570936d8d1b4ad5af378bed8a3adedf-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="e00e87fdc4b80022253365481d9eb72d">
+        <source>You are not alone</source>
+      </trans-unit>
+      <trans-unit id="2" resname="9f5e4e521e14f4ac82586deb18f786c8">
+        <source>DHIS2 wouldn’t be possible without the hundreds of people who are involved in development, implementation, capacity building, planning, program management, community outreach and support.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="075fce84c31c7c00befbc90c63353b4e">
+        <source>In this video, you’ll meet some of the people behind DHIS2 and HISP, who help run implementations, build applications, and train users of DHIS2. Click the play button below to get started.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

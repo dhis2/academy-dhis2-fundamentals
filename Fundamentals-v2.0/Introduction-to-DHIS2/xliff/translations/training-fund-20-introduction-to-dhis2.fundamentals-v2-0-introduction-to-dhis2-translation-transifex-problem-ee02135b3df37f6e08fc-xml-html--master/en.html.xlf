@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-ee02135b3df37f6e08fc-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="068605a9ec18d82dabb3f4148d06be29">
+        <source>We can configure data quality checks by creating user-defined validation rules which check the data that is entered. </source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="5af0212eb7fc3039326686bb252b446b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. True&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="271c6d9a01bd2e0f4c6f73a1d94b1f5f">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. False&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="24f404584e86b062270052d0820f9c61">
+        <source>Mathematical rules, referred to as validation rules, can be defined by a user in order to check the data that is being entered. This is one of the electronic methods checking data quality in DHIS2.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

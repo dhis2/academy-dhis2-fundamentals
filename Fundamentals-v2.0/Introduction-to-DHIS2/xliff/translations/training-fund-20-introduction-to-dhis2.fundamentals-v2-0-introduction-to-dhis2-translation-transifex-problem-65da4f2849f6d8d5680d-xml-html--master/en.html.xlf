@@ -1,0 +1,37 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-problem-65da4f2849f6d8d5680d-xml-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="b28550b0e982a8a192469d83dbb541ed">
+        <source>
+    &lt;label&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="2" resname="c264c328cb0ec2d47c53adf4dd656231">
+        <source>The outputs we create can not be given additional descriptions/interpretations directly within DHIS2.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="ecd88bc134be65fc8e8fdde71fea1ea6">
+        <source>
+    &lt;/label&gt;
+    </source>
+      </trans-unit>
+      <trans-unit id="4" resname="5af0212eb7fc3039326686bb252b446b">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;A. True&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="5" resname="271c6d9a01bd2e0f4c6f73a1d94b1f5f">
+        <source>
+        &lt;span style=&quot;font-size:16px;&quot;&gt;B. False&lt;/span&gt;
+      </source>
+      </trans-unit>
+      <trans-unit id="6" resname="e891b0c2d29eb3e4f7ab5e3f12716db3">
+        <source>Feedback</source>
+      </trans-unit>
+      <trans-unit id="7" resname="58edd2266d6cc4c669be663c0e0cd587">
+        <source>We can provide all of our outputs with additional descriptions and discuss interpretations directly within DHIS2. This allows us to give the item more context for when other users are reviewing the information.
+
+</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

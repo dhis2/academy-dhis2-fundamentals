@@ -1,0 +1,30 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-html-446349abdc6941eca58d1b2d79d40890-html--master" source-language="en" datatype="HTML_FRAGMENT">
+    <body>
+      <trans-unit id="1" resname="47cb311bf71a80252350ea52dc63de72">
+        <source>Introducing the DHIS2 Community of Practice (CoP) discussion forum</source>
+      </trans-unit>
+      <trans-unit id="2" resname="835c843f36f6a790431d93526149d687">
+        <source>The DHIS2 Community of Practice - or CoP - is a website where the global community of DHIS2 users connect, discuss, share and support each other through discussion forums organized by categories. We have created a specific category for DHIS2 Academy Courses where each of the DHIS2 Fundamentals courses has its own private space. By taking the Fundamentals courses, you are not only learning about DHIS2 but becoming a part of our global community, which is why we encourage you to interact with other course participants on the CoP.</source>
+      </trans-unit>
+      <trans-unit id="3" resname="60bf1d1f5b177078acc120656d1cf911">
+        <source>Each time we propose a discussion throughout the course, you will find a link to the specific discussion topic on the CoP; however, the topics are in a private space dedicated to the Introduction to DHIS2 course discussion forum. To be able to access the private space, you will need to accept the CoP invitation once and after that you will be able to access all the discussion topics in the course.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="335572099b5bca36e1946f9bba297b55">
+        <source>&lt;strong&gt;&lt;a target=&quot;_blank&quot;  id=&quot;certGetButton&quot; href=&quot;https://community.dhis2.org/invites/skz2pBmave&quot;&gt;Click to join the discussion forum&lt;/a&gt;&lt;/strong&gt;</source>
+      </trans-unit>
+      <trans-unit id="5" resname="f4706c0e5a9b9e98de21d6b384d6aa24">
+        <source>You only need to use the invitation link once. When you click the link, the CoP website will open in a new browser tab. If you already have a community account and are already signed in from a previous CoP session, you can continue directly to the course discussion forum. If you are not signed in you can sign in using your existing username and password. If you do not already have a community account, you will be prompted to create one.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="f1addf0361888d1ba1b21f62df35ce2d">
+        <source>How to navigate to the course discussion forum?</source>
+      </trans-unit>
+      <trans-unit id="7" resname="476b6f7ceebfe736916b2bbc22ecb670">
+        <source>When you create your account, the first interaction with the CoP will be guided by a tour with basic instructions that will help you with using the platform. If you need more guidance, open this&lt;a href=&quot;/static/General_Forum_Guidelines__intro_to_CoP__-__Introduction_to_DHIS2_course.pdf&quot; target=&quot;_blank&quot;&gt; pdf file with specific instructions&lt;/a&gt; on how to use the Fundamentals courses discussion forums.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="4defcd36d00728bf8d71bb9f9d52531a">
+        <source>Please keep in mind that the use of the discussion forums is an &lt;strong&gt;optional activity&lt;/strong&gt; and is not graded.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
