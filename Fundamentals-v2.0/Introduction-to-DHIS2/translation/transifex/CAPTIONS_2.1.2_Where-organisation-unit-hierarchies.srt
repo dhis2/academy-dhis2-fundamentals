@@ -1,0 +1,423 @@
+﻿1
+00:00:00,932 --> 00:00:03,515
+(bright music)
+
+2
+00:00:14,300 --> 00:00:16,240
+- [Instructor] In the previous video,
+
+3
+00:00:16,240 --> 00:00:20,900
+you learned that any
+data value in DHIS2 has
+
+4
+00:00:20,900 --> 00:00:25,380
+at least three dimensions
+associated with it.
+
+5
+00:00:25,380 --> 00:00:28,893
+The what, the where, and the when.
+
+6
+00:00:29,920 --> 00:00:32,330
+In this video, we are going to talk
+
+7
+00:00:32,330 --> 00:00:37,073
+about the where dimension
+or organization units.
+
+8
+00:00:38,220 --> 00:00:40,903
+What is an organization unit?
+
+9
+00:00:42,140 --> 00:00:47,140
+In simple terms, organization
+units represent the location
+
+10
+00:00:47,430 --> 00:00:51,840
+or the larger geographical
+context of the data.
+
+11
+00:00:51,840 --> 00:00:56,500
+Examples of organization units
+include a health facility,
+
+12
+00:00:56,500 --> 00:01:00,410
+school, location where
+services are provided,
+
+13
+00:01:00,410 --> 00:01:05,410
+or an administrative unit
+representing a geographical area,
+
+14
+00:01:05,450 --> 00:01:08,523
+such as a province or a region.
+
+15
+00:01:11,030 --> 00:01:14,060
+For example, in Lao, a country
+
+16
+00:01:14,060 --> 00:01:19,060
+whose Ministry of Health uses
+DHIS2, the highest level,
+
+17
+00:01:19,820 --> 00:01:23,523
+or the root organization
+unit, is the country.
+
+18
+00:01:24,970 --> 00:01:29,900
+The country is further
+divided into 18 provinces.
+
+19
+00:01:29,900 --> 00:01:34,900
+And each of those is subdivided
+into smaller districts.
+
+20
+00:01:35,540 --> 00:01:37,290
+At the lowest level,
+
+21
+00:01:37,290 --> 00:01:40,710
+you will find individual health facilities
+
+22
+00:01:40,710 --> 00:01:42,653
+where the data are collected.
+
+23
+00:01:43,720 --> 00:01:47,030
+Together, all of the organization units
+
+24
+00:01:47,030 --> 00:01:49,283
+form a hierarchical tree.
+
+25
+00:01:50,240 --> 00:01:54,360
+In Lao's case, the
+hierarchy has four levels
+
+26
+00:01:54,360 --> 00:01:57,793
+which correspond to the
+administrative system.
+
+27
+00:01:59,100 --> 00:02:01,390
+The structure of the hierarchy,
+
+28
+00:02:01,390 --> 00:02:05,520
+including the number of
+levels, is fully customizable
+
+29
+00:02:05,520 --> 00:02:10,520
+in DHIS2 to adapt to
+each country's context.
+
+30
+00:02:13,880 --> 00:02:18,450
+Organization units determine
+where data can be captured
+
+31
+00:02:18,450 --> 00:02:22,490
+and how they can be
+aggregated or disaggregated
+
+32
+00:02:22,490 --> 00:02:25,563
+within various reporting outputs.
+
+33
+00:02:27,940 --> 00:02:32,700
+For example, all data
+entered at the facility level
+
+34
+00:02:32,700 --> 00:02:35,990
+could be aggregated to
+provide a total value
+
+35
+00:02:35,990 --> 00:02:38,073
+for the entire district.
+
+36
+00:02:39,550 --> 00:02:43,823
+This principle is the same
+as you move up the hierarchy.
+
+37
+00:02:45,000 --> 00:02:48,980
+During the aggregation
+process, data are added up
+
+38
+00:02:48,980 --> 00:02:53,980
+from the lower organization
+unit levels to the higher ones.
+
+39
+00:02:54,180 --> 00:02:58,563
+DHIS2 performs these
+calculations automatically.
+
+40
+00:03:00,220 --> 00:03:04,450
+Organization units also allow
+you to display your data
+
+41
+00:03:04,450 --> 00:03:07,780
+in the DHIS2 Maps application
+
+42
+00:03:07,780 --> 00:03:11,193
+to better geographically
+understand your data.
+
+43
+00:03:13,102 --> 00:03:17,530
+DHIS2 also allows classifying
+organization units
+
+44
+00:03:17,530 --> 00:03:19,680
+by different criteria
+
+45
+00:03:19,680 --> 00:03:23,520
+other than the main
+administrative hierarchy.
+
+46
+00:03:23,520 --> 00:03:27,430
+We can do this by using
+organization unit groups
+
+47
+00:03:27,430 --> 00:03:30,483
+and organization unit group sets.
+
+48
+00:03:31,550 --> 00:03:34,340
+An organization unit group allows
+
+49
+00:03:34,340 --> 00:03:38,963
+for additional subclassifications
+of organization units.
+
+50
+00:03:41,650 --> 00:03:45,790
+For example, we can create
+a parallel classification
+
+51
+00:03:45,790 --> 00:03:49,930
+of health facilities if
+we group them by type,
+
+52
+00:03:49,930 --> 00:03:53,623
+such as district hospital
+or field clinics;
+
+53
+00:03:56,020 --> 00:04:00,563
+by the form of ownership,
+such as public or private;
+
+54
+00:04:03,420 --> 00:04:07,483
+or by location, such as urban or rural.
+
+55
+00:04:08,500 --> 00:04:12,070
+This is defined for each specific context
+
+56
+00:04:12,070 --> 00:04:14,883
+and will be different
+from country to country.
+
+57
+00:04:18,620 --> 00:04:20,800
+Let's have a look at an example
+
+58
+00:04:20,800 --> 00:04:24,233
+of classification by the type of facility.
+
+59
+00:04:25,330 --> 00:04:28,690
+In this example, health
+facilities are classified
+
+60
+00:04:28,690 --> 00:04:32,780
+and clustered by the range
+of services they provide
+
+61
+00:04:32,780 --> 00:04:36,800
+into various organization unit groups.
+
+62
+00:04:36,800 --> 00:04:41,730
+These groups include
+dispensary, health center,
+
+63
+00:04:41,730 --> 00:04:45,113
+specialist hospital,
+and referral hospital.
+
+64
+00:04:46,010 --> 00:04:50,040
+The organization unit
+group set is the name
+
+65
+00:04:50,040 --> 00:04:52,270
+for the umbrella classification
+
+66
+00:04:52,270 --> 00:04:55,970
+that these individual groups fall under.
+
+67
+00:04:55,970 --> 00:05:00,473
+In this example, the group
+set is type of facility,
+
+68
+00:05:01,320 --> 00:05:05,370
+a category that contains the
+organization unit groups,
+
+69
+00:05:05,370 --> 00:05:09,713
+which in turn each contains
+specific facilities.
+
+70
+00:05:12,150 --> 00:05:16,990
+Organization unit groups and
+group sets are quite useful
+
+71
+00:05:16,990 --> 00:05:20,133
+for disaggregating data in our analysis.
+
+72
+00:05:21,280 --> 00:05:24,500
+In this example, we disaggregated data
+
+73
+00:05:24,500 --> 00:05:29,080
+from malaria positive tests
+by the type of facility
+
+74
+00:05:29,080 --> 00:05:32,920
+to see the trend for
+each group separately,
+
+75
+00:05:32,920 --> 00:05:37,350
+and to compare monthly data
+from each type of facility,
+
+76
+00:05:37,350 --> 00:05:41,240
+making it easier to uncover
+potential variations
+
+77
+00:05:41,240 --> 00:05:42,073
+between them.
+
+78
+00:05:43,810 --> 00:05:47,250
+In summary, organization units provide
+
+79
+00:05:47,250 --> 00:05:50,163
+geographical context to data.
+
+80
+00:05:51,010 --> 00:05:56,010
+In DHIS2, organization units
+are hierarchically related
+
+81
+00:05:56,050 --> 00:05:59,270
+to each other, with each level reflecting
+
+82
+00:05:59,270 --> 00:06:03,053
+the administrative system
+of the country or region.
+
+83
+00:06:03,940 --> 00:06:06,330
+The organization unit hierarchy
+
+84
+00:06:06,330 --> 00:06:10,150
+also enables data aggregation.
+
+85
+00:06:10,150 --> 00:06:13,280
+Data that are collected
+at the facility levels
+
+86
+00:06:13,280 --> 00:06:17,720
+are aggregated upward to higher
+level administrative units,
+
+87
+00:06:17,720 --> 00:06:19,853
+like districts or regions.
+
+88
+00:06:20,760 --> 00:06:25,570
+DHIS2 also allows classifying
+organization units
+
+89
+00:06:25,570 --> 00:06:29,330
+by different criteria,
+such as facility type,
+
+90
+00:06:29,330 --> 00:06:33,130
+by using organization
+unit groups and group sets
+
+91
+00:06:33,130 --> 00:06:36,983
+to facilitate more nuanced data analysis.
+
+92
+00:06:37,917 --> 00:06:41,084
+(gentle upbeat music)
+
