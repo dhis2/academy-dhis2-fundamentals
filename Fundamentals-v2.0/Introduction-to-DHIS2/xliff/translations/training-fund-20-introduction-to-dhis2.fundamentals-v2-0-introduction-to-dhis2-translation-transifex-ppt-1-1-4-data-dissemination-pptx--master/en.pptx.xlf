@@ -1,0 +1,102 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-4-data-dissemination-pptx--master" source-language="en" datatype="MS_PPTX">
+    <body>
+      <trans-unit id="1" resname="3722d0b813514f44f032d60759810c9b">
+        <source>Data Dissemination</source>
+      </trans-unit>
+      <trans-unit id="2" resname="a272f9f8200d606f2f2dc46a741681fd">
+        <source>Introduction to DHIS2 </source>
+      </trans-unit>
+      <trans-unit id="3" resname="c68ab4a35ea154a18ac11b1858fff078">
+        <source>So far, we have seen how data are captured in DHIS2 for aggregate, events and tracker models, and how those data are verified to ensure data quality. We have also seen how entered data are transformed into different data visualization outputs, such as, pivot tables, charts and maps. And also, how to obtain automatic reports based on those data.</source>
+      </trans-unit>
+      <trans-unit id="4" resname="13c9d5a7b0102e8ea22d81967a791e80">
+        <source>In this video, you will see…</source>
+      </trans-unit>
+      <trans-unit id="5" resname="7afc509057fe6f65ca0871001fdd501e">
+        <source>In this video, we will see how these different &lt;tx&gt;outputs and other elements &lt;/tx&gt; can be put together in a Dashboard, where all relevant information about a given program can be shown, are shared with other users to make dissemination of data easier.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="4ca3e0c2b0c2acd46e857dadb0059514">
+        <source>Dashboard</source>
+      </trans-unit>
+      <trans-unit id="7" resname="7e1220bfc94e51771d072b2605c01185">
+        <source>Typically, when we first log into DHIS2, we see what we refer to as the Dashboard.</source>
+      </trans-unit>
+      <trans-unit id="8" resname="bace1a66bd8c179ad3c86e70218289e1">
+        <source>DEMO 1</source>
+      </trans-unit>
+      <trans-unit id="9" resname="451547f9c6aa7cc6b0e9681923251280">
+        <source>The Dashboard is a page where you will find a collection of various outputs, such as charts, maps, or pivot tables, created within DHIS2 We will find different dashboards available that we can move between using the upper menu. The  dashboards that each user sees are completely customizable, and it's a very useful tool to disseminate information in a secured manner, regarding specific topics and outputs. For example, here you can see an Immunization dashboard that contains maps that show information about vaccine coverage, Note that the intuitive color legend immediately gives us information about the program performance, identifying those regions that perform well compared to those that need improvement. You can also you take this map and quickly convert it to a chart or table directly within the dashboard. This feature allows you to move between charts, maps and tables for any of the outputs located on the dashboard. If you want to open an object in a dashboard to further investigate the data, you can do so easily.</source>
+      </trans-unit>
+      <trans-unit id="10" resname="28ea636904c44c4d67cbfb48a7c07150">
+        <source>DEMO</source>
+      </trans-unit>
+      <trans-unit id="11" resname="e03c256c72af1965cf426d7a760ed85c">
+        <source>Data available on dashboards</source>
+      </trans-unit>
+      <trans-unit id="12" resname="f64be5eef68442a8f50cf535b92ad3e4">
+        <source>Country</source>
+      </trans-unit>
+      <trans-unit id="13" resname="da70eb9be2b267b74b7a47f5840af7a2">
+        <source>Provinces</source>
+      </trans-unit>
+      <trans-unit id="14" resname="5478bd686f4a77138dc26a887a5d233a">
+        <source>Distric&lt;tx&gt;t&lt;/tx&gt;&lt;tx&gt;s&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="15" resname="beed44dfdf514240cb26cec17e6941fb">
+        <source>&lt;tx&gt;Facilities&lt;/tx&gt;</source>
+      </trans-unit>
+      <trans-unit id="16" resname="960804988e8f233dfd7744eb75877886">
+        <source>Depends on their level of access</source>
+      </trans-unit>
+      <trans-unit id="17" resname="1b71dd3220bc2184255f35ae7ebd94f8">
+        <source>The data that are shown in a user’s dashboard depends on their own level of access. </source>
+      </trans-unit>
+      <trans-unit id="18" resname="efc8674fa23587a4eb4e6c07cbcc3d9f">
+        <source>For example, a user with permissions to view data within an entire country will see more aggregated data on a given Dashboard than another user who can only view data from a single district </source>
+      </trans-unit>
+      <trans-unit id="19" resname="d22fdeb209fb58c1001835a64bc9c77e">
+        <source>DEMO 2</source>
+      </trans-unit>
+      <trans-unit id="20" resname="09ed321a394d4e51dfc4eeb9350bd3fe">
+        <source>You can also view the descriptions and interpretations of the outputs, which help in describing what the outputs represent. If you want to make a comment about those interpretations, you can easily do so from the same page. As you can see, this feature makes it possible to share findings among the users within your system and discuss further actions to be implemented.</source>
+      </trans-unit>
+      <trans-unit id="21" resname="2d9fb9f61c20b7c26618f7d9cd3237c4">
+        <source>Description </source>
+      </trans-unit>
+      <trans-unit id="22" resname="d01e0fc4afe0a7b40372c7b53ae945a6">
+        <source>Interpretation </source>
+      </trans-unit>
+      <trans-unit id="23" resname="5f88f1e33327cf64d7bd394e64a893e9">
+        <source>This is one way DHIS2 allows you to transform data into information, that can support decision making.</source>
+      </trans-unit>
+      <trans-unit id="24" resname="9f1e6349c7025d8e10c0a7ebfb44e881">
+        <source>Summary </source>
+      </trans-unit>
+      <trans-unit id="25" resname="c668eff129b07d43952e938b21a2c56a">
+        <source>Collection of outputs</source>
+      </trans-unit>
+      <trans-unit id="26" resname="1fda1eb1abedc1b9c15b6df10f1fde57">
+        <source>Summary of related topics</source>
+      </trans-unit>
+      <trans-unit id="27" resname="6b55eaae4ba98b437b7e26b2b05954a4">
+        <source>Useful to disseminate information</source>
+      </trans-unit>
+      <trans-unit id="28" resname="115268ba6cdb3c685bcc985369911475">
+        <source>Facilitate discussions</source>
+      </trans-unit>
+      <trans-unit id="29" resname="24565e014707ccc4f6f0fc7574b970f3">
+        <source>Sharing interpretation of data</source>
+      </trans-unit>
+      <trans-unit id="30" resname="123a4c47c92d7e15b15404d8ed0ab3ae">
+        <source>Information into action</source>
+      </trans-unit>
+      <trans-unit id="31" resname="aea5725c6dfb365bd75b280c7736785b">
+        <source>In summary, a Dashboard is a collection of outputs that provides a summary of related topics to be reviewed together, They are very useful to disseminate information in a secured manner with other users,  and can facilitate a discussion of their analysis, allowing for the sharing of their interpretations of the data.</source>
+      </trans-unit>
+      <trans-unit id="32" resname="4f70561746606c1e611b7a7b1f013280">
+        <source>&lt;tx&gt;These discussions can support the decision-making process, which is the final purpose of DHIS2: &lt;/tx&gt;&lt;tx&gt;Transforming information into action.&lt;/tx&gt;</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

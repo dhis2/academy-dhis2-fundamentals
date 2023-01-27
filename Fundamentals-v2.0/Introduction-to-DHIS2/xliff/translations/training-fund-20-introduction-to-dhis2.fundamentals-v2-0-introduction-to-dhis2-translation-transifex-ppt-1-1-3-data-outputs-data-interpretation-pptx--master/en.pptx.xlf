@@ -1,0 +1,111 @@
+<?xml version="1.0" ?><xliff version="1.2">
+  <file original="fundamentals-v2-0-introduction-to-dhis2-translation-transifex-ppt-1-1-3-data-outputs-data-interpretation-pptx--master" source-language="en" datatype="MS_PPTX">
+    <body>
+      <trans-unit id="1" resname="f7078cecde0693ce8042be26d36e7038">
+        <source>Data Outputs, Data Interpretation</source>
+      </trans-unit>
+      <trans-unit id="2" resname="a272f9f8200d606f2f2dc46a741681fd">
+        <source>Introduction to DHIS2 </source>
+      </trans-unit>
+      <trans-unit id="3" resname="a24906f8dca3fdafa89684f3b3e4356f">
+        <source>Data inputs</source>
+      </trans-unit>
+      <trans-unit id="4" resname="8f2edce8ae09ae0d60d0564d7846e6d0">
+        <source>Data visualization outputs </source>
+      </trans-unit>
+      <trans-unit id="5" resname="672738c88acefdcd779bdb549363fc79">
+        <source>One of the most essential features of DHIS2 is its capability to transform and review the raw data users enter into the platform into different data visualization outputs.</source>
+      </trans-unit>
+      <trans-unit id="6" resname="13c9d5a7b0102e8ea22d81967a791e80">
+        <source>In this video, you will see…</source>
+      </trans-unit>
+      <trans-unit id="7" resname="10aee884df4591f02815a05c35730d37">
+        <source>Pivot tables</source>
+      </trans-unit>
+      <trans-unit id="8" resname="d85303ec5a4c9bdf433218c49ef32b35">
+        <source>Charts</source>
+      </trans-unit>
+      <trans-unit id="9" resname="f64d846a4aaf8648c8705304f12ba051">
+        <source>Maps</source>
+      </trans-unit>
+      <trans-unit id="10" resname="97c8c2c41d024367030254bacc4cc048">
+        <source>Reports</source>
+      </trans-unit>
+      <trans-unit id="11" resname="1d113b17e3ed4db381ccc8d967db7ad4">
+        <source>In this video, we will review examples of how to visualize data using Pivot tables, Charts, Maps and Reports. Let's see how it works.</source>
+      </trans-unit>
+      <trans-unit id="12" resname="1d884bccf7f3a9dea8983df12bd78c63">
+        <source>Example: child vaccination program</source>
+      </trans-unit>
+      <trans-unit id="13" resname="67db4cd3d0efb27f71afa32a3c6fd362">
+        <source>BCG dose</source>
+      </trans-unit>
+      <trans-unit id="14" resname="286a7dc1661179621d3e6331d2c806a4">
+        <source>Last 12 months</source>
+      </trans-unit>
+      <trans-unit id="15" resname="d0840b380c81a71e95fa388e51a54e01">
+        <source>Each district</source>
+      </trans-unit>
+      <trans-unit id="16" resname="aa8dcad438ac75cb46492d026c72978a">
+        <source>Let's say we are reviewing a child vaccination program and want to know how many children received their tuberculosis vaccine or BCG dose during the last 12 months in each district of the country.</source>
+      </trans-unit>
+      <trans-unit id="17" resname="bace1a66bd8c179ad3c86e70218289e1">
+        <source>DEMO 1</source>
+      </trans-unit>
+      <trans-unit id="18" resname="4edbc4c61074c0ae6eceb401a51b894d">
+        <source>To get started, we can select the data visualizer app within DHIS2. From within this app, we can select Pivot tables as our visualization type. From the available dropdown menus we first select the data we want to see, in this example, “BCG doses given”. Then, the timeframe of those data, in this case, the last 12 months. And the locations where those data belong to, for example, all districts of the country. If we want to change the layout, we simply drag and drop the parameters to rearrange our request. In just a couple of clicks, we were able to get a summary of children immunized with BCG by district within the last 12 months. We can save this pivot table to use it later. What if we want to show these data as a chart?  We simply select the chart of our choice and rearrange the layout. If we are not sure about the best type of chart to choose, we’ll find short descriptions of each one of them to help us select the best fit for our needs. We can also visualize the data on a map, selecting it from the same menu. We can add different types of layers to our map to add more information to the output.</source>
+      </trans-unit>
+      <trans-unit id="19" resname="28ea636904c44c4d67cbfb48a7c07150">
+        <source>DEMO</source>
+      </trans-unit>
+      <trans-unit id="20" resname="8bae7e33000c6400c8df8989764e8b2d">
+        <source>All of these examples show very simple uses of the visualization data tools available in DHIS2.</source>
+      </trans-unit>
+      <trans-unit id="21" resname="2d9fb9f61c20b7c26618f7d9cd3237c4">
+        <source>Description </source>
+      </trans-unit>
+      <trans-unit id="22" resname="d01e0fc4afe0a7b40372c7b53ae945a6">
+        <source>Interpretation </source>
+      </trans-unit>
+      <trans-unit id="23" resname="8dcb9a66c0dbf732f8b3b920df2f5824">
+        <source>We can also create more complex outputs using the same tools. For example, if we look at this chart, we will see that it shows the overall performance of delivering essential vaccines per region compared to an expected target</source>
+      </trans-unit>
+      <trans-unit id="24" resname="5699e2df3083bbdb9ce985fb6231d2fe">
+        <source>and, more importantly, we can add descriptions and interpretations to these outputs based on the data being shown. This allows you to provide a bit more context to the data that you are displaying.</source>
+      </trans-unit>
+      <trans-unit id="25" resname="d22fdeb209fb58c1001835a64bc9c77e">
+        <source>DEMO 2</source>
+      </trans-unit>
+      <trans-unit id="26" resname="c80a836e6874cf392d8825c5e052d1a3">
+        <source>We can give this output a name and add a description that explains what we are measuring, For example, “if BCG coverage is greater than 90%, that means that we should sustain the efforts as they are.” Low coverage can be based on many different factors that we can explain here.</source>
+      </trans-unit>
+      <trans-unit id="27" resname="ce95bd516ebf750f4fa68f4f57c3db07">
+        <source>DEMO 3</source>
+      </trans-unit>
+      <trans-unit id="28" resname="aca11679143c3d06c31ff27a8226cc74">
+        <source>We can also add an interpretation based on our analysis of the data shown. For example, “In Cat District, EPI MR 2 is 52.2%. Have we checked to see if there is an issue with stock or service delivery?”</source>
+      </trans-unit>
+      <trans-unit id="29" resname="b00f6f9f2d8c9bf995f6a34029ae637d">
+        <source>DEMO 4</source>
+      </trans-unit>
+      <trans-unit id="30" resname="e977f446101fb0c2cdd655fd7d9162bb">
+        <source>Finally,  DHIS2 provides several reporting tools through the Reports app.  For example, we can use the Data Set Report to obtain detailed information about different aspects of the immunization program in a given health facility in a specific period.</source>
+      </trans-unit>
+      <trans-unit id="31" resname="9f1e6349c7025d8e10c0a7ebfb44e881">
+        <source>Summary </source>
+      </trans-unit>
+      <trans-unit id="32" resname="8d73a8fa5adb89b26898883e10b3be45">
+        <source>How to create different types of outputs</source>
+      </trans-unit>
+      <trans-unit id="33" resname="2d6778f3b26d745a6fe4bc2c810bd8ff">
+        <source>In summary, we have seen how to create different types of outputs in DHIS2 based on the data already entered.</source>
+      </trans-unit>
+      <trans-unit id="34" resname="27119f32bcb977a6636be70897ac0229">
+        <source>Pivot tables, charts, and maps can be created with just a couple of clicks, and a number of report types are available within the reports app.</source>
+      </trans-unit>
+      <trans-unit id="35" resname="22a04b6c0927707735694efbfc465f88">
+        <source>We can also add descriptions to the outputs and interpretations based on our analysis of the data.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
