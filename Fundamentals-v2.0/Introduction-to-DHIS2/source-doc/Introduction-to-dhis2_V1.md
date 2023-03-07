@@ -360,7 +360,7 @@ If it's your first time on a DHIS2 Online Academy, please watch the following vi
 
 In this screenshot you can see an overview of the most used navigation options of the platform:
 
-<img src="/static/media/image15.png" style="width:6.5in;height:6.63889in" />
+<img src="static/media/image15.png" style="width:6.5in;height:6.63889in" />
 
 You can also download and review [a short version of the platform navigation guidelines](https://academy.dhis2.org/assets/courseware/v1/d4c3047fcc9bd4a41e526a3490ebd0a1/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block/Navigation_guidelines.pdf) to check the key items.
 
@@ -572,7 +572,7 @@ DHIS2 can capture three different types of data, each using a different type of 
 
 **Disclaimer**: Please note that this applies to DHIS2 versions up to 2.35.
 
-<img src="/static/media/image2.png" style="width:6.5in;height:3.25in" />
+<img src="static/media/image2.png" style="width:6.5in;height:3.25in" />
 
 General feedback for incorrect options: No, this item does not belong here. Try again.
 
@@ -644,7 +644,7 @@ Feedback for each correct option:
 
 Final feedback: Good work! You have completed this drag and drop problem.
 
-<img src="/static/media/image7.png" style="width:5.43229in;height:4.29837in" />
+<img src="static/media/image7.png" style="width:5.43229in;height:4.29837in" />
 
 ##### Question 2
 
@@ -676,7 +676,7 @@ External Consistency: Correct! External consistency compares the data with other
 
 Completeness: Correct! Completeness checks if all the expected data are recorded.
 
-Final feedback: Completeness looks to see if all the expected data are recorded. Timeliness looks to see if the data was received on time. Internal consistency compares internally submitted data with one another. External consistency compares the data with other sources. You can find more information about each of these metrics in the WHO Data Quality Review Framework. <img src="/static/media/image9.png" style="width:6.5in;height:4.56944in" />
+Final feedback: Completeness looks to see if all the expected data are recorded. Timeliness looks to see if the data was received on time. Internal consistency compares internally submitted data with one another. External consistency compares the data with other sources. You can find more information about each of these metrics in the WHO Data Quality Review Framework. <img src="static/media/image9.png" style="width:6.5in;height:4.56944in" />
 
 ### How are data analyzed and interpreted?
 
@@ -754,7 +754,7 @@ A Dashboard is a collection of outputs that provides a summary of related topics
 
 Instruction: Drag the items onto the image above.
 
-<img src="/static/media/image10.png" style="width:6.5in;height:6.65278in" />
+<img src="static/media/image10.png" style="width:6.5in;height:6.65278in" />
 
 Options:
 
@@ -811,7 +811,7 @@ When the COVID-19 outbreak started in early 2020, more than 40 countries turned 
 
 In this use case, we will focus on **COVID-19 Aggregate Weekly Surveillance**, and explain how the **data set**, **validation rules** and **dashboards** in DHIS2 function to capture weekly data needed for rapid response to disease transmission and provide key statistics related to COVID-19.
 
-<img src="/static/media/image8.png" style="width:6.5in;height:3.45833in" />
+<img src="static/media/image8.png" style="width:6.5in;height:3.45833in" />
 
 The COVID-19 Aggregate Weekly Surveillance data set is a surveillance report that is used as a weekly data collection form filled out at the facility level (i.e. at a hospital, health center, etc.). The data set has six separate components, which are displayed in DHIS2 as **sections** of the data entry form:
 
@@ -831,11 +831,11 @@ Each section of this form includes two or more fields. For example, **new confir
 
 All of these elements of the COVID-19 data set, including frequency and level of reporting and disaggregations, **can be configured in DHIS2 to suit the local context**. You can learn more about configuring DHIS2 for aggregate data in the **Aggregate Customization Fundamentals** course.
 
-<img src="/static/media/image16.png" style="width:3.98387in;height:3.65104in" />
+<img src="static/media/image16.png" style="width:3.98387in;height:3.65104in" />
 
 **Validation rules** allow you to run checks on the data that you have entered and stored in DHIS2. In this particular COVID-19 use case, the validation rules are scheduled to run weekly. These validation rules provide a straightforward **data quality check before any analytic outputs are created** from the collected data. You can learn more about validation rules for aggregate data in the **Aggregate Data Capture and Validation Fundamentals** course.
 
-<img src="/static/media/image3.png" style="width:6.5in;height:2.5in" />
+<img src="static/media/image3.png" style="width:6.5in;height:2.5in" />
 
 This use case also includes a DHIS2 **dashboard** for analyzing and monitoring COVID-19 data. In DHIS2, once data has been collected, visualizations can be created for data analysis. Dashboards are a collection of visualizations and other outputs, enabling you to quickly find, share and analyze important outputs. In this use case, the dashboard includes a number of outputs, including charts, a pivot table and a map, which illustrate key data points, such as the number of cumulative tests conducted, cases reported, cases hospitalized, cases discharged and deaths. Users can adjust the settings on the dashboard to view outputs at various levels of the health system hierarchy, to facilitate analysis from the national to the facility level.
 
@@ -853,13 +853,13 @@ For more information on DHIS2 for COVID-19 response and metadata packages, pleas
 
 In this section, you will learn how DHIS2 was used for **malaria control and elimination programs** in Lao. This is an excellent use case to demonstrate **DHIS2's ability to evolve over time** as new data requirements and needs emerge. While this example focuses specifically on malaria data, the same processes and tools can apply to other types of programs managed in DHIS2.
 
-<img src="/static/media/image13.png" style="width:6.5in;height:2.29167in" />
+<img src="static/media/image13.png" style="width:6.5in;height:2.29167in" />
 
 In 2016, Lao started using DHIS2 as a health information system for their national malaria program. This included adding their historical data-data they had previously collected -into DHIS2 using the **aggregate data model**. This data model was required since their data was numerical summaries of records. At the time, Lao was predominately collecting summaries of malaria records over the course of several years, as well as aggregate summaries of new cases reported on a monthly basis.
 
 With DHIS2, Lao used **customized tools within the platform** to match the same format as their paper data collection forms, enabling their digital data collection forms to **keep the same appearance and requirements outlined by the national malaria program**. In addition, since DHIS2 includes **built-in translation and localization support**, these forms could be translated in the local Lao language for staff. Collecting these data using electronic forms in DHIS2 meant that **it was immediately available for analysis using dashboards, charts, maps** and other analytical outputs, instead of the time-consuming process of assembling these statistical outputs from data collected on paper forms.
 
-<img src="/static/media/image12.png" style="width:6.5in;height:3.69444in" />
+<img src="static/media/image12.png" style="width:6.5in;height:3.69444in" />
 
 In 2018, health authorities in Lao decided to start **tracking individual malaria cases over time**, instead of simply collecting aggregate data on the number of cases. Through DHIS2, they were able to introduce the **tracker data mode**l for malaria elimination settings. In contrast to the aggregate model, this involves **collecting detailed information on each individual case** of malaria in these settings, and allows the individual cases to be monitored over time. This meant Lao was not only able to collect more malaria data, but more detailed malaria data, allowing for follow-up actions down to the patient-level, instead of just interventions based on analysis of regional and national trends.
 
@@ -877,7 +877,7 @@ Several DHIS2 metadata packages for malaria are available to help countries depl
 
 While DHIS2 is most commonly used as an information system in the health sector, the platform is also used in other sectors like education. Ministries of Education use DHIS2 for school management, resource allocation, multi-sectoral analysis (e.g. health, education, nutrition, social protection) and more. In this section, you will learn how DHIS2 is used as an **Education Management Information System (EMIS)** in The Gambia to equip educational providers with data to **improve school management, attendance and learning outcomes**.
 
-<img src="/static/media/image6.png" style="width:5.92188in;height:2.30611in" />
+<img src="static/media/image6.png" style="width:5.92188in;height:2.30611in" />
 
 Through DHIS2, The Gambia was able to set up **essential indicators** needed to manage various administrative functions within an education system. These indicators provide data on **enrollment rates by grade, absenteeism rates** for students and teachers, **gender parity rates by school type**, as well as various school infrastructure indicators such as, the **number of classrooms**, **recreational facilities** and **textbooks** by subject.
 
@@ -885,7 +885,7 @@ The Gambia used the **aggregate data model** in DHIS2 to collect and manage data
 
 The Gambia also utilized DHIS2 to collect **daily attendance records**. In their case, they needed to collect attendance twice every day, as the number of students can fluctuate between morning and afternoon school shifts. The Gambia was able to rely on DHIS2 to meet their different needs regarding the frequency of data collection.
 
-<img src="/static/media/image14.png" style="width:6.5in;height:2.97222in" />
+<img src="static/media/image14.png" style="width:6.5in;height:2.97222in" />
 
 In addition to DHIS2's data collection solutions, the platform enabled The Gambia to analyze and routinely monitor their educational data through various **dashboards**. For example, an attendance dashboard was created with data visualizations on absenteeism for students and teachers by school type. Using dashboards enabled education planners in The Gambia to quickly view data visualizations on attendance to **understand trends or address any immediate concerns**. Since the data in the visualizations are automatically updated as new data is entered in DHIS2, they can immediately analyze the most recent data.
 
@@ -1270,7 +1270,7 @@ In this lesson, you learned that DHIS2 has 3 building blocks. Drag the correct o
 
 Instruction: Drag the items onto the image above.
 
-<img src="/static/media/image5.png" style="width:6.5in;height:6.97222in" />
+<img src="static/media/image5.png" style="width:6.5in;height:6.97222in" />
 
 Data element: What. Correct feedback: Correct! Data element is one of the DHIS2 building blocks and it represents what is been counted.
 
@@ -1495,7 +1495,7 @@ Let's look at an example of how specific ADX-compatible systems could be linked 
 
 - [OpenELIS](https://openelis-global.org/): A laboratory enterprise information system.
 
-<img src="/static/media/image4.png" style="width:6.5in;height:3.63889in" />
+<img src="static/media/image4.png" style="width:6.5in;height:3.63889in" />
 
 As the diagram shows, iHRIS can send relevant data to DHIS2, such as the "number of doctors", "number of nurses" and "total number of staff”. OpenMRS is able to aggregate data on inpatient diseases and send the aggregated data to DHIS2. OpenELIS can generate data on the outcome of laboratory tests and send them to DHIS2. In this interoperable network, the DHIS2 application serves as an integrated data warehouse that hosts data from these various sources, where the data can be used on a national level to make informed decisions.
 
@@ -1762,7 +1762,7 @@ Feedback: Relative periods such as “last year”, “last month”, and “las
 
 This chart was generated in March 2021. The chart uses what period type?
 
-<img src="/static/media/image11.png" style="width:6.5in;height:2.80556in" />
+<img src="static/media/image11.png" style="width:6.5in;height:2.80556in" />
 
 1. **A fixed period in which all months in 2020 were selected**
 
@@ -2307,7 +2307,7 @@ To download your certificate, follow these steps:
 
 2. Select **“View certificate”**
 
-3. <img src="/static/media/image1.png" style="width:6.5in;height:4.25in" />Select **“Print certificate”** at the top right corner of the page
+3. <img src="static/media/image1.png" style="width:6.5in;height:4.25in" />Select **“Print certificate”** at the top right corner of the page
 
 **Tell us how we can improve**
 
