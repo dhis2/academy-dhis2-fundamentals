@@ -227,10 +227,6 @@ Module 0 - Start here (40 Mins)
 
 ### Pre-course Survey
 
-#### Pre-course Survey
-
-##### Pre-course Survey
-
 Tell the DHIS2 Academy team more about yourself by filling out our **Pre-course Survey** below.
 
 Your responses to this survey will help the DHIS2 Academy team improve our course offerings by providing valuable insight into our Academy audience. Whether you are just browsing or you are determined to complete the entire course, the more we know about you, **the better we can serve all participants** in this course.
@@ -241,10 +237,6 @@ Your responses to this survey will help the DHIS2 Academy team improve our cours
 -----------------------------
 
 ### DHIS2 Information for action
-
-#### DHIS2: Information for action
-
-##### DHIS2: Information for action
 
 **DHIS2** - is not only an open-source platform for reporting, analysis, and dissemination of data, but is also an initiative supported by a **global network** called **HISP** - and a growing community of users from more than 100 countries globally.
 
@@ -257,21 +249,17 @@ Before getting started with the course, watch this video to get a first look at 
 
 ### About the course
 
-#### About the course
-
-##### About the course
-
 Welcome to the **Introduction to DHIS2** course, part of the **DHIS2 Fundamentals** course program. We at the DHIS2 Academy Team want to thank you for your interest in DHIS2, and hope that this course provides you with a helpful overview of the DHIS2 software and some of its common uses that can serve as the foundation for your DHIS2 learning journey.
 
 In this module 0, you'll find an overview of the course, get familiarized with the DHIS2 Online Academy platform, and find the most important information to get started.
 
-##### What is this course about?
+#### What is this course about?
 
 What is DHIS2? What are the conceptual building blocks of the system? How can data be entered into DHIS2? What type of data analysis can be done with it? Throughout this course, you will learn about the **fundamental concepts** that underpin how DHIS2 works, such as its **building blocks** and how data are entered, validated, analyzed, and shared. You will also discover the **community** that surrounds DHIS2, and learn about its **history** and its **supporting ecosystem**.
 
 In this course, we will primarily use the field of public health for our examples, but note that DHIS2 is also used in other sectors such as education and environment.
 
-##### What will I learn?
+#### What will I learn?
 
 After completing this course, you'll be able to:
 
@@ -287,11 +275,11 @@ After completing this course, you'll be able to:
 
 - Distinguish the elements that comprise the DHIS2 ecosystem and the ways to interact with the DHIS2 global community.
 
-##### What are the course prerequisites?
+#### What are the course prerequisites?
 
 There are no specific prerequisites to take this course.
 
-##### How is the course structured?
+#### How is the course structured?
 
 Introduction to DHIS2 is comprised of 4 modules:
 
@@ -303,17 +291,17 @@ Introduction to DHIS2 is comprised of 4 modules:
 
 - Module 4: Course closing and next steps (10 min)
 
-##### How will I learn?
+#### How will I learn?
 
 In each module, you will find **video presentations, demonstrations, and knowledge check questions**. Modules 1, 2 and 3 also contain **assessment quizzes** that you'll need to pass to finish the course.
 
 Each topic is presented in the form of videos of approximately 5 minutes. Watch them at your leisure (or download them to save them for later), participate in the discussions, and see how much you've learned by taking the quizzes afterward.
 
-##### How long will it take to complete the course?
+#### How long will it take to complete the course?
 
 We estimate the course will take approximately **3 hours** to complete. This includes the review of all videos and completing the graded assessments. As this is a self-paced course, note that this may vary slightly for each learner.
 
-##### How do I pass the course?
+#### How do I pass the course?
 
 The course consists of 3 graded quizzes that you will find at the end of modules 1, 2, and 3. In those quizzes, you will find 10 randomized questions from a question bank and have **unlimited attempts** to pass the quizzes. The weighting of the quizzes is as follows:
 
@@ -327,36 +315,32 @@ In order to pass the course, an **overall grade of 80%** is required.
 
 This is the first course in the DHIS2 Fundamentals course program, which also contains the **Aggregate Data Capture & Validation**, **Aggregate Data Analysis**, **Aggregate Customization**, and **Events Fundamentals** courses. If you are interested in getting higher level training on DHIS2, you will find information about Level 1 and Level 2 Academies at the end of the course.
 
-##### What is the course timeline?
+#### What is the course timeline?
 
 This course is **self-paced**, which means there are **no set deadlines** and you can go through it as fast or as slow as you prefer. This course does not currently have a set end date. In the event that an end date is scheduled, you will be notified with enough time to finish your work in the course.
 
-##### How do I get support?
+#### How do I get support?
 
 For **technical** support or when you have issues **navigating the platform**, you can contact the course moderators for help by email at **fundamentals-support@dhis2.org**. For a quicker response, please don't forget to indicate your username or the email address you used to register on the platform.
 
-##### What should I do now?
+#### What should I do now?
 
 If this is your first time using the DHIS2 Online Academy, go to the next unit to learn how to navigate the platform.
 
 0.3 Using the Online Academy platform (10 min)
 ----------------------------------------------
 
-### How to navigate the platform
+#### How to navigate the platform
 
 #### Navigating the platform
 
-##### Navigating the platform
-
 If it's your first time on a DHIS2 Online Academy, please watch the following video to learn how to navigate the academy with the tools available.
 
-#### DHIS2 Fundamentals - Navigating the DHIS2 Academy
+### DHIS2 Fundamentals - Navigating the DHIS2 Academy
 
 [DHIS2 Fundamentals - Navigating the DHIS2 Academy - YouTube](https://www.youtube.com/watch?v=QS2EdN8V7wA&t=61s)
 
 #### The course content page
-
-##### The course content page
 
 In this screenshot you can see an overview of the most used navigation options of the platform:
 
@@ -364,11 +348,7 @@ In this screenshot you can see an overview of the most used navigation options o
 
 You can also download and review [a short version of the platform navigation guidelines](https://academy.dhis2.org/assets/courseware/v1/d4c3047fcc9bd4a41e526a3490ebd0a1/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block/Navigation_guidelines.pdf) to check the key items.
 
-### Assess your progress: Knowledge checks and quizzes
-
 #### Assess your progress: Knowledge checks and quizzes
-
-##### Assess your progress: Knowledge checks and quizzes
 
 After each video in the course, there will be **knowledge check questions**. These are not graded questions, but they will help you reinforce essential concepts from the videos.
 
@@ -386,10 +366,6 @@ We recommend that you check the "**Progress**" page after completing each quiz t
 
 ### Introducing the DHIS2 Community of Practice (CoP) discussion forum
 
-#### Introducing the DHIS2 Community of Practice discussion forum
-
-##### Introducing the DHIS2 Community of Practice discussion forum
-
 The DHIS2 Community of Practice - or CoP - is a website where the global community of DHIS2 users connect, discuss, share and support each other through discussion forums organized by categories. We have created a specific category for DHIS2 Academy Courses where each of the DHIS2 Fundamentals courses has its own private space. By taking the Fundamentals courses, you are not only learning about DHIS2 but becoming a part of our global community, which is why we encourage you to interact with other course participants on the CoP.
 
 Each time we propose a discussion throughout the course, you will find a link to the specific discussion topic on the CoP; however, the topics are in a private space dedicated to the Introduction to DHIS2 course discussion forum. To be able to access the private space, you will need to accept the CoP invitation once and after that you will be able to access all the discussion topics in the course.
@@ -398,7 +374,7 @@ Each time we propose a discussion throughout the course, you will find a link to
 
 You only need to use the invitation link once. When you click the link, the CoP website will open in a new browser tab. If you already have a community account and are already signed in from a previous CoP session, you can continue directly to the course discussion forum. If you are not signed in you can sign in using your existing username and password. If you do not already have a community account, you will be prompted to create one.
 
-##### How to navigate to the course discussion forum?
+#### How to navigate to the course discussion forum?
 
 When you create your account, the first interaction with the CoP will be guided by a tour with basic instructions that will help you with using the platform. If you need more guidance, open this **pdf file** with specific instructions on how to use the Fundamentals courses discussion forums.
 
@@ -408,10 +384,6 @@ Please keep in mind that the use of the discussion forums is an **optional activ
 --------------------------
 
 ### Meet the DHIS2 Online Academy Team
-
-#### Meet the DHIS2 Online Academy Team
-
-##### Meet the DHIS2 Online Academy Team
 
 The DHIS2 Fundamentals course program is the first of the three levels of the DHIS2 Academy curriculum, and aims to introduce essential concepts and build foundational DHIS2 skills through demonstrations, hands-on exercises and labs. Creating and maintaining the materials for the DHIS2 Fundamentals courses is a team effort, drawing on experts in the DHIS2 platform, instructional and media design, and online learning technologies.
 
@@ -441,15 +413,15 @@ The team behind the DHIS2 Fundamentals are:
 
 Team photo: [https://drive.google.com/file/d/1ygh4CxUm1qB0JKPMvsp8NxaJVAQwjdi3/view?usp=sharing](https://drive.google.com/file/d/1ygh4CxUm1qB0JKPMvsp8NxaJVAQwjdi3/view?usp=sharing)
 
-#### Tell us about you
+### Tell us about you
 
-##### Word cloud: Where are you from?
+#### Word cloud: Where are you from?
 
 DHIS2 is a global community of users, and you will get the chance to learn with people from all over the world. Let's create a word cloud and see where your peers come from. In the box below, write the name of your country. Please use full words and avoid using acronyms. After clicking "Save", you will see the word cloud built from the answers from all course participants.
 
-#### Introduce yourself
+### Introduce yourself
 
-##### Tell us about you
+#### Tell us about you
 
 Now it's your turn to introduce yourself and tell your peers about you. You can use the following questions to write your post:
 
@@ -477,8 +449,6 @@ Module 1 - What is DHIS2 and how is it used? (60 mins)
 
 #### What is DHIS2?
 
-##### What is DHIS2?
-
 What exactly is DHIS2? In the word cloud below, you can see what other people think DHIS2 is and what it does. You can add what you think DHIS2 is by using the text entry box below the word cloud.
 
 In each of the provided text boxes, please enter a **single word**.
@@ -487,13 +457,11 @@ In each of the provided text boxes, please enter a **single word**.
 
 #### What is in this module?
 
-##### What is in this module?
-
 What is DHIS2? What does it do? How is it used to help meet real-world needs?
 
 In this module, you will discover **what DHIS2 is**, **what it does**, and **how it helps manage data to inform decision-making**. You will start by seeing h**ow data are captured, reviewed, analyzed, and shared** within DHIS2. Then, you will **review some use** cases that show how DHIS2 is used in different fields, such as health and education.
 
-##### Learning objectives
+#### Learning objectives
 
 At the end of this module you will be able to:
 
@@ -503,11 +471,11 @@ At the end of this module you will be able to:
 
 - Identify examples of the use of DHIS2 in public health programs and other fields.
 
-##### How will you be evaluated?
+#### How will you be evaluated?
 
 At the end of the module there is a **graded quiz**. It contributes **40% to your final grade**, and you will have unlimited attempts to complete it.
 
-##### How long will this module take?
+#### How long will this module take?
 
 The module should take about **60 minutes** to complete.
 
@@ -518,13 +486,11 @@ The module should take about **60 minutes** to complete.
 
 #### Data entry
 
-##### Data entry
-
 DHIS2 brings together a wide variety of data **from a large number of sources to one central system**, allowing for better planning, information sharing, and decision making at all levels.
 
 In this video, you will find out **how data are captured in DHIS2**.
 
-##### Key concepts
+#### Key concepts
 
 - Data entry
 
@@ -542,13 +508,11 @@ In this video, you will find out **how data are captured in DHIS2**.
 
 - Tracker capture app
 
-#### Introduction to DHIS2 - How are data entered into DHIS2
+### Introduction to DHIS2 - How are data entered into DHIS2
 
 [https://youtu.be/o5Mf4dQiBik](https://youtu.be/o5Mf4dQiBik)
 
-##### Question 1
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 1
 
 DHIS2 is most similar to a:
 
@@ -564,9 +528,7 @@ DHIS2 is most similar to a:
 
 (Feedback) Data warehouse is correct. DHIS2 works as a centralized data warehouse capable of capturing data from a number of different sources and devices including direct entry through the web or an Android device, SMS, and even other data sources such as spreadsheets or other electronic systems.
 
-##### Question 2
-
-**Type** *(select and format bold)*: Multiple Choice / Checkbox / Dropdown / Numerical Input / Text input /**Drag and Drop**
+#### Question 2
 
 DHIS2 can capture three different types of data, each using a different type of application. Can you match the type of data with the relevant DHIS2 application that can capture it?
 
@@ -586,9 +548,7 @@ Feedback for each correct option:
 
 Final feedback: Numerical or aggregate data are captured by the Data entry app. Anonymous individualized data are captured by the Capture app. Individual data with identifiers are captured by the Tracker Capture app.
 
-##### Question 3
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 3
 
 True or False: Aggregate data can be entered into DHIS2 using SMS
 
@@ -602,13 +562,12 @@ True or False: Aggregate data can be entered into DHIS2 using SMS
 
 #### Data review
 
-##### Data review
 
 Now that you understand how data are entered into DHIS2, let's see **how data are reviewed** to ensure their quality.
 
 In this video, you will discover **some of the tools available in DHIS2 that perform quality checks on the data entered in the system**. This quality review is key to having reliable data for analysis and informed decision-making.
 
-##### Key concepts
+#### Key concepts
 
 - Data quality
 
@@ -626,9 +585,7 @@ In this video, you will discover **some of the tools available in DHIS2 that per
 
 [1.2.2 How is data quality ensured in DHIS2 - YouTube](https://www.youtube.com/watch?v=5Sq4Zn0IJ1c&t=113s)
 
-##### Question 1
-
-**Type** *(select and format bold)*: Multiple Choice / Checkbox / Dropdown / Numerical Input / Text input /**Drag and Drop**
+#### Question 1
 
 In this lesson, you learned about 3 data validation tools. Drag their definitions to the right boxes below.
 
@@ -646,9 +603,7 @@ Final feedback: Good work! You have completed this drag and drop problem.
 
 <img src="static/media/image7.png" style="width:5.43229in;height:4.29837in" />
 
-##### Question 2
-
-**Type** *(select and format bold)*: Multiple Choice / Checkbox / Dropdown / Numerical Input / Text input /**Drag and Drop**
+### Question 2
 
 The WHO Data Quality Tool generates findings on data quality based on the WHO Data Quality Review Framework. Match the quality metric being measured with its correct description.
 
@@ -682,11 +637,9 @@ Final feedback: Completeness looks to see if all the expected data are recorded.
 
 #### Data outputs, data interpretation
 
-##### Data outputs, data interpretation
-
 Once we have our data entered into the platform and after reviewing the data quality, we are ready to create outputs in DHIS2. In this video, you will learn how creating outputs helps visualize and analyze the data available within DHIS2.
 
-##### Key concepts
+#### Key concepts
 
 - Data visualization
 
@@ -700,13 +653,11 @@ Once we have our data entered into the platform and after reviewing the data qua
 
 - Reports
 
-##### Introduction to DHIS2 - How are data analyzed and interpreted?
+### Introduction to DHIS2 - How are data analyzed and interpreted?
 
 [1.2.3 Introduction to DHIS2 - How are data analyzed and interpreted - YouTube](https://www.youtube.com/watch?v=93E1AadZtQY&t=1s)
 
-##### Question 1
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 1
 
 What are the 3 types of data visualizations available in DHIS2? (Select 3 options)
 
@@ -726,13 +677,11 @@ Feedback: The 3 data visualizations available in DHIS2 are Pivot tables, Charts,
 
 #### Data dissemination & feedback
 
-##### Data dissemination & feedback
-
 Now you know how data are entered into DHIS2, how the quality of the data is checked, and the different outputs and visualizations that are available on the platform, but **how do we share the data that we have collected?**
 
 In the conclusion of this series of videos, you'll discover how to share data outputs with other users and discuss findings and interpretations with them.
 
-##### Key concepts
+#### Key concepts
 
 - Dashboard
 
@@ -742,13 +691,11 @@ In the conclusion of this series of videos, you'll discover how to share data ou
 
 - Users' level of access to DHIS2
 
-##### Introduction to DHIS2 - How are data shared in DHIS2
+### Introduction to DHIS2 - How are data shared in DHIS2
 
 [1.2.4 Introduction to DHIS2 - How are data shared in DHIS2 - YouTube](https://www.youtube.com/watch?v=DnA45_3OD2c)
 
-##### Question 1
-
-**Type** *(select and format bold)*: Multiple Choice / Checkbox / Dropdown / Numerical Input / Text input /**Drag and Drop**
+#### Question 1
 
 A Dashboard is a collection of outputs that provides a summary of related topics to be reviewed together. Drag the outputs that can be collected into a dashboard and drop them into the blank boxes.
 
@@ -768,9 +715,7 @@ Maps. Feedback: Correct! Maps can be added into a Dashboard.
 
 Final feedback: Good work! You have completed this drag and drop problem.
 
-##### Question 2
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 2
 
 What can be done with a Dashboard in DHIS2?
 
@@ -793,19 +738,11 @@ Select all that apply.
 
 ### DHIS2 Use Cases: Applying DHIS2 to real-world problems
 
-#### DHIS2 Use Cases: Applying DHIS2 to real-world problems
-
-##### DHIS2 Use Cases: Applying DHIS2 to real-world problems
-
 **DHIS2 use cases** are examples of the implementation of the generic DHIS2 software platform to meet specific real-world needs, from managing patient data at the health worker level to monitoring and evaluation at the national and international levels. DHIS2 use cases can be based on Aggregate, Event or Tracker data models, either individually or in combination with each other. These real-world examples **offer great insight into the capabilities of DHIS2**, and enhance best practice and community learning, as countries and organizations can share details of their implementations with each other.
 
 In this section, you will learn how DHIS2 has been used in response to two of the world's most pressing health challenges, COVID-19 and Malaria, as well as how DHIS2 has been deployed outside of the health sector to meet the monitoring and evaluation needs of Education systems. Through these use cases, you will learn about how DHIS2 is customizable according to each program's and country's context and needs, as well as get an **introduction to DHIS2 metadata packages**, which help countries save time and align with global reporting standards through pre-set system configurations.
 
 ### Use Case: Fast-tracking COVID-19 response using DHIS2 metadata packages
-
-#### Use Case: Fast-tracking COVID-19 response using DHIS2 metadata packages
-
-##### Use Case: Fast-tracking COVID-19 response using DHIS2 metadata packages
 
 When the COVID-19 outbreak started in early 2020, more than 40 countries turned to DHIS2 to manage their data for various components of their COVID-19 response, including disease surveillance, port of entry screening, test result monitoring, and vaccination programs, with countries using Aggregate, Event and Tracker data depending on their specific needs and capacity.
 
@@ -847,9 +784,7 @@ For more information on DHIS2 for COVID-19 response and metadata packages, pleas
 
 ### Use Case 2: Combating Malaria in Laos
 
-#### Use Case 2: Combating Malaria in Laos
-
-##### Use Case 2: DHIS2 as a flexible platform to meet the national strategy needs from malaria reporting to malaria tracking for elimination
+#### Use Case 2: DHIS2 as a flexible platform to meet the national strategy needs from malaria reporting to malaria tracking for elimination
 
 In this section, you will learn how DHIS2 was used for **malaria control and elimination programs** in Lao. This is an excellent use case to demonstrate **DHIS2's ability to evolve over time** as new data requirements and needs emerge. While this example focuses specifically on malaria data, the same processes and tools can apply to other types of programs managed in DHIS2.
 
@@ -870,10 +805,6 @@ As Lao's malaria program adapted over the years, DHIS2 was fully capable to meet
 Several DHIS2 metadata packages for malaria are available to help countries deploy best-practice systems for malaria program management. For more information on DHIS2 for malaria management, please visit the [DHIS2 website](https://dhis2.org/metadata-package-downloads/#malaria).
 
 ### Use Case 3: DHIS2 used as an integrated Education Management Information System
-
-#### Use Case 3: DHIS2 used as an integrated Education Management Information System
-
-##### Use Case 3: DHIS2 used as an integrated Education Management Information System
 
 While DHIS2 is most commonly used as an information system in the health sector, the platform is also used in other sectors like education. Ministries of Education use DHIS2 for school management, resource allocation, multi-sectoral analysis (e.g. health, education, nutrition, social protection) and more. In this section, you will learn how DHIS2 is used as an **Education Management Information System (EMIS)** in The Gambia to equip educational providers with data to **improve school management, attendance and learning outcomes**.
 
@@ -900,9 +831,6 @@ For more information on DHIS2 for education, please visit the [DHIS2 website.](h
 
 ### Module 1 Quiz
 
-#### Module 1 Quiz
-
-##### Module 1 Quiz
 
 This is a **graded quiz** and it is worth **40% of your final grade.**
 
@@ -914,9 +842,7 @@ For more detailed information about quiz navigation and grading, refer to the un
 
 Select the "**submit**" button to submit your answers.
 
-### Question 1
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 1
 
 DHIS2 is most similar to a:
 
@@ -930,9 +856,7 @@ DHIS2 is most similar to a:
 
 (Feedback) A Data Warehouse is correct. DHIS2 works as a centralized data warehouse capable of capturing data from a number of different sources and devices including direct entry through the web or an android device, SMS and even other data sources such as spreadsheets or other electronic systems.
 
-### Question 2
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 2
 
 Aggregate data can be entered into DHIS2 using SMS.
 
@@ -942,9 +866,7 @@ Aggregate data can be entered into DHIS2 using SMS.
 
 (Feedback) True. Data can be entered into DHIS2 using the web interface, the Android app, SMS, spreadsheets, and other electronic means.
 
-### Question 3
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 3
 
 We can collect different types of data directly within DHIS2 (for example, aggregate data or anonymous individual-level data).
 
@@ -954,9 +876,7 @@ We can collect different types of data directly within DHIS2 (for example, aggre
 
 Feedback: DHIS2 can collect different types of data directly within the application. This includes aggregate data, event data (anonymous, individual-level data) and tracker data (identifiable, individual-level data).
 
-### Question 4
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 4
 
 At birth, John received his BCG vaccination. In 6 weeks, he will receive his DPT vaccination. John will subsequently receive DPT vaccinations at 10 weeks and 16 weeks of age. To follow up on him within this vaccination program, what DHIS2 model should be used to collect these data?
 
@@ -968,9 +888,7 @@ At birth, John received his BCG vaccination. In 6 weeks, he will receive his DPT
 
 Feedback: The tracker data model allows entering data with individual identifiers which helps to follow up people on specific health programs.
 
-### Question 5
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 5
 
 As a part of the COVID-19 vaccination campaign, a health facility needs a summary of the number of doses received and given on a daily basis. What data model should be used to enter these data in DHIS2?
 
@@ -982,9 +900,7 @@ As a part of the COVID-19 vaccination campaign, a health facility needs a summar
 
 Feedback: Aggregate data allows you to collect and enter numerical data directly into DHIS2 and then get reports with the summary of those data.
 
-### Question 6
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 6
 
 The Ministry of Health is running a survey to know the needs of pregnant and lactating women in the country. The survey is collected at one point in time and the data do not need to be tracked to an individual woman.
 
@@ -996,9 +912,7 @@ The Ministry of Health is running a survey to know the needs of pregnant and lac
 
 Feedback: The events data model captures anonymous individualized data, which is useful for storing survey data captured for a single point in time rather than by period. This allows health ministries to obtain and analyze information to make informed decisions.
 
-### Question 7
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 7
 
 The DHIS2 data quality tool that checks if the data entered follow predefined conditions or rules for the data to follow is:
 
@@ -1010,9 +924,7 @@ The DHIS2 data quality tool that checks if the data entered follow predefined co
 
 Feedback: Validation rule analysis, tests validation rules against the data entered in the system.
 
-### Question 8
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 8
 
 “The value registered for the third antenatal care visit (ANC 3), *cannot be higher than* the value registered for the second ANC visit (ANC 2)” is an example of a:
 
@@ -1024,9 +936,7 @@ Feedback: Validation rule analysis, tests validation rules against the data ente
 
 Feedback: One way to check the quality of the data entered in DHIS2 is by testing them against predefined validation rules. The validation rule analysis tests validation rules against the data registered in the system. Validation violations are reported when the condition defined in the validation rule expression is not met, which means when the condition is false.
 
-### Question 9
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 9
 
 The data quality tool that identifies values that are well above or below the standard deviation and are therefore potential errors is:
 
@@ -1038,9 +948,7 @@ The data quality tool that identifies values that are well above or below the st
 
 Feedback: The outlier analysis checks data quality, identifying those values that are potential outliers when compared to the standard normal distribution of the data under review.
 
-### Question 10
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 10
 
 Follow-up analysis creates a list of all data values marked for follow-up by the user.
 
@@ -1050,9 +958,7 @@ Follow-up analysis creates a list of all data values marked for follow-up by the
 
 Feedback: The follow-up analysis creates a list of all data values marked for follow-up. You can mark a data value for follow-up in the data entry app and in the result list you get from a standard deviation outlier or minimum maximum outlier analysis.
 
-### Question 12
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 11
 
 We can configure data quality checks by creating user-defined validation rules which check the data that is entered.
 
@@ -1062,9 +968,7 @@ We can configure data quality checks by creating user-defined validation rules w
 
 Feedback: Mathematical rules, referred to as validation rules, can be defined by a user in order to check the data that is being entered. This is one of the electronic methods checking data quality in DHIS2.
 
-### Question 13
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 12
 
 What are the 3 types of data visualizations available in DHIS2?
 
@@ -1082,9 +986,7 @@ What are the 3 types of data visualizations available in DHIS2?
 
 Feedback: The 3 data visualizations available in DHIS2 are Pivot tables, Charts, and Maps. These can be expanded upon using descriptions and interpretations.
 
-### Question 14
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 13
 
 In DHIS2, we can add interpretations based on our own analysis of the data being reviewed.
 
@@ -1094,9 +996,7 @@ In DHIS2, we can add interpretations based on our own analysis of the data being
 
 Feedback: We can add an interpretation in response to reviewing a visualization in order to enable discussion and help guide direct actions.
 
-### Question 15
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 14
 
 DHIS2 has a specific application to obtain reports outside of the 3 core visualization types.
 
@@ -1106,9 +1006,7 @@ DHIS2 has a specific application to obtain reports outside of the 3 core visuali
 
 Feedback: DHIS2 provides several reporting tools through the Reports app.
 
-### Question 16
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 15
 
 The outputs we create cannot be given additional descriptions/interpretations directly within DHIS2.
 
@@ -1118,9 +1016,7 @@ The outputs we create cannot be given additional descriptions/interpretations di
 
 Feedback: We can provide all of our outputs with additional descriptions and discuss interpretations directly within DHIS2. This allows us to give the item more context for when other users are reviewing the information.
 
-### Question 17
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 16
 
 The analyses/outputs that we create cannot be shared with other users directly within DHIS2.
 
@@ -1130,9 +1026,7 @@ The analyses/outputs that we create cannot be shared with other users directly w
 
 Feedback: The analyses/outputs that are created can be shared with other users directly within DHIS2. This will be discussed more in later sessions.
 
-### Question 18
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 17
 
 A Dashboard is a group of outputs that convey relevant information about a specific program.
 
@@ -1142,9 +1036,7 @@ A Dashboard is a group of outputs that convey relevant information about a speci
 
 Feedback: The Dashboard is a page where you will find a collection of various outputs, such as charts, maps, and pivot tables created within DHIS2.
 
-### Question 19
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 18
 
 Which of the following statements are true about dashboards in DHIS2?
 
@@ -1162,19 +1054,13 @@ Which of the following statements are true about dashboards in DHIS2?
 
 Feedback: Dashboard is typically the first thing users see when they log into DHIS2 so it's especially useful if users need quick access to information. Typically, a dashboard contains a collection of outputs regarding a specific topic or a program. The data that are shown in a user's dashboard depends on their own level of access. Interpretations can be made through the dashboard.
 
-####
+### Check your score
 
-##### Check your score
-
-#### To view your quiz score and check your overall progress, click on the button below or select the Progress tab at the top of the page. To pass the course you will need to score 80% or more on average between the 3 graded quizzes
+To view your quiz score and check your overall progress, click on the button below or select the Progress tab at the top of the page. To pass the course you will need to score 80% or more on average between the 3 graded quizzes
 
 [**Take me to the progress tab**](https://academy.dhis2.org/courses/course-v1:hisp+GEN-D001-en+2022Q1/progress)
 
 ### Discussion forum
-
-#### Discussion forum
-
-##### Discussion forum
 
 As we are reaching the end of the module, let's take some time to reflect on what you've learned and discuss the key concepts covered so far.
 
@@ -1195,10 +1081,6 @@ If you are not joining the discussion on this module, simply click the next butt
 
 ### Module 1 Feedback Survey
 
-#### Module 1 Feedback Survey
-
-##### Module 1 Feedback Survey
-
 Once you are done with the module, please take 2 or 3 minutes to complete this feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [https://docs.google.com/forms/d/1eTlg96SK4jKQwfADmrsVIW-50z9jixiLQHrkqWmzX1Y/edit](https://docs.google.com/forms/d/1eTlg96SK4jKQwfADmrsVIW-50z9jixiLQHrkqWmzX1Y/edit)
@@ -1213,13 +1095,11 @@ Module 2 - Understanding the basics of DHIS2 (45 min)
 
 #### What is in this module?
 
-##### What is in this module?
-
 What are the unique features of DHIS2? What are its building blocks? Why is it relevant that DHIS2 is open-source? How does it integrate with other software systems?
 
 In this module, you will see **how DHIS2 organizes and categorizes data internally**, which is one of its unique features. You will start to familiarize yourself with concepts such as **data elements**, **organisation units**, and **periods**, which we refer to as the **building blocks** of DHIS2. You will then learn some of the advantages of managing data with an open-source platform like DHIS2. Finally, you will see how DHIS2 can be integrated with other platforms and applications to extend its capabilities.
 
-##### Learning objectives
+#### Learning objectives
 
 At the end of this module you will be able to:
 
@@ -1227,11 +1107,11 @@ At the end of this module you will be able to:
 
 - Indicate DHIS2's advantages as open-source software and its potential for integration with other platforms.
 
-##### How will you be evaluated?
+#### How will you be evaluated?
 
 At the end of the module there is a graded quiz. It contributes 30% to your final grade, and you will have unlimited attempts to complete it.
 
-##### How long will this module take?
+#### How long will this module take?
 
 The module should take about **45 minutes** to complete.
 
@@ -1242,13 +1122,11 @@ The module should take about **45 minutes** to complete.
 
 #### Where, what and when in DHIS2
 
-##### Where, what and when in DHIS2
-
 Now that you have learned about how data are collected, reviewed, shared, and you've seen some of the DHIS2 use-cases, how does DHIS2 actually work? What are its **building blocks**?
 
 In this series of videos, you will explore the **three building blocks** of the DHIS2 data model, which is key to understanding how the platform works. This first video will introduce the three building blocks that represent the basic dimensions associated with any data value in DHIS2. In the subsequent videos, you will explore each of the three dimensions in more detail.
 
-##### Key concepts
+#### Key concepts
 
 - Metadata
 
@@ -1258,13 +1136,11 @@ In this series of videos, you will explore the **three building blocks** of the 
 
 - Period
 
-##### Introduction to DHIS2 - Building blocks: Where, what, and when in DHIS2
+### Introduction to DHIS2 - Building blocks: Where, what, and when in DHIS2
 
 [2.1.1 Introduction to DHIS2 - Building blocks: Where, what and when in DHIS2 - YouTube](https://www.youtube.com/watch?v=QbXKnly8P-0&t=115s)
 
-##### Question 1
-
-**Type** *(select and format bold)*: Multiple Choice / Checkbox / Dropdown / Numerical Input / Text input /**Drag and Drop**
+#### Question 1
 
 In this lesson, you learned that DHIS2 has 3 building blocks. Drag the correct ones and drop them into the blank spaces in the image:
 
@@ -1282,17 +1158,13 @@ Data capture app: Error feedback: No, the data capture app is not a DHIS2 buildi
 
 General incorrect feedback: No, this item does not belong here.
 
-### 2.1.2 Where: Organisation Unit
-
-#### Where: Organisation Unit
-
-##### Where: Organisation Unit
+### Where: Organisation Unit
 
 Now that you understand the basics of the three building blocks of DHIS2, let's start looking at each of these building blocks in a bit more detail.
 
 In this video, you will learn about the **“Where” dimension** of DHIS2: **Organisation Units**. **Organisation Units represent the geographical dimension of the data**. They define where data are **captured** and how they can be **aggregated** from a geographical/organisational perspective, such as aggregation from facility data to regional data, and from regional to national levels. You will also learn about alternative ways of grouping facilities using “**organisation unit groups**” and “**organisation unit group sets**”, which are useful in data analysis.
 
-##### Key concepts
+#### Key concepts
 
 - Organisation unit
 
@@ -1302,13 +1174,11 @@ In this video, you will learn about the **“Where” dimension** of DHIS2: **Or
 
 - Organisation unit group sets
 
-##### Introduction to DHIS2 - Where: Organisation Unit
+### Introduction to DHIS2 - Where: Organisation Unit
 
 [https://youtu.be/M23Eu1SX44E](https://youtu.be/M23Eu1SX44E)
 
-##### Question 1
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 1
 
 Which of the following options could be an Organization Unit in DHIS2?
 
@@ -1326,9 +1196,7 @@ Select 3 options.
 
 **Feedback**: Countries generally represent a level in the organisation unit hierarchy. The country is usually subdivided into smaller administrative units such as districts or regions. Commonly, the lowest level in the organisation unit hierarchy is the level of data collection where services are provided, such as health clinics.
 
-##### Question 2
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 2
 
 Organisation units determine where data can be captured.
 
@@ -1338,27 +1206,21 @@ Organisation units determine where data can be captured.
 
 Feedback: Organisation units determine where data are captured.
 
-### 2.1.3 What: Data Elements and Indicators
-
-#### What: Data Elements and Indicators
-
-##### What: Data Elements and Indicators
+### What: Data Elements and Indicators
 
 In this video, you will learn about the **“What” dimension** of DHIS2: **Data Elements.** You will learn about the main features of Data Elements, which define what kind of data are captured. You will also learn the distinction between Data Elements and **Indicators**, which are calculated using Data Elements. Along the way, you will find examples of each to clarify the distinction between the two.
 
-##### Key concepts
+#### Key concepts
 
 - Data element
 
 - Indicator
 
-##### Introduction to DHIS2 - What: Data Elements and Indicators
+### Introduction to DHIS2 - What: Data Elements and Indicators
 
 [https://youtu.be/c4GVZ6z6YZw](https://youtu.be/c4GVZ6z6YZw)
 
-##### Question 1
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 1
 
 Which of the following would be best classified as Data Elements in DHIS2?
 
@@ -1374,9 +1236,7 @@ Select all that apply
 
 Feedback: “Number of available hospital beds” and “Number of positive malaria cases” are considered Data Elements as they represent a simple count and can be collected directly. On the other hand, indicator values are not collected like the data element values, but are calculated based on defined formulas.
 
-##### Question 2
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 2
 
 Which of the following statements about Indicators are true?
 
@@ -1394,13 +1254,9 @@ Feedback: Indicators refer to values that are not entered directly, but instead 
 
 ### When: Periods
 
-#### When: Periods
-
-##### When: Periods
-
 In the last video of the series about DHIS2 building blocks, you will learn about the **“When” dimension** of DHIS2: **Periods**. Periods in DHIS2 refer to the time frame associated with data. You will learn the similarities and differences of how periods are used in **data collection**, where data are captured for a predefined period of time, and **data analysis**, where data can be viewed in either **fixed** or **relative periods** to produce different analytics outputs.
 
-##### Key concepts
+#### Key concepts
 
 - Period
 
@@ -1408,13 +1264,11 @@ In the last video of the series about DHIS2 building blocks, you will learn abou
 
 - Fixed period
 
-##### Introduction to DHIS2 - When: Periods
+### Introduction to DHIS2 - When: Periods
 
 [https://youtu.be/wGWu0W33eqY](https://youtu.be/wGWu0W33eqY)
 
-##### Question 1
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 1
 
 Select 3 options
 
@@ -1437,19 +1291,15 @@ Feedback: Relative periods such as “last year”, “last month”, and “las
 
 ### Advantages of an open-source platform
 
-#### DHIS2 as an open-source platform
-
-##### DHIS2 as an open-source platform
-
 DHIS2 is developed and supported as a **global public good**. This means that any country, organization or institution can download and use it to collect and utilize data to improve public services. Essential to the DHIS2 design is the ability of the platform to be extended and modified to meet specific, local needs. To facilitate this, DHIS2 utilizes an open-source model to make the platform open and accessible by all.
 
-##### What does “open-source” mean?
+#### What does “open-source” mean?
 
 DHIS2 is released as free and open software under the [BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause). This means that the application can be used free of charge, anyone can access the source code, and the software can be modified and redistributed with few restrictions. This allows the global DHIS2 community to innovate and extend the software to meet local needs, and share these contributions globally.
 
 HISP UiO also considers all supporting material that we produce in relation to the DHIS2 project (documentation, translations and training materials) to be open-source, and we make them freely available for local modification and use.
 
-##### The advantages of the open-source model
+#### The advantages of the open-source model
 
 Offering DHIS2 as free and open-source means that **anyone can download, configure and deploy it** for as many users and devices as required, **at no cost for the software itself and with no licensing fees**. In comparison, proprietary software systems typically require the purchase of a license for each user. It is important to note, however, that while DHIS2 is free to download and use, it is not a fully out-of-the-box solution and will require additional configuration, planning, training, infrastructure and maintenance resources.
 
@@ -1463,15 +1313,13 @@ Open-source code also supports platform **security and stability**. External dev
 
 ### Integration with other platforms
 
-#### Integration with other platforms
-
-##### What is interoperability?
+#### What is interoperability?
 
 In a national health system, it is common to have several different information management platforms performing complementary functions alongside one another. These systems may need to exchange information - or “talk” to each other- in order for decision makers to obtain a broader, more detailed picture of what is happening in the health system as a whole. The ability to send and receive information between different systems, software and file formats is referred to as **interoperability**.
 
 For example, DHIS2 and OpenMRS (**M**edical **R**ecords **S**ystem) are interoperable, because they allow the sharing of data and data definitions with each other. In this example, a health system may use OpenMRS to store detailed medical records for each individual hospital admission (among other hospital data). Meanwhile, the health system's DHIS2 implementation may only require the aggregate number of hospital admissions separated by various criteria. Interoperability allows DHIS2 to receive these totals from OpenMRS and use them for analysis in combination with other data stored in DHIS2. This is commonly referred to as a 1:1 integration, as you are linking one system directly to another.
 
-### How does interoperability work?
+#### How does interoperability work?
 
 Interoperability depends on standards for data formats, interfaces, codes and terminologies. In an ideal situation, these would be drawn from international standards. However, in most contexts, a mix of international and local standards are used. These standards can be broken down into two levels:
 
@@ -1483,7 +1331,7 @@ At the **content** level, consistency of definitions is required. This includes 
 
 At the **technical** level, various data exchange standards can be adopted. One standard example for aggregate data is called [ADX](https://wiki.ihe.net/index.php/Aggregate_Data_Exchange) (**A**ggregate **D**ata e**X**change), which is used to share aggregate data across various systems, including DHIS2. Another commonly discussed standard is [FHIR](https://www.hl7.org/fhir/overview.html) (**F**ast **H**ealthcare **I**nteroperability **R**esource), which is a standard for exchanging healthcare information electronically. HISP and the DHIS2 community are actively involved in supporting the development and use of global standards such as these.
 
-##### Interoperability between DHIS2 and other systems
+#### Interoperability between DHIS2 and other systems
 
 One of the most common DHIS2 interoperability scenarios is using DHIS2 as a **data warehouse**. This term describes how DHIS2 can be used to receive information from multiple information systems and sources to facilitate data triangulation. In this scenario, DHIS2 often acts as the standard for metadata that is shared across these connected systems, allowing for alignment of codes, definitions and IDs for the information being exchanged.
 
@@ -1508,11 +1356,7 @@ While these interoperability and data exchange models are achievable, in practic
 
 ### Module 2 Quiz
 
-#### Module 2 Quiz
-
-##### Module 2 Quiz
-
-### This is a graded quiz and it is worth 30% of your final grade
+This is a graded quiz and it is **worth 30%** of your final grade
 
 You have **unlimited attempts** to answer each question.
 
@@ -1522,9 +1366,7 @@ For more detailed information about quiz navigation and grading, refer to the un
 
 Select the "**submit**" button to submit your answers.
 
-### Question 1
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 1
 
 What is the term used that describes the type of data that classifies and organizes other data?
 
@@ -1538,9 +1380,7 @@ What is the term used that describes the type of data that classifies and organi
 
 Feedback: Metadata is the correct answer. We refer to metadata as any information that is describing your data.
 
-### Question 2
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 2
 
 To visualize any data in DHIS2 we need at least these three dimensions:
 
@@ -1558,9 +1398,7 @@ To visualize any data in DHIS2 we need at least these three dimensions:
 
 Feedback: For creating any visualization in DHIS2 you need to add three dimensions: the Data Element or the “what”, the Period or the “when“ and the Organisation Unit or the “where”. The people and data form are not dimensions for creating data visualizations in DHIS2.
 
-### Question 3
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 3
 
 Which of the following are the core dimensions of data values in DHIS2?
 
@@ -1578,9 +1416,7 @@ Which of the following are the core dimensions of data values in DHIS2?
 
 Feedback: As highlighted in the building blocks presentation, there are 3 core dimensions in DHIS2. The Organisation Unit refers to the geographical location or “where” aspect, Data Element refers to “what” we are collecting, and Period refers to “when” we are collecting that information.
 
-### Question 4
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 4
 
 Which of the following options could be an Organisation Unit in DHIS2?
 
@@ -1598,9 +1434,7 @@ Which of the following options could be an Organisation Unit in DHIS2?
 
 Feedback: Countries generally represent a level in the organisation unit hierarchy. The country is usually subdivided into smaller administrative units, such as districts or regions. Commonly, the lowest level in the organisation unit hierarchy is the level of data collection where services are provided, such as health clinics.
 
-### Question 5
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 5
 
 Organisation Units represent:
 
@@ -1616,9 +1450,7 @@ Organisation Units represent:
 
 Feedback: Organisation Units are referred to as the geographical dimension of the data.
 
-### Question 6
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 6
 
 How many levels does an organisation unit hierarchy have?
 
@@ -1632,9 +1464,7 @@ How many levels does an organisation unit hierarchy have?
 
 Feedback: The structure of each organisation unit hierarchy, including the number of levels, is fully customizable in DHIS2 to adapt to each country's context or analytics requirements of the program being supported.
 
-### Question 7
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 7
 
 Organisation Units determine where data can be captured
 
@@ -1644,9 +1474,7 @@ Organisation Units determine where data can be captured
 
 Feedback: Organisation Units determine where data are captured.
 
-Question 8
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 8
 
 Organisation Units determine how the data can be aggregated and disaggregated along the geographical dimension.
 
@@ -1656,9 +1484,7 @@ Organisation Units determine how the data can be aggregated and disaggregated al
 
 Feedback: Organisation Units are one of the keystones of the DHIS2 system and as such are vital for many of its functions, such as data capture, data aggregation and disaggregation along the geographical dimensions.
 
-### Question 9
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 9
 
 What is the main use of organisation units groups and group sets?
 
@@ -1676,9 +1502,7 @@ What is the main use of organisation units groups and group sets?
 
 Feedback: Organisation unit groups and organisation unit group sets allow for classifying organisation units by criteria other than the main administrative hierarchy, such as type of ownership, type of facility etc. In analytics, they are useful for viewing data by groups to see if trends differ (for example, private vs public health facilities).
 
-### Question 10
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 10
 
 Which of the following statements about Indicators are true:
 
@@ -1694,9 +1518,7 @@ Which of the following statements about Indicators are true:
 
 Feedback: Indicators refer to values that are not entered directly, but instead are calculated using one or more data elements. They are useful to compare areas of different population sizes.
 
-### Question 11
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 11
 
 Indicators are calculated using a formula that contains a numerator and denominator.
 
@@ -1706,9 +1528,7 @@ Indicators are calculated using a formula that contains a numerator and denomina
 
 Feedback: In DHIS2, all indicators must have a numerator, denominator, and a multiplying factor. However, if the calculator is a total number, for example, “Total ANC visits” (ANC1 + ANC2 + ANC3 + ANC4), then the denominator and the multiplying factor would both be 1.
 
-### Question 12
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 12
 
 In DHIS2, Data Elements and Indicators represent the same concept.
 
@@ -1718,9 +1538,7 @@ In DHIS2, Data Elements and Indicators represent the same concept.
 
 Feedback: Data Elements and Indicators represent different concepts. Data Elements are the raw data, while Indicators are calculated values.
 
-### Question 13
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 13
 
 Which of the following would be best classified as Data Elements in DHIS2?
 
@@ -1736,9 +1554,7 @@ Which of the following would be best classified as Data Elements in DHIS2?
 
 Feedback: “Number of available hospital beds” and “Number of positive malaria cases” are considered data elements as they represent a simple count and can be collected directly. On the other hand, indicator values are not collected like the data element values, but are calculated based on defined formulas.
 
-### Question 14
-
-**Type** *(select and format bold)*: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 14
 
 Which of the following are examples of relative periods?
 
@@ -1756,9 +1572,7 @@ Which of the following are examples of relative periods?
 
 Feedback: Relative periods such as “last year”, “last month”, and “last 6 months”, are not defined in an absolute sense but rather in relation to the current date. The key difference between fixed and relative periods is that a fixed period does not update automatically over time for an analytic object; whereas a relative period will show new data as we move ahead with time.
 
-### Question 15
-
-**Type** *(select and format bold)*: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 15
 
 This chart was generated in March 2021. The chart uses what period type?
 
@@ -1774,17 +1588,13 @@ This chart was generated in March 2021. The chart uses what period type?
 
 Feedback: The period used in the graph is monthly 2020.
 
-##### Check your score
+### Check your score
 
-#### To view your quiz score and check your overall progress, click on the button below or select the Progress tab at the top of the page. To pass the course you will need to score 80% or more on average between the 3 graded quizzes
+To view your quiz score and check your overall progress, click on the button below or select the Progress tab at the top of the page. To pass the course you will need to score 80% or more on average between the 3 graded quizzes
 
 [**Take me to the progress tab**](https://academy.dhis2.org/courses/course-v1:hisp+GEN-D001-en+2022Q1/progress)
 
 ### Discussion forum
-
-#### Discussion forum
-
-##### Discussion forum
 
 As we are reaching the end of the module, let's take some time to reflect on what you've learned and discuss the key concepts covered so far. To do it, if you have already joined the course discussion forum, please click on the following link to join this specific discussion topic:
 
@@ -1803,10 +1613,6 @@ If you are not joining the discussion on this module, simply click the next butt
 
 ### Module 2 Feedback Survey
 
-#### Module 2 Feedback Survey
-
-##### Module 2 Feedback Survey
-
 Once you are done with the module, please take 2 or 3 minutes to complete this feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 Link to survey:
@@ -1823,11 +1629,9 @@ Module 3 - DHIS2: A global community-driven project (45 min)
 
 #### Module 3 - DHIS2: A global community-driven project
 
-##### What is in this module?
-
 Now that you've covered the where, what and when of the DHIS2 system, alongside some of the basic use cases of DHIS2, it's time to put DHIS2 into context. How did DHIS2 get started? How is it used to help save lives and improve health outcomes? In this module, we'll look at each of these questions, and help you understand DHIS2 in the world of Global Digital Health programs.
 
-##### Learning objectives
+#### Learning objectives
 
 At the end of this module you will be able to:
 
@@ -1835,11 +1639,11 @@ At the end of this module you will be able to:
 
 - Distinguish the elements that comprise the DHIS2 ecosystem and the ways to interact with the DHIS2 global community.
 
-##### How will you be evaluated?
+#### How will you be evaluated?
 
 At the end of the module there is a graded quiz. It contributes **30% to your final grade**, and you will have unlimited attempts to complete it.
 
-##### How long will this module take?
+#### How long will this module take?
 
 The module should take about **45 mins** to complete.
 
@@ -1849,8 +1653,6 @@ The module should take about **45 mins** to complete.
 ### Where does DHIS2 come from?
 
 #### Once upon a time…(the history of DHIS2)
-
-##### Once upon a time…(the history of DHIS2)
 
 Before DHIS2 was able to help billions of people around the world, it started as an idea to support an equitable health system in South Africa following the end of apartheid.
 
@@ -1862,10 +1664,6 @@ In this video, you will discover how DHIS2 started, and the major milestones it 
 
 ### Key milestones of DHIS2
 
-#### Key milestones of DHIS2
-
-##### Key milestones of DHIS2
-
 Now that you have seen an overview of the history of DHIS2, now you can explore the key milestones in more detail. Click the play button below to get started. You can use the Next and Back buttons to navigate through the slides.
 
 [https://dhis2-academy.ispring.com/app/preview/80b500b6-eefa-11eb-ae06-ee629771cfd6](https://dhis2-academy.ispring.com/app/preview/80b500b6-eefa-11eb-ae06-ee629771cfd6)
@@ -1873,10 +1671,6 @@ Now that you have seen an overview of the history of DHIS2, now you can explore 
 editable file here: [2.2.2 HistoryOfDHIS2Carousel\_V1.0.pptx - Google Drive](https://drive.google.com/file/d/1P6pWBJ0JL6VXlWRHf3sAE96IG4l6PsZM/view)
 
 ### DHIS2 around the world
-
-#### DHIS2 around the world
-
-##### DHIS2 around the world
 
 Since DHIS launched in the nineties, DHIS2 has been implemented in over 70 countries around the world, and additional countries are deploying DHIS2 every year. The interactive map below shows you where and when DHIS2 was implemented.
 
@@ -1887,15 +1681,11 @@ Click on the items in the sidebar on the left to see the geographical scope of d
 
 ### DHIS2 and HISP
 
-#### DHIS2 and HISP
-
-##### DHIS2 and HISP
-
 As you saw in previous lessons, DHIS2 originally launched as a project from the Health Information Systems Programme, or HISP, in South Africa in 1994. But what does HISP do now? And how does it relate to DHIS2?
 
 In this video, you will discover how HISP works as a global movement to strengthen health information systems. You will also learn about how HISP is involved in the development of DHIS2, and helps implement DHIS2 around the world. Click the play button below to get started.
 
-#### DHIS2 and Hisp
+### DHIS2 and Hisp
 
 [https://youtu.be/bUNx9p1FJV4](https://youtu.be/bUNx9p1FJV4)
 
@@ -1903,33 +1693,25 @@ In this video, you will discover how HISP works as a global movement to strength
 
 #### You are not alone
 
-##### You are not alone
-
 DHIS2 wouldn't be possible without the hundreds of people who are involved in development, implementation, capacity building, planning, program management, community outreach and support.
 
 In this video, you'll meet some of the people behind DHIS2 and HISP, who help run implementations, build applications, and train users of DHIS2.
 
-#### You are not alone
+## You are not alone
 
-**[https://youtu.be/kyOaU3bZUjg](https://youtu.be/kyOaU3bZUjg)**
+[https://youtu.be/kyOaU3bZUjg](https://youtu.be/kyOaU3bZUjg)
 
 ### Components of the DHIS2 ecosystem
-
-#### Components of the DHIS2 ecosystem
-
-##### Components of the DHIS2 ecosystem
 
 DHIS2 is more than just a piece of software. As you've learned, it is a community effort that wouldn't be possible without the people who research, develop, implement, localize and use the platform. This community effort is facilitated by a range of initiatives, programs, platforms and tools that make up the DHIS2 ecosystem.
 
 In this video, you'll discover the different parts of the ecosystem, and how you can get involved. Click the play button below to get started.
 
-#### Introduction to DHIS2 - Components of the DHIS2 ecosystem
+### Introduction to DHIS2 - Components of the DHIS2 ecosystem
 
 [https://youtu.be/STpBYarxNrM](https://youtu.be/STpBYarxNrM)
 
 #### Get involved with DHIS2
-
-##### Get involved with DHIS2
 
 Now that you have learned about the different parts of the DHIS2 ecosystem, here you'll find a list of the various components with links that allow you to learn more and get involved in the DHIS2 project.
 
@@ -1968,11 +1750,7 @@ Now that you have learned about the different parts of the DHIS2 ecosystem, here
 
 ### Module 3 Quiz
 
-#### Module 3 Quiz
-
-##### Module 3 Quiz
-
-### This is a graded quiz and it is worth 30% of your final grade
+This is a graded quiz and it is **worth 30%** of your final grade
 
 You have **unlimited attempts** to answer each question.
 
@@ -1982,9 +1760,7 @@ For more detailed information about quiz navigation and grading, refer to the un
 
 Select the "**submit**" button to submit your answers.
 
-### Question 1
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 1
 
 Which country did the HISP project launch in?
 
@@ -2000,9 +1776,7 @@ Which country did the HISP project launch in?
 
 **Feedback**: HISP launched in South Africa in 1994, and set the DHIS project in motion.
 
-### Question 2
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 2
 
 In which country did the first implementation of DHIS2 launch in 2004?
 
@@ -2018,9 +1792,7 @@ In which country did the first implementation of DHIS2 launch in 2004?
 
 **Feedback**: DHIS2 launched in Kerala, India after development began in 2000.
 
-### Question 3
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 3
 
 What aspect of DHIS2 started in 2018, allowing DHIS2 users to discuss, interact and learn from each other?
 
@@ -2034,9 +1806,7 @@ What aspect of DHIS2 started in 2018, allowing DHIS2 users to discuss, interact 
 
 **Feedback**: The Community of Practice is a website that allows DHIS2 practitioners to connect with others and share best practices globally.
 
-### Question 4
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 4
 
 Which 2014 outbreak did the HISP network assist in with deploying DHIS2 in Liberia?
 
@@ -2050,9 +1820,7 @@ Which 2014 outbreak did the HISP network assist in with deploying DHIS2 in Liber
 
 **Feedback**: The HISP network assisted health authorities in Liberia in deploying DHIS2 for the Ebola outbreak response. The initial Tracker model deployed there have since been expanded upon for case-based surveillance of other diseases.
 
-### Question 5
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 5
 
 HISP stands for Health Information Systems Programme.
 
@@ -2062,9 +1830,7 @@ HISP stands for Health Information Systems Programme.
 
 **Feedback**: True. HISP stands for Health Information Systems Programme.
 
-### Question 6
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 6
 
 Who is each HISP led by?
 
@@ -2080,9 +1846,7 @@ Who is each HISP led by?
 
 **Feedback** : HISPs are led by local DHIS2 experts, and work alongside local Health Ministries, regional NGOs and the core DHIS2 team based at the University of Oslo to implement DHIS2.
 
-### Question 7
-
-**Type**: Multiple Choice / **Checkbox** / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 7
 
 HISP can be described as:
 
@@ -2098,9 +1862,7 @@ HISP can be described as:
 
 **Feedback**: HISP can be described as a global movement that provides DHIS2 implementation support, including standards and requirements for DHIS2. The University of Oslo (UiO) is responsible for the development of the DHIS2 software.
 
-### Question 8
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 8
 
 Which of the following resources allows you to explore DHIS2 features and check the latest version of the platform?
 
@@ -2116,9 +1878,7 @@ Which of the following resources allows you to explore DHIS2 features and check 
 
 **Feedback**: On the website **play.dhis2.org,** you can explore DHIS2 features and practice your skills on a demo version of the platform.
 
-### Question 9
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 9
 
 If you want to contribute to DHIS2 localization to other languages and help to reach users all over the world, you can go to:
 
@@ -2134,9 +1894,7 @@ If you want to contribute to DHIS2 localization to other languages and help to r
 
 **Feedback**: On the website **translate.dhis2.org,** you can support the global translation effort of DHIS2 through the Transifex platform.
 
-### Question 10
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 10
 
 If you want to notify the software development team of anything that might do not work with the platform, you can do it in:
 
@@ -2152,9 +1910,7 @@ If you want to notify the software development team of anything that might do no
 
 Feedback: On the website **jira.dhis2.org,** you can report bugs or request features by creating a support ticket for the DHIS2 software development team.
 
-### Question 11
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 11
 
 If you want to download the source code of DHIS2 to install it on your own server, you can do it in:
 
@@ -2170,9 +1926,7 @@ If you want to download the source code of DHIS2 to install it on your own serve
 
 Feedback: As DHIS2 is open-source, you can find all of its source code inside GitHub in github.dhis2.org. You can also find all of the DHIS2 Documentation in the same place.
 
-### Question 12
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 12
 
 If you want to find detailed information about each of the DHIS2 features you can do it in:
 
@@ -2188,9 +1942,7 @@ If you want to find detailed information about each of the DHIS2 features you ca
 
 Feedback: The DHIS2 documentation contains detailed information and implementation considerations available for DHIS2, and is written by a core team of DHIS2 experts. These guides are all available at docs.dhis2.org.
 
-### Question 13
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 13
 
 If you want to take a course to develop your DHIS2 skills and interact with DHIS2 experts, you can do it in:
 
@@ -2206,9 +1958,7 @@ If you want to take a course to develop your DHIS2 skills and interact with DHIS
 
 Feedback: If you want to develop your DHIS2 skills, you can take a DHIS2 Academy course. The academy program includes both online and in-person courses on both general and specialized topics.
 
-### Question 14
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 14
 
 HISP groups, together with HISP UiO, form a global network of partners that share common values, including open-source principles, local ownership, sustainability, transparency, and empowering data use.
 
@@ -2218,9 +1968,7 @@ HISP groups, together with HISP UiO, form a global network of partners that shar
 
 Feedback: True. HISP groups and HISP UiO work as a global network of partners that share common values and support each other in various ways.
 
-### Question 15
-
-**Type**: **Multiple Choice** / Checkbox / Dropdown / Numerical Input / Text input /Drag and Drop
+#### Question 15
 
 HISP groups are the most important source of requirements of DHIS2 features that are then implemented by the HISP UiO software development team.
 
@@ -2230,21 +1978,13 @@ HISP groups are the most important source of requirements of DHIS2 features that
 
 Feedback: While software development is led by HISP UiO, the HISP groups are the most important source of requirements for software features and field testing of DHIS2 releases, due to their close work with country governments.
 
-##### Check your score
+### Check your score
 
-#### To view your quiz score and check your overall progress, click on the button below or select the Progress tab at the top of the page. To pass the course you will need to score 80% or more on average between the 3 graded quizzes
+To view your quiz score and check your overall progress, click on the button below or select the Progress tab at the top of the page. To pass the course you will need to score 80% or more on average between the 3 graded quizzes
 
 [**Take me to the progress tab**](https://academy.dhis2.org/courses/course-v1:hisp+GEN-D001-en+2022Q1/progress)
 
-####
-
-####
-
 ### Discussion forum
-
-#### Discussion forum
-
-##### Discussion forum
 
 As we are reaching the end of the module, let's take some time to reflect on what you've learned and discuss the key concepts covered so far.
 
@@ -2265,10 +2005,6 @@ If you are not joining the discussion on this module, simply click the next butt
 
 ### Module 3 Feedback Survey
 
-#### Module 3 Feedback Survey
-
-##### Module 3 Feedback Survey
-
 Once you are done with the module, please take 2 or 3 minutes to complete this feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 Link to survey:
@@ -2283,13 +2019,9 @@ Module 4 - Course closing and next steps (10 min)
 
 ### Course closing
 
-#### Course closing
-
-##### Course closing
-
 You have now finished the Introduction to DHIS2 course. You should now have a good grasp of how DHIS2 can be used in multiple fields to capture, analyze, and share data to facilitate decision-making. Remember, even though you have completed the course, you can return to it in the future, so if you need to revisit a concept or demonstration, just come back to the DHIS2 online academy and review the course.
 
-##### Check your progress and claim your course certificate
+#### Check your progress and claim your course certificate
 
 To get the course certificate, you need to achieve a passing grade of 80% or more. To check your current grade and claim your certificate, click on the buttom bellow to go the **Progress page** and review your score. If you have already achieved a passing grade, congratulations, you can claim your certificate now!
 
@@ -2297,7 +2029,7 @@ To get the course certificate, you need to achieve a passing grade of 80% or mor
 
 *Note: if you have just completed the last quiz and achieved a passing grade, but the option to claim certificate is not available yet, try waiting a couple of minutes for the system to register the results.*
 
-##### Download your course certificate
+#### Download your course certificate
 
 You can download or print out your certificate to share it in your social and professional networks.
 
@@ -2327,7 +2059,7 @@ Link to survey:
 
 ### Next Steps
 
-##### DHIS2 Fundamentals
+#### DHIS2 Fundamentals
 
 We want to briefly introduce you to the following courses from the DHIS2 Fundamentals series:
 
@@ -2339,25 +2071,21 @@ We want to briefly introduce you to the following courses from the DHIS2 Fundame
 
 - [DHIS2 Events Fundamentals](https://academy.dhis2.org/courses/course-v1:HISP+D2EVENTS100+Q2_2020/course/): In this course, you will learn to work with individual-level data with an emphasis on event programs, including creating event data outputs and configuring event program metadata within DHIS2.
 
-##### How can you enroll in these courses?
+#### How can you enroll in these courses?
 
 Directly at the DHIS2 online academy. Select each course from the course catalog to learn more about it, including any prerequisites for each specific course. You will find an enrollment button on the course description page for each active course.
 
-##### When and in what order should I take these courses?
+#### When and in what order should I take these courses?
 
 There is no specific order to take the courses, it depends on your own learning needs. There are also no specific dates to start or finish as all courses are self-paced.
 
-##### Do I have to take all the courses to be eligible for level 1 or level 2 academies?
+#### Do I have to take all the courses to be eligible for level 1 or level 2 academies?
 
 It is not necessary that you take all the courses in the Fundamentals series to qualify for level 1 or level 2 academies. In the following interactive diagram you will see the sequence of courses that we recommend you follow according to your user profile/role and interests. By selecting a particular course you will see a description of it, including the prerequisites for the course. For more information about the DHIS2 Academy program, visit the [DHIS2 website](https://www.dhis2.org/academy).
 
 DHIS2 Learning paths ([embedded interaction](https://s3-eu-west-1.amazonaws.com/content.dhis2.org/academy/learning-path/DHIS2+Training+paths/story.html))
 
 ### What's next for you?
-
-#### What's next for you?
-
-##### What's next for you?
 
 One last question before you leave: Once you receive your course certificate, which of the following courses would be your next step?
 
