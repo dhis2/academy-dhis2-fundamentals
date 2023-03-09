@@ -75,149 +75,149 @@ For technical support, you can contact the course moderators for help by email a
 
 **TABLE OF CONTENTS**
 
-**Module 0 - Start here (40 min)**
+- **Module 0 - Start here (40 min)**
 
-- 0.0 Pre-course Survey (5 min)
+  - 0.0 Pre-course Survey (5 min)
 
-- 0.1 DHIS2 at a glance (5 min)
+  - 0.1 DHIS2 at a glance (5 min)
 
-  - DHIS2: Information for Action
+    - DHIS2: Information for Action
 
-- 0.2 About the course (5 min)
+  - 0.2 About the course (5 min)
 
-  - About the course
+    - About the course
 
-- 0.3 Using the Online Academy platform (10 min)
+  - 0.3 Using the Online Academy platform (10 min)
 
-  - How to navigate the platform
+    - How to navigate the platform
 
-  - Assess your progress: Knowledge check and quizzes
+    - Assess your progress: Knowledge check and quizzes
 
-  - Introducing the DHIS2 Community of Practice discussion forum
+    - Introducing the DHIS2 Community of Practice discussion forum
 
-- 0.4 Introductions (15 min)
+  - 0.4 Introductions (15 min)
 
-  - Meet the DHIS2 Online Academy Team
+    - Meet the DHIS2 Online Academy Team
 
-  - Tell us about you
+    - Tell us about you
 
-**Module 1:What is DHIS2 and how is it used? (60 min)**
+- **Module 1:What is DHIS2 and how is it used? (60 min)**
 
-- 1.0 Overview of the module (5 min)
+  - 1.0 Overview of the module (5 min)
 
-  - Word cloud: What is DHIS2?
+    - Word cloud: What is DHIS2?
 
-  - Module 1 - What is DHIS2 and how is it used?
+    - Module 1 - What is DHIS2 and how is it used?
 
-- 1.1 DHIS2 feature overview (40 min)
+  - 1.1 DHIS2 feature overview (40 min)
 
-  - How are data entered into DHIS2?
+    - How are data entered into DHIS2?
 
-  - How is data quality ensured in DHIS2?
+    - How is data quality ensured in DHIS2?
 
-  - How are data analyzed and interpreted?
+    - How are data analyzed and interpreted?
 
-  - How are data shared in DHIS2?
+    - How are data shared in DHIS2?
 
-- 1.2 How is DHIS2 used? (15 min)
+  - 1.2 How is DHIS2 used? (15 min)
 
-  - DHIS2 Use Cases: Applying DHIS2 to real-world problems
+    - DHIS2 Use Cases: Applying DHIS2 to real-world problems
 
-  - Use case 1: Fast-tracking COVID-19 response using DHIS2 metadata packages
+    - Use case 1: Fast-tracking COVID-19 response using DHIS2 metadata packages
 
-  - Use case 2: Combating Malaria in Laos
+    - Use case 2: Combating Malaria in Laos
 
-  - Use case 3: DHIS2 used as an integrated Education Management Information System
+    - Use case 3: DHIS2 used as an integrated Education Management Information System
 
-- 1.3 Quiz (10 min)
+  - 1.3 Quiz (10 min)
 
-  - Module 1 Quiz
+    - Module 1 Quiz
 
-  - Discussion forum
+    - Discussion forum
 
-- 1.4 Feedback Survey (2 min)
+  - 1.4 Feedback Survey (2 min)
 
-  - Module 1 Feedback Survey
+    - Module 1 Feedback Survey
 
-**Module 2: Understanding the basics of DHIS2 (45 min)**
+- **Module 2: Understanding the basics of DHIS2 (45 min)**
 
-- 2.0 Overview of the module (5 min)
+  - 2.0 Overview of the module (5 min)
 
-  - Module 2 - Understanding the basics of DHIS2
+    - Module 2 - Understanding the basics of DHIS2
 
-- 2.1 DHIS2 building blocks (20 min)
+  - 2.1 DHIS2 building blocks (20 min)
 
-  - Building blocks: Where, what, and when in DHIS2
+    - Building blocks: Where, what, and when in DHIS2
 
-  - Where: Organisation unit
+    - Where: Organisation unit
 
-  - What: Data elements and Indicators
+    - What: Data elements and Indicators
 
-  - When: Periods
+    - When: Periods
 
-- 2.2 What makes DHIS2 an open platform? (15 min)
+  - 2.2 What makes DHIS2 an open platform? (15 min)
 
-  - Advantages of an open source platform
+    - Advantages of an open source platform
 
-  - Integration with other platforms
+    - Integration with other platforms
 
-- 2.3 Quiz (10 min)
+  - 2.3 Quiz (10 min)
 
-  - Module 2 Quiz
+    - Module 2 Quiz
 
-  - Discussion forum
+    - Discussion forum
 
-- 2.4 Feedback Survey (2 min)
+  - 2.4 Feedback Survey (2 min)
 
-  - Module 2 Feedback Survey
+    - Module 2 Feedback Survey
 
-**Module 3: DHIS2: A global community-driven project (45 min)**
+- **Module 3: DHIS2: A global community-driven project (45 min)**
 
-- 3.0 Overview of the module (5 min)
+  - 3.0 Overview of the module (5 min)
 
-  - Module 3 - DHIS2: A global community-driven project
+    - Module 3 - DHIS2: A global community-driven project
 
-- 3.1 Where does DHIS2 come from? (15 min)
+  - 3.1 Where does DHIS2 come from? (15 min)
 
-  - Where does DHIS2 come from?
+    - Where does DHIS2 come from?
 
-  - Key milestones of DHIS2
+    - Key milestones of DHIS2
 
-  - DHIS2 around the world
+    - DHIS2 around the world
 
-- 3.2 The global DHIS2 community (15 min)
+  - 3.2 The global DHIS2 community (15 min)
 
-  - DHIS2 and HISP
+    - DHIS2 and HISP
 
-  - The DHIS2 community
+    - The DHIS2 community
 
-  - Components of the DHIS2 ecosystem
+    - Components of the DHIS2 ecosystem
 
-- 3.3 Quiz (10 min)
+  - 3.3 Quiz (10 min)
 
-  - Module 3 Quiz
+    - Module 3 Quiz
 
-  - Discussion forum
+    - Discussion forum
 
-- 3.4 Feedback Survey (2 min)
+  - 3.4 Feedback Survey (2 min)
 
-  - Module 3 Feedback Survey
+    - Module 3 Feedback Survey
 
-**Module 4: Course closing and next steps (10 min)**
+- **Module 4: Course closing and next steps (10 min)**
 
-- Course closing (2 min)
+  - Course closing (2 min)
 
-  - Course closing
+    - Course closing
 
-- End-of-course Survey (3 min)
+  - End-of-course Survey (3 min)
 
-  - End-of-course Survey
+    - End-of-course Survey
 
-- Keep learning (7 min)
+  - Keep learning (7 min)
 
-  - Next steps
+    - Next steps
 
-  - What's next for you?
+    - What's next for you?
 
 ## Module 0 - Start here (40 Mins)
 
