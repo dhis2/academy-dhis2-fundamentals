@@ -1211,9 +1211,7 @@ If you are not joining the discussion on this module, simply click the next butt
 
 Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
-Link to survey:
-
-[https://docs.google.com/forms/d/16Ks2sBy8vDDzUgyNhUPDtsgJE8xy91oxoTWQxOQZTzk/edit](https://docs.google.com/forms/d/16Ks2sBy8vDDzUgyNhUPDtsgJE8xy91oxoTWQxOQZTzk/edit)
+[Link to survey](https://docs.google.com/forms/d/16Ks2sBy8vDDzUgyNhUPDtsgJE8xy91oxoTWQxOQZTzk/edit)
 
 ## Module 3 - DHIS2: A global community-driven project (45 min)
 
@@ -1506,9 +1504,7 @@ If you are not joining the discussion on this module, simply click the next butt
 
 Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
-Link to survey:
-
-[https://docs.google.com/forms/d/1g0eN8F1XakKXupdCnpULc-\_S40BANZp1Ro1os\_mCheU/edit](https://docs.google.com/forms/d/1g0eN8F1XakKXupdCnpULc-_S40BANZp1Ro1os_mCheU/edit)
+[Link to survey](https://docs.google.com/forms/d/1g0eN8F1XakKXupdCnpULc-_S40BANZp1Ro1os_mCheU/edit)
 
 ## Module 4 - Course closing and next steps (10 min)
 
@@ -1546,9 +1542,7 @@ Once you finish the course, please give us your **Feedback** by completing the e
 
 Now that you are at the end of this course, please take a few minutes to reflect on your experience and complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
-Link to survey:
-
-[https://docs.google.com/forms/d/1Nr7Dl6BWy\_FlfURJjb3k7GQMWt35u7TRiorQ8oZ6FQM/edit](https://docs.google.com/forms/d/1Nr7Dl6BWy_FlfURJjb3k7GQMWt35u7TRiorQ8oZ6FQM/edit)
+[Link to survey](https://docs.google.com/forms/d/1Nr7Dl6BWy_FlfURJjb3k7GQMWt35u7TRiorQ8oZ6FQM/edit)
 
 ### 4.3 - Keep learning (7 min)
 
