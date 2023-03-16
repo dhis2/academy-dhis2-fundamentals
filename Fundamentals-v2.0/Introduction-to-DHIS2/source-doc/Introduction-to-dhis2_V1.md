@@ -1245,9 +1245,7 @@ Before DHIS2 was able to help billions of people around the world, it started as
 
 In this video, you will discover how DHIS2 started, and the major milestones it has hit along the way. Select the play button below to get started.
 
-#### Introduction to DHIS2 - Where does DHIS2 come from?
-
-[https://youtu.be/mJ5t-33J1NY](https://youtu.be/mJ5t-33J1NY)
+[Video - Once upon a time.. (Youtube)](https://youtu.be/mJ5t-33J1NY)
 
 #### Key milestones of DHIS2
 
