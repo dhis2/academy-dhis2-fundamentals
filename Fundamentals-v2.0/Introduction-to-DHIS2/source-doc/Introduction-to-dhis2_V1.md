@@ -1271,7 +1271,7 @@ As you saw in previous lessons, DHIS2 originally launched as a project from the 
 
 In this video, you will discover how HISP works as a global movement to strengthen health information systems. You will also learn about how HISP is involved in the development of DHIS2, and helps implement DHIS2 around the world. Click the play button below to get started.
 
-[https://youtu.be/bUNx9p1FJV4](https://youtu.be/bUNx9p1FJV4)
+[Video - DHIS2 and HISP (Youtube link)](https://youtu.be/bUNx9p1FJV4)
 
 #### The DHIS2 community
 
@@ -1281,7 +1281,7 @@ DHIS2 wouldn't be possible without the hundreds of people who are involved in de
 
 In this video, you'll meet some of the people behind DHIS2 and HISP, who help run implementations, build applications, and train users of DHIS2.
 
-[https://youtu.be/kyOaU3bZUjg](https://youtu.be/kyOaU3bZUjg)
+[Video - You are not alone (Youtube link)](https://youtu.be/kyOaU3bZUjg)
 
 #### Components of the DHIS2 ecosystem
 
@@ -1289,7 +1289,7 @@ DHIS2 is more than just a piece of software. As you've learned, it is a communit
 
 In this video, you'll discover the different parts of the ecosystem, and how you can get involved. Click the play button below to get started.
 
-[https://youtu.be/STpBYarxNrM](https://youtu.be/STpBYarxNrM)
+[Video - Components of the DHIS2 Ecosystem (Youtube link)](https://youtu.be/STpBYarxNrM)
 
 #### Get involved with DHIS2
 
@@ -1404,7 +1404,7 @@ Select the "**submit**" button to submit your answers.
 
 **Feedback**: HISP can be described as a global movement that provides DHIS2 implementation support, including standards and requirements for DHIS2. The University of Oslo (UiO) is responsible for the development of the DHIS2 software.
 
-**8. Which of the following resources allows you to explore DHIS2 features and check the latest version of the platform?*
+**8. Which of the following resources allows you to explore DHIS2 features and check the latest version of the platform?**
 *(Select 1 option)*
 
     A. translate.dhis2.org
