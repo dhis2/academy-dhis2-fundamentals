@@ -2,7 +2,7 @@
 
 ## Course details
 
-### About the cours
+### About the course
 
 In this course, you will learn about the fundamental concepts that underpin how DHIS2 works, such as its building blocks and how data are entered, validated, analyzed, and shared. You will also discover the community that surrounds DHIS2, learn about its history and its supporting ecosystem. This course is the first course in the DHIS2 Fundamentals courses program. If you are new to DHIS2, we recommend you start your DHIS2 learning journey here.
 
