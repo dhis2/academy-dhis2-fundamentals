@@ -400,11 +400,13 @@ General **Feedback** for incorrect options: No, this item does not belong here. 
 
 **Feedback** for each correct option:
 
-**Validation rule analysis**: Tests validation rules against the data registered in the system. **Correct **Feedback****: Correct! Validation rule analysis tests validation rules against the data registered in the system.
-**Outlier analysis**: Identifies values that are potential outliers when compared to the standard normal distribution of the data reviewed or if the data are within a predefined range that has been specified for them. **Correct **Feedback**:** Correct! The Outlier analysis is another tool we can use to check data quality, identifying those values that are potential outliers when compared to the standard normal distribution of the data we are reviewing or if the data are within a predefined range that has been specified for them. .
-**Follow-up analysis**: Creates a list of all data values marked for follow-up. **Correct **Feedback**:** Correct! The Follow-up analysis creates a list of all data values marked for follow-up.
+**Validation rule analysis**: Tests validation rules against the data registered in the system.
+**Correct Feedback**: Correct! Validation rule analysis tests validation rules against the data registered in the system.
+**Outlier analysis**: Identifies values that are potential outliers when compared to the standard normal distribution of the data reviewed or if the data are within a predefined range that has been specified for them. **Correct Feedback**:Correct! The Outlier analysis is another tool we can use to check data quality, identifying those values that are potential outliers when compared to the standard normal distribution of the data we are reviewing or if the data are within a predefined range that has been specified for them. .
+**Follow-up analysis**: Creates a list of all data values marked for follow-up.
+**Correct Feedback**: Correct! The Follow-up analysis creates a list of all data values marked for follow-up.
 
-Final **Feedback**: Good work! You have completed this drag and drop problem.
+**Final Feedback**: Good work! You have completed this drag and drop problem.
 
 **2. The WHO Data Quality Tool generates findings on data quality based on the WHO Data Quality Review Framework. Match the quality metric being measured with its correct description.**
 
