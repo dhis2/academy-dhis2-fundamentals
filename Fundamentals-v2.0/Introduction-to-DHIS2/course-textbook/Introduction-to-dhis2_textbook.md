@@ -50,7 +50,7 @@ To pass the course, an overall grade of 80% is required
 
 #### When and where will my certificate be available?
 
-To get the course certificate, you need to achieve a passing grade of 80% or more. To check your current grade, go to the **Progress** page in the top menu and review your score. When you achieved a passig grade, the option to claim your certificate will appear at the top of the page. Once you claim the certificate, you can print it and share it with your social and proffesional networks.
+Upon completion of the course with a passing grade (80%), your certificate will be available to view and download on the **Dashboard**, and selecting **My courses**. You will find the list of courses you are enrolled in, locate the **Introduction to DHIS2** and click on the course certificate to download or print it.
 
 #### This is my first time taking a course on the DHIS2 Online Academy, how do I navigate the platform?
 
