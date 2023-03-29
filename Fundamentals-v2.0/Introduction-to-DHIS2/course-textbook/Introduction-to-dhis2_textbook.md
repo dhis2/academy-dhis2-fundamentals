@@ -380,9 +380,7 @@ In this video, you will discover **some of the tools available in DHIS2 that per
 
 - Validation rule analysis
 
-- Standard deviation outlier analysis
-
-- Minimum maximum outlier analysis
+- Outlier analysis
 
 - Follow-up analysis
 
