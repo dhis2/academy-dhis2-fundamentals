@@ -122,6 +122,10 @@ After completing this course, you'll be able to:
 
 There are no specific prerequisites to take this course.
 
+#### Which version of DHIS2 has been used in the course?
+
+All the demonstrations you will find in the course have been made with DHIS2 version 2.36.
+
 #### How is the course structured?
 
 Introduction to DHIS2 is comprised of 4 modules:
