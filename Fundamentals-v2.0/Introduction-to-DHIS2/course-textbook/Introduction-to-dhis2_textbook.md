@@ -705,7 +705,7 @@ Select the "**submit**" button to submit your answers.
      A. True
      B. False
 
-**Feedback**: The follow-up analysis creates a list of all data values marked for follow-up. You can mark a data value for follow-up in the data entry app and in the result list you get from a standard deviation outlier or minimum maximum outlier analysis.
+**Feedback**: The follow-up analysis creates a list of all data values marked for follow-up. You can mark a data value for follow-up in the data entry app and in the result list you get from the outlier analysis.
 
 **11. We can configure data quality checks by creating user-defined validation rules which check the data that is entered.**
 
