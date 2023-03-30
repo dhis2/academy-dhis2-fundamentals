@@ -719,7 +719,7 @@ Select the "**submit**" button to submit your answers.
     D. Description
     E. Maps
 
-****Feedback**@*: The 3 data visualizations available in DHIS2 are Pivot tables, Charts, and Maps. These can be expanded upon using descriptions and interpretations.
+**Feedback**: The 3 data visualizations available in DHIS2 are Pivot tables, Charts, and Maps. These can be expanded upon using descriptions and interpretations.
 
 **13. In DHIS2, we can add interpretations based on our own analysis of the data being reviewed.**
 
