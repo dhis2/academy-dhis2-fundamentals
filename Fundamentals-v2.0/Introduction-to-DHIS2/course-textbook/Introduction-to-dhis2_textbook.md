@@ -931,8 +931,6 @@ In this video, you will learn about the **“What” dimension** of DHIS2: **Dat
 
 **Feedback**: “Number of available hospital beds” and “Number of positive malaria cases” are considered Data Elements as they represent a simple count and can be collected directly. On the other hand, indicator values are not collected like the data element values, but are calculated based on defined formulas.
 
-##### Question 2
-
 **2. Which of the following statements about Indicators are true?**
 *(Select 2 options)*
 
