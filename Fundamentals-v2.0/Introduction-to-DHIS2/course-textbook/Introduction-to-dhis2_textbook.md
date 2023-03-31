@@ -732,14 +732,14 @@ Select the "**submit**" button to submit your answers.
 
 **Feedback**: We can add an interpretation in response to reviewing a visualization in order to enable discussion and help guide direct actions.
 
-14. DHIS2 has a specific application to obtain reports outside of the 3 core visualization types.
+**14. DHIS2 has a specific application to obtain reports outside of the 3 core visualization types.**
 
     A. True
     B. False
 
 **Feedback**: DHIS2 provides several reporting tools through the Reports app.
 
-15. The outputs we create cannot be given additional descriptions/interpretations directly within DHIS2.
+**15. The outputs we create cannot be given additional descriptions/interpretations directly within DHIS2.**
 
     A. True
     B. False
