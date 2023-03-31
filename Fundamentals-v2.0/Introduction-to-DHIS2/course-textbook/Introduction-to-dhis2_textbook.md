@@ -793,9 +793,9 @@ Once you are done on the CoP, click the **"Return to course"** button at the bot
 
 If you are not joining the discussion on this module, simply click the next button below to continue to the survey.
 
-### 1.4 **Feedback** Survey(2 min)
+### 1.4 Feedback Survey(2 min)
 
-#### Module 1 **Feedback** Survey
+#### Module 1 Feedback Survey
 
 Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
