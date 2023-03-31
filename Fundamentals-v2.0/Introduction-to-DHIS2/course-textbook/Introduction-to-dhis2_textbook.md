@@ -789,7 +789,7 @@ To do it, please click on the following link to the course discussion forum on t
 
 Even though this is an optional activity, we strongly recommend you take some time to think about your new knowledge, read what other course participants think, and make connections with your own prior experience and current learning needs. This will help you reinforce what you have learned and prepare for the next module.
 
-Once you are done on the CoP, click the **"Return to course"** button at the bottom of the discussion topic page to be redirected back to the course to fill out the module **Feedback** survey.
+Once you are done on the CoP, click the **"Return to course"** button at the bottom of the discussion topic page to be redirected back to the course to fill out the module **Feedback survey**.
 
 If you are not joining the discussion on this module, simply click the next button below to continue to the survey.
 
@@ -797,7 +797,7 @@ If you are not joining the discussion on this module, simply click the next butt
 
 #### Module 1 Feedback Survey
 
-Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
+Once you are done with the module, please take 2 or 3 minutes to complete this Feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [https://docs.google.com/forms/d/1eTlg96SK4jKQwfADmrsVIW-50z9jixiLQHrkqWmzX1Y/edit](https://docs.google.com/forms/d/1eTlg96SK4jKQwfADmrsVIW-50z9jixiLQHrkqWmzX1Y/edit)
 
