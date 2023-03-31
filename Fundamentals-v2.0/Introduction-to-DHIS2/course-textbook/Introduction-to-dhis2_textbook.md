@@ -855,19 +855,19 @@ Instruction: Drag the items onto the image above.
 
 ![image5_Q1](static/media/image5.png)
 
-Data element: What. Correct
-**Feedback**: Correct! Data element is one of the DHIS2 building blocks and it represents what is been counted.
+Data element: What. 
+Feedback for correct answer: Correct! Data element is one of the DHIS2 building blocks and it represents what is been counted.
 
-Organisation unit: Where. Correct
-**Feedback**: Correct! Organisation unit is one of the DHIS2 building blocks and it represents the geographical dimension of the data.
+Organisation unit: Where. 
+Feedback for correct answer: Correct! Organisation unit is one of the DHIS2 building blocks and it represents the geographical dimension of the data.
 
-Period: When. Correct
-**Feedback**: Correct! Period is one of the DHIS2 building blocks and it represents when data were collected.
+Period: When. 
+Feedback for correct answer: Correct! Period is one of the DHIS2 building blocks and it represents when data were collected.
 
 Data capture app: Error
-**Feedback**: No, the data capture app is not a DHIS2 building block.
+Feedback: No, the data capture app is not a DHIS2 building block.
 
-General incorrect **Feedback**: No, this item does not belong here.
+General incorrect Feedback: No, this item does not belong here.
 
 #### Where: Organisation Unit
 
