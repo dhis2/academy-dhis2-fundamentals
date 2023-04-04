@@ -1208,11 +1208,11 @@ Once you are done on the CoP, click the **"Return to course"** button at the bot
 
 If you are not joining the discussion on this module, simply click the next button below to continue to the survey.
 
-### 2.4 **Feedback** Survey (2 min)
+### 2.4 Feedback Survey (2 min)
 
-#### Module 2 **Feedback** Survey
+#### Module 2 Feedback Survey
 
-Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
+Once you are done with the module, please take 2 or 3 minutes to complete this Feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [Link to survey](https://docs.google.com/forms/d/16Ks2sBy8vDDzUgyNhUPDtsgJE8xy91oxoTWQxOQZTzk/edit)
 
@@ -1499,11 +1499,11 @@ Once you are done on the CoP, click the **"Return to course"** button at the bot
 
 If you are not joining the discussion on this module, simply click the next button below to continue to the survey.
 
-### 3.4 **Feedback** Survey (2 min)
+### 3.4 Feedback Survey (2 min)
 
-#### Module 3 **Feedback** Survey
+#### Module 3 Feedback Survey
 
-Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
+Once you are done with the module, please take 2 or 3 minutes to complete this Feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [Link to survey](https://docs.google.com/forms/d/1g0eN8F1XakKXupdCnpULc-_S40BANZp1Ro1os_mCheU/edit)
 
