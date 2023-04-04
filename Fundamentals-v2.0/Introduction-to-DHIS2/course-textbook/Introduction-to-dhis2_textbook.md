@@ -1142,7 +1142,8 @@ Select the "**submit**" button to submit your answers.
 
 **Feedback**: Indicators refer to values that are not entered directly, but instead are calculated using one or more data elements. They are useful to compare areas of different population sizes.
 
-**11. Indicators are calculated using a formula that contains a numerator and denominator.**
+**11. In DHIS2, indicators are calculated using a formula that contains a numerator, a denominator, and a factor.**
+
     A. True
     B. False
 
@@ -1347,7 +1348,7 @@ Select the "**submit**" button to submit your answers.
 
 **Feedback**: HISP launched in South Africa in 1994, and set the DHIS project in motion.
 
-**2. In which country did the first implementation of DHIS2 launch in 2004?**
+**2. In which country did the first implementation of DHIS2 launch in 2006?**
 *(Select 1 option)*
 
     A. Norway
