@@ -1537,11 +1537,11 @@ To download your certificate, follow these steps:
 
 #### Tell us how we can improve
 
-Once you finish the course, please give us your **Feedback** by completing the end-of-course survey. We constantly check participants' **Feedback** and look for ways to improve our courses. We truly appreciate your input.
+Once you finish the course, please give us your Feedback by completing the end-of-course survey. We constantly check participants' Feedback and look for ways to improve our courses. We truly appreciate your input.
 
 ### 4.2 - End-of-course Survey (3 min)
 
-Now that you are at the end of this course, please take a few minutes to reflect on your experience and complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
+Now that you are at the end of this course, please take a few minutes to reflect on your experience and complete this Feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [Link to survey](https://docs.google.com/forms/d/1Nr7Dl6BWy_FlfURJjb3k7GQMWt35u7TRiorQ8oZ6FQM/edit)
 
