@@ -8,7 +8,7 @@ git:
     source_file_dir: 'Fundamentals-v2.0/Customization/translation/transifex'
     translation_files_expression: 'Fundamentals-v2.0/Customization/translation/language-versions/<lang>/html'
 
-- filter_type: dir
+  - filter_type: dir
     file_format: SRT
     source_file_extension: srt
     source_language: en
@@ -22,7 +22,7 @@ git:
     source_file_dir: 'Fundamentals-v2.0/Customization/translation/transifex'
     translation_files_expression: 'Fundamentals-v2.0/Customization/translation/language-versions/<lang>/markdown'
 
-- filter_type: dir
+  - filter_type: dir
     file_format: txt
     source_file_extension: txt
     source_language: en
