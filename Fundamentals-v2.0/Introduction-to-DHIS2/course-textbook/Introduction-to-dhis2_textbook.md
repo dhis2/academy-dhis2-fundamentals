@@ -122,6 +122,10 @@ After completing this course, you'll be able to:
 
 There are no specific prerequisites to take this course.
 
+#### Which version of DHIS2 has been used in the course?
+
+All the demonstrations you will find in the course have been made with DHIS2 version 2.36.
+
 #### How is the course structured?
 
 Introduction to DHIS2 is comprised of 4 modules:
@@ -701,7 +705,7 @@ Select the "**submit**" button to submit your answers.
      A. True
      B. False
 
-**Feedback**: The follow-up analysis creates a list of all data values marked for follow-up. You can mark a data value for follow-up in the data entry app and in the result list you get from a standard deviation outlier or minimum maximum outlier analysis.
+**Feedback**: The follow-up analysis creates a list of all data values marked for follow-up. You can mark a data value for follow-up in the data entry app and in the result list you get from the outlier analysis.
 
 **11. We can configure data quality checks by creating user-defined validation rules which check the data that is entered.**
 
@@ -728,14 +732,14 @@ Select the "**submit**" button to submit your answers.
 
 **Feedback**: We can add an interpretation in response to reviewing a visualization in order to enable discussion and help guide direct actions.
 
-14. DHIS2 has a specific application to obtain reports outside of the 3 core visualization types.
+**14. DHIS2 has a specific application to obtain reports outside of the 3 core visualization types.**
 
     A. True
     B. False
 
 **Feedback**: DHIS2 provides several reporting tools through the Reports app.
 
-15. The outputs we create cannot be given additional descriptions/interpretations directly within DHIS2.
+**15. The outputs we create cannot be given additional descriptions/interpretations directly within DHIS2.**
 
     A. True
     B. False
@@ -785,15 +789,15 @@ To do it, please click on the following link to the course discussion forum on t
 
 Even though this is an optional activity, we strongly recommend you take some time to think about your new knowledge, read what other course participants think, and make connections with your own prior experience and current learning needs. This will help you reinforce what you have learned and prepare for the next module.
 
-Once you are done on the CoP, click the **"Return to course"** button at the bottom of the discussion topic page to be redirected back to the course to fill out the module **Feedback** survey.
+Once you are done on the CoP, click the **"Return to course"** button at the bottom of the discussion topic page to be redirected back to the course to fill out the module **Feedback survey**.
 
 If you are not joining the discussion on this module, simply click the next button below to continue to the survey.
 
-### 1.4 **Feedback** Survey(2 min)
+### 1.4 Feedback Survey(2 min)
 
-#### Module 1 **Feedback** Survey
+#### Module 1 Feedback Survey
 
-Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
+Once you are done with the module, please take 2 or 3 minutes to complete this Feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [https://docs.google.com/forms/d/1eTlg96SK4jKQwfADmrsVIW-50z9jixiLQHrkqWmzX1Y/edit](https://docs.google.com/forms/d/1eTlg96SK4jKQwfADmrsVIW-50z9jixiLQHrkqWmzX1Y/edit)
 
@@ -851,19 +855,19 @@ Instruction: Drag the items onto the image above.
 
 ![image5_Q1](static/media/image5.png)
 
-Data element: What. Correct
-**Feedback**: Correct! Data element is one of the DHIS2 building blocks and it represents what is been counted.
+Data element: What. 
+Feedback for correct answer: Correct! Data element is one of the DHIS2 building blocks and it represents what is been counted.
 
-Organisation unit: Where. Correct
-**Feedback**: Correct! Organisation unit is one of the DHIS2 building blocks and it represents the geographical dimension of the data.
+Organisation unit: Where. 
+Feedback for correct answer: Correct! Organisation unit is one of the DHIS2 building blocks and it represents the geographical dimension of the data.
 
-Period: When. Correct
-**Feedback**: Correct! Period is one of the DHIS2 building blocks and it represents when data were collected.
+Period: When. 
+Feedback for correct answer: Correct! Period is one of the DHIS2 building blocks and it represents when data were collected.
 
 Data capture app: Error
-**Feedback**: No, the data capture app is not a DHIS2 building block.
+Feedback: No, the data capture app is not a DHIS2 building block.
 
-General incorrect **Feedback**: No, this item does not belong here.
+General incorrect Feedback: No, this item does not belong here.
 
 #### Where: Organisation Unit
 
@@ -926,8 +930,6 @@ In this video, you will learn about the **“What” dimension** of DHIS2: **Dat
     D. Number of positive malaria cases
 
 **Feedback**: “Number of available hospital beds” and “Number of positive malaria cases” are considered Data Elements as they represent a simple count and can be collected directly. On the other hand, indicator values are not collected like the data element values, but are calculated based on defined formulas.
-
-##### Question 2
 
 **2. Which of the following statements about Indicators are true?**
 *(Select 2 options)*
@@ -1140,7 +1142,8 @@ Select the "**submit**" button to submit your answers.
 
 **Feedback**: Indicators refer to values that are not entered directly, but instead are calculated using one or more data elements. They are useful to compare areas of different population sizes.
 
-**11. Indicators are calculated using a formula that contains a numerator and denominator.**
+**11. In DHIS2, indicators are calculated using a formula that contains a numerator, a denominator, and a factor.**
+
     A. True
     B. False
 
@@ -1205,11 +1208,11 @@ Once you are done on the CoP, click the **"Return to course"** button at the bot
 
 If you are not joining the discussion on this module, simply click the next button below to continue to the survey.
 
-### 2.4 **Feedback** Survey (2 min)
+### 2.4 Feedback Survey (2 min)
 
-#### Module 2 **Feedback** Survey
+#### Module 2 Feedback Survey
 
-Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
+Once you are done with the module, please take 2 or 3 minutes to complete this Feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [Link to survey](https://docs.google.com/forms/d/16Ks2sBy8vDDzUgyNhUPDtsgJE8xy91oxoTWQxOQZTzk/edit)
 
@@ -1345,7 +1348,7 @@ Select the "**submit**" button to submit your answers.
 
 **Feedback**: HISP launched in South Africa in 1994, and set the DHIS project in motion.
 
-**2. In which country did the first implementation of DHIS2 launch in 2004?**
+**2. In which country did the first implementation of DHIS2 launch in 2006?**
 *(Select 1 option)*
 
     A. Norway
@@ -1496,11 +1499,11 @@ Once you are done on the CoP, click the **"Return to course"** button at the bot
 
 If you are not joining the discussion on this module, simply click the next button below to continue to the survey.
 
-### 3.4 **Feedback** Survey (2 min)
+### 3.4 Feedback Survey (2 min)
 
-#### Module 3 **Feedback** Survey
+#### Module 3 Feedback Survey
 
-Once you are done with the module, please take 2 or 3 minutes to complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
+Once you are done with the module, please take 2 or 3 minutes to complete this Feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [Link to survey](https://docs.google.com/forms/d/1g0eN8F1XakKXupdCnpULc-_S40BANZp1Ro1os_mCheU/edit)
 
@@ -1534,11 +1537,11 @@ To download your certificate, follow these steps:
 
 #### Tell us how we can improve
 
-Once you finish the course, please give us your **Feedback** by completing the end-of-course survey. We constantly check participants' **Feedback** and look for ways to improve our courses. We truly appreciate your input.
+Once you finish the course, please give us your Feedback by completing the end-of-course survey. We constantly check participants' Feedback and look for ways to improve our courses. We truly appreciate your input.
 
 ### 4.2 - End-of-course Survey (3 min)
 
-Now that you are at the end of this course, please take a few minutes to reflect on your experience and complete this **Feedback** survey. Your careful response will have a real impact on how courses like this are run. Thank you!
+Now that you are at the end of this course, please take a few minutes to reflect on your experience and complete this Feedback survey. Your careful response will have a real impact on how courses like this are run. Thank you!
 
 [Link to survey](https://docs.google.com/forms/d/1Nr7Dl6BWy_FlfURJjb3k7GQMWt35u7TRiorQ8oZ6FQM/edit)
 
