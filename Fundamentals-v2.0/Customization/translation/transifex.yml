@@ -23,13 +23,6 @@ git:
     translation_files_expression: 'Fundamentals-v2.0/Customization/translation/language-versions/<lang>/markdown'
 
   - filter_type: dir
-    file_format: txt
-    source_file_extension: txt
-    source_language: en
-    source_file_dir: 'Fundamentals-v2.0/Customization/translation/transifex'
-    translation_files_expression: 'Fundamentals-v2.0/Customization/translation/language-versions/<lang>/scripts'
-
-  - filter_type: dir
     file_format: MS_PPTX
     source_file_extension: pptx
     source_language: en
