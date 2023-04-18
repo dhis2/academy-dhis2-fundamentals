@@ -1,0 +1,48 @@
+4.2.1 Creating data elements 
+
+Slide 2
+You now know how to design data elements and incorporate best practices for naming conventions. 
+
+Slide 3
+In this video, you will learn how to create data elements within DHIS2. 
+
+Slide 4
+We will start by creating a data element from the RMNCAH data set that you are already familiar with. While this data set consists of several sections containing different data elements, we will focus on the antenatal care section for now. 
+
+Slide 5
+We see that there are three data elements within this section, antenatal care first visit, antenatal care fourth visit, and antenatal care eighth or more visit. Let's walk through the creation of the first data element, antenatal care first visit. 
+
+Slide 6
+Once we have filled in our configuration spreadsheet with all the information related to the data elements we need to create, we can get started. 
+
+Slide 7 (Demo)
+Navigate to the apps menu and select the Maintenance app. To create or modify data elements, click on Data Elements in the top bar menu, and then the Data Element tab in the left side. 
+
+We can now see the data element management page with the list of available data elements. In this example, we're going to make the ANC first visit data element. It's always best practice to make sure the data element doesn't already exist in the DHIS2 system. 
+
+To ensure we don't create a duplicate, search for it in the list. Once you have confirmed the data element does not already exist, start creating it by clicking on the plus sign. Several fields are available to help us define our metadata. 
+
+There are a few mandatory fields for data elements that we must fill in. The first two are the name and short name. We can fill these in using the information in our configuration spreadsheet. For the name, RMNCAH ANC first visit would be appropriate according to our standards. As a short name, we can use ANC one as taken from our spreadsheet. 
+
+Note that these names must be unique to data elements. You will not be able to save a data element with the same name as an existing data element. Referencing our spreadsheet, we can also add in the description. Descriptions help ensure that anyone accessing the system can use the descriptions to help clarify what an item is representing. 
+
+Next, we have the form name field, which is optional but useful in many circumstances. The form name is what users will see when entering data in the data entry form. For example, if we use ANC first visit as the form name, the users will see this name instead of RMNCAH ANC first visit. 
+
+The form name may make it easier for the data entry user to know what the field is for. After the form name, we have three mandatory fields that help us determine how the data element will behave in our system, the domain type, value type, and aggregation type. For the domain type, in our example, we are creating a data element that will be used in a data set to capture aggregate data such as summary counts so we need to select Aggregate. Y
+
+ou can learn about configuring systems to capture tracker data in DHIS2 Academy Event and Tracker courses. The next field we need to define is the value type. The value type defines what type of values we can store in the data element during data collection. 
+
+We can see from the list that there are a number of different value types that are available. In our example, since we are capturing data on the number of antenatal care visits, we want to store only positive or zero integers. 
+
+Note that this is more restrictive than the number option, which allows you to add any numeric value including with decimal points. If you want to learn about other value types, consult the DHIS2 documentation. 
+
+Next, we need to define the aggregation type. This will be the default aggregation operator that will be used on the data element. For example, if we select Sum, the data entered for the data element will be summed across periods and organization units. 
+
+This is what we want for our example. For additional information on other aggregation types and examples of them, refer to the DHIS2 documentation. Lastly, we have the category combination field. This required field helps us define the disaggregation of the data element. 
+
+We learned previously that disaggregations of data elements allow for a further breakdown of the data element into component parts. Age group and gender are common examples of disaggregations. In our example, we do not need to break our data element down further so we will select none in the list of available category combinations. These are all of the fields you must or should fill in in order to create a data element. 
+
+Now that we have filled in all these fields, let's scroll to the bottom of the data element creation page and click on Save. This takes us back to the data element management page, where we can see the list of data elements. We can see the new data element we have just created is now included here. 
+
+Slide 8
+To recap, you can create a data element in DHIS2 by navigating to the Maintenance app, select the Data Element tab, and then open the data element management page. Then click the plus button. The required fields must be filled in including a name, short name, domain type, value type, aggregation type, and a category combination. And we recommend that you fill in the description and form name fields as well. Once you click save, the new data element will be added to the list of data elements in the system.

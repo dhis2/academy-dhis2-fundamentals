@@ -1,0 +1,33 @@
+3.2.1 Creating category options
+
+Slide 2
+Now that you know how DHIS2 uses the category model to apply disaggregations such as age and sex to data elements...
+
+Slide 3
+...we will learn how to set up category options, categories and category combinations. 
+
+Slide 4
+Let's look at the data elements from the RMNCAH dataset within the delivery by age section and the family planning section. The data elements within the delivery by age section are disaggregated by three age groups or category options: 10 to 14 years, 15 to 19 years and 20 plus years. The data elements within the family planning section are disaggregated by the same age category options, as well as by male and female as sex category options. 
+
+
+Slide 5
+To create the full category model for these two sections in DHIS2, we first need to create the category options, then the categories, and finally, the category combinations. Once this is done, we will be able to assign them to the data elements for these sections. 
+
+Slide 6 (Demo)
+Open the maintenance app and select category. Then select the category option tab. Depending on the DHIS2 system you are in, you may already have some category options available. 
+
+Remember to always check the list before creating any new category options. If the category option you need already exists, it should be reused to avoid creating duplicate options. 
+
+In this example, we can see that male and female already exist so we do not need to create them again. However, the age groups 10 to 14 years, 15 to 19 years, and 20 plus years do not already exist so we will need to create them for the RMNCAH dataset. To create the category options, click the plus button in the bottom right corner of the screen. 
+
+Let's start by creating the first age category option, 10 to 14 years. In the configuration page, fill in the name. This is the only required field. This field must contain a unique value, meaning that you cannot have more than one category option in your DHIS2 system with the same name. 
+
+This can help you avoid accidental duplication of category options. We could also configure other fields, such as short name, code, and description. 
+
+For more information on these fields and the additional configurable fields, refer to the DHIS2 documentation. 
+
+After filling in the configurable fields, scroll to the bottom of the page and click save. We will repeat this process two more times and create the remaining two age category options, 15 to 19 years and 20 plus years. 
+
+
+Slide 7
+You have now learned how to create category options in DHIS2 to represent specific disaggregations. In the next video, you will learn how to group them into categories and category combinations so they can be applied to data elements for use in data capture and analysis.

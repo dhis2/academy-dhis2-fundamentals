@@ -1,0 +1,68 @@
+3.1.1 Theory of the category model
+
+Slide 2
+As we saw in the introduction to DHIS2 course, data elements can be further broken down, into more granular pieces of information, such as age and sex also known as desegregations, by using categories. These desegregations are created through the category model in DHIS2. 
+
+Slide 3
+In this video, we will look at the concepts of the category model and show examples of how they relate to the RMNCAH dataset. 
+
+Slide 4
+Let's begin by reviewing the dataset. We can see that there are sections in this dataset, such as delivery by age or family planning that include desegregated data elements. 
+
+Slide 5
+To understand how desegregations work in DHIS2, you first need to familiarize yourself with four key terms and how they relate to one another; category options, categories, category combinations and category option combinations. 
+
+Slide 6
+Let's start with category options. In DHIS2 category options are the individual options that make up a disaggregation. 
+
+Slide 7
+For example, when we desegregate data elements based on sex, male and female are the individual category options. 
+
+Slide 8
+In our RMNCAH data set for the delivery data elements, the data are desegregated by age group; 10 to 14, 15 to 19 and 20 plus years in this specific case. 
+
+Slide 9
+These are all category options...
+
+Slide 10
+...there are two critical principles associated with category option combination. First, reusability. We don't want any category option to be created more than once in a given DHIS2 system. If it already exists, we should reuse it. 
+
+Slide 11
+Second, granularity. Each category option should represent one concept by itself. We do not want to combine multiple concepts, such as 10 to 14 years and male in the same option, because this would limit our ability to disaggregate the data for analysis. 
+
+Slide 12
+Now, let's talk about categories. Categories describe how we classify these individual options into groups. In the RMNCAH data set, the options male and female make up the sex category and 10 to 14 years, 15 to 19 years and 20 plus years make up the RMNCAH age category. 
+
+Slide 13
+Note that the categories are what appear in the analytics applications as disaggregations you can add to visualizations. 
+
+Slide 14
+There is an important principle to follow when creating categories, the total for all options that make up the category, should be meaningful. This is because that total will appear in the analytics applications, unless you add the desegregations to it. 
+
+Slide 15
+For example, you would not want to create a disaggregation that combined both less than five years and under ones, since the total would not be meaningful, as there would be a double counting happening with those that are under one year old. 
+
+Slide 16 
+Next, let's discuss category combinations. The category combination is used in data element creation to assign the desegregations. Category combinations, allow you to add one or more categories to a data element. For the delivery section of the RMNCAH data set, we would need to create a category combination for the RMNCAH age group. This is an example of a category combination that only contains one category.
+
+Slide 17
+In the family planning section of the RMNCAH dataset, the data element is disaggregated by both age and sex. 
+
+Slide 18
+The category combination would therefore consist of these two categories, RMNCAH age and sex. 
+
+Slide 19
+Lastly, we have what we refer to as category option combinations. Based on the category combination defined, DHIS2 will automatically generate a cross section of all the category options, contained within the category combination. In our example, the category option combinations, will be the individual detail we need to store each of our individual disaggregation of age and sex, including male 10 to 14 years, female 10 to 14 years, male 15 to 19 years, female 15 to 19 years, male 20 plus years and female 20 plus years. 
+
+Slide 20
+If we look back at our data set, we see that each of these combinations represent a cell in our reporting table. This is not a coincidence, DHIS2 has to generate those fields for you to store data in each individual disaggregation when you enter your data in the system. 
+
+Slide 21
+This might perhaps seem a little too complicated. You might ask, why not just create these combinations directly, without having to go through this process. 
+
+
+Slide 22
+The main reason is that it provides a lot of flexibility for the end users in terms of viewing the data outputs and it reduces the number of data elements we have to create, making the customization process more efficient and reducing opportunities for errors or duplication. 
+
+Slide 23
+In summary, the category model refers to the disaggregation of data elements into different classifications, such as age and sex. The individual component parts are referred to as category options. These are all the individual options that make up a category, which is a group of category options. From a design perspective, it is important that category options, follow the principles of reusability and granularity. From an analysis perspective, it is key that category options within a category, encompass the totality of a data element, without gaps are overlap, so that no values are omitted or counted more than once. Category combinations are made up of one or more categories and are used to assign the categories to data elements. Finally, category option combinations, are created automatically by DHIS2. They create the combination of each cell in a reporting table, which provides a lot of flexibility for the end user in terms of viewing the data outputs and it reduces the number of data elements we have to create.

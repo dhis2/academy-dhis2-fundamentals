@@ -1,0 +1,25 @@
+2.3.3 Creating organisation unit group sets 
+
+Slide 2
+Previously, we classified our organisation units into two groups, health centers, and hospitals. 
+
+Slide 3
+In this video, you will see how to further organize your organisation unit groups into group sets. We will create an organisation unit group set called facility type and add both the hospital and health center groups to it. 
+
+Slide 4 (Demo)
+From the Maintenance app, navigate to the Organisation Unit page, and then Organisation unit group set tab. As usual to add a new item, click on the plus icon in the bottom right corner of the screen. Here, you will see that there are a couple of different fields available.
+
+Let's start with the two mandatory fields, the name and the short name. We will call this organisation unit group set Facility Type. And we can use the same short name. We can assign a code to this group set, just like when creating organisation unit groups and organisation units. We can also provide a description of the group set, which describes it in a bit more detail. 
+
+Providing a description is best practice to help users understand the structure that you have created. We then have some checkboxes below. The compulsory checkbox indicates that every organisation unit in our hierarchy must be included in one of the groups that are within this group set in order for the group set to be used. In this example, let's leave Compulsory deselected. 
+
+The next checkbox is for data dimension. If we tick this box, it will allow us to select this group as a dimension in the Analytics applications. This means that we can view our data based on whether or not they belong to a health center or a hospital. 
+
+Note that if the organisation unit group set is used as a data dimension, each organisation unit should be only a member of one group within the group set. 
+
+This ensures we avoid double counting if the dimension is used in analytics. Leave Data dimension selected. There is also a checkbox marked Include subhierarchy in analytics. We will leave this deselected. You can find out more about this option in the DHIS2 documentation. 
+
+Then let's add in the organisation unit groups that belong to this particular group set. Double click on the organisation unit groups, health center and hospital in the available list to add them to the group set. To finish, click on Save. You have now created your facility type group set, which includes hospital and health center organisation unit groups. 
+
+Slide 5
+In summary, you have learned how to further organize organisation unit groups into organisation unit group sets, and how that allows you to use the organisation unit groups in DHIS2 data analysis apps. To create a new organisation unit group set, open the Maintenance app, select the Organisation unit tab, then select the Organisation unit group set button, then click the blue plus sign to add a new item. Next, fill out the fields to identify the group set such as name and short name. And lastly, add the organisation unit groups into this set.

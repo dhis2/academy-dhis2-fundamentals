@@ -1,0 +1,32 @@
+5.1.1 Orientation to data sets
+
+Slide 2
+A data set is a collection of data elements grouped together for data entry. 
+
+Slide 3
+In this video, we will describe data sets in more detail so you can see what types of data sets can be created in DHIS2 and their configurable options. 
+
+Slide 4
+You can think of data sets as a way to bundle and organize data elements for the purpose of data entry. 
+
+Slide 5
+Data sets have a defined period related to the frequency of reporting of the data elements they contain and are linked to organization units, a location or set of locations, where the data values for the data elements in the data set are collected. 
+
+Slide 6
+The Data Entry app is used to collect data values for these data elements that correspond to the data sets that you configure through the Maintenance application. 
+
+Slide 7
+With this in mind, data elements, periods, and organization units are key parameters that need to be considered when creating data sets. 
+
+Slide 8 (Demo)
+Let's take a look at the RMNCAH aggregate data entry form as an example of how data set configuration options are displayed in the Data Entry app. Notice the three main dimensions in the green box above the data entry form: the Organisation Unit, Data Set, and Period. 
+
+The configuration of your data set will determine which organization units and periods can be selected here. As we scroll through the form, we can see it has several sections. One for antenatal care, one for delivery, and one for family planning. 
+
+This is an example of a section form where the specific sections in the form are configured through the data set in the Maintenance app. Section forms are one of three options for configuring a data entry form in DHIS2, the others being the default data entry form and the custom form. 
+
+Slide 9
+When deciding which form to use, you should consider both how data will be entered and what the capacity to manage a form over time is within your organization. Section forms are simple to manage, while also allowing you to control the layout of your form. They are more easily translated and are fully compatible with the DHIS2 Android Capture app. They should be used whenever possible. Custom forms require specific knowledge to maintain, modify, and translate, and will not work with the DHIS2 Android Capture app. They should be used only when required. 
+
+Slide 10
+In summary, a data set is a collection of data elements grouped together for data collection. Data sets are created and edited in DHIS2 using the Maintenance app and are displayed as data collection forms in the Data Entry app. There are three different types of data sets that can be configured. Default forms are the simplest form type. Section forms can be used to define various sections in a data entry form, and data elements can be arranged in a specific order. Finally, custom forms allow a fully flexible design, but require the use of additional web technologies to design and maintain.

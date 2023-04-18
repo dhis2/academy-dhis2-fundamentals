@@ -1,0 +1,55 @@
+Introduction to DHIS2 Customization
+
+Slide 2
+Welcome to the DHIS2 customization course. 
+
+Slide 3
+One of the core features of DHIS2 is its customizability. But what does customization mean in the context of DHIS2? 
+
+Slide 4
+In this video, you will get a short introduction to the concept of DHIS2 customization and why it is an essential part of DHIS2 implementation. 
+
+Slide 5
+DHIS2 is used in more than 100 countries around the world. While the majority of implementations use DHIS2 as a health information system, DHIS2 is also used to collect and manage data in the education sector, such as for school infrastructure and student attendance, as well as for logistics management, human resources, nutrition and sanitation programs, wildlife monitoring, and much more. 
+
+Slide 6
+For example, a health information system can include multiple health programs, such as maternal health, immunization, and malaria control. 
+
+Slide 7
+Some programs can be managed through collection and analysis of aggregate data while others require data down to the individual level. 
+
+Slide 8
+Different countries and contexts allow for different means of data collection, such as on a mobile device or a web browser...
+
+Slide 9
+... and specific information outputs are required for each context to facilitate tasks such as data analysis, patient follow-up, and program management and evaluation. 
+
+Slide 10
+Even in cases where similar programs are being managed across countries, the requirements within these programs can vary widely from place to place. 
+
+Slide 11
+How is it possible to adapt DHIS2 to work within these various scenarios and meet the needs of diverse use cases? 
+
+Slide 12
+DHIS2 is a flexible, open-source platform that can be customized to meet a wide range of requirements. It supports both aggregate and individual level data models, data entry on desktop and mobile devices, the creation of custom web and Android apps, and integration with other software platforms through open APIs. 
+
+Slide 13
+You can use DHIS2 in any domain where the DHIS2 data model can be applied. As you learned in the introduction to DHIS2 course, this data model is based on capturing data values along three key dimensions, the data element, organization unit, and period. 
+
+Slide 14
+Because the data model and feature set are purely generic, in other words, DHIS2 is not designed for one particular use case, but to be used for an unlimited variety of use cases. The system must be customized based on the needs of each specific implementation before it can be used. 
+
+Slide 15
+DHIS2 allows you to configure its metadata and structure without the need for programming skills. 
+
+Slide 16
+Using the user interface, you are able to create an organization unit hierarchy, including facilities and geographical boundaries, the data elements to collect data values, indicators using these data elements, data sets and customized data entry forms, users, and user-based access controls. There are many other aspects of DHIS2 that can be customized as well. 
+
+Slide 17
+While the core DHIS2 software is developed by the University of Oslo, each country or organization has full ownership of their DHIS2 implementation along with the configuration and data contained within it. 
+
+Slide 18
+This allows each country or organization to have their own customized DHIS2 system that is suited for the unique context they operate in and customized to meet their requirements. 
+
+Slide 19
+In this course, you will learn the basics of DHIS2 configuration. This includes how to create your own organization unit hierarchy, the key steps of setting up a simple aggregate data collection tool for a health program, including creating data elements, creating data sets, and creating indicators for data analysis. This will help prepare you to be able to set up a DHIS2 instance to meet your specific needs. We hope you enjoy this course.

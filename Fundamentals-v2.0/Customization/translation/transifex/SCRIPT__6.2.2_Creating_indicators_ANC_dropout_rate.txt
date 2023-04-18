@@ -1,0 +1,32 @@
+6.2.2 Creating Indicators: ANC dropout rate 
+
+Slide 2
+In the previous video, we created the indicator RMNCAH ANC 4th visit coverage. 
+
+Slide 3
+In this video, we will create a second indicator that calculates the dropout rate from antenatal care 1st visit to 8th visit. 
+
+Slide 4
+This indicator is slightly more complex as we need to add an operator in the numerator to calculate the difference between those who attend the first and eighth antenatal care visits. This difference in relation to the denominator of total pregnant woman who attended the first ANC visit is referred to as the dropout rate. This indicator is also a percentage. 
+
+Slide 5 (Demo)
+To create this indicator, we start from the indicator management screen and click the plus icon. 
+
+Fill in the required fields in order. First, the name. Then the short name. As a best practice and not mandatory, we should add a description. Unlike our previous example, the data elements are all entered on a monthly basis, so we do not need to tick the annualized option. 
+
+And finally, select the indicator type as percentage. Scroll down to the Edit Numerator field and click on it. In the Edit Numerator configuration dialog, begin by adding a description ANC 1 minus ANC 8. Now continue to the formula builder box. Find the ANC first visit data element in the Data Elements tab at the right-hand side. 
+
+Double click on it to select it. We want to subtract the value of ANC eighth visit from the ANC first visit, so we need to insert the minus operator. Click on the minus button to insert it into the formula. 
+
+Notice that the written formula at the bottom of the configuration dialog now says expression is not well-formed. This is because you have added an operator to subtract a value but you have not yet identified a value for it to subtract. 
+
+This message is here to help you make sure you have added all required components to your numerator or denominator to make a valid mathematical expression. 
+
+In the Data Elements tab at the right, find the ANC 8th visit data element and double click on it to add it to the formula. Notice that once we have done this, the expression is now valid. Note that if the expression was not valid, we would not be able to save it. 
+
+If you prefer instead of clicking to select operators from the list, you can also edit the formula in the formula builder box by using your keyboard. For example, you can type the minus key to add a subtraction operator or the plus key for addition, and so on. Click on Done to save the numerator configuration and close the dialog. 
+
+Then click on the Edit Denominator field to open the denominator configuration dialog. Add the description ANC 1st visit and then add ANC 1st visit to the formula builder. Confirm the expression is valid and then click Done. When all of the required fields are entered, and the numerator and denominator are defined, click on Save. 
+
+Slide 7
+In summary, you can use DHIS2 to create more complex indicators with more than one data element in the numerator, denominator or both by using mathematical operators. To create one, go to the Maintenance app, click the plus icon in the indicator section, fill in the required fields, including selecting the indicator type, then configure the numerator and denominator using the formula builder. If the numerator or denominator contains multiple data elements, add a mathematical operator between them to form a valid expression. Verify that each of your formulas are done. Then click Save to finish your indicator.

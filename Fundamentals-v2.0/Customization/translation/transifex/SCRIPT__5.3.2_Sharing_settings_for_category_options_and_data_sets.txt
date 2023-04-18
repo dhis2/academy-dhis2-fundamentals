@@ -1,0 +1,58 @@
+5.3.2 Sharing settings for category options and data sets 
+
+Slide 2
+Now that you have learned about sharing settings, let's see how we can use them to share our category options and data set with the correct users so that they can enter data. 
+
+Slide 3
+Continuing with the RMNCAH example, let's say we want our personal user account to be able to capture and view the data, and the DHIS2 Academy Administrators to be able to view the data only. 
+
+To do this, we will need to set the sharing settings for each of our individual category options, as well as for our data set. 
+
+Slide 4
+Let's see how we can do this by applying sharing settings to the category options and data set in the Maintenance app. 
+
+Slide 5 (Demo)
+In the Maintenance app, click on the category section, and then the Category option tab to open up the category option management page. To open the sharing settings dialogue, find the category option you would like to update. 
+
+In this example, let's update the male option first. Click on the actions menu and select Sharing settings. In the Sharing settings dialogue, we can see that no one currently has access to this category option. 
+
+To share with the user or user group, enter the name of the user or group in the Add users and user groups field. Let's add ourselves to ensure we are able to capture and view data for this category option. 
+
+Click on your name to add it to the "who has access" list. Notice that it appears with a pencil icon next to the name, click on the pencil to further configure the sharing options for your user. 
+
+By default, metadata is shared with "Can edit and view," and data are shared with "No access." Update the data sharing setting to "Can capture and view." 
+
+This means that we will be allowed to edit and modify the category option in the Maintenance app, capture data through the Data Entry app, and view the data in Analytics apps. 
+
+Now, let's assign the category option to the Academy Administrators user group. Type the user group name in the Add users and user groups field, and click on it to add the group to the "who has access" section. Update the default settings by clicking on the pencil icon and giving the group metadata "Can view only" access and data "Can view only" access. 
+
+Since we have shared it with the user group, this means that all of the individual users within the specific user group will be able to view this category option in the Maintenance app, and also view the data in the analysis apps, but will not be able to modify the category option or capture data for it. 
+
+Note that the sharing setting is automatically saved, and there is no need to click a save button. You can simply close out of the sharing dialogue by clicking on CLOSE. We've already updated the sharing settings for the remaining category options. However, we also need to update the sharing settings on the RMNCAH data set. 
+
+Click on the Data Set tab in the top bar menu, and then Data Set at the left, to open the data set management page. Find the RMNCAH data set, click on the actions menu, and select sharing settings, to open the sharing settings dialogue. 
+
+In the dialogue, we can see that no one currently has access to this data set. The sharing settings for the data set can be updated the same way we have done with the category options. 
+
+Type your name in the Add users and user groups field, and click on it to add it to the "who has access" section. Do the same for the Academy Administrator user group. The default sharing for data sets is the same as it is for the category options. 
+
+Click on the pencil icon next to your name, and edit the level of sharing. Keep metadata as "Can edit and view," and update data to "Can capture and view." This means that your user will be able to edit and modify the data set in the Maintenance app, capture data through the Data Entry app, and view related data for the data set in Analytics apps. 
+
+For the Academy Administrators' user group, update the metadata sharing to "Can view only," and the data sharing to "Can view only." For this user group, this means that all of the users within the group will be able to view the related data set information, such as reporting rate completeness and timeliness, in the analysis apps for the organization units assigned to them and view the data set itself in the Maintenance app. 
+
+Note that users in this group will not be able to view the data set in the Data Entry app because they do not have "Can capture" access to the data for this data set. Close the sharing settings dialogue. The settings are automatically saved. 
+
+Now that we have updated the sharing settings for the category options within the RMNCAH data set, along with the data set itself, our user can access the data set and the Data Entry form and enter data. Let's confirm that the sharing settings have been applied correctly. 
+
+Before we do this, let's clear our cache so we can download the latest information from t
+
+he Data Entry app when we access it. From the app's menu, select the Browser Cache Cleaner app. Within this app, select all, then clear all selected items. With this done, open the Data Entry app from the app's menu. Open the organization unit hierarchy at the left, by clicking on the "plus" sign until you get down to the facility level unit. 
+
+Click on a facility to select it. Then in the green selection box in the main screen, choose the data set and select a period. The data entry form you configured will now appear. 
+
+Try entering data into a cell within the form. If you're sharing settings are configured correctly, you'll be able to enter values for each category option. 
+
+If we had not shared the category options with our account as "Can capture and view," we would not have been able to capture values for those options. To address these issues, we would need to return to the Maintenance app and update the sharing settings accordingly. 
+
+Slide 6
+In this video, we have learned how to update the sharing settings for both category options and a data set for an individual user and a user group. This allows specific users and user groups to view, edit, and capture metadata and data for category options and data sets.

@@ -1,0 +1,96 @@
+5.3.1 Orientation to sharing settings
+
+Slide 2
+In DHIS2, the concept of sharing relates to access control. 
+
+Slide 3
+Through sharing settings, you can control who can access specific data or metadata objects such as data elements, categories, and data sets. 
+
+Slide 4
+In combination with user roles and organization unit configurations, this provides a granular control over user access to DHIS2 systems. 
+
+Slide 5
+In this video, you will learn how to manage sharing settings in DHIS2. Specifically, you will see how you can allow different users and user groups to access metadata and data in your system. 
+
+Slide 6
+Proper use of access control has implications, both for systems security and usability. From a security standpoint, granting data access only to specific users or user roles is an integral part of keeping your data secure. From a usability perspective, it also makes the DHIS2 system easier for users to navigate, as they can only see and access the organization units, features, and data that are relevant for them. 
+
+Slide 7
+The three layers of access control in aggregate DHIS2 systems are user roles, organization unit assignment, and sharing settings. 
+
+Slide 8
+The first layer, user roles, controls access to various apps within DHIS2, along with the types of operations that a specific class of users can perform within these apps. User roles also control specific administrative functions within DHIS2. To learn more about user roles, consult the DHIS2 documentation. 
+
+Slide 9
+The second layer, organization unit assignment, controls users access to the organizational hierarchy. 
+
+Slide 10
+For example, in the data entry app, users can only enter data for the organization unit they are associated with, and the organization units below it in the hierarchy. 
+
+Slide 11
+The third layer, sharing, provides more granular control, and restricts the user or user groups access to specific metadata and data in the DHIS2 system. These controls are managed through the sharing settings feature. Let's dive into sharing settings in more detail. 
+
+Slide 12
+You can apply sharing settings for both metadata and data. Metadata sharing determines if a user or user group can view or edit a piece of metadata in the system. Data sharing determines if a user or user group can capture or view data associated with a particular object, both in data entry and analysis applications. 
+
+Slide 13
+Applying data sharing settings is a required step of configuring a data set in DHIS2, because the default data setting is private, which means that no one will be able to capture or view data for your data set until the sharing settings are updated. 
+
+Slide 14
+Both metadata and data have individual sharing settings. 
+
+Slide 15
+For metadata sharing, there are three levels of access. 
+
+Slide 16
+The first is no access. This means that users cannot see an object. This is applied through system-wide public access rather than through a specific user or user group. For example, to turn public access off for certain metadata. 
+
+Slide 17
+The second is can edit and view. This allows users or user groups to view and edit a metadata object. Note that to edit the object, they would also need access to the maintenance app via their user role.
+
+Slide 18
+The third is can view only. This allows users or user groups to view a metadata object within various DHIS2 apps. Their user roles control which apps they have access to. 
+
+Slide 19
+For data sharing, there are also three levels of access. 
+
+Slide 20
+The first is none. This means that a user or user group will not be granted access to the data of the selected metadata object at all. For example, no access to view the data entered for a particular data set. 
+
+Slide 21
+The second is can capture and view. This allows a user or user group to enter and view data associated with the selected metadata. To enter data, they would also need access to the data entry app via their user role. 
+
+Slide 22
+And the third is can view only. This allows a user to only view data associated with the selected metadata. For aggregate data, this means they will only be able to view related data in the analysis apps, such as data visualizer and maps, and will not be able to open data sets within the data entry app, even for viewing purposes. 
+
+Slide 23
+As you can see here, user roles and sharing settings are closely linked. 
+
+Slide 24
+If you would like to grant a user the right to edit particular data elements, you need to make sure their user role allows them to access the maintenance app. 
+
+Slide 25
+For example, to edit a data element, a user would need to have the data elements shared with them using the can edit and view sharing settings, and their user role would have to allow them to access the maintenance app. 
+
+Slide 26
+Let's shift our focus specifically to the data sharing aspect. In aggregate systems, data sharing is controlled through category options and data sets. 
+
+Slide 27
+For example, if someone needs to enter data for the RMNCAH data set, they need to have access to the data entry application through their user role, as well as to the specific organization units that they need to enter data for. And the sharing settings need to be updated to allow for data sharing on both the RMNCAH category options and the data set itself. 
+
+Slide 28 (Demo)
+Let's see what this looks like in DHIS2. Sharing settings are applied to metadata within the maintenance application. 
+
+All category options within the RMNCAH data set need to have data sharing settings configured for the user or user groups who need access to it, set to can capture and view. The data set sharing for the user or user group also needs to be set to can capture and view. 
+
+Slide 29
+Configuring these sharing settings for both the category options and the data set will allow the specified users or user groups to enter data within the data set for their assigned organization units. If either of these settings are incorrect, the users will not be able to enter data values in the RMNCAH form. 
+
+Slide 30
+In summary, user roles, organization unit assignment, and sharing settings are three levels of access control in DHIS2. User roles control user access to applications. 
+
+Organization unit assignment controls access to the organizational hierarchy. And sharing settings provide a more granular control on objects in DHIS2, allowing a specific user or user group access to specific metadata and data. 
+
+Metadata sharing allows users or user groups to view and edit metadata. Data sharing determines the permission of the users or user groups to capture and view particular data. Sharing settings require consideration during configuration of any data set in DHIS2. 
+
+If they are not correctly configured, then users may not be able to access the data set to either view data or enter data.

@@ -1,0 +1,87 @@
+4.1.2 Naming conventions
+
+Slide 2
+Creating new metadata in DHIS2 is often a straightforward process that can be done quickly via the user interface. 
+
+Slide 3
+However, one of the challenges of setting up a functional DHIS2 system is that many people can potentially contribute to it by adding or modifying these metadata. Without close coordination between those users,...
+
+Slide 4
+...we can end up with a system that is difficult to navigate and where it is hard to find what you need. 
+
+Slide 5
+In this video, you will learn about one crucial aspect of maintaining a well-functioning DHIS2 system, following clear standards for naming metadata. 
+
+Slide 6
+Let's take data elements as an example. When creating new data elements, a standardized method of naming them should be followed by all users of the system. 
+
+Slide 7
+This will mean some coordination both within and between different programs or services as necessary. 
+
+Slide 8
+Where no protocols are being followed, the users may find it difficult to locate the items they need. If they can't locate items, they may create duplicate copies of them out of a belief that they do not already exist in the system, leading to system clutter and confusion for other users over which of the duplicate items is the correct one to use. 
+
+Slide 9
+This issue will compound itself over time as more data elements are added to DHIS2. To prevent this issue, you can apply some key principles to make it easier for end users to locate the data elements they need. 
+
+Slide 10
+The first principle is to avoid unnecessary information. For example, there is usually no need to include phrases such as "number of" in data elements. Remember that data elements typically have numerical values, so we can assume it refers to a number, unless otherwise stated. 
+
+Slide 11
+The second principle is to put the key information early in the name. For example, we should say malaria cases positive, instead of positive malaria cases. Why does this matter? Putting malaria first will help us sort all of the malaria program-related elements instead of all the positive cases from different diseases. 
+
+Slide 12
+The third principle is to be explicit about the program that the data element belongs to if it could belong to more than one. Because DHIS2 is an integrated system with information from many different types of data, it is necessary to be explicit about the area or program for each data element or indicator. 
+
+For example, the indicator case incidence rate per 100,000 population is unclear because it could refer to malaria, TB, cholera or other programs. We should put the specific health program at the start of the indicator name to make it clear which one it refers to. 
+
+Slide 13
+Let's see what this looks like with an example. We would like to apply good practices to the naming of the data element "number of pregnant women who attended their first antenatal care visit". 
+
+Slide 14
+First, we can exclude number of. We understand that we are referring to numbers in the realm of aggregate data collection unless specified otherwise. We also don't need to mention pregnant women in the name at all since antenatal care visits only concern pregnant woman. We can also cut out who attend their as it is assumed. 
+
+Slide 15
+By cutting any unnecessary words, we can keep it short and simple. 
+
+Slide 16
+If we decide that we want to retain more descriptive information about the data element, we can include in the description field instead of the name. 
+
+Slide 17
+Second, identify the key information and put it at the beginning of the name. 
+After cutting the words down, we are left with first ANC visit. 
+
+Slide 18
+Let's think about the particular order of the words "first and ANC visit. Conventionally, first ANC visit would be the fist of a series of visits. 
+
+Slide 19
+There would likely be additional related data elements, for example, first ANC visit, second ANC visit, third ANC visit and fourth ANC visit. 
+
+Although this makes sense in plain language, when applied to DHIS2, this might not work as well because the data elements in DHIS2 are alphabetically ordered. It means that in a list of data elements, they would appear in this order. First ANC visit, fourth ANC visit, second ANC visit and third ANC visit. 
+
+Slide 20
+If there are many other elements in your system, your ANC elements might end up separated in a list and would be harder to find. We recommend keeping related data elements together, where possible. 
+
+Slide 21
+We can change the name of these elements so they start with the essential part of the name. Let's put ANC first. So we get ANC first visit, ANC second visit, ANC third visit, and ANC fourth visit. This will allow the items to appear together. 
+
+Slide 22
+However, they still won't be in the correct visit order. To ensure they are in the visit order, we can change the words first, second, third, fourth to numerical abbreviations so we have:... 
+
+Slide 23
+...ANC 1st visit, using the 1st instead of the word first, ANC 2nd visit, spelled 2nd, and so on for the third and fourth. 
+
+Slide 24
+With this final change, the data elements will be correctly ordered from first to last and will be kept together as a group within an alphabetically ordered list. 
+
+Slide 25
+Lastly, we could add a prefix that indicates the program this data element belong to. Since this element belongs to the reproductive, maternal, newborn, child and adolescent health program, RMNCAH in short, we can add the prefix RMNCAH to the data element. 
+
+Slide 26
+We would then have RMNCAH ANC 1st visit. 
+
+Slide 27
+In particular, this will assist system administrators as it will allow them to find and group data elements together for various maintenance operations. 
+
+Slide 28
+In summary, when programs, services and individuals use different procedures for naming data elements and other metadata in the system, the result is often a system that is difficult to use. Using naming conventions when creating metadata can help mitigate these issues. These best practices include avoid unnecessary information. Put the important information early in the name. Use the same prefix for related data elements to keep them together. And include a program prefix before the name of each data element.

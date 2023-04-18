@@ -1,0 +1,31 @@
+2.3.2 Creating organisation unit group
+
+Slide 2
+In the introduction to DHIS2 course, you learned that DHIS2 allows you to group organization units by any user defined criteria into groups and group sets. For example, the form of ownership or type of facility. 
+
+Slide3
+In this video, you will see how you can create these classifications in DHIS2. 
+
+Slide 4
+Before we get started, let's review the facilities in our organization unit hierarchy and discuss how we might classify them. As we can see, our organization units consist of two facility types: Hospitals and health centers. 
+
+Slide 5
+We can use this example classification as the basis for grouping our organization units together. 
+
+Slide 6 (Demo)
+Now let's create the organization unit groups that we have identified. In the maintenance app, click on the organization unit tab and select organization unit group from either the left side menu or from the main page. From here, we can click on the plus icon to add a new organization unit group. In the configuration page, there is only one required field, the name. All other fields are optional. 
+
+Let's create a group for hospitals. For the name, type in hospital and code HOSP. Adding a code is a best practice. We also have the option to assign a symbol to the organization units that will belong to this group. If we click on select, we have a number of different symbols that appear. These symbols are useful when selecting the facility layer in maps. You can learn about viewing facility data and maps in the DHIS2 data analysis course. 
+
+After selecting a symbol, we can select the organization units we want to include in the group. This is where our configuration spreadsheet becomes very helpful as we have already indicated this grouping in that file. 
+
+To select the organization units to include, you can either expand the organization unit hierarchy and manually select each one of the organization units you want to include, or you can make this go a bit faster by filtering out specific organization units by using the search box, labeled filtering organization units by name. 
+
+If we enter hospital in this field, it will filter out all of the organization units with hospital in their name. Note that we still have to select them after they've been filtered. The selected organization units are now highlighted in orange, and you will see a prompt indicating how many organization units are selected. 
+
+After selecting the organization units to include in this group, click on save to create it. Now let's repeat the steps and create the health center group. Click on the plus sign to create the new group, then enter the name, code and assign it a symbol. 
+
+To assign organization units, we can again filter them by name. This works if all the organization units that we want to put in the health center group have health center in their name. We can also use the selection tool by level and group on the right side. When we have selected the organization units that we want to include within this group, click save. We have now created two organization unit groups, one for hospitals, and one for health centers. 
+
+Slide 7
+In summary, we have seen how to create organization unit groups in DHIS2 based on criteria specific to your use case. The first step is to define the categories of organization units we want to group, which is normally done outside of DHIS2. To create a new group, open the maintenance app, select the organization unit, then select the organization unit group button, then click the blue plus sign to add a new item, fill in the name and the short name along with optional fields if required such as a code and symbol. Lastly, add the organization units we want to include in the group.

@@ -1,0 +1,40 @@
+6.2.3 Indicator groups and group sets
+
+Slide 2
+Once our indicators are configured, we can add them to indicator groups, which are used to group together related indicators. 
+
+Slide 3
+Indicator groups can then be added to indicator group sets, which group together related indicator groups. 
+
+Slide 4
+Similar to data element groups, a benefit of indicator groups is that they allow us to find and select the correct indicators in analytics applications more easily. 
+
+Slide 5
+Meanwhile, indicator group sets make it easier to manage your indicator groups in the maintenance app by categorizing them. 
+
+Slide 6
+In this video, we will show you how to create the indicator group RMNCAH Antenatal Care, which groups together Antenatal Care Indicators. 
+
+Once we have created an indicator group, we will then create the indicator group set RMNCAH and assign all of the RMNCAH indicator groups to it. 
+
+Slide 7
+From the maintenance app, click on the indicator tab from the top bar menu. From this page, click on the indicator group tab on the left side menu to take you to the indicator group management page. Indicator groups that have already been created and shared with your user account will be displayed on this page. 
+
+Click on the plus icon to create a new indicator group. The only required field when creating an indicator group is the name. In this example, we'll enter the name as RMNCAH Antenatal Care. Next, we need to add the indicators that we have created to this indicator group. 
+
+Move the three ANC associated indicators to the selected box and click save to save them as an indicator group. This group will now be available to use in analytics applications in your DHIS2 System. Now let's create the indicator group set RMNCAH. 
+
+We will assign two indicator group to this group set. Click on the indicator group set tab in the left side menu to open the indicator group set management page. 
+
+Any indicator group sets that have already been created and shared with your user will be displayed. However, as this is a new DHIS2 Server, none have been created yet. 
+
+Click on the plus sign to create a new indicator group set. For indicator group sets, name is the only required field. Let's enter the name RMNCAH. Then, scroll down to the indicator groups field and add the two indicator groups to the selected box. Then click save. 
+
+This group set will now appear in the maintenance application, where you can use it to manage the indicator groups that it contains. 
+
+Slide 8
+To wrap up, indicator groups and group sets are used in DHIS2 to group related indicators together to make it easier to use them in analytics and to manage them in the maintenance app. 
+
+To create an indicator group, go to the indicator group page in the maintenance app, click the plus icon, enter a name, select the indicators to be grouped, and click save. 
+
+To create an indicator group set, follow the same process in the indicator group set page to select the indicator groups to be grouped together.

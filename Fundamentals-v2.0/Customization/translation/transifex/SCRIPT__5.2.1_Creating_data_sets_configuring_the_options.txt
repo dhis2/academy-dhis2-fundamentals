@@ -1,0 +1,34 @@
+5.2.1 Creating data sets: Configuring the options
+
+Slide 2
+In this video, we will show you how to create data sets within DHIS2. 
+
+Slide 3
+We will create the RMNCAH data set using the metadata we have already configured earlier in this course. 
+
+Slide 4
+The first step is to create a default data set, where we can configure the basic information about the dataset, including entering its name, selecting the period of collection, adding the data elements associated with the data set, and assigning it to the organization units for which data will be entered. 
+
+The second step is to create the sections. For each section we create, we need to define a section heading and assign the data elements to the section in the order we want them to appear within the data entry form. Let's see how it works in DHIS2. 
+
+Slide 5 (Demo)
+To create the new data set, open the Maintenance app. Next, select the data set tab and choose data set from the left menu. This will open the data set maintenance page, where you will see a list of the data elements created in the system. The data sets that you see here are dependent on your access within the system. 
+
+Since this is a new database, we do not see any data sets. Click on the plus icon to begin creating the new data set. Start by filling in the name. 
+
+In this example, we will use RMNCAH. The next required field is the period type. The period type defines how often these data are collected and entered into DHIS2. In our case, we will select the period type monthly. 
+
+Notice the field above the period type is the days after period to qualify for timely submission. The default setting for this field is 15. This means that the data set must be submitted within 15 days after the entry period has ended to qualify for a timely submission. 
+
+In this example using monthly periods, it means we have to complete the data entry on the data set by the 15th of the next month for it to be classified as a timely submission. This can be changed to a different number of days, depending on the specifics of your program. Category combination is the next mandatory field. For our example, we will leave it as none. 
+
+For more information on category combinations as they relate to data sets, consult the DHIS2 documentation. Now, scroll down to the data elements section to add the data elements to the data set. All of the data elements in the available list are ones we want to assign to the data set. 
+
+Click on Assign All to move them all to the selected box. The final step is to assign the data set to organization units. This determines where the data will be captured. In our example, we need to select all facility level organization units. 
+
+Organization units can be selected in multiple ways. By opening the hierarchy and selecting particular units, by using the organization units level field and selecting all organization units at a particular level, or by using the organization unit group field to select all organization units within selected groups. 
+
+For our example, use the levels option and select facility level organization units, then click on Select to select them in the hierarchy. Notice the facility level organization units are now listed in orange as they are selected for the data set. To save the data set as a default form, click Save. 
+
+Slide 6
+To wrap up, the steps to create a data set as a default form in DHIS2 are open the Maintenance app, select the data set tab, and select data set from the left side menu. Then click the plus sign to create a data set. When open, define the key fields, name, and period type. Add the data elements to the data set and assign the data set to organization units. We will learn how to change the form type from a default form to a section form in the next video.

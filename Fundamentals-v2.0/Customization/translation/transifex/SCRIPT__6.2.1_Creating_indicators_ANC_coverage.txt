@@ -1,0 +1,43 @@
+6.2.1 Creating Indicators: ANC coverage 
+
+Slide 2
+As you have now learned, indicators in DHIS2 consist of a mathematical formula that is calculated using items such as data elements, constants, and mathematical operators. 
+
+Slide 3
+In this series of videos, we will show you how to configure indicators within the Maintenance app. 
+
+Slide 4
+Continuing with our RMNCAH example, the two indicators we will configure are the ANC 4th visit coverage and ANC 1st to 8th visit dropout rate indicators. 
+
+Slide 5
+In this video, we will create the RMNCAH ANC 4th visit coverage indicator, which uses two data elements, ANC 4th visit, and the annual population of expected pregnant women. Let's see how to do this in DHIS2. 
+
+Slide 6
+Start by opening the Maintenance app and selecting Indicators from the header bar. Then select Indicator from the left side menu. If any indicators have already been created and shared with your user, they will be displayed here. To create a new indicator, click the plus icon. 
+
+In the Indicator creation page, start by filling out the name field. For this example, we will use RMNCAH ANC 4th visit coverage, plus the percentage sign, which follows the naming standard that we have discussed earlier in this course. The short name field is also required, so we will fill that in here. 
+
+For indicators, it is best practice to write a brief description so that the user doesn't need to review the numerator and denominator to figure out what the indicator is calculating. Let's enter a short description here. 
+
+For this indicator, we need to tick the annualized check box because the denominator data element uses yearly data, the annual population of expected pregnant women. 
+
+While the numerator uses monthly data on ANC 4th visits. Selecting annualized will allow you to view the indicators using the yearly data divided by 12 to get monthly data values. The next required field is the indicator type. This is the factor that your equation is multiplied by. 
+
+For this example, choose percentage, which is the same as multiplying your equation by 100. Now we're ready to configure our numerator and denominator. Scroll down to edit numerator field and click on it. A configuration dialogue appears. 
+
+The first field available to configure is the description, and it is a required field. In this field, It's useful to add a description that describes the output of the numerator. In this example, the numerator is ANC 4th visit. So we can use this as the description. 
+
+Below the description is the formula builder box where the indicator formula is created using the operators listed below the box and the components from the right hand field. To select the metadata for this example, we will need to ensure the Data Elements tab is selected, and you can use the search names field to search for the ANC data elements. Double click on the ANC 4th visit data element to add it to the formula builder. 
+
+This will be displayed as the ID of the data element in the formula builder box and the data element name in the formula checker box right below the builder box. At the bottom of the edit numerator dialogue box, confirm the written formula is correct and that the system gives a valid response to the formula. 
+
+Since this indicator does not require any other numerator components, the numerator is complete so we can click on done. Now we need to add the denominator, click on edit denominator to open the configuration dialogue. This dialogue looks the same as the numerator dialogue. In the description field, enter a description of the denominator. 
+
+Let's use expected pregnancies. Now we can begin building the formula. In the right hand side, ensure the Data Elements tab is selected. And in the search names field, search for the data element population expected pregnant women. 
+
+Make sure that you do not select the data elements that specify the age categories as these items will only use data for the particular age category specified. Double click on the row that does not specify an age category to add it to the formula builder. 
+
+At the bottom of the edit denominator dialogue box, confirm the written formula is correct, and that the system gives a valid response to the formula. Since we are not adding anything else, the denominator is complete. Click done. Finally, click on save to save the indicator. 
+
+Slide 7
+In summary, indicators in DHIS2 are created through the Maintenance app. To create one, click the plus icon in the indicator section, fill the required fields, including selecting the indicator type, then configure the numerator and denominator using the formula builder. Verify each of your formulas and click save.

@@ -1,0 +1,52 @@
+4.2.2 Creating data element groups and group sets
+
+Slide 2
+After learning how to create data elements, you will now see how to group them into thematic areas by creating data element groups and group sets. 
+
+Slide 3
+Grouping data elements helps support both administrators and end users in navigating the system and grouping data elements together for analysis purposes... 
+
+Slide 4
+...as DHIS2 uses data element groups during analysis to combine similar data element groups into a common theme. 
+
+Slide 5
+If we review the data elements within the RMNCAH data set, we can identify the thematic areas they belong to by looking at the sections. This includes Antenatal Care, Delivery, and Family Planning, using these three areas as our basis, we can group our data elements together. 
+
+Slide 6
+In this example we will create a data element group to group together the Antenatal Care data elements, then we will create a data element group set that combines all of the data element groups for the RMNCAH data set. 
+
+Slide 7 (Demo)
+To create a data element group you need to be within the Data Element tab in the Maintenance app and click on the Data element group box to open up the Data element group management page. 
+
+We can now see two existing data element groups within our system. To add in a new data element group from this screen, click on the plus icon. 
+
+In the Data element group configuration page begin by copying in the name from your Configuration spreadsheet, this is the only mandatory field, and it also must be unique to the metadata type. Let's name the data element group Antenatal Care. 
+
+Other configurable fields available are a short name, a code, and a description. The final step to configuring the group is to assign the data elements to it. 
+
+We can scroll through the list of available data elements or use the search field to help isolate the data elements we want to add. In this case, if we search for ANC, it will display all of the data elements that have ANC in the name. Here, again, you can see how useful a naming convention is. 
+
+You can then use the Assign All button to assign all these data elements to the group, alternatively, to add several data elements at once, you can hold down Ctrl on a PC or Cmd on a Mac, and select specific data elements that you want to be part of the group, then click on the arrow to the right to move them from Available to Selected. 
+
+Once we have defined the data element group fields and assigned the data elements, click on Save. We can now see that the new group we have created appears in the list of groups. Once finished, we'll have all three data element groups related to the RMNCAH data set: Antenatal Care, Delivery, and Family Planning. 
+
+To use these groups during analysis, we first need to group these together by creating a data element group set. Note that a data element group can be part of multiple data element group sets To get started, at the left of the screen, click on the Data element group set tab, and then click on the plus icon. 
+
+Give the group set a name and a short name, these are the only mandatory fields, and they also have to be unique to the data element group sets. Let's use RMNCAH for both fields. Next, we have a tick box field for Compulsory group set, if this is selected, all data elements within the DHIS2 instance must be part of at least one of the groups within this group set, in this example we'll leave this field unticked. 
+
+The next tick box field is the Data Dimension option, if this is selected, the group set will appear as a selectable dimension in the DHIS2 analytic applications. 
+
+There are two important notes related to using a data element group set as an analytical dimension. First, if the data element group is to be used as the data dimension in the analytic applications, it is important that the data elements within the group add up to a meaningful total, this is because the output you will get in analytics will be a total of all of the data elements within that group, this implies that the aggregation type of all the included data elements is the same as well. 
+
+In our example, for the ANC group we would get the total number of any ANC visit that occurred, which would satisfy this requirement. Second, each data element should only be part of one data element group within the group set, this is to avoid double counting those values in analytics, since all of the groups in the RMNCAH data set satisfy the analytical dimension considerations, leave the Data dimension option ticked. 
+
+To finish the configuration, search for the data element groups you would like to add to the group set by either finding them in the list of available groups or by using the search field, assign the relevant groups, then click on Save to save the group set. 
+
+Slide 8
+Unlike data elements, it is much easier to create, modify, and remove data element groups and group sets because they have no effect on the underlying structure of the metadata that store data values in the system.
+
+Slide 9
+This gives more flexibility for you to update the groups and group sets as your system evolves over time. 
+
+Slide 10
+To wrap up, creating meaningful data element groups and group sets will help users navigate the DHIS2 system to find the data elements they need and support data analysis. Data element groups allow grouping together data elements that share the same topic, these groups should be grouped together in group sets to combine similar data element groups into a common theme, both data element groups and group sets can be created through the Maintenance app in DHIS2.

@@ -1,0 +1,49 @@
+3.2.2 Creating categories and category combinations
+
+Slide 2
+Now that all of the category options have been configured, in this video, we will create our category, age, and two category combinations, age, along with age and sex. 
+
+Slide 3 (Demo)
+In the Maintenance app, click on category in the top bar menu, and then click on the category tab in the left side menu. Similar to category options, if a category already exists containing the category options you need, you would not make it again. 
+
+In this case, we can see that the sex category exists, so we do not need to make another sex category. 
+
+To create a new category, click on the plus sign. The name and short name are required fields. Add the name and short name of the category as age . Just as we saw with category options, these fields must contain unique values for this type of metadata to help you avoid accidental duplication of categories. 
+
+The data dimension type is the next required field. There are two dimension types, disaggregation and attributes. Anytime we are disaggregating a data element, as we are in this example, we will select disaggregation. 
+
+You can learn more about the attribute type by consulting the DHIS2 documentation. Below, notice the data dimension tick box, which is selected by default. If the data dimension box is selected, you will see this category available as a dimension within the maps, dashboards, and data visualizer applications. 
+
+This selection can become cluttered if too many categories are selected as the data dimension. However, it is common that shared categories, including age and sex, are always available. So we will leave this selected in this example. N
+
+ext, let's add the three age category options to the category. You can add them to the category by double-clicking each option individually, or holding control on Windows or command on Mac to select multiple options in the list. 
+
+Then click on the right arrow to move them to the selected column. It's important to note that the order of the category options in the selected column is meaningful. 
+
+The order in the list specifies their order in the data entry and analytics applications. And we can use the up and down arrows to move the options in the correct order to ensure that our ages are in order. Then click on save. 
+
+This will take us back to our list of categories. Lastly, we need to create category combinations you need for the data elements within the data set. 
+
+Slide 4
+For this data set, we need to create two category combinations, one for age and the other for a combination of age and sex. You might ask whether it is necessary to create a category combination if we only have the age disaggregation and are not combining it with anything else. The answer is yes, we still need to go through this step regardless of whether we are creating a category combination with only one category or combining more than one category. 
+
+Slide 5
+The reason is that you cannot apply categories directly to data elements. You always need the category combination in order to do this. This maintains consistency regarding how dissagregations are applied to data elements within the DHIS2 metadata model. 
+
+Slide 6
+To create the age category combination, go to the category combination tab and click on the plus sign. 
+
+Fill in the name as you want it to appear in the maintenance app. Then, in the data dimension type fields, select the type of dimension that this category combination is. 
+
+For this example, we are creating the combination for use as a disaggregation of a data element, so we can keep disaggregation selected. You can learn more about the attribute type by consulting the DHIS2 documentation. Lastly, assign the correct category to the combination. In this example, we only select the age category and click on save. 
+
+Let's repeat this step to create the second category combination for our data set, the age and sex combination. Click on the plus sign and add a name. For the data dimension type, ensure disaggregation is selected. 
+
+Finally, move both the categories, age and sex, to the selected column by double-clicking on them. As with category options, the order of the categories in the selected column is also meaningful. Their order in this list specifies their order in the data entry application. 
+
+For our example, we need to make sure that the age category comes first, followed by the sex category, as this is how we want the categories to be displayed in data entry. 
+
+Once the category combinations have been created, DHIS2 will automatically create the last part of the model, the category option combinations. You can explore the documentation to learn more about this concept. 
+
+Slide 7
+In summary, once you have created the category options, you need to create the categories that will contain the category options. After that, you will create the category combinations that will be assigned to the data elements. DHIS2 will automatically create the category option combinations.

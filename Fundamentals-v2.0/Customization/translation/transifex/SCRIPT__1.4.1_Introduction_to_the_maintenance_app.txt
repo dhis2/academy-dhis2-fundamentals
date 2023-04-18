@@ -1,0 +1,27 @@
+1.4.1 Introduction to the Maintenance app
+
+Slide 1
+The configuration of DHIS2, including items such as data elements, organization units, indicators, and datasets will depend on the context and will thus vary between different implementations. These objects referred to as metadata can be configured within DHIS2 before the system can be properly used. 
+
+Slide 2
+In DHIS2, the configuration of metadata can be done through the user interface using the maintenance application. 
+
+Slide 3
+This video will give you an overview of the maintenance application's functionality, along with some of the items that can be customized using this application. 
+
+Slide 4 (Demo)
+Let's have a look at the application and review the layout. To access the application, go to the app's menu, and either type in maintenance to find this app in the search bar or select the maintenance app icon to continue. When we open the maintenance app, we notice several tabs at the top of the page, each representing a group of related items that are customizable in DHIS2. You are already familiar with some of these terms from the introduction to DHIS2 course, while others might be new for you. 
+
+In this course, we will be focusing on these items, category, data element, dataset, indicator, and organization unit. Notice that the tabs on the top are the same as the sections within the homepage of the app. First, let's review the data element section. Click on the data element tab. We are now in the section dedicated to the configuration of data elements from either the menu in the left pane or the tiles in the main window, you can choose if you would like to work with data elements, data element groups, or data element group sets. Let's select data element from the menu and explore the available options. From the data element management page, you will find a list of existing data elements within your DHIS2 system. 
+
+Note that if your system is brand new, no data elements will appear. You will also notice a search and filter area on the top of the page. This is useful when you are working in systems containing large amounts of data elements. You can search by name or use other identifiers such as code or ID. You can also use the filters, domain type, value type, or the category combination. These search fields can be used together or on their own to refine the results. From this section, you can also manage existing data elements to create new ones. 
+
+To create a new data element, select the blue plus sign at the bottom right. We will cover the process of creating data elements and other metadata objects in more detail later within this course. Next to each data element name, we can view a few additional pieces of information. In this view, we have predefined columns relevant to the metadata object. For data elements, we have the name, domain type, value type, category combo, and a date when it was last updated. 
+
+This selection of properties can be customized and are per user, therefore changing them will not affect other user's view. Let's say that we would like to see the description of each data element directly within the data element management page. To add the column with the description, click on the gear icon in the right corner of the list of objects and select manage columns. A dialogue will open allowing you to manage the various columns displayed. We can add, remove, or reorder the columns that we would like to see in the list. 
+
+To add the description column, find it in the list of available columns and click on it to add it to the selected columns. We can also move this column to be right next to the data element name by clicking on the hamburger menu and dragging and dropping to rearrange the column's order. Once we apply all the changes, we can click on save. We should now see the new column in our list. Clicking the gear icon, you will also find the option to download the list of filtered data elements from your DHIS2 system. This can be useful if you want to review how DHIS2 stores this information or to have an offline copy for other purposes. Note that similar principles apply to other metadata management pages in the maintenance app. 
+
+
+Slide 6
+Now you have taken a short tour around the DHIS2 maintenance app. You learned that the maintenance app is used for customization of the metadata in DHIS2 such as data elements, organization units, and datasets, and you can both create new items and manage existing ones, such as data elements. You can also modify the information that the maintenance app displays about your metadata and use the download function to export existing metadata in a suitable format for external use. The maintenance app will allow you to do all of this directly within the DHIS2 interface without writing a single line of code.

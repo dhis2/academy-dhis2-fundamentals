@@ -1,0 +1,25 @@
+5.2.2 Creating data sets: Sections
+
+Slide 2
+In this video, you will see how to edit a data set to change it from a default form into a section form by adding sections and arranging the data elements in order in each section. 
+
+Slide 3
+Now that we have created our default data set for RMNCAH in the previous video, we can turn it into a section form by adding sections. 
+
+Slide 4 (Demo)
+From the Maintenance app, select the DATA SET tab. Then click on Data set in the left side menu. From the Data set management page, find the RMNCAH data set, click on the actions menu, and select Manage sections. 
+
+This will take you to the Data set section management page. To add a section, click on the blue plus icon. In the section dialogue, enter the name of the first section in the data collection form. This will appear in the data set as the section header. In this example, we will enter Antenatal Care as the first section name. 
+
+Next, scroll down to the Data elements section and assign the data elements to the form. All data elements within the data set will appear in the selectable list here. Move the ANC data elements to the selected column. 
+
+Once you have finished adding data elements, click on SAVE to save the section. We then need to repeat this process for two more sections in the form: the Delivery by age section, and the Family Planning section. 
+
+As we create the Delivery by age section, you can see that the data elements we have already assigned to the ANC section do not appear anymore to select. This prevents you from accidentally adding the same data element to multiple sections in the same data entry form. 
+
+When we go to create the Family Planning section, all that remains is the Contraception first time user. The section form is complete when you have created and saved all of the sections. 
+
+Note that in the case of a section data set, only the data elements that are assigned to a section will be displayed in the data set form. 
+
+Slide 5
+In summary, to change a default form into a section form, open the Maintenance app, select the data set tab, and select data set from the left side menu. From the list of data sets, select the data set you want to edit. Select manage sections, click the plus icon, enter the section name, assign the data elements to the section, and save. Repeat this process for each of the sections in your form.

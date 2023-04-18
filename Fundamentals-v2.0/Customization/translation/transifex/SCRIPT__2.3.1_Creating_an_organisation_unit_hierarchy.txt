@@ -1,0 +1,50 @@
+2.3.1 Creating an organisation unit hierarchy
+
+Slide 1
+You now know how to design an organization unit hierarchy, including the root level and its children. 
+
+Slide 2
+In this video demonstration, you will learn how to configure a hierarchy in DHIS2, by creating three organization units- a region, a district, and a facility, all located within the same hierarchy. 
+
+Slide 3 (DEMO)
+Once logged into DHIS2, click on the apps menu and select the Maintenance app. To view, edit, or create new organization units, we need to navigate to the organization unit management page. 
+
+To get to the page, click on organization unit at the top, and then select the organization unit tab from the options at the left. 
+
+On the left side of the organization unit management page, you will see the system's organization unit hierarchy. If you have a blank system, you will need to create a ROOT organization unit before you will be able to add children to it. In this demonstration, the ROOT organization unit is already created. 
+
+As you learned in the introduction to DHIS2 course, in a DHIS2 system that is already configured, you would likely have several levels of organization units. 
+
+Let's quickly review what a completed organization unit hierarchy looks like for Trainingland. The top level, or the country level, is the whole of Trainingland. 
+
+By clicking the arrows, you will expand the levels of the hierarchy. Now back to our almost blank instance of DHIS2, let's go through an example of adding an organization unit by adding a child organization unit to the ROOT. 
+
+To add a new organization unit, first select its parent organization unit. The chosen parent will be highlighted in orange. Then click on the plus sign located at the bottom right corner. 
+
+This opens the organization unit configuration form with a list of configurable fields. Let's review some of the main fields. To begin with, we will first look at the mandatory fields. Mandatory fields are denoted with an asterisk in DHIS2. This means we must fill them in whenever we create a new object. 
+
+We can see that there are three mandatory objects for organization units- name, short name, and opening date. Anytime we create an organization unit, we must fill in these three fields at a minimum. 
+
+Let's start by filling in the name and short name. It is best practiced to copy these configuration details from a configuration or source file, such as our Excel template for this course, to reduce errors in typing. Let's put in the name first. In this case, we'll start with Food Region. 
+
+The code and description are particularly helpful fields to fill in routinely, as the code field facilitates data exchange and description field helps describe the metadata. Let's add in a code for Food Region, FRO2, along with a description. Once again, it is best practice to copy these configuration details from a configuration or source file to reduce errors. 
+
+The opening date allows you to define when this particular organization unit opened. Note that you will not be able to enter data for the organization unit prior to this period. If an organization unit represents geographical boundaries like a province, region, or district, it is customary to select a date in the past in case you ever need to enter data at that level at a later date. 
+
+If you do have a specific date, you should use that. This field has more importance when creating facilities, which we will discuss when we create an organization unit at the facility level. Since we need to enter data for the current month, we need to set the opening date for the first of the month. Lastly, we can add the latitude and longitude if relevant. 
+
+For organization units that represent boundaries, the area of boundaries must be imported through shape files and cannot be entered in the latitude and longitude configuration fields. You can find out more on how to import shape files and to complete description of each configuration field in the DHIS2 documentation. 
+
+Click save to create the organization unit. Refresh the page to see the food region in the hierarchy. Now that we have created a region, let's add a district as its child. We'll create the Vegetable District. First, in the hierarchy at the left, select the parent organization unit, Food Region. Then click on the plus sign and repeat the steps we performed previously. Fill in the name, short name, code, and opening date. With these details filled in, click on save. 
+
+Lastly, we are going to create a facility in the Vegetable District, The Carrot District Hospital, by repeating the same process. Select Vegetable District as the parent organization unit after refreshing the page. This is where we want to create the child in the hierarchy. Then click on the plus sign. Add in all the details for the main configurable fields, So the name, short name, code, and the opening date. 
+
+For facilities, you need to pay special attention to the opening date field. Adding an incorrect date could potentially mean that you would not be able to enter data for the facility. This would happen if the opening date for the facility is later than the period you are trying to enter data for. 
+
+Lastly, since the facility is a point location on a map that can be represented by a latitude and longitude, you can add the geographical location by using the latitude and longitude fields. This will allow you to display your facilities in the maps application. 
+
+However, this information is not usually added manually. It is normally added by bulk import. Now that these fields have been filled in, click on save. And that's it! We have now successfully created three organization units, a region, a district, and a facility. You can now review your hierarchy in the panel on the left side of the organization unit management page. 
+
+
+Slide 5
+In summary, you have learned how to create organization units in DHIS2 and build the hierarchy. To create a new organization unit, select the organization unit tab in the maintenance application. And in the organization unit hierarchy, select the parent organization unit where you want to create the child. Then add a new item and fill out the fields to identify the organization unit, name, short name, and opening date.

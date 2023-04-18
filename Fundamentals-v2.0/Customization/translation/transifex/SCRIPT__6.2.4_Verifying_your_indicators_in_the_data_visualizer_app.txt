@@ -1,0 +1,30 @@
+6.2.4 Verifying your indicators in the Data Visualizer app
+
+Slide 2
+Once we have created our indicators in DHIS2, how can we check that they work correctly? 
+
+Slide 3
+In this video, we will confirm that the indicators created in this course are calculated correctly using the Data Visualizer app. This is the final step to ensure your indicators are properly functioning. 
+
+Slide 4 (Demo)
+First, find the dashboard that contains the object you want to open, in this case, the Antenatal Care Indicators object. From the context menu icon, select Open in Data Visualizer app. Let's add the indicators we created to the pivot table. In the sidebar on the left under MAIN DIMENSIONS, click on Data. Then, in the Data Types dropdown menu, select Indicators. Here, you should see the indicators you created: RMNCAH ANC 4th visit coverage and RMNCAH ANC one through eight dropout rate. Add both of these indicators by double-clicking on them, and then click on Update to update the table. 
+
+Slide 5
+In the table, confirm the indicators are calculated correctly by using the values in the table that make up the indicator calculation and performing the calculation yourself. 
+
+First, let's check the ANC 4th visit coverage indicator. The calculation is ANC 4th visit divided by population of expected pregnant women multiplied by 100. 
+
+We can see that our calculated value is the value of the ANC 4th visit coverage indicator in the table. 
+
+Slide 6
+Now, let's check the ANC one through eight dropout rate indicator. 
+
+The calculation is ANC 1st visit minus ANC 8th visit, divided by ANC 1st visit multiplied by 100. 
+
+The calculated value is the value of the ANC one through eight dropout rate indicator in the table. 
+
+Slide 7
+You can learn more about how to use the Data Visualizer for this and other purposes in the fundamentals course, DHIS2 Data Analysis. 
+
+Slide 8
+To summarize, if your DHIS2 instance has data in it for the data elements that make up the indicators you have created, it is best practice to confirm that the calculations in your indicators are correct by using the Data Visualizer application to compare the output from your indicators with the corresponding data values for your numerators and denominators.

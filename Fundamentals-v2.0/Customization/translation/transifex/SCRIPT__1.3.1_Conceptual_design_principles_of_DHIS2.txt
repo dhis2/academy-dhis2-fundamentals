@@ -1,0 +1,61 @@
+1.3.1 Conceptual design principles of DHIS2 
+
+
+Slide 2
+In this video, we will introduce three key DHIS2 design considerations that will provide you with some helpful background knowledge for designing your own DHIS2 system. The process of DHIS2 configuration, the concept of an integrated data repository, and indicator-driven data analysis. 
+
+Slide 3
+Let's start by discussing the process of DHIS2 configuration. In order to localize DHIS2 to fit within a specific context, DHIS2 has several different functionalities that allow you to modify the configuration directly through the user interface. 
+
+Slide 4
+Examples of items that can be configured this way include data elements and their disaggregations, indicators and organization units. 
+
+Slide 5
+In fact, all of the metadata in DHIS2 can be modified via the user interface using the Maintenance app, you will learn more about this application in the next video. 
+
+Slide 6 
+This means you don't need to have any programming skills to configure these elements in DHIS2. 
+
+
+Slide 7
+However, while it is possible to modify all of the metadata via the DHIS2 user interface, there are some constraints in practice. 
+
+Slide 8
+For example, if I want to add an entire organization unit hierarchy, including all of the names, codes, and location information for all health facilities or schools in a country, it would not be practical to perform this operation one organization unit at a time. You can learn about recommended approaches for configuring large amounts of metadata at once such as the mass import functionality in the DHIS2 documentation. 
+
+
+Slide 9
+The second principle we will discuss is that DHIS2 supports a flexible data model that promotes different data sources to be integrated into one single data repository. In other words, how DHIS2 can be used as a central data warehouse. 
+
+Slide 10
+What this principle represents in practice is the ability of DHIS2 to collect and store data from multiple data sources. 
+
+Slide 11
+In a health system, this can include data from multiple health programs, capturing their data directly through DHIS2. Data from other sources, such as surveys or census data on population or data from other systems, such as the number of staff in a facility or school. 
+
+Slide 12
+These can all be brought together in DHIS2 to allow for data triangulation and the creation of indicators based on data from multiple sources. 
+
+Slide 13
+Using the data from multiple sources, reports can be assembled in many different formats and do not have to be linked to any single data collection mechanism, form or system. 
+
+Slide 14
+In this way, DHIS2 has the potential to be a unified system for storage, analysis, and reporting of data. The way you design and configure each DHIS2 system can help facilitate the creation of unified data repositories. 
+
+Slide 15
+The last principle that we will discuss is that DHIS2 supports indicator-driven data analysis and reporting. 
+
+Slide 16
+As you learned in the introduction to DHIS2 course, in DHIS2, we distinguish between data elements, which describe the raw data, for example, the counts being collected, and indicators, which are formula based and describe calculated values, such as coverage or incidence rates that are used for data analysis. Customization of data elements and indicators is a key aspect of designing a DHIS2 system. 
+
+Slide 17
+Let's have a look at a real example by reviewing the indicator BCG coverage. In order to create this indicator, which calculates the percentage of one-year-olds who have received the BCG vaccine, we are taking two data elements that are used as our source values. The number of BCG doses given to those aged less than one year as the numerator and the total population less than one year as the denominator. 
+
+Slide 18
+BCG doses are taken from our routine summary data that were submitted through our health system. Our population of less-than-one-year is taken from our census. This allows us to calculate our BCG coverage rate. Being able to use population data in the denominator enables comparisons of health performance across geographical areas with different target populations. 
+
+Slide 19
+Indicators represent a powerful data analysis feature that can be used across all reporting tools and are an important output to consider when designing DHIS2 systems. 
+
+Slide 20
+In summary, we learned about three design principles related to DHIS2 customization. The first principle indicates that all metadata can be added and modified through the user interface. In practice, this is used for small scale modifications due to the manual nature of this approach, making an impractical for large scale changes. If making modifications or additions on a larger scale, mass importing applications can be used. The second principle is that DHIS2 uses a flexible data model that allows it to function as an integrated data repository. The third principle emphasizes the importance of indicator-driven analysis. We will be applying these principles through various sessions as we go through this course.
