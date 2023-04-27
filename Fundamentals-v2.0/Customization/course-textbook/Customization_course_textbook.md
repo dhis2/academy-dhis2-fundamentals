@@ -228,7 +228,7 @@ You will find specific instructions before starting any graded and ungraded acti
 
 In this course you will find several types of quizzes, but whether they are graded or ungraded, each question will have the following elements:
 
-![Quiz_interactions](static/media/image96.png)
+![Quiz_interactions](media/image96.png)
 
 1. **Number of answers**: Depending on the type of question, you will find two scenarios:
 
@@ -246,7 +246,7 @@ In this course you will find several types of quizzes, but whether they are grad
 
     1. It will show you the answer to the question and an explanation as to why that is the correct answer. We recommend checking “Show Answer” anytime you're not 100% sure about your answer to the question, even if you answered correctly
 
-![Question_interactions](static/media/image93.png)
+![Question_interactions](media/image93.png)
 
 ### 0.2 Using the Online Academy platform (10 min)
 
@@ -260,7 +260,7 @@ If you need a refresher on how to navigate the DHIS2 Online Academy, please watc
 
 In this screenshot you can see an overview of the most used navigation options of the platform:
 
-![Navigating_the_platform](static/media/image72.png)
+![Navigating_the_platform](media/image72.png)
 
 You can also download and review a [short version of the platform navigation guidelines](https://academy.dhis2.org/assets/courseware/v1/d4c3047fcc9bd4a41e526a3490ebd0a1/asset-v1:hisp+GEN-D001-en+2022Q1+type@asset+block/Navigation_guidelines.pdf) to check the key items.
 
@@ -310,7 +310,7 @@ The team behind the DHIS2 Fundamentals are:
 
 - Martin Evensen
 
-![Team photo](static/media/Team_photo.png)
+![Team photo](media/Team_photo.png)
 
 #### Tell us about you
 
@@ -337,9 +337,6 @@ Remember that the course discussion forums take place in the DHIS2 Community of 
 Note that if you can't see the page (or if you reach an “Oops! That page doesn’t exist or is private.”, please use this invitation link first to gain access to the private course discussion forum
 
 ## Module 1 - What can be customized in DHIS2? (1 h)
-
-1.0 Overview of the module (3 min)
-----------------------------------
 
 #### Module 1 - What can be customized in DHIS2?
 
@@ -375,6 +372,7 @@ This module should take about 1 hour to complete.
 
 This video will give you a short introduction to the concept of DHIS2 customization and explain why it is such a crucial part of implementing a DHIS2 system in various contexts.
 
+#### Video
 [Introduction to DHIS2 Customization (YouTube)](https://youtu.be/C2-L7dCzUQE)
 
 #### Knowledge check
@@ -411,7 +409,7 @@ In the introductory video, you learned that if you need to set up DHIS2 in a new
 
 Setting up the organisation unit hierarchy includes creating the **administrative hierarchy** to reflect where the data are collected. This includes the lowest level, which could be facilities, schools, villages, and geographical boundaries such as districts and regions. **Each country can have a different hierarchy** depending on its administrative structure and the number of levels within this structure.
 
-![Organisation_unit_hierarchy_example](static/media/image59.png)
+![Organisation_unit_hierarchy_example](media/image59.png)
 
 > Example of a 4-level organisation unit hierarchy
 
@@ -425,7 +423,7 @@ When implementing a new DHIS2 database, it is recommended to start with thinking
 
 Together with data elements, you will also have to consider what type of **disaggregation** will apply to them. Some data elements can be disaggregated by age groups or by sex, for example. These disaggregation options are set up independently from any particular data elements, and can be applied and reused on various data elements.
 
-![Disaggregations_example](static/media/image77.png)
+![Disaggregations_example](media/image77.png)
 
 #### Data sets and customized data entry forms
 
@@ -469,7 +467,7 @@ RMNCAH health services are related to **reproductive**, **maternal**, **newborn*
 
 You will find that we use the RMNCAH program as an example when presenting the capabilities of DHIS2 in the **videos.** Right after watching the videos, you will follow the same steps when completing the **ungraded activities**. Let’s review the RMNCAH data collection form and see more details of the various elements that you can find in it.
 
-![ANC_dataset](static/media/image92.png)
+![ANC_dataset](media/image92.png)
 
 This data set contains **three sections**:
 
@@ -531,7 +529,7 @@ In this course, you will be using a small subset of a data set from a malaria bu
 
 You will be working with this data set in your **pre-lab exercises** and **graded labs**. Let’s have a look at the data collection form and give some further explanation to some of the elements that might be unfamiliar with if you don’t have a background in public health.
 
-![Malaria_dataset](static/media/image56.png)
+![Malaria_dataset](media/image56.png)
 
 This data set contains **three sections**:
 
@@ -833,11 +831,11 @@ Look at the table below for an overview of the databases, use cases and modules:
 
 For each activity or graded lab, **you will find a link to the correct database**.
 
-![activity_links](static/media/image28.png)
+![activity_links](media/image28.png)
 
 When you click on the link, it will open the sign in page in a new window in your browser. **The name of the database you are currently in will be indicated in the upper left corner and under the DHIS2 Academy logo**. To log in, you will need to create an account and use your sign in details. You will create the accounts for the training databases in the next section.
 
-![database_orientation](static/media/image87.png)
+![database_orientation](media/image87.png)
 
 #### Summary
 
@@ -855,7 +853,7 @@ The DHIS2 Customization Practice and Indicator databases are essentially DHIS2 s
 
 One of the basic features of those databases is that the system is split up into two different views: the **learner** view and the **administrator** view. You, as a learner, will only have access to the metadata used in the examples and any additional items that you create, but **you will not see any metadata created by other course participants**. However, course administrators will have access to metadata created by all course participants. If you need support or have questions about exercises and assignments, the course administrators can view your work and help you.
 
-![training_databases](static/media/image95.png)
+![training_databases](media/image95.png)
 
 You will see that **in both databases there are already some preexisting metadata** that you can use for your reference; you can view their names and properties.
 
@@ -928,23 +926,23 @@ To create each account, follow the steps below:
 
 1. After 5-10 seconds you should receive the following notification in your browser window:
 
-![account_invitation_confirmation](static/media/image29.png)
+![account_invitation_confirmation](media/image29.png)
 
 1. Click on ‘OK’ to close this notification
 
 2. Check your email inbox. You will receive one email with the subject containing the name of the system you have signed up for.
 
-![acount_invitation_email](static/media/image15.png)
+![acount_invitation_email](media/image15.png)
 
 The email contents for each system will be similar, with any system identifiers being based on the system you are signing up for.
 
-![](static/media/image73.png)
+![](media/image73.png)
 
 1. If you don’t find this email in your primary inbox, please check the Promotion tab or the Spam/Junk folder in case it was filtered out. Alternatively, you can search for the the emails using the tags Customization Practice, Customization Lab, Indicators Practice, Indicators Lab
 
 2. Use the information in the the email to create your account in DHIS2 by selecting the link within the mail. After you select the link, fill in the details for your user account.
 
-![account_creation_details](static/media/image69.png)
+![account_creation_details](media/image69.png)
 
 **Your username AND email** will automatically be set to the same as **your registered email address** for DHIS2 Online Academy. Please make sure your email address field uses the same email address so you can more easily remember your username when logging in later.
 
@@ -964,11 +962,11 @@ If you have any questions or difficulty in creating your DHIS2 accounts, don’t
 
 In the *Customization Practice and Customization Lab systems* you will have access to the following apps:
 
-![customization_database_apps](static/media/image2.png)
+![customization_database_apps](media/image2.png)
 
 In the *Indicators Practice and Indicators Lab systems* you will have access to the following apps:
 
-![indocators_database_apps](static/media/image74.png)
+![indocators_database_apps](media/image74.png)
 
 You can confirm this after creating your account and logging in to these systems.
 
@@ -976,7 +974,7 @@ You can confirm this after creating your account and logging in to these systems
 
 When you register as a new user in the **DHIS2 Customization Lab and DHIS2 Customization Practice systems**, an organisation unit is automatically created for you called "Trainingland - *your email*." Only you and the course administrators can interact with this organisation unit.
 
-![root_organisation_unit](static/media/image78.png)
+![root_organisation_unit](media/image78.png)
 
 When you create additional organisation units as part of your own activities, they will be under the umbrella of this root level unit.
 
@@ -1009,7 +1007,7 @@ In the Introduction to DHIS2 course, you learned about the **Where** dimension o
 
 #### Organisation unit hierarchy
 
-![organisation_unit_hierarchy_scheme](static/media/image85.png)
+![organisation_unit_hierarchy_scheme](media/image85.png)
 
 In DHIS2, organisation units form a **hierarchical tree** that has several levels. Generally, the lowest level is comprised of locations where data collection occurs. Most often these are facilities, schools or villages. The higher level represents various larger geographical and administrative areas.
 
@@ -1017,7 +1015,7 @@ During the aggregation process, data are added up from the lower organisation un
 
 ### Organisation unit groups and group sets
 
-![organisation_unit_groups](static/media/image21.png)
+![organisation_unit_groups](media/image21.png)
 
 In this example above, health facilities are classified and clustered by the range of services they provide, into various **organisation unit groups**, such as Dispensary, Health Center, Specialist Hospital, and Referral Hospital.
 
@@ -1101,11 +1099,11 @@ In this activity, you will create a simple organisation unit hierarchy in DHIS2.
 
 3. Navigate to the **organisation unit management page**
 
-![step 3](static/media/image68.png)
+![step 3](media/image68.png)
 
 4. Make sure your **root organisation unit is selected (highlighted in orange)** and click on the **blue plus (+) sign** on the bottom right
 
-![step_4](static/media/image36.png)
+![step_4](media/image36.png)
 
 5. Fill in the fields:
 
@@ -1125,7 +1123,7 @@ In this activity, you will create a simple organisation unit hierarchy in DHIS2.
 
 2. Make sure your parent organisation unit (*Your initials_*Food Region) is selected and click on the **blue plus (+) sign** on the bottom right
 
-> ![](static/media/image7.png)
+> ![](media/image7.png)
 
 1. Fill in the fields:
 
@@ -1241,7 +1239,7 @@ To be able to complete this exercise, you need to have completed the previous ac
 
 4. Navigate to the **organisation unit group management page** on the left menu
 
-![step 4](static/media/image12.png)
+![step 4](media/image12.png)
 
 5. Click on the **blue plus (+) sign** on the bottom right
 
@@ -1257,7 +1255,7 @@ To be able to complete this exercise, you need to have completed the previous ac
 
         2. Or search for hospital in the search field to filter out all facilities with the hospital in their name and then select them
 
-![step_6](static/media/image32.png)
+![step_6](media/image32.png)
 
 7. Click **‘Save’**
 
@@ -1330,7 +1328,7 @@ Before starting this activity, you need to have completed the previous activity 
 
 3. Navigate to the **organisation unit tab** on the top of the page
 
-![steo_3](static/media/image41.png)
+![steo_3](media/image41.png)
 
 4. Select the **organisation unit group set** page in the left menu
 
@@ -1414,7 +1412,7 @@ This exercise has two parts:
 
 For the first part of this exercise, your task will be to design a simple Trainingland organisation unit hierarchy. To complete the exercise, drag and drop the missing organisation units to the correct place on the picture.
 
-![Trainingland_Ou_hiererachy](static/media/image70.png)
+![Trainingland_Ou_hiererachy](media/image70.png)
 
 **Explanation**:
 
@@ -1424,7 +1422,7 @@ According to the organisation unit hierarchy planned for Trainingland, the names
 
 For the second part of the exercise, you will need to group together organisation units from Trainingland based on ownership. Some of the facilities are privately owned while some are public–this will be the basis of the grouping. Any facility that has “Private” in the name should be part of the private ownership group type, and the facilities that do NOT say “Private” should be in the public ownership group type. To complete this exercise, drag and drop the facilities into their respective ownership group type.
 
-![Groups_and_groupsets](static/media/image45.png)
+![Groups_and_groupsets](media/image45.png)
 
 **Explanation**:
 
@@ -1452,7 +1450,7 @@ This is a graded lab that counts for 16% of your final grade. You have unlimited
 
 Create your organisation unit hierarchy using the template below. The Root organisation unit is already created for you.
 
-![](static/media/image42.png)
+![](media/image42.png)
 
 Note: When creating the hierarchy, use ***Your initials*_Name** in order to identify which organisation units you have created. For example, if you want to create **Animal Region** and your name starts with ‘S’, your middle name with ‘N’, and last name with ‘D’ it will be called ***SND_Animal Region***. If you don’t have a middle name, you can use the first two letters of your family name instead. This also applies to **short name** and **code**, if used.
 
@@ -1460,7 +1458,7 @@ Note: When creating the hierarchy, use ***Your initials*_Name** in order to iden
 
 For the organisation unit group set of ownership type, you need to create the following two groups: private and public. Using the template below, create the two groups and the group set.
 
-![](static/media/image84.png)
+![](media/image84.png)
 
 #### Submit your work
 
@@ -1474,7 +1472,7 @@ The system will evaluate your work automatically. You will get a pass/fail grade
 
 Click on the Grade Me button to see your score.
 
-![](static/media/image4.png)
+![](media/image4.png)
 
 ### 2.6 Module Summary (10 min)
 
@@ -1696,7 +1694,7 @@ In this video, you will apply what you learned from the category model and creat
     B. Create category
     C. Create category combination
 
-![](static/media/image39.png)
+![](media/image39.png)
 
 **Explanation**: In DHIS2, you first must create the category options then the category and finally the category combination.
 
@@ -1724,7 +1722,7 @@ Create the **category options for RMNCAH age disaggregations**
 
 4. Click on the **category option** in the left menu to navigate to the **category option management page**
 
-![](static/media/image26.png)
+![](media/image26.png)
 
 1. **Review the existing categories** and make sure the category you are about to create doesn’t already exist in the database
 
@@ -1816,7 +1814,7 @@ In this activity, you will create the category “*Your initials*_Age (RMNCAH)�
 
 3. Navigate to the **category management page**
 
-![](static/media/image8.png)
+![](media/image8.png)
 
 1. Make sure the category you are about to create doesn’t already exist in the system
 
@@ -1838,7 +1836,7 @@ In this activity, you will create the category “*Your initials*_Age (RMNCAH)�
 
 6. **Arrange the order** of the category options in the selected box in ascending order
 
-![](static/media/image38.png)
+![](media/image38.png)
 
 1. Click **‘Save’**
 
@@ -1915,7 +1913,7 @@ If you want to save your current response without submitting it for grading yet,
     B. Create category
     C. Create category combination
 
-![](static/media/image31.png)
+![](media/image31.png)
 
 **Explanation**: In DHIS2, you first must create the category options then the category and finally the category combination.
 
@@ -1948,7 +1946,7 @@ This exercise has two parts:
 
 In the first part of the exercise, drag and drop options to build a disaggregation model for data elements in the Cases section of the Malaria dataset.
 
-![](static/media/image30.png)
+![](media/image30.png)
 
 ##### Single Category Combination
 
@@ -1956,7 +1954,7 @@ Drag and drop options to build a category model for data elements in the Cases s
 
 I: Design the category model for the Malaria Dataset
 
-![](static/media/image60.png)
+![](media/image60.png)
 
 Feedback: The Category Options in the first column consist of the age groups from youngest to oldest. ‘Mal Age’ is the name of both the Category and the Category Combination.
 
@@ -1964,13 +1962,13 @@ Feedback: The Category Options in the first column consist of the age groups fro
 
 In the second part of this exercise, drag and drop options to build a category model for data elements in the ***Laboratory*** section of the malaria data set.
 
-![](static/media/image16.png)
+![](media/image16.png)
 
 **Category Combination with two Categories**
 
 Build a category model for data elements in the Laboratory section of the malaria data set.
 
-![](static/media/image58.png)
+![](media/image58.png)
 
 Feedback: The 3 age category options belong in the first 3 rows under Category option, and the category ‘Mal Age’ belongs in the column to the right of them. The sex category options ‘Male’ and ‘Female’ belongs in the last two rows of the first column, while ‘Mal Sex’ belongs in the second row of the second column. The Category Combination is ‘MAL Age & Sex’.
 
@@ -1982,7 +1980,7 @@ In the next unit, you will complete the graded Lab for this module. We will prov
 
 To perform this task you will need to be logged into the DHIS2 Customization Lab database and use the account details you have created.
 
-![](static/media/image88.png)
+![](media/image88.png)
 
 #### Lab overview
 
@@ -2016,7 +2014,7 @@ The system will evaluate your work automatically. You will get a pass/fail grade
 
 Click on the Grade Me button to see your score.
 
-![](static/media/image52.png)
+![](media/image52.png)
 
 ### 3.5 Module Summary (10 mins)
 
@@ -2186,7 +2184,7 @@ In the introduction to DHIS2 course, you learned about the **What** dimension of
 
 #### Difference between data elements and indicators
 
-![](static/media/image10.png)
+![](media/image10.png)
 
 #### DHIS2 configurable fields
 
@@ -2286,7 +2284,7 @@ Now that you know some of the principles for naming items in DHIS2, let's use th
 
 If you go to the data element management page in the Maintenance app, you will see that there are already some existing data elements in your system. This includes data elements that belong to RMNCAH programs and will be used as references in demonstrations and activities. These data elements are here for your reference; you can review their names and properties within the list in the Maintenance app, but you won't be able to delete or modify them.
 
-![](static/media/image47.png)
+![](media/image47.png)
 
 #### Knowledge check
 
@@ -2333,7 +2331,7 @@ In this activity, you will create a data element: *Your initials*_RMNCAH - ANC 1
 
 4. Select the **data element button on the left**
 
-![](static/media/image13.png)
+![](media/image13.png)
 
 1. Click on the **blue plus (+) sign** on the bottom right
 
@@ -2423,7 +2421,7 @@ In this activity, you will create a data element group, *Your initials*_RMNCAH -
 
 7. Click **‘Save’**
 
-![](static/media/image35.png)
+![](media/image35.png)
 
 **Create a group set: *Your initials*_RMNCAH**
 
@@ -2519,7 +2517,7 @@ In this pre-lab exercise, you need to design the data elements in the malaria us
 
 Reflect on the orientation to data elements unit and how these concepts apply to the data elements within the Malaria data set. Consider the main configurable options and what they would be for the data elements you will configure. For example, for the Value type field, what type of values will be entered into the form fields? Is there a possibility that someone would need to enter a decimal number, a negative value, or how about a zero?
 
-![](static/media/image20.png)
+![](media/image20.png)
 
 **1. What is the domain type for the data elements in the Malaria data set?**
 
@@ -2559,13 +2557,13 @@ Reflect on the orientation to data elements unit and how these concepts apply to
 
 Notice the disaggregation in each section of the Malaria dataset and reflect on which category combination would you apply to each element.
 
-![](static/media/image46.png)
+![](media/image46.png)
 
 #### Part 2 - Assign category combinations to the data elements
 
 Let’s assign the correct category combinations to the data elements within the Malaria data set. Look at the data set below and use the drag and drop to assign the correct category combination to each data element within it.
 
-![](static/media/image27.png)
+![](media/image27.png)
 
 **Feedback**: The first 3 data elements have category option ‘None’. Suspect and Confirmed Malaria cases use the category option ‘MAL Age’. Maria cases tested -and positive with microscopy both use the ‘MAL Age and Sex category option.
 
@@ -2573,7 +2571,7 @@ Let’s assign the correct category combinations to the data elements within the
 
 Let’s build the data element groups and group sets. Drag and drop the data elements to assign them to their respective data element groups and group sets.
 
-![](static/media/image19.png)
+![](media/image19.png)
 
 Feedback: The first three data elements belong to the "Treatment" data element group. Suspected and Confirmed malaria cases belong to the "Cases” data element group, while the Maria cases tested -and positive with microscopy belong to "Laboratory" group. Finally, all three groups belong to the Malaria data element group set.
 
@@ -2583,7 +2581,7 @@ Feedback: The first three data elements belong to the "Treatment" data element g
 
 To perform this task you will need to be logged into the DHIS2 Customization Lab database and use the account details you have created.
 
-![](static/media/image54.png)
+![](media/image54.png)
 
 #### Lab overview
 
@@ -2625,7 +2623,7 @@ The system will evaluate your work automatically. You will get a pass/fail grade
 
 Click on the Grade Me button to see your score.
 
-![](static/media/image86.png)
+![](media/image86.png)
 
 ### 4.5 Module Summary (10 min)
 
@@ -2826,7 +2824,7 @@ Section form - Allows for creation of several segments with headings and subhead
 
 Custom form - Allows for design of the form using an HTML editor and calculated fields
 
-![](static/media/image81.png)
+![](media/image81.png)
 
 **Explanation**: Default forms group together data elements based on the category combination they are assigned. Section forms allow for creation of several segments with headings and subheadings. Custom forms allow for design of the form using an HTML editor and calculated fields.
 
@@ -2895,7 +2893,7 @@ In this activity, you will create a data set with a default data entry form. You
 
 3. Select the **data set tab** and choose data set from the left menu
 
-![](static/media/image5.png)
+![](media/image5.png)
 
 4. Click on the **blue plus (+) sign** on the bottom right to create a new data set
 
@@ -2929,7 +2927,7 @@ Tip: You can find them by scrolling through the list of available data elements 
 
 2. Or you can use the“Select levels” field, choose “Facility” and click ‘Select’
 
-![](static/media/image53.png)
+![](media/image53.png)
 
 1. Click **‘Save’**
 
@@ -2988,7 +2986,7 @@ In this activity, you will edit the default data set you created in the previous
 
 5. Click on the **actions menu** and select ‘**Manage sections’**
 
-![](static/media/image34.png)
+![](media/image34.png)
 
 6. To add a new section, click on the **blue plus (+) sign**
 
@@ -3004,7 +3002,7 @@ In this activity, you will edit the default data set you created in the previous
 
 9. Arrange their order to match the data collection form. Click on the data element you wish to move and use arrows to move it up and down in the selected box
 
-![](static/media/image80.png)
+![](media/image80.png)
 
 10. Click **‘Save’**
 
@@ -3014,7 +3012,7 @@ In this activity, you will edit the default data set you created in the previous
 
     2. Family Planning
 
-![](static/media/image64.png)
+![](media/image64.png)
 
 Now you have successfully created a section form.
 
@@ -3075,7 +3073,7 @@ In the previous video, you learned that sharing settings in DHIS2 control which 
 
 **1. Arrange the items in the correct order to open the sharing settings dialogue for data sets**
 
-![](static/media/image50.png)
+![](media/image50.png)
 
     1. Open the Maintenance ap
     2. Click on the data set tab
@@ -3130,17 +3128,17 @@ The “Male” and “Female” category options have already been created for y
 
 3. Select the **category tab** and choose **category option** from the left menu
 
-![](static/media/image6.png)
+![](media/image6.png)
 
 4. Find the first **category option (*Your initials*_10-14 years)** in the list of category options
 
 5. Click on the **actions menu** open the **sharing settings** dialog
 
-![](static/media/image83.png)
+![](media/image83.png)
 
 6. In the “**Add users or user groups**” dialog, **type your name and add it** to the “Who has access” list
 
-![](static/media/image11.png)
+![](media/image11.png)
 
 7. Click on the **pencil icon** to configure the sharing settings for your user:
 
@@ -3148,7 +3146,7 @@ The “Male” and “Female” category options have already been created for y
 
     2. Data: **Can capture and view**
 
-![](static/media/image22.png)
+![](media/image22.png)
 
 8. Let’s assign the correct sharing settings for the Academy admins. Type “**Academy admins**” in the “**Add users and user groups**” and **add the group** to the “Who has access” section
 
@@ -3158,7 +3156,7 @@ The “Male” and “Female” category options have already been created for y
 
     2. **Data: Can view only**
 
-![](static/media/image49.png)
+![](media/image49.png)
 
 10. Click **‘Save’**
 
@@ -3176,11 +3174,11 @@ The “Male” and “Female” category options have already been created for y
 
 4. Find your ***Your initials*_RMNCAH data set**, click on the actions menu, and select ‘Sharing settings’ to open the sharing settings dialog
 
-![](static/media/image76.png)
+![](media/image76.png)
 
 4. Add **your user account** to the **“Who has access”** section
 
-![](static/media/image66.png)
+![](media/image66.png)
 5. Click on the **pencil icon** next to your name and edit the sharing settings:
 
     1. **Metadata: Can edit and view**
@@ -3204,13 +3202,13 @@ The “Male” and “Female” category options have already been created for y
 
     2. In the app, click the button “**Select all**” then the button “**Clear all selected items**”
 
-![](static/media/image40.png)
+![](media/image40.png)
 
 2. From the apps menu, navigate to the **Data Entry app**
 
 3. In the organisation unit hierarchy on the left, select a facility level **organisation unit**
 
-![](static/media/image89.png)
+![](media/image89.png)
 
 4. In the green dimension box, choose **the *your initials*_RMNCAH data set**
 
@@ -3278,7 +3276,7 @@ In this exercise, we will start by reviewing the malaria burden reduction data c
 
 Let’s answer some questions on the Malaria data set. Look at the data collection form for the malaria program below and answer the multiple choice questions on how you would create this form as a data set in DHIS2.
 
-![](static/media/image48.png)
+![](media/image48.png)
 
 **1. What type of data set form type would you use to recreate this paper form?**
 
@@ -3328,7 +3326,7 @@ Let’s answer some questions on the Malaria data set. Look at the data collecti
 
 Let’s design the sharing settings based on some scenarios. In this drag and drop exercise, match a data set and category options sharing settings to their respective places.
 
-![](static/media/image14.png)
+![](media/image14.png)
 
 **Feedback**:
 
@@ -3358,7 +3356,7 @@ This is a graded lab and counts for **16%** of your final grade. To successfully
 
 Create the Malaria data set in DHIS2 using the data collection form as a guide.
 
-![malaria_dataset](static/media/image18.png)
+![malaria_dataset](media/image18.png)
 
 Note: When creating the data set, use ***Your initials*_Name** in order to identify which data set you have created. For example, if you want to create “**Malaria Burden reduction**” data set and your name starts with ‘S’, your middle name with ‘N’, and last name with ‘D’ it will be called “***SND_MAL* - Malaria Burden Reduction**”. If you don’t have a middle name, you can use the first two letters of your family name instead. This also applies to **short name** and **code**, if used.
 
@@ -3391,7 +3389,7 @@ The system will evaluate your work automatically. You will get a pass/fail grade
 
 Click on the Grade Me button to see your score.
 
-![grade_me](static/media/image63.png)
+![grade_me](media/image63.png)
 
 ### 5.7 Module Summary (10 min)
 
@@ -3643,7 +3641,7 @@ As you learned in the Introduction to DHIS2 course, an indicator represents a ma
 
 Indicators consist of a ***numerator***, a ***denominator*** and a ***factor***. If you would like to refresh your memory on the concepts of indicators, please review the [“DHIS2 Building Blocks: What - Data Elements and Indicators](https://youtu.be/c4GVZ6z6YZw)” video from the Introduction to DHIS2 course
 
-![components_of_an_indicator](static/media/image67.png)
+![components_of_an_indicator](media/image67.png)
 
 The **numerator** is **the “top” value** of a fraction. In DHIS2, when working with aggregate data, the numerator consists of **one or more data elements** and can include mathematical operators to form an expression. This expression must be mathematically valid. For example, a valid expression could consist of a single data element or a combination of multiple data elements.
 
@@ -3665,7 +3663,7 @@ This indicator is broken up into the following components:
 
 - The **factor** is 100 to get the **percentage**
 
-![indicator_example_institutional_delivery_rate](static/media/image43.png)
+![indicator_example_institutional_delivery_rate](media/image43.png)
 
 For the indicator creation demonstration, we will use two indicators from the RMNCAH program:
 
@@ -3675,7 +3673,7 @@ For the indicator creation demonstration, we will use two indicators from the RM
 
 Let’s look at each of these indicators in more detail.
 
-![example_anc_4th_visit](static/media/image57.png)
+![example_anc_4th_visit](media/image57.png)
 
 The first indicator in our demonstration calculates the number of pregnant women (based on an expected projection) who actually attended four antenatal care (ANC) visits. It is based on two data elements: “**ANC 4th visit**” as the numerator and “**Population expected pregnant women**” as the denominator. This shows us how many pregnant women attended their 4th ANC visit as a percentage of the number of expected pregnant women.
 
@@ -3683,13 +3681,13 @@ The first indicator in our demonstration calculates the number of pregnant women
 
 Since the population data for the denominator are entered on a yearly basis, we need to create the indicator as an annualized indicator. This means that when you view this indicator in analytics applications with a period that is less than yearly, such as monthly, the numerator will need to be multiplied by the number of periods there are per year in order to generate a coverage rate for this period. In a case where the denominator is yearly population data, an annualized indicator's numerator is multiplied by 12. This allows for monthly coverage values to be calculated using yearly population figures.
 
-![annualized_indicator](static/media/image37.png)
+![annualized_indicator](media/image37.png)
 
 #### Numerators with multiple data elements
 
 The second indicator in our demonstration calculates the percentage of women who attended the first ANC visit (ANC 1st) but “dropped out” or abandoned the program in any stage after the 1st visit and before the 8th visit (which is the final visit in the minimum recommended ANC visit series). This indicator is based on the two data elements: “**ANC 1st visit**” and “**ANC 8th visit**”. In order to calculate it, for the numerator, you will need to take the “ANC 1st visit” data element and **subtract** the “ANC 8th visit” data element. This will calculate the number of women who attended the 1st ANC visit, but not the 8th ANC visit. The resulting numerator value will then be divided by the denominator of the **total number of women who attended the 1st ANC visit**, resulting in an ANC1-8 dropout rate value for the selected period. Finally, the output is multiplied by 100 to get a percentage.
 
-![example_anc_1-8_dropout_rate](static/media/image1.png)
+![example_anc_1-8_dropout_rate](media/image1.png)
 
 ### Main takeaways on indicators
 
@@ -3774,7 +3772,7 @@ To review the specific details of these indicators, refer to the explanation in 
 
 **Options**: ‘100’, ‘ANC 4th visit’, ‘Population expected pregnant women’
 
-![](static/media/image94.png)
+![](media/image94.png)
 
 Feedback: The ANC 4th visit is the numerator and needs to be in the top field. The factor of 100 belongs on the rightmost field as it’s multiplied, and the denominator is ‘population expected pregnant women’ in the bottom field.
 
@@ -3826,7 +3824,7 @@ Note: As with other types of metadata, when creating indicators, use ***Your ini
 
 5. At the bottom of the configuration dialog, confirm that the formula is correct and the system gives a “**Valid**” response to the formula
 
-![editing_numerator](static/media/image79.png)
+![editing_numerator](media/image79.png)
 
 1. Click **“Done”**
 
@@ -3834,7 +3832,7 @@ Note: As with other types of metadata, when creating indicators, use ***Your ini
 
 1. Open the configuration dialog by clicking “Edit denominator”
 
-![editing_denominator](static/media/image44.png)
+![editing_denominator](media/image44.png)
 
 1. In the description field in the top left corner, put "**Expected pregnancies (population data)**"
 
@@ -3844,7 +3842,7 @@ Note: As with other types of metadata, when creating indicators, use ***Your ini
 
 4. At the bottom of the configuration dialog, confirm that the formula is correct and the system gives a “**Valid**” response to the formula
 
-![adding_denominator](static/media/image91.png)
+![adding_denominator](media/image91.png)
 
 5. Click **“Done”**
 
@@ -3865,7 +3863,7 @@ In the previous video, you learned how to create an indicator where the numerato
 
 **1. How do you calculate the ANC 1 to ANC 8 drop out rate (%)? Drag and drop elements into the formula**
 
-![ANC 1-8 drop out rate formula](static/media/image17.png)
+![ANC 1-8 drop out rate formula](media/image17.png)
 
 **Feedback**: The ANC 1-8 drop out rate is calculated as a percentage of women who attended all antenatal care visits compared to women who attended the first 1st visit. Percentage means that you have to use a factor of 100.
 
@@ -3922,7 +3920,7 @@ In this activity, you will configure an indicator where you will use a mathemati
 
 6. Click on the area after the subtract symbol in the formula builder box
 
-![Editing_numerator](static/media/image24.png)
+![Editing_numerator](media/image24.png)
 
 1. Search for the “ANC 8th visit” data element and double click it to add it to the formula
 
@@ -3938,7 +3936,7 @@ In this activity, you will configure an indicator where you will use a mathemati
 
 4. At the bottom of the configuration dialog, confirm that the formula is correct and the system gives a “**Valid**” response to the formula
 
-![editing_denominator](static/media/image3.png)
+![editing_denominator](media/image3.png)
 
 1. Click **“Done”**
 
@@ -3963,7 +3961,7 @@ Just as with data elements, you can organize indicators into groups and group se
 
 **Options:**
 
-![](static/media/image75.png)
+![](media/image75.png)
 
 Feedback: Creating both indicator groups and group sets is very similar. From the indicator tab in Maintenance you either select the Indicators group or indicator group set tab. As with other metadata items, you add a new one by clicking on the plus sign in the bottom right corner. Fill in the name field, and then select indicators to be added in the group or indicator groups to be added in the group set. Select Save.
 
@@ -4148,7 +4146,7 @@ For the exercise and labs we will create two Malaria **indicators** using some o
 
 Let’s construct our first indicator for the Malaria data set. In this exercise, drag and drop the items to construct the Indicator Malaria cases total as described before.
 
-![total_number_of_malaria_cases](static/media/image71.png)
+![total_number_of_malaria_cases](media/image71.png)
 
 Malaria cases confirmed + malaria cases suspected / 1 x 1
 
@@ -4158,7 +4156,7 @@ Feedback: Good work! This numerator only indicator uses a value of 1 for both fa
 
 Let’s construct the second indicator for the Malaria data set. In this exercise, drag and drop the items to construct the Malaria cases treated with any antimalarial medicine(%) indicator
 
-![malaria_cases_treated_with_antimalarial_%](static/media/image55.png)
+![malaria_cases_treated_with_antimalarial_%](media/image55.png)
 
 Good work! This indicator uses a factor of 100. The numerator is the cases treated, while the denominator consists of two data elements: confirmed cases and suspected cases added together with the + operator. This shows the % ratio of how many malaria cases were treated with antimalarial medicine.
 
@@ -4188,7 +4186,7 @@ Now that you have planned and designed the two required indicators, you are read
 
 To perform this task you will need to be logged into the DHIS2 Customization Lab database and use the account details you have created.
 
-![](static/media/image61.png)
+![](media/image61.png)
 
 #### Lab overview
 
@@ -4238,7 +4236,7 @@ Module 6 Lab Automated Grader
 
 Click on the Grade Me button to see your score.
 
-![](static/media/image82.png)
+![](media/image82.png)
 
 ### 6.5 Module Summary (10 mins)
 
@@ -4388,7 +4386,7 @@ View progress and claim my certificate
 
 You can download your course certificate by going to your **Dashboard** and selecting **My courses**. You will find the list of courses you are enrolled in, locate the **Aggregate Customization Fundamentals** and click on the course certificate to download or print it.
 
-![](static/media/image90.png)
+![](media/image90.png)
 
 #### Tell us how we can improve
 
