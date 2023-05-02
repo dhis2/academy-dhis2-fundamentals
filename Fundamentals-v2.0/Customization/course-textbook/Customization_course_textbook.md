@@ -812,7 +812,7 @@ Look at the table below for an overview of the databases, use cases and modules:
 | **Module 5**  | Customization Practice                  | Customization Lab      |
 | **Module 6**  | Indicators Practice                     | Indicators Lab         |
 
-### What are the differences between databases?
+#### What are the differences between databases?
 
 | Customization Practice                                                                     | Customization Lab                                                               |
 |------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------|
@@ -829,7 +829,7 @@ Look at the table below for an overview of the databases, use cases and modules:
 | Used in **Module 6**                                                                     |                                                                                |
 | Has **indicator specific configuration**, such as access to the **Data Visualizer app** to verify if indicators were built correctly    |                                                                                |
 
-### How can I make sure which database to use when?
+#### How can I make sure which database to use when?
 
 For each activity or graded lab, **you will find a link to the correct database**.
 
@@ -859,11 +859,11 @@ One of the basic features of those databases is that the system is split up into
 
 You will see that **in both databases there are already some preexisting metadata** that you can use for your reference; you can view their names and properties.
 
-### Lab databases
+#### Lab databases
 
 Lab databases are very similar in function to the practice databases except they are used for graded labs. We ask you to only use them to create the metadata per instructions **since there is an automatic script that will check your progress and give you a grade at the end of the lab.** If you create more or different metadata than you were asked to do, it might result in you not getting a passing result.
 
-### Metadata naming conventions (Practice and Lab databases)
+#### Metadata naming conventions (Practice and Lab databases)
 
 You and all of the course participants will be creating your metadata in the same practice database, performing the same activities, and creating the same metadata, even if you won't be able to see or access the metadata that other students have created. In DHIS2, **metadata must have a unique name**. Since all learners will be creating the same metadata and following the same naming conventions, we ask you to **add your initials as a prefix to any metadata you create.**
 
