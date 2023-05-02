@@ -871,7 +871,7 @@ For example, if I want to recreate the data element RMNCAH ANC 1st visit, the sy
 
 That is why we ask you to **use your initials when creating any metadata items** to make the name unique in the system. In this example, if your name starts with ‘S’, your middle name with ‘N’, and last name with ‘D’ it will be called “**SND_RMNCAH - ANC 1st visit**”. If you don’t have a middle name, you can use the first two letters of your family name instead as we recommend using a three letter prefix convention.
 
-#### To recap
+#### Summary
 
 The DHIS2 Customization Practice database provides you with a dedicated space to create and modify metadata. You will only see the items you have created yourself or those that the course administrators have shared with you, and will not interact with items other participants have made.
 
@@ -1015,7 +1015,7 @@ In DHIS2, organisation units form a **hierarchical tree** that has several level
 
 During the aggregation process, data are added up from the lower organisation unit levels to the higher ones. DHIS2 performs these calculations automatically. The number of levels in a hierarchy and the level names depend on each implementation’s context.
 
-### Organisation unit groups and group sets
+#### Organisation unit groups and group sets
 
 ![organisation_unit_groups](media/image21.png)
 
@@ -1045,14 +1045,14 @@ To start familiarizing yourself with the spreadsheet, you can check the one we c
 
 This series of videos will talk about organisation units. You have learned that organisation units form the backbone of our data collection as they assist in attaching geographical locations to each data item that is stored in the system. In this video, you will learn how to create a simple organisation unit hierarchy in DHIS2: you will create a region, a district and a facility.
 
-##### Creating an organisation unit hierarchy
+#### Creating an organisation unit hierarchy
 
 [Link to the documentation site](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#manage_organisation_unit)
 
 #### Video
 [Creating an organisation unit hierarchy (YouTube)](https://youtu.be/UDwmYw0W9gg)
 
-##### Knowledge check
+#### Knowledge check
 
 **1. When you create organisation units that have geographical boundaries, such as provinces, regions or districts, you don't need to fill in any opening date. This only applies to facilities**
 
@@ -1125,9 +1125,9 @@ In this activity, you will create a simple organisation unit hierarchy in DHIS2.
 
 2. Make sure your parent organisation unit (*Your initials_*Food Region) is selected and click on the **blue plus (+) sign** on the bottom right
 
-> ![](media/image7.png)
+![](media/image7.png)
 
-1. Fill in the fields:
+3. Fill in the fields:
 
     1. **Name:** *Your initials_*Vegetable District
 
@@ -1137,15 +1137,15 @@ In this activity, you will create a simple organisation unit hierarchy in DHIS2.
 
     4. **Code:** *Your initials_*VD03
 
-2. Click **‘Save’**
+4. Click **‘Save’**
 
 **Create facilities within the Vegetable District**
 
-3. Navigate to the **organisation unit management page**
+1. Navigate to the **organisation unit management page**
 
-4. Make sure your parent organisation unit (Vegetable District) is selected and click on the **blue plus (+) sign** on the bottom right
+2. Make sure your parent organisation unit (Vegetable District) is selected and click on the **blue plus (+) sign** on the bottom right
 
-5. Fill in the fields:
+3. Fill in the fields:
 
     1. **Name:** *Your initials_*Carrot District Hospital
 
@@ -1155,13 +1155,13 @@ In this activity, you will create a simple organisation unit hierarchy in DHIS2.
 
     4. **Code:** *Your initials_*CDH04
 
-6. Click **‘Save’**
+4. Click **‘Save’**
 
-7. Repeat the process and create another facility in the *Your initials*_Vegetable District
+5. Repeat the process and create another facility in the *Your initials*_Vegetable District
 
-8. Make sure your parent organisation unit (*Your initials*_Vegetable District) is selected and click on the **blue plus (+) sign** on the bottom right
+6. Make sure your parent organisation unit (*Your initials*_Vegetable District) is selected and click on the **blue plus (+) sign** on the bottom right
 
-9. Fill in the fields:
+7. Fill in the fields:
 
     1. **Name:** *Your initials_*Spinach Health Center
 
@@ -1171,7 +1171,7 @@ In this activity, you will create a simple organisation unit hierarchy in DHIS2.
 
     4. **Code:** *Your initials_*SHC02
 
-10. Click **‘Save’**
+8. Click **‘Save’**
 
 **(Optional) Create additional facilities**
 
@@ -1181,10 +1181,10 @@ You can use the [**configuration spreadsheet**](https://docs.google.com/spreadsh
 
 Previously, you learned how to add organisation units through the Maintenance app in DHIS2. Organisation units can be bundled into **organisation unit groups** and these groups can be further organised into **organisation unit group sets**. This is used to create an alternative organisational hierarchy, usually applied to the level of facilities. Groups and group sets can be understood as a flexible tool to add more categorization to organisation units, for example, based on the type or form of ownership of the facilities. In this video, you will learn how to create organisation unit groups.
 
-### Video
+#### Video
 Creating organisation unit groups (YouTube)](https://youtu.be/g43vK5m2mwM)
 
-##### Documentation
+#### Documentation
 
 [Creating organisation units](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#create_organisation_unit_group)
 [Creating organisation unit group sets](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#create_organisation_unit_group_set)
@@ -1726,17 +1726,17 @@ Create the **category options for RMNCAH age disaggregations**
 
 ![](media/image26.png)
 
-1. **Review the existing categories** and make sure the category you are about to create doesn’t already exist in the database
+5. **Review the existing categories** and make sure the category you are about to create doesn’t already exist in the database
 
     1. The categories “**Male**” and “**Female**” **are already in the system**, you don’t need to create them again. All the age related disaggregations need to be added.
 
-2. Click on the **blue plus (+) sign** on the bottom right to create a new category option
+6. Click on the **blue plus (+) sign** on the bottom right to create a new category option
 
-3. Fill in the field:
+7. Fill in the field:
 
     1. **Name**: *Your initials*_10-14 years
 
-4. Click **‘Save’**
+8. Click **‘Save’**
 
 **Create the category option: *Your initials*_15-19 years**
 
@@ -1768,6 +1768,10 @@ You have now created all the category options that are used in the RMNCAH data s
 
 In this video, you will learn how to create categories and category combinations in DHIS2. We will briefly review the category option combinations that are automatically created by the system as a result.
 
+#### Video
+
+[https://youtu.be/3tLcV7k4nOM](https://youtu.be/3tLcV7k4nOM)
+
 #### Documentation
 
 [Categories](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#create_category)
@@ -1775,10 +1779,6 @@ In this video, you will learn how to create categories and category combinations
 [Category combinations](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#create_category_combination)
 
 [Category option combinations](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#assign_code_category_option_combo)
-
-#### Creating categories and category combinations
-
-[https://youtu.be/3tLcV7k4nOM](https://youtu.be/3tLcV7k4nOM)
 
 #### Knowledge check
 
@@ -1818,11 +1818,11 @@ In this activity, you will create the category “*Your initials*_Age (RMNCAH)�
 
 ![](media/image8.png)
 
-1. Make sure the category you are about to create doesn’t already exist in the system
+4. Make sure the category you are about to create doesn’t already exist in the system
 
-2. Click on the **blue plus (+) sign** on the bottom right
+5. Click on the **blue plus (+) sign** on the bottom right
 
-3. Fill in the fields:
+6. Fill in the fields:
 
     1. **Name**: *Your initials*_Age (RMNCAH)
 
@@ -1830,17 +1830,17 @@ In this activity, you will create the category “*Your initials*_Age (RMNCAH)�
 
     3. **Data dimension type**: Disaggregation
 
-4. Leave the **data dimension box selected**
+7. Leave the **data dimension box selected**
 
-5. Select the three **category options: *Your initials*_10-14 years, *Your initials*_15-19 years, *Your initials*_20+ years**
+8. Select the three **category options: *Your initials*_10-14 years, *Your initials*_15-19 years, *Your initials*_20+ years**
 
     1. Move them to the selected items box
 
-6. **Arrange the order** of the category options in the selected box in ascending order
+9. **Arrange the order** of the category options in the selected box in ascending order
 
 ![](media/image38.png)
 
-1. Click **‘Save’**
+10. Click **‘Save’**
 
 The category **“Sex” is already in the system** so you dont need to create it again.
 
