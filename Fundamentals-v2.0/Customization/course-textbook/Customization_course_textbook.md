@@ -78,7 +78,7 @@ Tell the DHIS2 Academy team more about yourself by filling out our **Pre-course 
 
 Your responses to this survey will help the DHIS2 Academy team improve our course offerings by providing valuable insight into our Academy audience. Whether you are just browsing or you are determined to complete the entire course, the more we know about you, **the better we can serve all participants** in this course.
 
-[embed the pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLSf1QpTa4DKegSiI7KuE63CNNiFuzQ96m5YE4kTqRgu6JB-S9A/viewform?usp=sf_link)
+[Link to the pre-course survey](https://docs.google.com/forms/d/e/1FAIpQLSf1QpTa4DKegSiI7KuE63CNNiFuzQ96m5YE4kTqRgu6JB-S9A/viewform?usp=sf_link)
 
 ### 0.1 About the course (5 min)
 
@@ -234,7 +234,7 @@ In this course you will find several types of quizzes, but whether they are grad
 
     1. Multiple response questions: These have **square** check boxes and you can select **multiple** answers
 
-    2. ultiple choice questions: These have **circular** check boxes and you can only select **one** answer
+    2. Multiple choice questions: These have **circular** check boxes and you can only select **one** answer
 
 2. **Submit button**: By clicking the “Submit”button you can submit your answer and use one attempt
 
@@ -254,7 +254,8 @@ In this course you will find several types of quizzes, but whether they are grad
 
 If you need a refresher on how to navigate the DHIS2 Online Academy, please watch the following video to review the basics of the platform.
 
-[Navigating the platform - YouTube video](https://youtu.be/QS2EdN8V7wA)
+#### Video
+[Navigating the platform - YouTube](https://youtu.be/QS2EdN8V7wA)
 
 #### The course content page
 
@@ -338,15 +339,13 @@ Note that if you can't see the page (or if you reach an “Oops! That page doesn
 
 ## Module 1 - What can be customized in DHIS2? (1 h)
 
-#### Module 1 - What can be customized in DHIS2?
+### Module 1 - What can be customized in DHIS2?
 
-##### What is in this module?
-
-### What is in this module?
+#### What is in this module?
 
 What is DHIS2 customization? What parts of DHIS2 have to be adapted before you can deploy a DHIS2 system in a new context?
 
-### Learning objectives
+#### Learning objectives
 
 By the end of this module, you should be able to:
 
@@ -358,15 +357,15 @@ By the end of this module, you should be able to:
 
 - Identify the main features of the Maintenance application
 
-### How will you be evaluated?
+#### How will you be evaluated?
 
 At the end of the module there is a **graded quiz**. It contributes **3%** to your final grade.
 
-### How long will this module take?
+#### How long will this module take?
 
 This module should take about 1 hour to complete.
 
-### 1.1 Introduction to DHIS2 Customization (25 min)
+#### 1.1 Introduction to DHIS2 Customization (25 min)
 
 #### Introduction to DHIS2 Customization
 
