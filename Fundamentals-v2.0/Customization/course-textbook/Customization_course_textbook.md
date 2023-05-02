@@ -581,7 +581,9 @@ Laboratory section is disaggregated both by sex and by age so each value entered
 
 In this video, you will learn about three important DHIS2 design principles applicable to DHIS2 aggregate data model systems. We will review the DHIS2 configuration process and related functionalities, discuss the concept of an integrated data repository and talk about the importance of indicators for analysis.
 
-[1.2.1 Conceptual design principles Part 2 of 3 - YouTube](https://www.youtube.com/watch?v=Mz8jt-F3F-E)
+#### Video
+
+[Conceptual design principles- YouTube link](https://www.youtube.com/watch?v=Mz8jt-F3F-E)
 
 #### Documentation
 
@@ -627,7 +629,8 @@ In this video, you will learn about three important DHIS2 design principles appl
 
 In the previous video about the DHIS2 design principles, you learned that most metadata in DHIS2 can be edited directly through the DHIS2 user interface. In this video, you will be introduced to the **Maintenance application**, which is one of the core applications of DHIS2, and **a key tool when it comes to the customization of the system**. You will use the Maintenance application throughout this course to create and edit various items such as organisation units, data elements and data sets.
 
-[Introduction to the Maintenance app -YouTube video](https://youtu.be/ETB620ZlAU4)
+#### Video
+[Introduction to the Maintenance app - YouTube link](https://youtu.be/ETB620ZlAU4)
 
 #### Documentation
 
