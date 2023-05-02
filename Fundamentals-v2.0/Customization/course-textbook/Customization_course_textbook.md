@@ -470,7 +470,7 @@ You will find that we use the RMNCAH program as an example when presenting the c
 
 This data set contains **three sections**:
 
-#### 1. Antenatal care
+> #### 1. Antenatal care
 
 The first section contains **3 data elements** related to antenatal care, which is health care that pregnant women get from health professionals during pregnancy. These data elements represent the number of women that attended an antenatal visit at each stage:
 
@@ -480,7 +480,7 @@ The first section contains **3 data elements** related to antenatal care, which 
 
 - ***Antenatal care 8th or more visit***
 
-#### 2. Delivery by age
+> #### 2. Delivery by age
 
 Contains **2 data elements** related to the number of deliveries in the facility:
 
@@ -488,7 +488,7 @@ Contains **2 data elements** related to the number of deliveries in the facility
 
 - ***Delivery in facility by caesarean section*** = the number of deliveries by caesarean section only
 
-#### 3. Family planning
+> #### 3. Family planning
 
 Contains **1 data element** related to contraception use:
 
@@ -532,7 +532,7 @@ You will be working with this data set in your **pre-lab exercises** and **grade
 
 This data set contains **three sections**:
 
-#### 1. Treatment
+> #### 1. Treatment
 
 Contains **3 data elements** related to the treatment of malaria. Some of the data elements contain specific terminology:
 
@@ -542,7 +542,7 @@ Contains **3 data elements** related to the treatment of malaria. Some of the da
 
 - **P. Falciparum cases treated with ACT only**
 
-#### 2. Cases
+> #### 2. Cases
 
 Contains **2 data elements** related to malaria cases in patients who seek treatment from a facility:
 
@@ -550,7 +550,7 @@ Contains **2 data elements** related to malaria cases in patients who seek treat
 
 - ***Confirmed malaria cases***: Total number of confirmed cases reported as malaria, confirmed with either microscopy or Rapid Diagnostic Test (RDT)
 
-#### 3. Laboratory
+> #### 3. Laboratory
 
 Contains **2 data elements** related to malaria laboratory test result:
 
