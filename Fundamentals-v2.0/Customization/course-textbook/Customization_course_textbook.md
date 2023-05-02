@@ -2226,12 +2226,13 @@ To refresh your knowledge of concepts related to data elements, we suggest you r
 
 A general guideline when creating metadata in DHIS2 is to use a consistent design approach to help ensure that data elements and indicators can effectively be used for analysis. It is essential to keep the usability of the system in mind. Using naming conventions can support this by making these items easier to recognize and find. When different users in a DHIS2 system use different ways of naming data elements and other metadata, the result is often a system that is difficult to navigate and cluttered. This video will introduce a few essential naming principles that will help keep your metadata organized.
 
+#### Video
+
+[Naming conventions for data elements (YouTube)](https://youtu.be/eiUdLKYaSTQ)
+
 #### Documentation
 
 [Manage data element](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#manage_data_element)
-
-#### Video
-[Naming conventions for data elements (YouTube)](https://youtu.be/eiUdLKYaSTQ)
 
 #### Knowledge check
 
@@ -2274,13 +2275,13 @@ In the following videos, you will see how we create the data elements for the RM
 
 Now that you know some of the principles for naming items in DHIS2, let's use that knowledge to create data elements in DHIS2. This video will teach you how to define the correct **domain type, value type** and **aggregation type** for any new data element. You will see how the aggregation type relates to the data displayed within the different outputs.
 
-##### Documentation
-
-[Create data elements](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#create_data_element)
-
-##### Creating data elements
+#### Video
 
 [https://youtu.be/IYsAqjbJLE4](https://youtu.be/IYsAqjbJLE4)
+
+#### Documentation
+
+[Create data elements](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#create_data_element)
 
 #### Data elements in the DHIS2 Customization Practice database
 
@@ -2335,9 +2336,9 @@ In this activity, you will create a data element: *Your initials*_RMNCAH - ANC 1
 
 ![](media/image13.png)
 
-1. Click on the **blue plus (+) sign** on the bottom right
+5. Click on the **blue plus (+) sign** on the bottom right
 
-2. Fill in the fields:
+6. Fill in the fields:
 
     1. **Name**: *Yourinitials*_RMNCAH - ANC 1st visit
 
@@ -2353,7 +2354,7 @@ In this activity, you will create a data element: *Your initials*_RMNCAH - ANC 1
 
     7. **Category combination**: None
 
-3. Click **‘Save’**
+7. Click **‘Save’**
 
 Now you have successfully created your first data element. The other data elements from the Antenatal section, as well from the other sections of the RMNCAH dataset are already in the system so you don’t have to create those.
 
@@ -2814,6 +2815,7 @@ In the following series of videos, you will learn about data sets and how to cre
 [Data sets](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#manage_data_set)
 
 #### Video
+
 [Orientation to data sets ](https://youtu.be/Z9Zu4qIqo7E)
 
 #### Knowledge check
@@ -2931,7 +2933,7 @@ Tip: You can find them by scrolling through the list of available data elements 
 
 ![](media/image53.png)
 
-1. Click **‘Save’**
+3. Click **‘Save’**
 
 Now you have created a data set with a default form. In the next activity, you will create a section form headings and arrange the data elements within the various sections.
 
@@ -3032,9 +3034,9 @@ In DHIS2, creating and customizing metadata is inextricably linked with sharing 
 
 [Sharing settings of objects](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/about-sharing-of-objects.html)
 
-#### Orientation to sharing settings
+#### Video
 
-[https://youtu.be/jM_9HW8UHd8](https://youtu.be/jM_9HW8UHd8)
+[Orientation to sharing settings (Youtube)](https://youtu.be/jM_9HW8UHd8)
 
 #### Knowledge check
 
@@ -3069,6 +3071,7 @@ In the previous video, you learned that sharing settings in DHIS2 control which 
 - [Sharing settings of objects](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/about-sharing-of-objects.html)
 
 #### Video
+
 [Sharing settings for category options and data set (YouTube)](https://youtu.be/Y67Gcl1TMpw)
 
 #### Knowledge check
@@ -3178,23 +3181,23 @@ The “Male” and “Female” category options have already been created for y
 
 ![](media/image76.png)
 
-4. Add **your user account** to the **“Who has access”** section
+5. Add **your user account** to the **“Who has access”** section
 
 ![](media/image66.png)
-5. Click on the **pencil icon** next to your name and edit the sharing settings:
+6. Click on the **pencil icon** next to your name and edit the sharing settings:
 
     1. **Metadata: Can edit and view**
 
     2. **Data: Can capture and view**
-6. Add the **“Academy admins”** user group to the “**Who has access”** section
+7. Add the **“Academy admins”** user group to the “**Who has access”** section
 
-7. Click on the **pencil icon** next to the user group name and edit the sharing settings:
+8. Click on the **pencil icon** next to the user group name and edit the sharing settings:
 
     1. **Metadata: Can view only**
 
     2. **Data: Can view only**
 
-8. **Close** the sharing settings dialog. The sharing settings are automatically saved
+9. **Close** the sharing settings dialog. The sharing settings are automatically saved
 
 **Confirm that the sharing settings have been applied correctly by entering some data in the data set**
 
@@ -3216,7 +3219,7 @@ The “Male” and “Female” category options have already been created for y
 
 5. Select a **monthly period**
 
-66. Enter some data in the cells within the form
+6. Enter some data in the cells within the form
 
 7. If your sharing settings are set up correctly, you should be able to enter data
 
@@ -3340,7 +3343,7 @@ When someone needs to enter and view data for a data set, make sure they have �
 
 To perform this task you will need to be logged into the DHIS2 Customization Lab database and use the account details you have created.
 
-### Lab overview
+#### Lab overview
 
 In this graded lab, you will apply the knowledge and skills that you gained throughout Module 5. In the first part, you will be asked to create a data set with a section form based on the Malaria data set you have been working on throughout the labs. In the second part, you will update sharing settings and enter some practice data into the data set.
 
@@ -3348,7 +3351,7 @@ To perform this lab you will need to be logged into the [Customization Lab datab
 
 In this graded lab, you will work with metadata that you created in labs of previous modules. If you didn't complete the previous labs, you won't be able to pass this one. Remember that the passing grade for labs is 100%. You can check your score and overall progress on the “Progress" page.
 
-### Grading
+#### Grading
 
 This is a graded lab and counts for **16%** of your final grade. To successfully complete this lab you need to complete all the steps correctly and you will have unlimited attempts to submit your results.
 
@@ -3691,7 +3694,7 @@ The second indicator in our demonstration calculates the percentage of women who
 
 ![example_anc_1-8_dropout_rate](media/image1.png)
 
-### Main takeaways on indicators
+#### Main takeaways on indicators
 
 - An indicator using aggregate data is the result of a mathematical formula, expressed as a fraction, where:
 
@@ -3703,7 +3706,7 @@ The second indicator in our demonstration calculates the percentage of women who
 
 - If an indicator combines data elements that use yearly data in the denominator (typically population data) and data elements with monthly collection period, then the indicator should be annualized in order for you to view monthly data values in the output
 
-##### Knowledge check
+#### Knowledge check
 
 **1. What are the main components of an indicator?**
 
@@ -3828,7 +3831,7 @@ Note: As with other types of metadata, when creating indicators, use ***Your ini
 
 ![editing_numerator](media/image79.png)
 
-1. Click **“Done”**
+6. Click **“Done”**
 
 **Edit denominator**
 
@@ -3836,19 +3839,19 @@ Note: As with other types of metadata, when creating indicators, use ***Your ini
 
 ![editing_denominator](media/image44.png)
 
-1. In the description field in the top left corner, put "**Expected pregnancies (population data)**"
+2. In the description field in the top left corner, put "**Expected pregnancies (population data)**"
 
-2. On the right-hand side, ensure the data elements tab is selected. In the “Search names” field, search for the data element “**Population expected pregnant women**”
+3. On the right-hand side, ensure the data elements tab is selected. In the “Search names” field, search for the data element “**Population expected pregnant women**”
 
-3. Double click on the data element to add it to the formula builder box
+4. Double click on the data element to add it to the formula builder box
 
-4. At the bottom of the configuration dialog, confirm that the formula is correct and the system gives a “**Valid**” response to the formula
+5. At the bottom of the configuration dialog, confirm that the formula is correct and the system gives a “**Valid**” response to the formula
 
 ![adding_denominator](media/image91.png)
 
-5. Click **“Done”**
+6. Click **“Done”**
 
-6. Click **“Save”**
+7. Click **“Save”**
 
 #### Creating indicators: ANC dropout rate
 
@@ -3859,7 +3862,7 @@ In the previous video, you learned how to create an indicator where the numerato
 [Indicators](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/configuring-the-system/metadata.html#manage_indicator)
 
 #### Video
-[Creating indicators (Part 2/3)](https://youtu.be/4XARrUIYYZg)
+[Creating indicators (Part 2/3) - YouTube](https://youtu.be/4XARrUIYYZg)
 
 #### Knowledge check
 
@@ -3924,9 +3927,9 @@ In this activity, you will configure an indicator where you will use a mathemati
 
 ![Editing_numerator](media/image24.png)
 
-1. Search for the “ANC 8th visit” data element and double click it to add it to the formula
+7. Search for the “ANC 8th visit” data element and double click it to add it to the formula
 
-2. Click “**Done**”
+8. Click “**Done**”
 
 **Edit denominator**
 
@@ -3940,9 +3943,9 @@ In this activity, you will configure an indicator where you will use a mathemati
 
 ![editing_denominator](media/image3.png)
 
-1. Click **“Done”**
+5. Click **“Done”**
 
-2. Click **“Save”**
+6. Click **“Save”**
 
 #### Creating indicator groups and group sets
 
@@ -4032,7 +4035,7 @@ Now that we have created the indicators in DHIS2 for our RMNCAH (provided that o
 [Data visualizer](https://docs.dhis2.org/en/use/user-guides/dhis-core-version-master/analysing-data/data-visualizer.html)
 
 #### Video
-[Verifying indicators in the Data Visualizer app](https://youtu.be/C5zQ5XkXaF0)
+[Verifying indicators in the Data Visualizer app - YouTube](https://youtu.be/C5zQ5XkXaF0)
 
 **1. Which application can you use to create a pivot table to verify that your indicator calculation is working correctly?**
 
@@ -4076,13 +4079,13 @@ Note: Please make sure to keep the default Period dimension of the year 2022.
 
 **Verify that the indicator *Your initials_*ANC 4th visit coverage display the correct value by comparing the result to your own calculation**
 
-1. Take the formula for the indicator and fill in the numbers from the table ANC 4th visit coverage (%) =(ANC 4th visit ÷ Population expected pregnant women) \*100
+1. Take the formula for the indicator and fill in the numbers from the table ANC 4th visit coverage (%) =(ANC 4th visit ÷ Population expected pregnant women) *100
 
 2. Compare the result of your calculation to the result displayed in the the pivot table
 
 **Verify that the indicator *You initials_*ANC 1 -8 dropout rate display the correct value by comparing the result to your own calculation**
 
-1. Take the formula for the indicator and fill in the numbers from the table ANC 1-8 dropout rate =(ANC 1st visit - ANC 8th visit) ÷ ANC 1st visit \* 100
+1. Take the formula for the indicator and fill in the numbers from the table ANC 1-8 dropout rate =(ANC 1st visit - ANC 8th visit) ÷ ANC 1st visit * 100
 
 2. Compare the result of your calculation to the result displayed in the the pivot table
 
@@ -4372,7 +4375,7 @@ Once you are done with the module, please take 2 or 3 minutes to complete this f
 
 Link to survey: [https://docs.google.com/forms/d/e/1FAIpQLSeAeIBdJwZ4ankGddMm9TpgT15M5EtoYXXvuAd6xvNILTrLgg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSeAeIBdJwZ4ankGddMm9TpgT15M5EtoYXXvuAd6xvNILTrLgg/viewform?usp=sf_link)
 
-# Course closing and next steps (10 min)
+### Course closing and next steps (10 min)
 
 #### Course closing
 
