@@ -365,7 +365,7 @@ At the end of the module there is a **graded quiz**. It contributes **3%** to yo
 
 This module should take about 1 hour to complete.
 
-#### 1.1 Introduction to DHIS2 Customization (25 min)
+### 1.1 Introduction to DHIS2 Customization (25 min)
 
 #### Introduction to DHIS2 Customization
 
@@ -400,7 +400,7 @@ This video will give you a short introduction to the concept of DHIS2 customizat
 
 **Feedback:** DHIS2 can be configured to support all of the above: Aggregate and Individual-level data, data entry on both desktop and Android devices, and custom web and Android apps.
 
-#### What can be customized in DHIS2?
+### What can be customized in DHIS2?
 
 In the introductory video, you learned that if you need to set up DHIS2 in a new context, be it a country or a more localized implementation, you need to consider how to adapt the system to the specific needs. These needs will differ depending on the program, geographical context and other factors. Let’s review the metadata that need to be customized before you can use a DHIS2 database to collect and analyze data.
 
@@ -470,7 +470,7 @@ You will find that we use the RMNCAH program as an example when presenting the c
 
 This data set contains **three sections**:
 
-##### 1. Antenatal care
+#### 1. Antenatal care
 
 The first section contains **3 data elements** related to antenatal care, which is health care that pregnant women get from health professionals during pregnancy. These data elements represent the number of women that attended an antenatal visit at each stage:
 
@@ -480,7 +480,7 @@ The first section contains **3 data elements** related to antenatal care, which 
 
 - ***Antenatal care 8th or more visit***
 
-##### 2. Delivery by age
+#### 2. Delivery by age
 
 Contains **2 data elements** related to the number of deliveries in the facility:
 
@@ -488,7 +488,7 @@ Contains **2 data elements** related to the number of deliveries in the facility
 
 - ***Delivery in facility by caesarean section*** = the number of deliveries by caesarean section only
 
-##### 3. Family planning
+#### 3. Family planning
 
 Contains **1 data element** related to contraception use:
 
