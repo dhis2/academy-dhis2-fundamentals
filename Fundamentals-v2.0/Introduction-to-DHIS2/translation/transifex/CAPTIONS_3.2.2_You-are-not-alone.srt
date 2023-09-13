@@ -310,7 +310,7 @@ settings and how best we can
 69
 00:04:01,460 --> 00:04:06,100
 try to get the right tool
-to white people and DHIS2
+to right people and DHIS2
 
 70
 00:04:07,557 --> 00:04:09,690
