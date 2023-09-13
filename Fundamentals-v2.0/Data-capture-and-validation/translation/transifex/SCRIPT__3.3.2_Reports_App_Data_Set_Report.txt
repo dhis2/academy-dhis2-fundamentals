@@ -1,0 +1,52 @@
+Reports App: Data Set Report 
+
+Slide 2
+Do you want to get a quick view of the raw or aggregated data that have been entered by data set? 
+
+
+Slide 3
+In this video, you will learn how to use the data set report within the Reports app to view your raw and aggregated data easily by data set. First, what is a data set report? 
+
+Slide 4
+A data set report is a printer-friendly view of the data values in a specific data set. 
+
+Slide 5
+The data can be viewed as either raw data, in other words, data from a single data set, for a single organization unit and period, which is the way the data values have actually been entered, or aggregated data where you select a period or organization unit that requires the data to be aggregated. 
+
+Slide 6
+For example, if you have a daily data set entered at facility level, ...
+
+Slide 7
+...you can view the data aggregated for an entire month and the entire district using the data set report tool. So let's take a look at how to create a data set report. 
+
+Slide 8 (Demo)
+To get started, open the Reports app from the application menu. Once opened, you'll be presented with a menu listing the different reports available. 
+
+Click on Data Set Report to open the criteria window. To create a report you'll need to select your data set dimensions. These dimensions can be selected in any order. 
+
+In this example, let's start by selecting the organization unit you want the report for. This can be at any level in the hierarchy as the data will be aggregated up to this level automatically. 
+
+You can also aggregate data for predefined groups of organization units. So if you select the Food Region, you will see any of the aggregated data that has been entered in any organization unit in the Food Region. 
+
+The next dimension we'll select is the data set. Click on the select data set dropdown menu and choose the data set you would like to view the data for. 
+
+Let's select the RMNCAH data set. Finally, let's select the actual period you want the data for. 
+
+This can be aggregated periods, as well as the original periods for which the data were reported. For example, on a data set that is collected monthly, you can generate a report from monthly values or a reporting period equal to or greater than monthly, such as quarterly or annual reports. 
+
+However, you cannot select a period that is less than monthly, as you can produce a report for less than the original reporting period. 
+
+For the period type select quarterly from the dropdown menu. Once you've selected the report period type, you'll then need to select the specific year and time period for the data you want to see in your report. 
+
+The final option you can tick is the Use data for selected unit only field. Use this option if you want a report for an organization unit that has children, but only want the data collected directly for this unit and not the data collected by its children. 
+
+After selecting your inputs, click on Get Report. The report will display below the criteria window and a green box with the message Successfully loaded the table will appear when the report is ready. 
+
+We can see that the report output appears in the same order as the data set is configured, which makes it easier to navigate. Data for data elements with desegregations are displayed separately by multiple desegregations, totals for each desegregation, as well as overall totals. 
+
+If you would like to download the data to use outside of DHIS2, you can export the data set report in Excel and PDF formats. 
+
+Slide 9
+In summary, you can create a data set report to check the data that have been entered by data set. To use this tool, go to the Report app and select data set report. Select the report organization unit, data set, and period to generate a report. 
+
+Once loaded, you'll be able to see the total values of the data displayed by data element and download the report for future use outside of DHIS2.

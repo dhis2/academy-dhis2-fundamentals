@@ -1,0 +1,59 @@
+Data Entry app: The basics
+
+Slide 2
+One of the key features of DHIS2 is data collection. But how are data entered into DHIS2? 
+
+Slide 3
+In this video, we'll show you how to use the data entry app to enter some basic aggregate data, including different ways the app helps to make sure the data you're entering is correct, and how to navigate around data entry forms. 
+
+Slide 4 (demo)
+To get started, log in to DHIS2. Using the apps menu in the top right corner, find the Data Entry app by scrolling through the list of applications or using the search field and click the icon. 
+
+Once the app is opened, you can select the dimensions, the organization unit, dataset and period to open a data entry form. You'll need to select the dimensions in a specific order. 
+
+First, select the organization unit that you are entering data for. This is done in the organization unit hierarchy on the left-hand side. 
+
+By clicking the plus icon, you can expand the hierarchy levels to find the organization unit where you would like to enter data. Then click on the organization unit to select it. 
+
+You can also use the search icon above the hierarchy to search for a particular organization unit. Simply start typing the name of the organization unit in the search box, and then click to select the one that you are looking for. 
+
+When an organization unit has been selected, its name will turn orange in the hierarchy and it will also populate the organization unit field in the green dimension box. 
+
+The next dimension to select is the dataset. The datasets available to you at the organization unit you selected will appear in the dropdown list. 
+
+Because each dataset is typically related to specific services, the list of datasets available at each organization unit will change depending on the kinds of services provided there, as well as which datasets you have access to based on your user role. 
+
+For this example, select EPI Immunization. Next, select the period you would like to enter data for. The dataset you choose predetermines the period type available based on how frequently data for that form are collected. 
+
+The immunization dataset is collected monthly, so you need to select the particular month you'll be entering data for. You can use the Previous and Next Year buttons to move through different years if needed. 
+
+Let's select a month to enter data. Since our form contains multiple sections, we can also see an additional dropdown menu at the top of the form, filter on section. 
+
+This can be used to quickly go to a particular section of the form to enter data. If you want to select a different section, or see the entire form again, simply return to the filter on section dropdown, and update your selection. 
+
+The different types of forms will be covered in more detail in the customization course. Once the dataset is open, you can start entering data. 
+
+To enter a data value, you simply need to select the field and the form where you want to enter data and then enter the value. You can click each field with your cursor to enter data or you can switch between the fields by using the up and down arrow keys or the Tab key. 
+
+Pressing Tab will move the cursor to the next field and pressing Shift + Tab will move the cursor back to the previous field. A gray box means that the data entry has been disabled for this field. 
+
+So it is locked and can't be changed. You will notice that you cannot click on these gray fields. And if you are using Tab, or the arrow keys to navigate the form, your cursor will automatically skip over them to the next available field. 
+
+When you enter data into a field, the field should turn green. This means that the data value has been saved. Data values are saved automatically in DHIS2 as you enter them. 
+
+So there's no need to click a Save button and you aren't at risk of losing any of your work. If the field is yellow, that means the system is in the process of saving the value but it isn't saved yet. 
+
+In most cases, this will only last for a moment. If you enter an invalid value, such as text instead of a number in a numeric value cell, the system will display a message indicating the correct value type for that field. 
+
+The field will also turn yellow, indicating that the invalid value you entered has not been saved. And if you enter a value that is outside a predetermined range for a specific field, you will get a popup message saying that the value is out of range and the field will turn orange. 
+
+This indicates that your entry may be incorrect. Double check your entry. If that value is incorrect, then correct it. 
+
+If you confirm that the value is correct, it is useful to add a comment to document this. You will learn how to add comments on data values in the next video. 
+
+Slide 5
+In summary, to enter aggregate data, you first need to open the Data Entry app from the Apps menu. Then select the organization unit, the dataset and the period. 
+
+When entering data, the green color means your value has been saved. Yellow means that it is not saved yet. Orange means that the value entered is out of range. And gray means the field is locked. 
+
+In addition to clicking or using Tab to move between form fields, for forms with multiple sections, you can use the Filter on section option to view a specific section of the form.

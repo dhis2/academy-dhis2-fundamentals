@@ -1,0 +1,72 @@
+3.2.1 Batch Validation Rule Analysis 
+
+Slide 2
+Data validation is a useful tool to check the quality of data entered into DHIS2. But running data validation checks individually for each dataset can be very time-consuming, and doesn't allow for validating data across data sets. How can DHIS2 help make data validation more efficient? 
+
+Slide 3
+After data entry is complete, there are a few tools in DHIS2 that can be used to ensure better quality data. Like the batch validation rule analysis function within the Data Quality app. 
+
+Slide 4
+Batch validation rule analysis lets us validate a large amount of data at the same time. 
+
+Slide 5
+This is different to the validation rules run in the data entry application. As it can validate aggregated data across multiple data sets, periods, and organization units. 
+
+Slide 6
+This is typically done in the context of an organized data quality review process and carried out by DHIS2 users who have the authority to review these data. Let's see how it works to validate aggregate COVID-19 surveillance data. 
+
+Slide 7 (demo)
+To get a batch validation, you need to open the Data Quality app from the DHIS2 app menu. Within the app, select Validation Rule Analysis. 
+
+Here, you can select the parameters of the data that you want to validate. To use the app, you need to select the one or several organization units, start and end date, and the validation rule group to analyze. 
+
+Let's review each one of these fields in more detail. Select the organization unit, where you would like to run the validation rule. 
+
+For this demo, let's open the hierarchy for Trainingland, and animal region, and select the Bird District organization unit. This will run the rule for all the data in the organization units below that district in the organization unit hierarchy. 
+
+If you want, you could run a validation rule analysis at a higher or lower level of the organization unit hierarchy, by, for example, selecting a single facility instead of the entire district. Next, set the period you want to check. 
+
+Slide 8
+The period dates are related to two things: the period of data entry, as well as the period assigned to the validation rule. For example, if the data are entered monthly, you must select a range of dates that cover at least one full month. 
+
+The validation rule must also be set up to validate monthly data. This is done through the configuration of validation rules. We will look at this concept in more detail in the DHIS2 Customization Course. The data for COVID-19 surveillance are entered daily.
+
+Slide 9 (demo 2)
+For this example, let's validate the data from the 1st of May of 2021, to the 31st of August of 2021. Then you can select the validation rules you want to check. 
+
+Validation rules can be grouped together, for ease of validating multiple rules at once. For this example at the COVID-19 validation rule group, this will run all validation rules that relate to COVID-19 surveillance. 
+
+Slide 10
+One thing to note is that if your selections are too broad, this can result in a very long list of validation rule violations, which can make it difficult to take follow up action. 
+
+Slide 11
+For this reason, it is best to limit your selections to just the specific organization units, time period, and validation rules you want to check. 
+
+Slide 12 
+Below the validation rule groups field, you'll see a Send Notifications tick box. This will send a notification of any rule errors to a user or user group. Notifications will only be sent if they have been configured. For security reasons, the notifications are sent via the internal DHIS2 messaging system only. 
+
+Slide 13
+Following this is the Persist new results box. You don't need to worry about this, but if you would like to learn more, you can find more information about this in the DHIS2 documentation website. 
+
+Slide 14 (Demo) 
+Let's now click the Validate button. As you can see this returns number of results. 
+
+Let's take a look at what they mean. Each of these notifications are an error the validation rules analysis has found. 
+
+The output shows the location of the error, period, importance, validation rule violated, and the values and operators. 
+
+It's easier to read the error if you click the info button in the details column. 
+
+As you can see the information panel provides a detailed view of the validation error and how it has been violated. 
+
+Slide 15
+At the top of the panel, you can see the name and description of the validation rule that has been broken along with the left and right sides of the validation rule expression. 
+
+Slide 16
+In the violation selected, you can see that the number of beds occupied or the left side of the expression should be less than or equal to the total number of beds or the right side of the expression. 
+
+Slide 17
+The data that have been entered for this organization unit do not follow this rule. There have been more beds occupied than there are total beds. These batch rule analyses can be useful to users monitoring data quality for one or more data sets for various levels of the organizational hierarchy. 
+
+Slide 18
+To recap, to run the batch validation rule analysis, open up the Data Quality app in DHIS2, select the organization units, date range, and validation rule group, and then run validation. The app will then list the errors in the data and show you what validation rules have been violated.

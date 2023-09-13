@@ -1,0 +1,61 @@
+Android Capture app for data entry: The basics
+
+Slide 2
+You've now learned how to install and login to the DHIS2 Android Capture app. But how do you use it to enter data into DHIS2? 
+
+Slide 3
+In this video, you will learn how to enter aggregate data into DHIS2, using the Android Capture app. Before we begin, make sure you've installed the app and have logged in using the account information for our training instance. 
+
+Slide 4 (demo)
+To get started, let's open up the Android Capture app and have a brief look around, starting with the home screen. 
+
+Here, you'll see a list of the data sets that you have access to. Each data set can be assigned a unique color and icon, making it easier for you to find the one you are looking for. 
+
+Under each aggregate dataset name, you will see the number of data sets where data have been entered. Some data sets have a small i icon, which, if tapped, will give you the description of the dataset. Tap a dataset name to open it. 
+
+In this example, let's open the RMNCAH dataset. As you probably know by now, RMNCAH stands for reproductive, maternal, newborn, child, and adolescent health. 
+
+When you open a dataset, you will see the data that have been entered within the organization units you have access to for specific reporting periods. 
+
+Data sets with a blue pencil icon next to them mean that data entry on the dataset has been started, but have not yet been marked as complete. 
+
+Data sets with a green check mark icon next to them mean that data entry on the data set has been marked as complete. 
+
+If you would like to filter on a specific organization unit or period, you can do so by using the filter feature at the top of the app. 
+
+Tap on the filter menu and add a filter for the organization unit fields, tap on the hierarchy icon, open up the hierarchy, and tick the box next to Ostrich Health Center. Tap on the back button to exit the filter. 
+
+Now we can see the data sets that have been entered for Ostrich Health Center. To remove this filter, tap on the X next to the organization unit filter. You can view data for any previous entry by selecting it from the list to open up the data entry form. Next let's enter some data. 
+
+In this example, we want to complete the RMNCAH dataset for October of 2021 at the Ostrich Health Center. Tap on the plus sign at the bottom right corner of the screen. 
+
+Select the organization unit by adding a tick mark next to the location at the facility level for which the data need to be entered. Let's select Ostrich Health Center, then tap accept. 
+
+Next, tap on the report period fields and select October of 2021 as the report period from the pop-up menu, then tap next to open the data entry form. 
+
+Let's have a look around the form. You'll see that the data set dimensions are listed in the top left corner of the app, the data set name, period of data entry, and the organization unit. 
+
+Just below that, the form sections appear. Note that in default forms, all data entry fields will be in one section. 
+
+In this example, you can see that the form has been divided into multiple sections, and you can scroll across the section names here to navigate to the different sections of the form. 
+
+In each section, the list of data elements appear as they would in the web browser data entry form. Tapping on the information button to the right of each data element name will bring up a description of the data element. 
+
+The arrows above the data elements allow you to increase or decrease the data element column size. To enter data, select the data value field. Depending on the data element value type, the device will bring up the respective entry tool. 
+
+So if it is a text field, it will bring up a keyboard. While if it's a date field, it will bring up a calendar. In the majority of aggregate data forms, as in our example, the data element is numeric and a number pad will appear. 
+
+Go to the next cell by selecting Next on the number pad or by tapping into the next field. Once you move between fields, the system will display a message to let you know that the data value has been saved. 
+
+Let's scroll through the rest of the form and enter the remaining data. When you have finished entering your data for the data set, tap on the save icon in the bottom right of the screen to complete the data set. 
+
+The app confirms the data set has been saved and we are automatically prompted to run a data quality check. You should select yes to this prompt as any errors the system finds will be flagged. If there are errors, they will be listed at the bottom of the screen. 
+
+Tap on the up arrow to view the error details. Correct the data in the form. Then tap on the save button and tap yes to validate your data again. 
+
+If all validation rules have passed, then you will get a message saying, everything looks good and it will prompt you to complete the data set. 
+
+Select yes. You will get a message from the app that lets you know the data set has been saved and completed. Note that even if the data we have entered do not pass the validation rules, those data are still saved. 
+
+Slide 5
+To review, once you've logged in select the data set, organization unit, and period you are entering data for then begin entering your data into the cells. Complete the data set by tapping the save button in the bottom right, and run a data quality check to complete the process.

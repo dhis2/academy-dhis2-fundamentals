@@ -1,0 +1,42 @@
+Android Capture app for data entry: Offline data entry 
+
+Slide 2
+One of the key features of the DHIS2 Android Capture app is the ability to capture data offline and then sync the data to the online server when you're able to get a connection again. 
+
+Slide 3
+This allows users to securely capture data in locations with little to no internet access, without having to write lots of information down on paper, and then enter the data manually later on, this can help prevent errors in the data capture process, as data can be captured on site, as well as reducing delays in reporting. 
+
+Slide 4
+So let's take a look at how you can capture data offline and then sync your data to your DHIS2 server with the Android Capture app. 
+
+Slide 5
+First, turn off the wifi and data on your Android device. This will simulate being in an area without internet access. 
+
+Next, you'll need to register and complete the data entry for a dataset. For this example, open the list of RMN CAH data sets, then select one of the data sets to edit it. Then, enter data in the form. When you are done, tap on the save button, run through the data quality check and complete the data set. 
+
+Then go back into the data set home screen. After a few moments, you will notice that there is a circular double arrow on the right, next to the data set we just completed. 
+
+This is the sync button, meaning that the data have not been synced with the online server. The Android Capture app will store the data locally on the device, until the app syncs with the server. 
+
+You can tap on the sync button to try to sync the data with the online server. However, you will get a message saying the data are stored on the device only, as there is no network connection available. Tap on the list of datasets to close out of the sync dialogue box. 
+
+There are three possible ways we can sync the data stored on our device to the DHIS2 server. The first option is to let the app sync automatically based on the setup of the DHIS2 server the app is connected to, by default, this is scheduled once a day. 
+
+If we choose this option, all you need to do is make sure that you remain connected to the internet. The second option is to manually sync up each dataset individually. And the third option is to manually sync all of the data sets available in the app at once. 
+
+Now reconnect your device to the internet, to manually sync your current data set, tap on the arrows again. You will see a different message here, which indicates that the device now has an internet connection. 
+
+Tap send to send the data to the online DHIS2 server. The dialogue box will let you know when the synchronization has been started, as well as when it's completed. Tap on the list of data sets to close out of the sync dialogue box. 
+
+Now we can see that the sync button next to our data set has appeared. This indicates that the data have been synchronized with the DHIS2 server. 
+
+But what if you had entered data from multiple different data sets, periods and organization units? 
+
+For example, if you had entered data for both RMM CAH and COVID-19 surveillance, the fastest way to sync the data in this case would be to manually sync all data sets through the settings menu. From the homepage, tap on the menu icon, then tap on settings. 
+
+In the settings menu, there are a number of options available, including sync data. This field allows you to see when the last sync happened and set the syncing period for when a sync will run automatically. 
+
+You can also choose to manually sync all data from this menu. The sync data now button will perform a global syncing of your data to the online server. Notice that after running the sync, it will update the date and time that the data were last synced. 
+
+Slide 6
+In summary, data can be entered in the Android Capture app while offline. When you've reconnected to the internet, you can allow the device to automatically sync your data on a preset schedule or manually sync your data to the online server in a number of different ways, including syncing at the individual data set level for all organization units and periods for a data set, or by using the sync now button in the settings menu to sync all data sets on your device.

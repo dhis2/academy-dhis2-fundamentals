@@ -1,0 +1,80 @@
+Data Entry app: Validating data 
+
+Slide 2
+Now, you know how to do basic aggregate data entry in the Data Entry app, but there are some additional tools available in the application to assist with data entry. 
+
+Slide 3
+In this video, you'll learn how to view information about the data value, including its history and an audit trail. Learn how to print the Data Entry forms. And understand the metadata information pop up. You'll also get a quick introduction to the "validate" and "complete" buttons. 
+
+Slide 4 (demo)
+First, let's look at how you can view important information about data element values in DHIS2. 
+
+To get started, make sure that you're in the Data Entry app, with your organization unit, data set, and period selected. You can view detailed information about each data element by double clicking on a data values field. The data element information box will then appear. 
+
+Slide 5
+The most noticeable thing you can see is the data element history, which appears in the lower half of the pop-up box. 
+
+Slide 6
+For numerical data elements, this appears as a chart that shows the values entered for this data element in the periods for which data have been collected. 
+
+This helps you at a glance to see how the value you have entered compares to previous values for this data element if the value you have entered appears to be an outlier. 
+
+In other words, if it looks significantly higher or lower than previous values, you should double check to make sure that it is correct. 
+
+Slide 7
+Note that for data elements that are not numeric, such as dates, yes/no and text, the data element history chart does not appear. 
+
+Slide 8
+In the top right, you can see the two cells that display the minimum and maximum limits for the data value cell. 
+
+These limits can be set separately for each data element or maybe left blank. They indicate the expected range of values to be entered. 
+
+Entering a value outside of this range will result in a warning message for the user, as you saw in the previous video. 
+
+Just below the min-max limits, you can see a calculation of the average value entered for this data value cell. 
+
+Slide 9 (demo 2)
+To the left of the min-max limits, there is a comment fields. Any comments that have been made about this particular data element will appear here. 
+
+You can make a comment yourself by clicking on the comment field and writing a comment. Then click Save Comment to save. 
+
+The text will go green, like data, when saved. To mark a value for follow up, click the star. This feature can be useful if you or a colleague have questions or need to follow up on a potential outlier. 
+
+This will be covered in more detail later in the course. There is also the tab for the audit trail, that shows you the history of who has modified the data element. 
+
+Here, you can see when the data was changed, by which user, what its value was, and the type of modification made, such as update or delete. 
+
+This allows you to discover who entered data and when, in case you need to follow up on a specific entry or change. 
+
+Close out of the data element information box. Another useful tool is the metadata information pop up. 
+
+You can keep track of where you are in the form using the metadata displayed at the top right of the screen. As you can see, it shows the organization unit, time period, and specific data element and disaggregation we're entering data into. 
+
+This can be particularly helpful when you're entering data into a form with many disaggregations, as you can use this metadata to see which field is selected so that you can verify that you are entering data in the correct place. 
+
+At the top of the Data Entry form, you can print a copy of the form with the data values that have been entered for this period, or print a blank copy of the form. 
+
+Both of these options allow you to print a physical copy or save a copy as a PDF. When you are done entering data, scroll to the bottom of the Data Entry form, you will see a green box with three buttons: Complete, Incomplete and Run validation. Data validation is used as a data quality check performed on predefined conditions. 
+
+If your data do not meet these conditions, the system will flag to you that there is an error. To validate your data, simply click the Run validation button. 
+
+You'll learn about validation rules and how they support data quality in more detail later in this course. If there are any mandatory data fields in the data set that you have not entered data for, the fields will turn red in the form. 
+
+You will need to complete all of the mandatory fields before moving on. Once you've finished validating the data and completing the mandatory fields, click the "Complete" button at the bottom of the screen to finalize the Data Entry form. 
+
+A pop up will appear asking you to confirm that you are certain the data set is complete. Once the form has been marked as complete, a message will appear at the top of the screen, confirming that it has been completed successfully. 
+
+Marking a data set "complete" is an important step, as it affects data set reporting rate summaries and timeliness metrics, which you will learn about more later in the course. 
+
+When viewing a data set that has already been marked "complete," you will see that the Incomplete button at the bottom of the form is now active. 
+
+This button allows you to undo the completion status, which means that it will no longer be counted as complete for reporting rate calculations until it is marked as complete again for this period. 
+
+This function can be used to indicate that some parts of the dataset need to be reviewed, for example. Note that data in the dataset can still be edited regardless of whether it is marked "complete" or "incomplete." 
+
+Slide 10
+In summary, there are extra features in the Data Entry app to assist with data entry. By double clicking the Data Value fields, you can see the Data Element History, which helps to compare the current value with previous ones, see min-max limits, and review the audit trail. 
+
+You can easily track where you were at in the Data Entry form by looking at the metadata information pop-up. And can print a blank form or a form with values filled in. 
+
+You can run a validation rule analysis by clicking the Run validation button, which will check your data against predefined conditions. You can also market data set "complete" and "incomplete," which affects reporting rate metrics. And you can edit data after data entry to resolve issues.

@@ -1,0 +1,43 @@
+Follow-Up Analysis 
+
+Slide 2
+As you have learned in this course, suspicious data values can be marked for follow up in DHIS2 in several ways, including through the data element information box in the data entry app and through data quality checks, such as the outlier detection. But how can you keep track of these values to help manage the follow up process across a large number of data sets? 
+
+Slide 3
+In the DHIS2 data quality app, the follow up analysis tool can be used to access a list of all the data values marked for follow up within your data sets, making it easier to find and follow up on them. 
+
+Slide 4
+This can help improve data quality by providing a structured way to keep track of suspicious values and the actions that have been taken to review them. This is typically done by DHIS2 users who have appropriate access to view data entered by others. Let's take a look at how to use this tool. 
+
+Slide 5 (demo)
+First, open up the data quality app in the DHIS2 app menu. You can simply search for it in the search field or scroll to find it, once it's loaded, select the follow up analysis tool. 
+
+You'll then be taken to the dimension selection area. First, select the data set you want to review. All data elements within the data set will be checked for follow up, note that multiple data sets can be selected at the same time. 
+
+In this example, we'll select the COVID-19 surveillance data set. Next, select the organization unit or units where you want the tool to check for values marked for follow up. 
+
+Selecting a parent organization unit will run the analysis on all of its child organization units. let's select animal region for this example. 
+
+Finally, select the date range you want to check for outliers. The date range specified must include at least one complete period of data entry for the data to be checked. 
+
+For example, if you are checking monthly values for August, you need to choose the 1st of August as the start date and the 31st of August as the end date, let's select a date range by clicking on the start date field, and using the calendar to navigate to the 1st of August of 2021. 
+
+Once it's selected, click okay to save that as the start date, click on the end date field and choose the 31st of October of 2021. Once you have selected the dimensions, click on the follow up button to run the analysis. 
+
+After the analysis is complete, you'll see a screen with the results, on the left, you can see the data elements that have been marked for follow up. Then the organization units and periods where those values are registered. 
+
+If the value has minimum and maximum values associated with it, they will also appear, along with the actual value entered. 
+
+You can also see if the data value has a comment attached to it that has been made during data entry, click on the comment icon to view the specific comment that was entered during data entry. 
+
+These comments can be useful in determining if the potential issue that caused a data element to be marked for follow up has been addressed or not. 
+
+When you have finished reviewing a data value, and you want to remove it from your list of items that need follow up, you can tick the unfollow box and then click unfollow to remove it from the list. 
+
+Unstarring it from the data element information box in the data entry form will remove it as well. Another useful feature of the follow up analysis tool is that you're able to download your follow up analysis table in PDF, XLS and CSV formats. 
+
+This can be helpful if you want to view the list outside of DHIS2. 
+
+
+Slide 6
+To recap, the follow up analysis tool is a data quality management tool that allows you to easily view data values that have been marked for follow up, to use it, open the data quality app and select the follow up analysis tool. Within the tool, select the data set, organization unit, and period that you want to review. And you'll then be able to view the data values marked for follow up. Each of them can be unmarked either from the data entry app or directly from the list generated in the follow up analysis tool.

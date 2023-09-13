@@ -1,0 +1,37 @@
+Data Entry app: Offline Data Entry
+
+Slide 2
+What happens when you are entering data into DHIS2, but your internet connection is lost? 
+
+Slide 3
+This can be a common problem in places with limited or unstable internet connectivity. 
+
+Slide 4
+For this reason, DHIS2 has been built with basic offline data entry capabilities in mind so you can continue to enter data even when temporarily offline. Let's take a look at how it works. 
+
+Slide 5 (demo)
+When you open the DHIS2 data entry app, the message, "You are online", should display in a yellow text box at the top of the screen. 
+
+This means that you are connected to the internet and the data you entered will be automatically saved to the DHIS2 server. 
+
+Now, let's see what happens if you lose internet access. You can test this by turning your internet connection off, and then opening up a Data Entry form and starting to enter data. 
+
+The message, "You are offline", data will be stored locally, will appear at the top of the screen. 
+
+You'll notice that when you enter data, the field still turns green to indicate the data value is saved. This is because the data are being stored locally on your computer's cache. 
+
+Let's turn the internet back on. When the internet comes back on, you will get another message that says, There is data stored locally, please upload to the server, with an Upload button next to the message. 
+
+All you need to do is simply click on the Upload button and then you should receive the message, Upload to server was successful. 
+
+Slide 6
+It is critical that you do not clear your browser cache using the DHIS2 Browser Cache Cleaner app until you have uploaded your data to the server, as your data are stored locally in your DHIS2 browser cache. 
+
+Clearing your cache before uploading your data will result in data loss. Note that the offline functionality in the web-based DHIS2 data entry app is intended to cover periodic internet outages and not to perform as a permanent offline mode. 
+
+If you need to capture data in an area where internet connectivity is very limited, or if you will be working temporarily from an area with no internet access at all, we recommend using the DHIS2 Android Capture app. 
+
+You will learn more about the Android app later in this course. 
+
+Slide 7
+To recap, in this video, you have learned that DHIS2 allows you to enter data when the internet connection is not stable by saving the data locally in your browser cache. You will know when you are offline by a message displayed on the screen. When connectivity is restored, you need to select a button to upload the data to the DHIS2 server.

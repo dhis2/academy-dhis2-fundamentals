@@ -1,0 +1,88 @@
+
+Reports app: Reporting Rate Summary
+
+Slide 2
+Getting good quality data is essential to making data-driven decisions, 
+
+Slide 3
+but delays in data entry can lead to information gaps that make analysis and decision making difficult. 
+
+Slide 4
+How can DHIS2 help you to check to see if your data are entered in a timely fashion? 
+
+Slide 5
+In this video, we'll explore how to use the Reporting Rate Summary tool within the Reports app to get this information. 
+
+Slide 6
+A Reporting Rate Summary presents information on the submission of a data set for an organization unit or group of organization units analyzed across a set of completeness and timeliness parameters. 
+
+Slide 7
+The Reporting Rate Calculation that is used in this summary is based on complete dataset registrations. 
+
+Slide 8
+Earlier in this course, you learned how to mark a data set complete by clicking the Complete button. This is what indicates to DHIS2 that the form is complete. And it is thus counted as complete for the purposes of calculating the reporting rate. 
+
+Slide 9
+The five parameters displayed in the Reporting Rate Summary are, Actual reports, this indicates the number of data sets that have been marked as complete. 
+
+Slide 10
+Expected reports, this indicates how many data sets are expected to be complete within the time period specified. The number is based on the number of organization units, the relevant data set it has been assigned to, as well as its periodicity. 
+
+Slide 11
+Reporting rate, this shows the number of actual reports registered as complete divided by the number of expected reports as a percentage. 
+
+Slide 12
+Actual reports on time. This is different from actual reports because it only counts those reports that were registered as complete within the specified maximum number of days after the end of the reporting period. This time limit is customizable and can be defined per data set in the Data set Management tool.
+
+Slide 13 
+Reporting rate on time. This is similar to reporting rate, except only the reports on time are used as the numerator instead of actual reports. 
+
+Slide 14
+Now that you understand what the Reporting Rate Summary shows, let's take a look at how to create a Reporting Rate Summary for a specific data set. For this demo, we want to check the timeliness and completeness of the RMNCH data set in the Insect District and the facilities belonging to it for the first six months of 2021. 
+
+Slide 15 (demo)
+Open the Reports app by searching for it in the app's menu. Once opened, you'll see a menu of the different reports available to you. Select the Reporting Rate Summary to open the criteria window. 
+
+You'll then need to select your report dimensions. You can select the dimensions in any order. 
+
+In this example, let's start by selecting the data set. Click on the select data set dropdown field and choose the data set you would like to view the data for. 
+
+In our case, we'll select the RMNCAH data set. Then, let's select the period you want the report for. 
+
+In this example, we want to generate this report for the first six months of 2021, so we select Six-Monthly as a report period, 2021 as a year, and January to June as the specified six-monthly period.
+
+As with other data validation tools we've learned about in this course, note that the period we select here must be greater than or equal to the period of the data set. 
+
+Six-Monthly works as a summary period in this case as the RMNCAH data set is completed monthly. Finally, let's select the organization unit you want the report for. 
+
+As you can see, if we try to select multiple organization units, this does not work. Only one organization unit can be selected from the organization unit hierarchy for this report. 
+
+However, it is also possible to run this report on a predefined group of organization units. You can learn about this in the DHIS2 documentation. 
+
+For this example, let's select the Insect District to see what we get. When you're ready, click Get report. The report will appear below the criteria window. 
+
+Let's take a closer look at it. You will see the report consists of six columns. 
+
+The left column lists the organization units. Notice that all facilities in Insect District are listed. 
+
+This is because this report displays data from all the completed data sets of a selected organization unit, including all of its children. 
+
+Meaning, all of the organization units belonging to it within the organizational hierarchy. 
+
+The next five columns show the five parameters we discussed earlier in this video. Actual reports, Expected reports, Reporting rates, Actual reports on time, and Reporting rate on time. 
+
+In the column Expected reports, for Spider Dispensary, it says six. What does this six stand for? We have generated a six-monthly report, which is checking a monthly data set. 
+
+Therefore, the system is expecting this data set to have been marked complete six times during this period of six months, reflecting one complete report per month. 
+
+This report can help you identify organization units that are not completing the reports in a timely fashion, and which may require additional review or follow up. 
+
+If you need to share the report outside of DHIS2, you can also download the data in an XLS or CSV file. 
+
+Slide 16
+Finally, reporting rates can also be calculated using other tools in DHIS2, such as Pivot tables in the Data Visualizer app, which allows for additional flexibility, but requires more effort to configure. This option is discussed in more detail in the DHIS2 Data Analysis Course. 
+
+Slide 17
+To recap, the Reporting Rate Summary tool is a straightforward way to check the completeness and timeliness of a data set. You can access it from the Reports app. 
+
+After selecting the report dimensions, click Get report, and you will be presented with the results which display Actual reports, Expected reports, Reporting rate, Actual reports on time, and Reporting rate on time for your selected data sets, organization unit, and period.

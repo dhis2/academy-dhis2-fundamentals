@@ -1,0 +1,37 @@
+Android Capture app for data entry: Installation
+
+Slide 2
+The DHIS2 Android Capture app allows for data to be collected on mobile devices with or without internet connectivity and synced with a central DHIS2 database. 
+
+Slide 3
+In this video, you will learn how to download the Capture app on an Android device and log in to our DHIS2 training database. 
+
+Slide 4 (demo)
+Well, let's take a look at how to get started with the Android Capture app. 
+
+First, you'll need to have access to an Android device. Whilst you are likely to use your Android device in portrait view, for the purposes of these demonstrations, we will rotate the device and show you the app in landscape so it's easier for you to view. 
+
+From the device, find and open the Google Play Store. 
+
+Then, search for DHIS2 capture. It should be the first result. You can verify that this is the correct app by confirming that DHIS2 is listed as the app publisher. 
+
+Tap install, and let your device complete the installation process. Now that DHIS2 Capture is installed, open the app by tapping on its icon on your Android device. 
+
+This will bring you to the login screen. To use the app, you'll need the login details of the DHIS2 instance you're trying to access: the server URL, your username, and password. 
+
+Enter your credentials and then tap log in. In this example, we will use the generic login information for our training database. 
+
+In a real scenario, you would use your personal account information to log in to your organization or project-specific DHIS2 instance. 
+
+After clicking log in, you'll be prompted with a user experience notification. Tap continue to confirm you understand the application will send error logs associated with your user ID to improve performance of the application. 
+
+You can tap on the privacy policy link to learn more if you want. 
+
+Your credentials will then be authenticated. And then the configuration and data will sync. 
+
+The amount of time the syncing process takes will be dependent on the size of the database you are trying to load. 
+
+When the app has finished syncing, the Home page will appear, which means that you are ready to start entering data in the DHIS2 Android Capture app. You'll learn about this in the next video. 
+
+Slide 5
+In summary, to download, install, and open the DHIS2 Android Capture app, first, go to the Google Play Store, find the DHIS2 Capture app and tap Install. Then, log in to the app with your credentials.

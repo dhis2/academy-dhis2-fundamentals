@@ -1,0 +1,73 @@
+Introduction to Data Capture & Validation
+
+Slide 2
+Welcome to the DHIS2 data capture and validation course. 
+
+Slide 3 + slide 4
+Many organizations use data to make decisions, but before you can begin to analyze data, you need to collect or capture the data in the first place. 
+
+Slide 5
+Once the data are collected, validating your data and checking to ensure your data are reliable is an important step to help avoid making decisions based on poor information. 
+
+Slide 6
+Organizations can face many challenges in capturing data, and these challenges can get bigger as the organizations grow in size. 
+
+Slide 7
+For example, a national scale immunization program may need to collect monthly reports from thousands of health facilities spread across a country with millions of people. 
+
+Slide 8
+In some areas where data are collected, there may be infrastructure challenges such as significant physical distance from district offices, which makes paper based reporting a challenge, lack of desktop computers or other permanent it resources, or poor or intermittent internet connectivity. 
+
+Slide 9
+The staff at these facilities may need to fill out reports for multiple programs, in addition to immunization. 
+
+Slide 10
+For example, they may need to also report on cases of malaria, HIV, tuberculosis, as well as on the child and maternal health services that they have provided. Each report uses a different form and can require a different reporting frequency such as monthly, weekly, or even daily. 
+
+Slide 11 + 12
+Once the data are collected, they usually need to be aggregated or added up, for example, at a district or regional level, so that program managers higher up in the organizational hierarchy can review data from many facilities together, allowing them to analyze the data and make informed programmatic decisions. In many cases, the data need to reach them in a timely fashion, in order for their decisions to have a greater impact. 
+
+Slide 13
+Capturing and aggregating all of these data can be very time consuming, and errors can be introduced at several steps along the way. 
+
+Slide 14 + slide 15
+From the moment when they are copied off a paper, to when they are aggregated. 
+
+Slide 16
+When these errors are missed, they can lead managers to make the wrong decisions. 
+
+Slide 17
+How does DHIS2 allow organizations around the world to capture, validate, and aggregate their data so that it is readily available for analysis and use? 
+
+Slide 18
+The DHIS2 software platform is designed to facilitate data capture in a variety of settings, and its flexible architecture allows it to accommodate different data entry forms from a variety of programs and sectors, including health, education, sanitation, and beyond. 
+
+Slide 19
+Data can be entered directly into DHIS2 at the point of service, either on a computer or tablet, through the web-based data entry application, or on an Android mobile device using the DHIS2 Capture app. 
+
+Slide 20
+Both of these applications provide data entry users with immediate visual feedback to help ensure that data being entered are valid and keep a record of entries and modifications to the data for accountability and follow up. 
+
+Slide 21
+Both the web and Android applications also offer offline modes so that data entry can continue. even if internet access is unavailable. Once the device is back online, all captured data are automatically synced with the central DHIS2 server. 
+
+Slide 22
+DHIS2 also includes built in tools that help reviewers perform more extensive checks on data quality, tools to facilitate follow-up on suspicious data values, and reporting tools that summarize data entry performance within an organizational hierarchy. 
+
+Slide 23
+Within a DHIS2 instance, all aggregate data that are captured through both the web and Android applications are stored in the central DHIS2 database, making it available to other users and allowing the data to be seamlessly aggregated across organizational units, and time periods for data analysis. 
+
+Slide 24
+In this course, you will learn about the key tools in the DHIS2 platform for collection and validation of aggregate data. 
+
+Slide 25
+For data capture, you'll get step by step demonstrations in both online and offline modes, of the web based data entry application and the DHIS2 Android Capture app, as well as an overview of some additional data import options. 
+
+Slide 26
+For data validation, you'll get an introduction to DHIS2 data validation features included in the data capture process, such as value types and validation rules. And learn about the data quality features that can be used to validate data after it has been captured, including validation rule analysis, and outlier detection. 
+
+Slide 27
+While DHIS2 can be used for individual level data management through the event and tracker data models, capture and validation of these data types will not be covered in this course. 
+
+Slided 28
+This course will prepare you to capture and validate aggregate data using DHIS2. We hope you enjoy the course.

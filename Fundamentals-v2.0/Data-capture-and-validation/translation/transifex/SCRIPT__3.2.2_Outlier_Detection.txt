@@ -1,0 +1,51 @@
+3.2.2 Outlier detection
+
+Slide 2
+Outliers in your data are values that are much higher or lower than a defined normal range can indicate issues with the quality of your data. 
+
+Slide 3
+One way that DHIS2 helps you to detect and address outliers is with the Outlier detection tool within the Data Quality app. 
+
+Slide 4
+In this video, we'll take a look at the basics of how to use this tool. 
+
+
+Slide 5 (demo)
+First, open up the Data Quality app in DHIS2 using the applications menu. 
+
+Once the application has loaded, select the Outlier detection tool. You'll then be taken to the dimension selection area. 
+
+First, select the data set that you want to check for outliers. All data elements within the data set will be checked for outliers. Note that multiple data sets can be selected at the same time. For this example, we'll select the COVID-19 Surveillance data set. 
+
+Next, select the organization unit, or units, where you want the tool to check for outliers. You can select multiple organization units, and the analysis will be performed separately on each unit, rather than on the aggregated data for all units. 
+
+Open the hierarchy and select Bird District to check for outliers in all organization units in that district. Finally, select the date range you want to check for outliers. 
+
+The date range specified must include at least one complete period of data entry for the data to be checked. For example, let's check over a four month period. 
+
+So we'll choose the 1st of May as the start date. We'll then end with the 31st of August as the end date. After selecting the data dimensions, you'll see that there are three additional options: the algorithm, threshold, and max results. 
+
+First, the algorithm field allows you to select the parameters of how DHIS2 analyzes the outliers. 
+
+
+Slide 6
+You can choose between the Z-score and min-max values. The Z-score is a statistical term that allows you to detect the values that fall outside of the normal distribution of data values for that particular data point. While the min-max values are predetermined values, and using this option will identify values outside of that set range. 
+
+Slide 7 (demo 2)
+If you choose the Z-score as the detection method, you'll also see a menu option for threshold. This refers to the number of standard deviations the data are allowed to deviate from the mean before they're classified as an outlier. 
+
+This is set by default to three, which is a commonly used Z-score setting for outlier detection. The final option is the max results field. This refers to the maximum number of outliers listed in the results. You can set this to be 500, 200, or 100. 
+
+Click the start button to run the outlier analysis. 
+
+Slide 8
+Once the analysis is complete, you'll see a screen with the results. On the left, you can see the data element that has an outlier, then the particular period and organization unit that show where and for what time period the outlier was entered. 
+
+The value entered for the data element is next. Followed by the statistical information on why that data point is classified as an outlier. 
+
+This shows you which values that have been entered in the data set are outside of the normal range, allowing you to follow-up to see if they were entered in error. For example, if a wrong number was entered by mistake, or if it is a true statistical anomaly, which may merit further investigation. 
+
+The last column on the outlier detection results screen is the follow-up button. This is used to mark a data value for follow-up in the data quality follow-up analysis tool. You will learn more about follow-up analysis in the next video. 
+
+Slide 9
+To recap, to perform outlier detection in DHIS2, open the Data Quality app, then select the Outlier detection tool, select the dataset, organization unit, start and end dates, and outlier analysis method. You'll then be presented with the outliers from your selected data dimensions.
