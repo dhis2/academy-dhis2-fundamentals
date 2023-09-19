@@ -7,7 +7,7 @@ git:
     source_file_dir: 'Fundamentals-v2.0/Data-analysis/translation/transifex'
     translation_files_expression: 'Fundamentals-v2.0/Data-analysis/translation/language-versions/<lang>/captions'
 
-    filter_type: dir
+  - filter_type: dir
     file_format: txt
     source_file_extension: txt
     source_language: en
