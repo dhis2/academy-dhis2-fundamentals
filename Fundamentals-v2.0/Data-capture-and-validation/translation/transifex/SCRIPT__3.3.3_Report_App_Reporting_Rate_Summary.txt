@@ -1,11 +1,8 @@
 
 Reports app: Reporting Rate Summary
 
-Slide 2
-Getting good quality data is essential to making data-driven decisions, 
-
-Slide 3
-but delays in data entry can lead to information gaps that make analysis and decision making difficult. 
+Slide 2 + 3
+Getting good quality data is essential to making data-driven decisions, but delays in data entry can lead to information gaps that make analysis and decision making difficult. 
 
 Slide 4
 How can DHIS2 help you to check to see if your data are entered in a timely fashion? 

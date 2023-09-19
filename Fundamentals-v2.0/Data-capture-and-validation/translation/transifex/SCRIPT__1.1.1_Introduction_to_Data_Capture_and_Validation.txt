@@ -3,7 +3,7 @@ Introduction to Data Capture & Validation
 Slide 2
 Welcome to the DHIS2 data capture and validation course. 
 
-Slide 3 + slide 4
+Slide 3 + 4
 Many organizations use data to make decisions, but before you can begin to analyze data, you need to collect or capture the data in the first place. 
 
 Slide 5
@@ -27,11 +27,8 @@ For example, they may need to also report on cases of malaria, HIV, tuberculosis
 Slide 11 + 12
 Once the data are collected, they usually need to be aggregated or added up, for example, at a district or regional level, so that program managers higher up in the organizational hierarchy can review data from many facilities together, allowing them to analyze the data and make informed programmatic decisions. In many cases, the data need to reach them in a timely fashion, in order for their decisions to have a greater impact. 
 
-Slide 13
-Capturing and aggregating all of these data can be very time consuming, and errors can be introduced at several steps along the way. 
-
-Slide 14 + slide 15
-From the moment when they are copied off a paper, to when they are aggregated. 
+Slide 13 + 14 + 15
+Capturing and aggregating all of these data can be very time consuming, and errors can be introduced at several steps along the way, from the moment when they are copied off a paper, to when they are aggregated. 
 
 Slide 16
 When these errors are missed, they can lead managers to make the wrong decisions. 
