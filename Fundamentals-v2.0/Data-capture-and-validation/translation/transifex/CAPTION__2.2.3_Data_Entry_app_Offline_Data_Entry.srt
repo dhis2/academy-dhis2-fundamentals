@@ -1,0 +1,277 @@
+﻿1
+00:00:00,874 --> 00:00:04,041
+(gentle upbeat music)
+
+2
+00:00:13,560 --> 00:00:15,960
+- [Narrator] What happens
+when you are entering data
+
+3
+00:00:15,960 --> 00:00:19,653
+into DHIS2, but your
+internet connection is lost?
+
+4
+00:00:21,270 --> 00:00:23,580
+This can be a common problem in places
+
+5
+00:00:23,580 --> 00:00:27,033
+with limited or unstable
+internet connectivity.
+
+6
+00:00:28,500 --> 00:00:31,440
+For this reason, DHIS2 has been built
+
+7
+00:00:31,440 --> 00:00:35,400
+with basic offline data
+entry capabilities in mind
+
+8
+00:00:35,400 --> 00:00:37,860
+so you can continue to enter data
+
+9
+00:00:37,860 --> 00:00:40,530
+even when temporarily offline.
+
+10
+00:00:40,530 --> 00:00:42,753
+Let's take a look at how it works.
+
+11
+00:00:44,670 --> 00:00:48,090
+When you open the DHIS2 data entry app,
+
+12
+00:00:48,090 --> 00:00:51,420
+the message, You are
+online, should display
+
+13
+00:00:51,420 --> 00:00:54,483
+in a yellow text box at
+the top of the screen.
+
+14
+00:00:55,350 --> 00:00:57,810
+This means that you are
+connected to the internet
+
+15
+00:00:57,810 --> 00:01:01,020
+and the data you entered
+will be automatically saved
+
+16
+00:01:01,020 --> 00:01:03,003
+to the DHIS2 server.
+
+17
+00:01:03,990 --> 00:01:07,833
+Now, let's see what happens
+if you lose internet access.
+
+18
+00:01:08,670 --> 00:01:13,020
+You can test this by turning
+your internet connection off,
+
+19
+00:01:13,020 --> 00:01:15,780
+and then opening up a Data Entry form
+
+20
+00:01:15,780 --> 00:01:18,210
+and starting to enter data.
+
+21
+00:01:18,210 --> 00:01:22,650
+The message, You are offline,
+data will be stored locally,
+
+22
+00:01:22,650 --> 00:01:25,170
+will appear at the top of the screen.
+
+23
+00:01:25,170 --> 00:01:27,930
+You'll notice that when you enter data,
+
+24
+00:01:27,930 --> 00:01:30,240
+the field still turns green
+
+25
+00:01:30,240 --> 00:01:33,450
+to indicate the data value is saved.
+
+26
+00:01:33,450 --> 00:01:36,600
+This is because the data
+are being stored locally
+
+27
+00:01:36,600 --> 00:01:39,000
+on your computer's cache.
+
+28
+00:01:39,000 --> 00:01:41,730
+Let's turn the internet back on.
+
+29
+00:01:41,730 --> 00:01:43,710
+When the internet comes back on,
+
+30
+00:01:43,710 --> 00:01:46,710
+you will get another message that says,
+
+31
+00:01:46,710 --> 00:01:51,000
+There is data stored locally,
+please upload to the server,
+
+32
+00:01:51,000 --> 00:01:53,820
+with an Upload button next to the message.
+
+33
+00:01:53,820 --> 00:01:57,570
+All you need to do is simply
+click on the Upload button
+
+34
+00:01:57,570 --> 00:01:59,670
+and then you should receive the message,
+
+35
+00:01:59,670 --> 00:02:02,133
+Upload to server was successful.
+
+36
+00:02:04,470 --> 00:02:08,100
+It is critical that you do
+not clear your browser cache
+
+37
+00:02:08,100 --> 00:02:11,940
+using the DHIS2 Browser Cache Cleaner app
+
+38
+00:02:11,940 --> 00:02:15,090
+until you have uploaded
+your data to the server,
+
+39
+00:02:15,090 --> 00:02:17,280
+as your data are stored locally
+
+40
+00:02:17,280 --> 00:02:20,160
+in your DHIS2 browser cache.
+
+41
+00:02:20,160 --> 00:02:22,800
+Clearing your cache
+before uploading your data
+
+42
+00:02:22,800 --> 00:02:25,320
+will result in data loss.
+
+43
+00:02:25,320 --> 00:02:27,690
+Note that the offline functionality
+
+44
+00:02:27,690 --> 00:02:31,440
+in the web-based DHIS2 data entry app
+
+45
+00:02:31,440 --> 00:02:35,340
+is intended to cover
+periodic internet outages
+
+46
+00:02:35,340 --> 00:02:39,030
+and not to perform as a
+permanent offline mode.
+
+47
+00:02:39,030 --> 00:02:41,610
+If you need to capture data in an area
+
+48
+00:02:41,610 --> 00:02:44,670
+where internet connectivity
+is very limited,
+
+49
+00:02:44,670 --> 00:02:46,860
+or if you will be working temporarily
+
+50
+00:02:46,860 --> 00:02:50,280
+from an area with no
+internet access at all,
+
+51
+00:02:50,280 --> 00:02:54,630
+we recommend using the
+DHIS2 Android Capture app.
+
+52
+00:02:54,630 --> 00:02:57,090
+You will learn more about the Android app
+
+53
+00:02:57,090 --> 00:02:59,040
+later in this course.
+
+54
+00:02:59,040 --> 00:03:01,440
+To recap, in this video,
+
+55
+00:03:01,440 --> 00:03:05,490
+you have learned that DHIS2
+allows you to enter data
+
+56
+00:03:05,490 --> 00:03:08,100
+when the internet connection is not stable
+
+57
+00:03:08,100 --> 00:03:11,820
+by saving the data locally
+in your browser cache.
+
+58
+00:03:11,820 --> 00:03:13,680
+You will know when you are offline
+
+59
+00:03:13,680 --> 00:03:16,530
+by a message displayed on the screen.
+
+60
+00:03:16,530 --> 00:03:18,600
+When connectivity is restored,
+
+61
+00:03:18,600 --> 00:03:21,360
+you need to select a
+button to upload the data
+
+62
+00:03:21,360 --> 00:03:22,653
+to the DHIS2 server.
+
+63
+00:03:24,838 --> 00:03:28,088
+(gentle upbeat music)
+
