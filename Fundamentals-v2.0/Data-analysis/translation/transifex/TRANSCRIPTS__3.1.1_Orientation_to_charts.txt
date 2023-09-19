@@ -1,0 +1,74 @@
+Orientation to charts
+
+Slide 2
+What is a chart and how can a chart help for data analysis? 
+
+Slide 3
+In this video, you'll see what a chart is, the different types of charts available in DHIS2 and what the chart interface looks like, within the Data Visualizer app. 
+
+Slide 4
+Charts are graphical representations of data, based on defined parameters. The data are represented by symbols such as bars in a bar chart, lines in a line chart or slices in a pie chart. 
+
+Slide 5
+Visualizing data through charts, can help to uncover patterns, trends and relationships in data. 
+
+Slide 6
+Different charts are better at communicating different types of data. For example, if you want to assess the difference, between comparable data points, a bar or column chart would be the best option. 
+
+Slide 7
+Or if you want to track or compare changes over time, a line chart will help you visualize those changes or discover trends. 
+
+Slide 8
+In DHIS2 you will find multiple graph styles in the Data Visualizer app. In this module, we'll cover some of the most common styles. 
+
+Slide 9 (demo)
+You can access the Data Visualizer app in two ways. The first way is to go to the search app field and type Data Visualizer, or you can scroll down to find the application, within the search apps field. 
+
+Click on the icon to open it. You can also open a chart from a dashboard. For example, in the immunization dashboard, we can see this chart, EPI-AEFI cases last 12 months, representing the adverse events following immunization in the past 12 months for training land. 
+
+Select the context menu and click open in Data Visualizer app. Here you can see the Data Visualizer interface. 
+
+Let's examine the chart. The number of cases is represented in the y-axis. The period is in the x-axis and the organization unit is in the filter. 
+
+You have a title for the y-axis as well as the chart itself. You can also use the layout to verify what has been selected. Do this by hovering over an item in the layout. Now that we have the chart open, there are various dimensions we could change to modify the chart produced by DHIS2. 
+
+Let's first alter the chart type. From the current column chart, let's open the dropdown menu and select Bar graph. 
+
+Click Update to see the changes. We can now see the data are being displayed in a bar chart rather than a column chart. As with pivot tables, you will find the dimensions in the pane on the left hand side. 
+
+You can alter these dimensions in the same way. For example, let's alter the period. You can do this by either selecting Period from the layout or the left side pane modifying the selection and clicking Update. The chart now shows the data for a different period. 
+
+Let's see how we can alter the layout of this chart. 
+
+Slide 10
+First, you need to know that the layout is dynamic, meaning that the dimensions available, will depend on the type of chart you have selected. 
+
+Slide 11 + 12
+For example, the column, stacked column, bar, stacked bar, line, area, stacked area, radar and year over year charts, all show series, category and filter as the layout dimensions. The combination of series and category layout dimensions, means that these chart types can be used to visualize multiple data dimensions simultaneously, making it easier to compare them. 
+
+Slide 13 + 14
+While pie, gauge and single value charts, have only one dimension to select. The rest of them go in the filter. This means that these chart types are not well-suited for visualizing multiple data dimensions at once, but can be a good choice for highlighting one key dimension. 
+
+Slide 15 (demo)
+What are the series in category dimensions? In this bar chart, we can see that the series dimension is showing the data items in the columns and the category is showing the period along the horizontal axis. 
+
+As with the pivot tables, you can drag and drop the dimensions to alter the layout. 
+
+Let's move the data to the category, the period to the series and click Update. Now we can see that while the underlying data has remained the same, the visualization has changed based on the way the dimensions are organized. 
+
+Making layout changes like this can help uncover patterns or trends in the data. 
+
+Now, let's take a look at the options menu. As with the layout, the options available are also dynamic, depending on the type of chart selected. Under the Data tab, you can choose how to display the data by ticking the options available. 
+
+For example, with a bar chart, you can hide empty categories, add a target line and add a trend line. Under the Axes tab, you can customize the axes and their labels. 
+
+For example, you can change and format the axes titles. And under the Style tab, you can customize the look of your chart with colors and titles. 
+
+All of these options are to be used to create a meaningful graphical representation of the data. Click Update to view any changes made in the options menu. 
+
+The file menu, as with the pivot tables, provides options to create a new chart, open a saved chart, save the current chart, share this output with other DHIS2 users or delete the current chart. 
+
+Lastly, you can download your chart as a PNG or PDF file, which preserves the graphic format or you can also download the plain data source to use it outside of DHIS2, including in other data visualization programs. 
+
+Slide 16
+In summary, charts are a graphical representation for data visualization. DHIS2 provides several different types of charts within the Data Visualizer app to allow users to select the type that fits their data best. Charts can be altered by changing the dimensions and the layout, and you can customize how your charts look by using the different options available, charts can also be saved, shared or downloaded with just a couple of clicks.

@@ -1,0 +1,32 @@
+Orientation to the Maps app
+
+Slide 2
+In this video, we'll see how to access the Maps application, utilize the main features of the layers used to view aggregate data, and an overview of options available in the Maps app interface. 
+
+Slide 3 (demo)
+Let's see how the Maps app works. There are two ways to access the application. The first one is using the Apps menu. 
+
+After logging in to DHIS2, go to the Apps menu in the top right corner of the screen and write Maps in the search field, then click on the Maps icon. The second way to access the app is by opening a map from a dashboard. 
+
+Let's use this method for our example. We can select the immunization maps dashboard and scroll to the EPI DPT 1 through 3 dropout rate by district map. In the top right corner of the map, click on the ellipsis to open the context menu and select Open in Maps app. 
+
+Now you see the Maps app interface. On the left-hand side, you have the Layer panel. When clicking on Add layer, you will see all of the available layers that can be added to the map. 
+
+All layers in DHIS2 are presented as layer cards, which outline the information being presented in the layer. You can reorder the layers by grabbing the six dots icon in a layer card and dragging and dropping it to the desired position. 
+
+The layer at the top will display as the top layer on the map. The layer at the bottom will be the bottom layer of the map, et cetera. 
+
+Note that the base map layer cannot be reordered since it is the background of the map. An arrow symbol allows you to collapse and expand the card. Information about the data being displayed in the layer are visible within the card, including the data item, period, and legends, if applicable. 
+
+Along the bottom of each card, you find a pencil icon. This allows you to open the Layer Configuration dialog and edit the layer. An eye symbol for toggling the visibility of the layer, a slider for modifying the layer transparency, and a more actions menu with additional features, such as an option to show the data in a data table. 
+
+Open the map as a chart in the data visualizer application. Download the data from the layer, edit the layer and remove the layer. On the right-hand side of the Maps app, you will find the zooming features. 
+
+You can zoom in or out. Enter full screen mode. Center the map on your data. Search for places or addresses. Or measure distances and areas on the map. 
+
+And in the top bar, click on the File menu to create a new blank map from scratch, open an existing saved map, save your map and give it a title and a description, share the map with other users, get a URL link to easily access the map or delete the map. 
+
+Click on Download to open the dialog and select the style of the map before downloading it as a PNG file. 
+
+Slide 4
+In summary, you have seen how the Maps app is designed with the three main control sections. The layers section with the layer cards on the left, the zooming options on the right, and the file menu on the top. Layers can be moved and reordered, edited, hidden, opened as a table or chart, and downloaded, among other options. Maps can be zoomed in or out, saved, shared with other users, and downloaded as a PNG file.

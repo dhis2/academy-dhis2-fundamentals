@@ -1,0 +1,42 @@
+Creating a map: Thematic layer
+
+Slide 2
+In the previous video, we learned how to create a map in DHIS2 with a base map and a boundary layer. In this video, we will see how to add and edit a thematic layer. We will continue working with our example from Trainingland to create a map that shows BCG coverage by district in 2020. A thematic map depicts information about a topic or theme over a geographic area. 
+
+Slide 3 (demo)
+To add a thematic layer in the DHIS2 maps app, click Add layer and select Thematic. In the configuration dialog, the first tab of information we need to select is the data. 
+
+As maps use the concept of layers to add data, there can only be one data item selected in each layer. In this case, coverage is an indicator, so we need to select Indicator as the item type. BCG is an immunization used to protect against tuberculosis. Under the Indicator group dropdown, select Immunization - coverages and from the list of available indicators, select EPI - BCG coverage, percent. The period tab is next. 
+
+Although the interface looks a bit different to the other visualization apps, conceptually, it is the same. First, we have to select the Period type we are working with. Either relative or fixed. And depending on the type selected, you'll be presented with different periods to select. 
+
+While with pivot tables and graphs we could select multiple periods per output, within a map layer, we can only select one period type and one period as we are displaying the data in one map. For this example, in the period type, 
+
+let's select the fixed period yearly and the period 2020. Then the Org Units tab allows you to select the organization units you want to view the data for in the layer. As in the data visualizer app, we can select organization units in the hierarchy by selecting levels or selecting groups. For this example, we want to select all districts in Trainingland. 
+
+To do this, in the hierarchy, tick the box next to Trainingland, then in the select levels dropdown, select districts and unselect regions. Finally, click on the Style tab. You can see two styles of maps. Choropleth maps will assign a color to each organization unit shape according to the data value. A bubble map will show data values as proportional circles. 
+
+The circles are placed in the center of each organization unit. For our example, let's use the choropleth map. Let's look at the legend options. 
+
+An automatic color legend means that the application will automatically categorize the data for the selected organization units based on the classification, number of classes and the color scale you select. You can set classification to either equal intervals or equal counts. Let's look at the differences between them. 
+
+Select equal intervals, and add layer. Equal intervals will divide the range of values into equally sized classes using this formula. Highest data value minus lowest data value divided by the number of classes. 
+
+For example, if the highest value is 94.5, the lowest value is 32.7, and we have five classes, the range of each interval will be 12.4. As you can see, the number of data values for each interval varies from zero to eight. This method is best used for continuous datasets in which data represent measurements and not counts, such as the height of a person, precipitation, or temperature. 
+
+Let's edit the map and select equal counts. To do that, click on the pencil icon to open the dialog. Return to the Style tab and then select equal count from the dropdown menu. 
+
+Then click on Update layer. Equal counts will distribute the data values equally along the number of classes that are made, for example, if I have 12 organization units and five classes, each class will contain two or three values. 
+
+Now you can see the range of values of each interval varies significantly from around 1% to more than 40%. This method is best for data that are evenly distributed across its range as it helps to emphasize the relative position of the data values, for example, which districts are in the top 20% for BCG coverage. 
+
+Let's click on the pencil to continue editing the layer. The predefined color legend option will apply a predefined legend to your map. Note that when choosing this option, you don't need to set the classification, number of classes, or color scheme yourself. 
+
+All of these features are already predefined. You only need to select a legend set. In this case, let's choose EPI coverage. And update layer. Now you can see the legend with five classes, their classification and color scheme. 
+
+However, we can see that the names of the districts are no longer visible. This is because they are covered by the color scheme, which is higher up in the layer order. 
+
+You can move the boundary layer up by dragging the boundary layer card to the top. The district names are visible again because the layer is above the color scheme layer in the map. Now we can see the BCG coverage by district in Trainingland for the year 2020. 
+
+Slide 4
+In summary, a thematic layer represents information about a topic or a theme over a geographic area. You can specify which data item, period and organization unit you want to view in the thematic layer and you can style your map by selecting the classification method that fits your needs, either an automatic color legend or a predefined color legend.

@@ -1,0 +1,32 @@
+Orientation to pivot tables: Organisation unit dimension, and disaggregations
+
+Slide 2
+We already saw how to select the data items and the period when building a pivot table. Now let's see how to select the organization unit dimension and also add disaggregations to our pivot table. Let's start by updating the organization unit. 
+
+Continuing with our immunization example, we will replace the two regions of Trainingland that were previously displayed in the pivot table with all districts in Trainingland, regardless of the region. 
+
+Slide 3 (demo)
+To get started, under the main dimension section, click on the organization unit dimension. Here we can select the organization unit by hierarchy, levels, or groups. 
+
+The hierarchy is the default way of selecting organization units. In this pivot table, we can see that the root, or top level unit, is selected. 
+
+Remember that data are aggregated based on the organization unit selected in the hierarchy. For example, with Trainingland selected, which is the country level in our hierarchy, we will view all data entered for Trainingland. 
+
+The organization unit hierarchy supports multiple selections. Just expand the hierarchy by clicking on the arrows next to the organization unit names and click the tick boxes next to the ones you want to include in your pivot table. 
+
+Another way to select organization units is by using the Select a level option. This allows you to select all of the organization units at certain levels. For example, if we click on the Select a level field and click on Districts, we can view the data by districts with the click of a button rather than having to go into the hierarchy and select them all by hand. 
+
+This is a fast and convenient option, especially when there are many organization units at one level. A third way of selecting organization units is by using the Groups option. Organization units can be grouped into as many organization units groups as you like and are generally grouped based on a characteristic, such as type of facility. 
+
+For example, if we click on dispensary, we will view only those organization units that are classified as a dispensary. To continue with our example, let's use the levels option to select all districts, then click Update. 
+
+Now we can see the data by district in Trainingland. Now that we have selected our pivot table's three main dimensions, what disaggregations can we add? 
+
+On the left hand side of the screen under the main dimension section, you will find all of the available disaggregations for this instance of DHIS2. 
+
+The ones with the green dot next to them are related to the data items selected in the visualization. This means the selected data item will be compatible with those data dimensions at a minimum. 
+
+You will learn more about selecting data dimensions, including disaggregations later in this course. 
+
+Slide 4
+To wrap up, you can select or edit the organization unit in a pivot table by using the hierarchy, selecting groups, or selecting levels. You can also add disaggregations, selecting them from the available options in the Data Visualizer app.

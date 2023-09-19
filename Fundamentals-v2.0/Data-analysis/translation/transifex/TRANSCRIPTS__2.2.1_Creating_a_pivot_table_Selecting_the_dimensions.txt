@@ -1,0 +1,43 @@
+Creating a pivot table: Selecting the dimensions
+
+Slide 2
+What are the steps to create a pivot table in DHIS2? 
+
+Slide 3
+Let's say we want to know the number of doses of six different vaccines that have been administered since 2017 in the two regions of Training Land. Specifically, let's look at doses of BCG, DPT-HepB-HIB1 and 3, MR1 and 2, and Yellow fever. Knowing more about the administration of these vaccines allows us to better understand the health system access in specific regions. 
+
+Slide 4 (demo)
+The first step is to open the Data Visualizer App. To do that open the apps menu and select the Data Visualizer App. 
+
+Then you need to select the type of data visualization from the dropdown menu. 
+
+In this case, select pivot table. The next step is to select in the left pane, the three dimensions for our pivot table, the data items, period, and organization unit. 
+
+Let's first select the data items. From the data type menu, select data elements. And then from the data element group, select immunization vaccinations. All data elements that are part of this group will then appear in the data items box. 
+
+We need to move the particular data elements that we want to see in our pivot table over to the selected items box. One way to select and move over items is to double click on them. 
+
+We can also select more than one data element at a time by pressing control on windows or command on Mac while clicking on the elements, and then clicking on the single arrow to move them to the selected items box. 
+
+If you want to add several data elements listed next to each other, you can select the first one, then press shift and click on the last one to select them all and then move them using the arrow pointing to the right. You can remove the data elements in the selected items box by using the same commands. 
+
+For example, selecting all of these data elements using shift and clicking on the arrow to the left, to move them back to the available column. 
+
+Let's add the EPI MR1 doses given and EPI MR2 doses given as well. Once we have all data elements selected, click on hide. Clicking hide instead of update allows you to store your selection and move on to editing the next dimension so you can wait to display and updated pivot table visualization until you are finished making all of your edits. 
+
+The next dimension we want to select is the period. As we want to get the data since 2017, we are going to select the fixed period tab. 
+
+Then in period type, select yearly. Click on 2017 and press shift while clicking 2021 to select that set of years and move them to the selected periods column, by clicking on the arrow to the right. 
+
+Then we move last 12 months to the left by double clicking on it to unselect it, then click hide. The last dimension we need to select is the organization unit. 
+
+We want to view the data for animal and food regions to do this, we untick the box next to Training Land and tick the boxes next to animal and food regions. Now, with all of the dimensions selected, we can click on update. 
+
+We are now able to see the pivot table with the dimensions we have selected. As you can see the table displays aggregated data from the animal and food regions. 
+
+The columns show the data for each of the vaccines and the row show the years and the periods 2017 to 2021. 
+
+If you hover over the dimensions in the layout section, you can see the options that are currently selected for each one. 
+
+Slide 5
+In summary, to create a pivot table, you first need to open the Data Visualizer App, then select pivot table from the list of visualization tools, then select the three dimensions, data items, period, and organization unit, and click update.

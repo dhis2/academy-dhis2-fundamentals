@@ -1,0 +1,40 @@
+Creating a map: Interpreting legends and data tables
+
+Slide 2
+In previous videos, we created a map in the DHIS2 maps app by selecting a base map, adding a boundary layer, and a thematic layer that shows the coverage for BCG vaccines by districts, in training land for the year 2020. 
+
+Slide 3
+In this video, we will focus on how to read our map and interpret its legend. 
+
+Slide 4 (demo)
+A map legend conveys the meaning of symbols and colors on a map. When we read and interpret a map legend, we can understand what the data are telling us. Let's check the legend selection we made for this map. In the thematic layer card, click on the pencil icon to edit this layer. In the style tab, the predefined color legend is selected, and under legend set EPI coverage was chosen. This means that the map will show the classification, number of classes, and color scheme as predefined for legend called EPI coverage. These predefined legends are configured by administrators. Click cancel to come back to our map. What is the map legend telling us? First, it has five classes of BCG coverage. 
+
+Slide 5
+Low, from zero to 70%, mid, between 70 and 80%, high, between 80 and 90%, highest, between 90 and 100% and a fifth level called invalid that goes from 100 to 1000. An organization unit will fall into this class if it has a coverage over 100%, which suggests an error in the data values. 
+
+Slide 6
+On the left, you can see the color assigned to each level. The colors relate to the classification of the data. 
+
+Slide 7
+For example the green colors signify a higher level of vaccine coverage, which is a goal to reach within the district. While the orange and red indicate areas of lower coverage. This type of legend makes it easy to view data based on project targets or goals. 
+
+Slide 8 + 9 + 10 + 11
+Next to each level on the right, we can see the number of organization units in this case, districts, that fall into those classes. So we have two districts with low API BCG coverage, two with mid coverage, five with high coverage, and three with highest coverage. 
+
+Slide 12
+There are no districts with invalid data. 
+
+Slide 13
+Now that we understand the legend, let's focus on our map. You can see that it is very easy to identify those districts that have a high vaccination coverage versus those that do not. 
+
+Slide 14 (demo)
+By hovering over a district we can see the actual value of the data item in this case, the BCG coverage rate. What if we want to view the data from the thematic layer in a table, rather than having to hover over each district to get the values? You can do that in the thematic layer card, click on the ellipsis icon to display the more actions menu and select show data table. Now you can see the data table under the map. 
+
+Slide 15
+The data table shows all of the underlying data related to the data you have selected in the thematic layer. In this case, we are working with an indicator EPI BCG coverage, and we can see that the data table displays all of the values for this indicator, the legend class it belongs to, and all of the relevant organization unit information. The data table is dynamic, which allows you to sort by any column by ascending or descending order. You can use the column headers as filters as well. 
+
+Slide 16
+For example if we only want to view the districts whose parent organization unit is food region, we can filter on food. Notice that the map also updates with the districts that are filtered. Let's remove the filter and close the data table by clicking on the more actions menu, and selecting hide data table to return to our original map view. 
+
+Slide 17
+In summary, map legends help us understand and interpret the data in a map to make informed decisions. Data from maps can also be shown as tables and filters can be added to the map through the data table.

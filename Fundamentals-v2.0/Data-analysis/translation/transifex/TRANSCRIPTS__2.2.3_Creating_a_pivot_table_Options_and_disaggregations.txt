@@ -1,0 +1,30 @@
+Creating a pivot table: Options and disaggregations
+
+Slide 2
+This pivot table shows the number of BCG, yellow fever, EPT, HepB HIB One and Three, and MR1 and Two vaccinations by district in the animal region from 2017 to 2021. 
+
+But what if we wanted to further customize the options in the table to change its appearance and include additional elements and add a disaggregation so we can see certain data at a more granular level? 
+
+Let's see how we can do this. Let's start by updating the pivot table options. 
+
+Slide 3 (demo)
+First, we need to open the options menu by clicking on options in the menu bar at the top of the screen. 
+
+In the data tab, let's tick column totals to add a sum of each type of vaccination. Then in the style tab, we can add a title, for example, number of vaccinations given by district in animal region 2017 to 2021 and click update. 
+
+Now we can see our title displayed at the top of the pivot table and the total number of doses given for each vaccine at the bottom of each column. 
+
+Columns can be sorted by using the arrows next to the column headers from the lowest to the highest number or the other way around. To display the original order again, simply click one more time. 
+
+What if we wanted to view the data by district and have subcategories in the rows that show the data by urban and rural classification? 
+
+A desegregation can be added to the table to show this. In the left pane, let's scroll down to the your dimension section to find the desegregation. 
+
+Note that the green dots signal what desegregations are related to the dimensions already selected. In this case, we could add IPD/OPD, ownership, type and urban/rural. 
+
+Click on urban/rural to bring up the dimension selection box. Click the double right arrow to move all options from the left to the selected field on the right. 
+
+Since we want to add the desegregations to the rows, click on the down arrow next to add to columns and select add to rows. Now the data are being displayed by district with urban/rural subcategories for each district. 
+
+Slide 4
+In summary, DHIS2 allows you to customize your pivot table further, adjusting additional table options and adding to segregations based on the selected data dimensions to change your table's appearance and the way the data are displayed.

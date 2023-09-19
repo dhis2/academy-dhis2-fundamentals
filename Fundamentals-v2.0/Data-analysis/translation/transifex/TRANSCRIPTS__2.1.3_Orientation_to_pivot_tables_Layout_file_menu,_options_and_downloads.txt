@@ -1,0 +1,24 @@
+Orientation to pivot tables: Layout, file menu, options and downloads 
+
+Slide 2
+Now let's focus on the layout options of a pivot table in the Data Visualizer app. The layout area is just above the visualization. The output, in other words the layout, or appearance of the pivot table is defined by where each main dimension is in the layout area. In this example, the data items appear in the column section, the organization units in the rows, and the periods in the filter. 
+
+Slide 3 (demo)
+You can hover over each of the icons in the layout area to see the selected options for each item. 
+
+The layout area makes it easy to move the dimensions to different sections. You can simply drag and drop the dimensions to the column, row, or filter sections and click Update so changes in the layout are reflected in the pivot table. 
+
+For example, now we see the data items in the rows and the organization units in the columns. Let's click on the options button to see the extra options available to customize your pivot table. Note that the options available depend on the type of visualization selected. 
+
+We can add column and row totals, and subtotals in the Data tab or hide empty columns and rows by ticking the boxes. Let's select row totals and click Update. 
+
+Now we can see the totals for each row. By clicking on the File menu, you will be able to create a new visualization, open an existing saved visualization, and save your current visualization. 
+
+When saving a visualization, we recommend you follow a naming convention that mentions your three main dimensions. For this example, start with the data items, in this case, EPI-OPV-doses given and coverage, then the organization unit, District. 
+
+And finishing with the period, January & February 2021, and click Save. You can also rename and translate the name of the visualization, share this visualization with other DHIS2 users, get a link for the visualization, or delete it. 
+
+Lastly, by clicking on the Download menu, you will find different options available to download your pivot table. You can preserve the table layout by using the Excel, CSV, or HTML options, or download the plain data source by selecting JSON, XML, Excel, CSV, or other advanced options. 
+
+Slide 4
+In summary, you can change the pivot table's layout by dragging and dropping the dimensions and updating the output. Options can be added to customize the pivot table. The File menu allows you to save, share, or delete the pivot table. And the Download menu allows you to download the output in different formats to use outside of DHIS2.

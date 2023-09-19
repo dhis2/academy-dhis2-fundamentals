@@ -1,0 +1,40 @@
+Creating a chart: Pie charts
+
+Slide 2
+In the previous video, you learned how to move from a column chart to a stacked bar chart to visualize data for different OPV doses disaggregated by age. But what if we wanted to view the overall total number of OPV doses given broken down by location for the year 2021 instead? We can easily do this with a pie chart. Let's see how to do this in DHIS2. 
+
+Slide 3 (demo)
+First, open the chart type selector and find the pie chart. As you can see, pie charts are used to represent the split of the parts of a whole. 
+
+In our example, the parts will be the locations and the whole will be the number of OPV doses given in the Animal Region in 2021. Now let's update the chart type to pie. 
+
+Once we do that, we can see that the layout area changes and now only the series and filter dimensions are available. 
+
+The category dimension does not appear anymore. You will find the same interface when you create single value and gauge charts. 
+
+This means that these three chart types are ideal for visualizing data based on one primary dimension. For this example, make sure that the organization units are in the series and all other dimensions are in the filter then click update. 
+
+Now we can see a pie chart that allows us to view all doses of any OPV vaccine given in 2021, divided by the different colored sections, or slices, by organization unit. 
+
+Slide 4
+In this series of videos, you have learned how to use the DHIS2 Data Visualizer app to create different types of charts, such as line, column, stacked bar, and pie charts. 
+
+Slide 5
+The decision on which type of chart to select will depend on what kind of data analysis you want to run. You can find helpful tips on which to select in the description of each chart type. 
+
+Slide 6
+If you want to see the data variation over time, you would most likely select a line chart. 
+
+Slide 7
+If you want to compare data across locations, a column chart allows easy visualization and comparison of those data. 
+
+Slide 8
+A stacked bar or stacked column gives us the option to add granularity to our analysis, such as by adding disaggregations to our data like age or sex. 
+
+Slide 9
+Finally, a pie chart is best to use when you want to compare a total amount divided into parts for one period and one organization unit. 
+
+Slide 10
+To summarize, the Data Visualizer app in DHIS2 allows you to create and edit different types of charts depending on the type of data analysis you want to perform. 
+
+To switch from one type of chart to another, simply select the chart type from the dropdown menu and adjust the layout and options to achieve the desired visualization.

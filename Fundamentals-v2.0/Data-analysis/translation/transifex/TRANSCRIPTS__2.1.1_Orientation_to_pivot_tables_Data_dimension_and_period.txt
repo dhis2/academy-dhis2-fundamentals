@@ -1,0 +1,75 @@
+Orientation to pivot tables: Data dimension and period dimension
+
+Slide 2
+What is a pivot table? And what type of data can we analyze using a pivot table in DHIS2? 
+
+Slide 3
+In this video, you'll learn what a pivot table is, distinguish the main sections of the Data Visualizer interface, and identify the main dimensions to select when building a pivot table. 
+
+Slide 4 + 5
+A pivot table is an interactive, tabular visualization tool to calculate, summarize, and analyze large amounts of data. 
+
+Slide 6
+Pivot tables are a visualization type within the Data Visualizer app and can be created using data from all data models, that is for aggregates, event and tracker data. 
+
+Slide 7
+In this course, we will focus on pivot tables for aggregate data. 
+
+Slide 8 + 9
+The main feature of a pivot table is the ability to pivot dimensions, such as indicators, data elements, organization units, and periods as columns and rows to create customized views. Let's see how it works. 
+
+Slide 10 (demo)
+There are two ways to access the application, the first one is using the apps menu. 
+
+After logging into the platform, go to the apps menu in the top right corner of the screen type in Data Visualizer in the search field and click on the Data Visualizer icon. The second way to access the app is by opening a pivot table from a dashboard. 
+
+For example, we can select the Immunization dashboard and open the table EPI-OPV3 doses given and coverage this year, click on the context menu icon, the three dots in the top right corner of the dashboard item and select open in Data Visualizer app. Now we are in the Data Visualizer application. 
+
+Here you can see the Data Visualizer interface showing the pivot table from the dashboard. The screen is split into two sides. On the right hand side, you can see the actual pivot table with the data arranged in a simple tabular output, comprised of columns and rows. On the left hand side, we find the options to configure the visualization. 
+
+There is a dropdown menu to display the visualization types available, including an icon depicting the type of chart, a name, and a short text that explains its use. 
+
+For example, the description under pivot table says, "View data and indicators in a manipulable table." Below the visualization type section, we can see the main dimensions section. 
+
+This is where the data, the what, the period, the when and organization unit, the where dimensions are selected. 
+
+Slide 11
+In this video, we will modify the data and period dimensions for the immunization pivot table we are using in this example, by adding a data element to expose the denominator that is used to calculate the EPI-OPV3 coverage rate, and changing the period from yearly to monthly to see data displayed for January and February using a fixed period. We will modify the organization unit in the next video. 
+
+Slide 12 (demo 2)
+Let's start with the data dimension. When we click on the data dimension, a new screen opens where we can select the data items we would like to view. 
+
+Note that there are two data items currently selected for the pivot table that appear in the selected items box. All data items are represented by symbols. The dot represents a data element and the division symbol represents an indicator. 
+
+To add a new data element, click on data type, select data elements, and from the data element group, select population estimates. From the available data elements, select GEN Population under one year by double clicking on it, you can also click on the item to select it and then click on the arrow to the right to move it to the selected items box. 
+
+We are selecting this particular data element in this example, because it is the denominator that is being used to calculate the EPI-OPV3 coverage indicator that is already shown in our pivot table from the dashboard. Click update to view the new data element in the pivot table. 
+
+Now we can see three columns of data. In the first one, the number of OPV3 doses given, which is the numerator in our indicator, in column three, we see the population, which is the denominator and the indicator is in the second column, which is the numerator divided by the denominator and multiplied by 100 to get a percentage. 
+
+Let's go to the second dimension, the period. There are two options to select, relative periods or fixed periods. 
+
+Slide 13 (demo)
+Relative periods are relative to the current date. 
+
+These will update automatically and can be useful if you want data in the saved visualization to be modified as time moves forward. 
+
+Relative periods are useful and save time when used for reports that are produced on a regular basis. Fixed periods allow you to select the exact timeframe you wish to view data for. 
+
+Unlike relative periods, fixed periods will not update with time and any saved visualization that uses fixed periods will always show data from that specific period. 
+
+Note that multiple periods and a combination of fixed and relative periods can be selected at the same time. 
+
+Slide 14 (demo)
+Let's modify the period dimension. On the left side of the screen, select fixed periods, under period type select monthly, and from the list choose January of 2021 and February of 2021. 
+
+Then in the selected periods box, click on the this year period to remove it from the pivot table. Then click update to view the changes in the table. 
+
+Now we can see the values only for January, 2021 and February, 2021. 
+
+Slide 15
+In summary, you have seen that pivot tables are a flexible visualization type that can be created in the Data Visualizer app in DHIS2. 
+
+You can open a pivot table from a dashboard or use the apps menu to access the application. 
+
+The main dimensions to create a pivot table are the data item, the period, and the organization unit, also known as the what, the when and the where dimensions.

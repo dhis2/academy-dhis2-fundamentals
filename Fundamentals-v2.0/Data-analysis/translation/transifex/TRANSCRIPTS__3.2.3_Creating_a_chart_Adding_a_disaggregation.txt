@@ -1,0 +1,22 @@
+Creating a chart: Adding a dissagregation
+
+Slide 2
+In the previous lessons, we created this chart that shows the total number per dose of the four EPI OPV doses given by district in the Animal Region of Training Land in 2021. But what if instead of the total number of doses per dose given, we wanted to show the overall total number of doses disaggregated by age? 
+
+Slide 3
+Let's see how we can do it. First, we will need to change the chart type to another one that better suits our needs. 
+
+Click on the chart type selector menu to see the options available. The stacked bar chart allows you to track or compare parts of a whole over time. 
+
+Select this as the chart type for this example. Now we need to modify the layout. Along with the period, move the organization unit dimension to the filter, and keep the data in the category field and for the series from the dimensions menu in the left pane, select Age in years, 0-1, 1 plus, unknown. 
+
+Click on the dimension to open the options dialog. 
+
+This is where we can choose the specific disaggregations we want to view in the chart. In this case, double click on 0 to 1 years and 1 plus years to move the options to the selected items section, and then click "Add to Series". 
+
+As a result, we see this chart with the overall totals for the number of OPV 0, 1, 2, and 3 doses given in Animal Region in 2021 for two age groups, 0 to 1 years shown in green and 1 plus years shown in blue. 
+
+Here we can see the number of each dose given broken down by age group. This is what we would expect when viewing data on OPV doses given through a child vaccination program as the doses are generally given to children under one year of age. 
+
+Slide4
+To wrap up, in this video, you have seen how to add a disaggregation to a chart, change the chart type, adjust the layout, and add a new dimension to the series to create a visualization that shows more granular data.

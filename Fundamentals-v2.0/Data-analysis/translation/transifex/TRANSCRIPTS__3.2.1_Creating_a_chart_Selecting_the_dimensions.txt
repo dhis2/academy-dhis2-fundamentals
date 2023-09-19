@@ -1,0 +1,45 @@
+Creating a chart: Selecting the dimensions
+
+Slide 2
+What are the basic steps to create a line chart in DHIS2? 
+
+Slide 3
+To frame our example, let's say we want to show the number of doses of Oral Polio Vaccine, or OPV doses given monthly in 2021, from all districts in the Animal Region of our fictional country, Trainingland. 
+
+Slide 4
+As with pivot tables, the first step to creating a chart is to open the Data Visualizer app, then select the Line Chart from the Selector menu. 
+
+As you can see in the description, this chart type can be useful to use to track or compare changes over time. 
+
+Now we need to select the dimensions of our chart, the data items, period, and organization units. For the data items, in the Data Type field, select Data Elements. 
+
+Here, the search feature is a helpful feature you can use when there is a long list of data items. Type any part of the item name you are looking for to display all the items that contain this string of characters. 
+
+Let's type the keyword, OPV. As we want to show the total number, per dose, of Oral Polio Vaccine doses given. The WHO Expanded Program of Immunization, or EPI, recommends a four dose OPV schedule. 
+
+Therefore we want to select those four data elements, EPI-OPV 0, 1, 2, and 3 doses given. To do so click on EPI-OPV 0 doses given. 
+
+Then hold down Shift, and click on EPI-OPV 3 doses given to select this range of data elements. Then click on the arrow to the right, to move them to the selected box. 
+
+We now have selected the four data elements we want to display in our line chart. Finally, click on the hide button to save your selection and move on to the next dimension. 
+
+Next click on the period dimension. For the period in this example, we would like to select monthly data from 2021. Here we can see that a relative period, Last 12 months, is selected by default. 
+
+To start with an empty selection, make sure to remove it by double clicking it. Now that we have moved this period back to the available, relative periods column, we can click on the Fixed periods tab. 
+
+Leave the Period type as monthly, and the year as 2021. Then click on the double arrow facing to the right to move all the periods from the list of available items in the left column to the selected Periods column on the right. 
+
+We have selected the 12 months of 2021. So we can click the hide button to continue. Now, click on the Organization Unit dimension. 
+
+For organization units in this example, we want to show the data for all the districts in the Animal Region of our fictional country, Training Land. Here as well, we can see that an Organization Unit, 
+
+Training Land, is selected by default. To start with an empty selection, let's unselect Training Land, by unticking the corresponding box. 
+
+Then select Animal Region by ticking the check box next to it in the hierarchy tree, using the Levels field, select the District level. We now have selected all the districts within Animal Region. 
+
+We are done with selecting the three required dimensions. So we can click on update to both save the latest selection, and display it in our line graph. 
+
+Let's take a look at the output. We can see the data displayed in a line chart where each line shows the number of each OPV dose given, per month in the year, 2021, in the Animal Region. 
+
+Slide 5
+To wrap up, to create a line chart in DHIS2, you first need to open the Data Visualizer app, select the type of chart you want to display from the list of Visualization Types, and select the 3 dimensions, data items, periods, and organization units. And then click, "Update" to display the output, so that you can start analyzing your data.

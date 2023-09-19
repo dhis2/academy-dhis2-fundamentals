@@ -1,0 +1,39 @@
+Orientation to Dashboards
+
+Slide 2
+Dashboards in DHIS2 are a useful way to view, analyze, and share a variety of information in one centralized location. 
+
+Slide 3
+They can be populated with multiple outputs, such as pivot tables, charts, or maps, all of them related to one specific topic. 
+
+Slide 4 + 5
+The dashboard homepage is the first thing you see after logging in to DHIS2. Your most recently used dashboard will be displayed, provided that you are logging in on the same computer as you used previously. If you are using a different computer, then the first star dashboard will be displayed. Let's dig into the dashboard layout to see its different components and options. 
+
+Slide 6 (demo)
+Right above the dashboard itself, there is a control bar where you can see all of the available dashboards you have access to. The height of this bar is customizable here. Expanding it can be useful when you have access to many dashboards. 
+
+The dashboard that is currently being displayed is highlighted in green. At the left side of the control bar, there's a search field that allows you to search for existing dashboards and a plus button, which allows you to create a new dashboard. 
+
+We will cover dashboard creation in our next video. Under the control bar, you can see the title of the current dashboard and a star next to the title that allows you to mark the dashboard as a favorite. When you select the star, the dashboard will move to the first position in the list of available dashboards. Starred dashboards always show first in the dashboard list. 
+
+After the favorite dashboards, the rest of the dashboards are displayed alphabetically. This feature is especially useful when you have a lot of dashboards, but want to get quick access to specific ones. If you have access rights to edit the dashboard, being viewed, there will be an edit button to the right of the title. 
+
+You can share a dashboard with user groups or specific users, to do this click on the share button to the right of the dashboard title, to display the dashboard sharing settings options. Type in the name of the user or user group in the input field, and click on the name to add them to the list of who has access. By clicking on the pencil icon, you can provide that user or user group with either editing and viewing permissions or viewing permissions only. Click on can view only. 
+
+Notice that the pencil icon has now changed to an eye icon, click close to close out of the sharing setting options. You can apply filters to a dashboard that will change the data displayed in each dashboard item. The filter overrides the original value for that dimension in the original visualization. It is possible to filter on periods, organization units, and other dynamic dimensions, depending on the DHIS2 instance, for example, we could add an organization unit filter to show the data from animal region. 
+
+As you can see, only the data related to the animal region are now being displayed for each of the objects in the dashboard. To remove the filter and restore the original data, simply click the remove link in the black field specifying the applied filter. 
+
+Next to the add filter button, there is a more button that has three options. The first option is unstar dashboard to unselect the dashboard from the favorites. The second is show description to display the description of the dashboard below the title. Note that the description field is not mandatory so some dashboards may not display a description. 
+
+The last option of the more menu is print. You have two options for printing. Print the dashboard layout or print one item per page. 
+Selecting either of these options will take you to a print preview page to see what the dashboard will look like when printed. 
+
+In the main area of the dashboard, you can see all items that have been added to the dashboard, including analytical objects, such as charts, maps, reports, and pivot tables, as well as text-based information such as messages, interpretations, text boxes, resource links, and app widgets, depending on the specific settings of a DHIS2 instance, you will find a more options menu in the upper right corner of maps, charts, and pivot table objects within a dashboard. 
+
+This menu allows you to interact with the visualization in different ways. You can display the object in full screen, which can be useful when you are presenting data to others, you can toggle the visualization by selecting the desired representation. For example, when interacting with a chart, you can choose the options to view as a table or view as a map. 
+
+You can show and hide the details and interpretations of an object. And as we have seen in other analytics videos, you can open each of these visualizations in their respective apps using the open in app link. 
+
+Slide 7
+In summary, the DHIS2 dashboard provides quick access to different analytical objects. In the dashboard interface, you can see all the dashboards available on your user account. You can star a dashboard to save it as a favorite. You can edit a dashboard, if you have permissions, share it with users or user groups, see its description, and print it. You can also interact with the objects embedded in a dashboard.

@@ -1,0 +1,43 @@
+Introduction to Data Analysis in DHIS2
+
+Slide 2
+Welcome to the DHIS2 Data Analysis course. 
+
+Slide 3
+Every month, an enormous amount of data is entered into DHIS2 systems around the world. 
+
+Slide 4
+However, simply capturing data is not enough to help organizations make informed decisions. 
+
+Slide 5
+To really use your data, you also need tools that help you visualize those data and transform them into information. 
+
+Slide 6
+How can DHIS2 help make sense of data and contribute to informed decision making? 
+
+Slide 7
+DHIS2 includes a set of visualization tools that allows you to analyze data and disseminate information through a selection of user friendly applications, making it easier for people at all levels of an organization to use data to make decisions. 
+
+Slide 8
+The first of these tools is the pivot table, which helps you calculate, summarize, and analyze data in rows and columns. 
+
+Slide 9 (demo 1)
+In DHIS2, you can customize your pivot tables using a simple drag and drop interface. 
+
+Slide 10
+Charts are the second visualization tool in DHIS2. When you need to compare elements, recognize patterns, or understand trends, you can select from a list of different chart types that best suits your analysis needs and customize it to include disaggregations, target lines, and more. 
+
+Slide 11
+The third visualization tool in DHIS2 is maps, which relate geographical points or areas with specific data from your programs. 
+
+Slide 12 (demo)
+DHIS2 allows you to overlay data using map layers, providing a greater depth to your analysis. 
+
+Slide 13 + 14
+Pivot tables, charts, and maps that belong to the same project or program can be collected into a dashboard and shared with other users to analyze and discuss the findings collaboratively. 
+
+Slide 15
+In this course, you will learn how to create and edit pivot tables, charts, maps, and dashboards through videos, step-by-step demonstrations, and activities. You will also have the chance to interact with a DHIS2 training instance where you can put your new learnings into practice. 
+
+Slide 16
+This course will prepare you to make sense of aggregate data using DHIS2 data analysis tools. We hope you enjoy the course.

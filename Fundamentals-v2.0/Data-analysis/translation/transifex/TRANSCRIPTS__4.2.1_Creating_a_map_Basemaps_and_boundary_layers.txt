@@ -1,0 +1,25 @@
+Creating a map: Basemaps and boundary layers
+
+Slide 2
+What are the steps to create a map in DHIS2? Let's say we wanted to create a map showing the districts of a specific country. 
+
+Slide 3
+This video will show you how to select a basemap and add a boundary layer showing the districts of Trainingland and displaying their names on the map. 
+
+Slide 4 (demo)
+To start, click on the apps menu in DHIS2 and select the Maps app from the list of applications. The first step will be selecting a basemap from the six available options. 
+
+The default basemap is the OpenStreetMap, or OSM Light. This map shows the names of towns and cities and provides a clean basemap with high contrast and less color, helping you to create a map which emphasizes the data layers. The OSM Detailed basemap is a more detailed map that, in addition to town and city names, contains physical features on the Earth, such as mountains, lakes, and streets. 
+
+The other four basemaps come from Microsoft's Bing maps. Bing Road and Bing Dark shows roads, borders, and town and city names. Use the Dark version if you'll use brighter colors in the layers. Bing Aerial and Bing Aerial Labels shows satellite and detailed aerial images of the Earth's landscape. 
+
+Let's select Bing Road. Note that the title of the selected basemap appears at the top of the layer card. Now to add the boundary layer and display the boundaries of all the districts in Trainingland, click on Add layer and select Boundaries. 
+
+In the Organisation Units tab of the configuration dialogue, navigate to the hierarchy and tick the box next to Trainingland to select the whole country. Then, use the Select levels field and select District. 
+
+This will ensure that boundaries for all districts within Trainingland will be shown in the layer. Remember that we want to display the names of the districts as well. Click on the Style tab, then tick the box next to Labels. This means the districts will be shown with their name. 
+
+Finally, click Add layer to add the layer to the map. As a result, we see the districts in Trainingland outlined with labels showing the name of each district. 
+
+Slide 5
+To wrap up, to create a map in DHIS2, first open the Maps app from the apps menu, then select one basemap and add the boundary layer with the organization units you want to display.

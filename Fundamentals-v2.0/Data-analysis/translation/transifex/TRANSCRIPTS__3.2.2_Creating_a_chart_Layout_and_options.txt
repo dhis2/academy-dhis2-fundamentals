@@ -1,0 +1,27 @@
+Creating a chart: Layout and options
+
+Slide 2
+In the previous video, we created a line chart that shows the total number of OPV zero through three doses given monthly in 2021 in the districts of the animal region of Training Land. This chart is useful to see changes over time, but what if we wanted to compare the data across locations? 
+
+Slide 3
+In this video, we will see how to change the layout and options of a chart in DHIS2 to visualize our data in different ways. 
+
+Slide 4
+The first thing we need to do is update the layout in the layout area at the top of the chart. 
+
+Drag the period to the filter, the organization unit to the series and the data to the category. These changes mean that the new visualization will show the data values by district instead of by month. 
+
+Then select a chart that best responds to our desired output or the question we are trying to answer, which is in this example, how to compare data across locations. The description of the column chart says that this chart type will allow you to compare sizes of related elements, which sounds like a good fit for the output we are trying to create. 
+
+Click on it and then click on update to view the new changes in your chart. Here, we can see the number of vaccinations given by dose in each district. 
+
+Note that comparisons both among locations and type of doses given are easy to understand with a quick look at the difference in the series columns. 
+
+In the options menu under the style tab, we can modify the visual style of the chart by adding a title. For example, OPV zero through three doses given, animal region 2021. 
+
+We can edit the size, position and color of the titles as well. Then click update. 
+
+Now that we have made our final modifications, we can see our finished product, a column chart that compares vaccine doses given in 2021 per type of dose in the animal region of Training Land, which is clearly labeled with a title and a subtitle. 
+
+Slide 5
+To wrap up, to modify a chart in the DHIS2 Data Visualizer app, you can select any other type of chart available in the app, rearrange the dimensions in the layout area and use the options to further customize your chart to do things like add a title and a subtitle.

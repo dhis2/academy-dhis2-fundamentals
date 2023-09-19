@@ -1,0 +1,35 @@
+Creating and sharing a dashboard
+
+Slide 2
+Now that you know how to navigate the Dashboards interface, let's see how to create a dashboard. 
+
+Slide 3
+Before we dive in note that dashboards have two modes, the view mode and the edit or create mode. In the previous video, you learned about the dashboard options in view mode, which is what you will see when you log to DHIS2. In this video, we will explore the interface for the edit or create mode. 
+
+Slide 4
+To create a new dashboard from the dashboard view mode, click on the plus button to go into create mode. 
+
+In the dashboard title field, add a title. For example, Immunization Stock Management. If you do not add a title, the dashboard will automatically be titled, untitled dashboard. Then in the dashboard description field, add a description. 
+
+For example, visualizations for the immunization program related to stock management. It is best practice to add a description to the dashboard you create to let other users know what it is about. Click in the search for items to add to this dashboard field, to display a list of available objects. 
+
+These objects are grouped together based on the application they were created in, data visualizations, maps, event reports, event charts, and reports. You can also add other objects to the dashboard, such as resources, apps, and additional items like text boxes and spacers. 
+
+You can add objects to the dashboard in two ways. By searching for them in the list of objects by group, or by filtering based on the title of the object. Let's search for the objects with stock in the title. 
+
+As a side note, you can see here how important it is to adopt and follow a clear naming convention. Without such a convention it would cumbersome to look for any specific object. 
+
+Clicking on the box with an arrow through it will open a new tab where you can view the object in the application it was created in. When you find an object you would like to add to the dashboard such as BCG Stock Outs, click on it, to add it. 
+
+All items selected for your dashboard will appear stacked up on the left hand side of the screen. Once you finish inserting all of the items you want, you can organize the items on the dashboard by dragging and dropping them where you want them to be displayed. 
+
+You can also resize the items by clicking on the bottom right corner of the object and dragging it to the desired size. Objects can also be deleted from the dashboard by clicking on the red trashcan icon in the top right corner. 
+
+Click the save changes button to save the dashboard and return to the view mode. You can now see your dashboard in the list of available dashboards. 
+
+If you want to share it, click on the share button and enter the user, or user group you would like to share the dashboard with. By default, users will have permission to edit the dashboard. 
+
+You can edit their permissions by clicking the pencil icon and selecting "Can view only". 
+
+Slide 5
+In summary, in DHIS2 you can create a new dashboard and add different types of items to it, by selecting them from a list. You can arrange the dashboard items by dragging and dropping them to the desired position. And you can also resize or delete objects. You can share the dashboard with other users and configure their permission to view and edit the dashboard.

@@ -1,0 +1,58 @@
+Orientation to maps
+
+Slide 2
+How can maps help you visualize and analyze data? 
+
+Slide 3
+Map visualizations are a highly efficient eye-catching tool for geospatially analyzing data. For example, you may have seen maps like these to follow up on the COVID-19 pandemic, where the colors indicate the number of confirmed cases by country. How can we create geospatial visualizations like this in DHIS2? 
+
+Slide 4
+This video will talk about the basic concepts of using maps for aggregate data in DHIS2. You'll understand how data can be viewed in maps, the concept of map layers, and some specifics about the types of layers that can be used to create maps from the aggregate data model. We'll learn how multiple data types can be shown in a single map using layers. 
+
+Slide 5
+Let's start with the basics. Maps in DHIS2 is the geographic information system, or GIS, that allows you to view data associated with GPS coordinates that relate to points or areas on a map. 
+
+Slide 6
+Maps can include multiple layers, which each represents specific data geographically. 
+
+Slide 7
+Each map starts with a base layer or basemap. A basemap is a layer with geographic information that serves as a background to any map we create in DHIS2. There are several options of basemaps from OpenStreetMap and Microsoft Bing maps. 
+
+Slide 8
+Other layers can be added on top of the basemap, where each layer represents a data item. These data items can be data that are specifically collected in the DHIS2 instance, or pulled from external sources. 
+
+Slide 9
+Note that for DHIS2 data, these point or area coordinates must be configured by a system administrator before you will be able to view the data in a map. You can learn about this in the DHIS2 documentation. 
+
+Slide 10
+Each additional layer can show data, such as data items collected, site locations, area boundaries, climate data, or population, among others. 
+
+Slide 11
+Layers are stacked on top of each other and combined into a single visual analysis. 
+
+Slide 12
+Layers can also have their transparency adjusted, which determines the degree to which the layers blend into each other visually. Using these features, we can create maps to facilitate data analysis. 
+
+Slide 13
+Let's look at a specific example of a map in DHIS2. One scenario where it can be helpful to view data in a map would be in monitoring an immunization program. Let's say we want to look at an indicator, such as dropout rates, for a specific vaccination series by district. Are the districts close to one another with a high vaccination dropout rate? What is happening in these areas? Using a map, we can formulate questions like these and identify areas for follow-up. 
+
+Slide 14
+The main types of layers used to analyze aggregate data in DHIS2 are thematic, facilities, and boundaries. 
+
+Slide 15
+A thematic map depicts information about a topic or theme over a geographic area. These data themes can be shown using a choropleth or bubble map. 
+
+Slide 16
+Choropleth maps display the data based on geographical boundaries, such as district boundaries, as colored polygons. 
+
+Slide 17
+Bubble maps display coordinates of sites or areas with circles. The size of the circle depends on the value associated with that particular location. Locations with larger values have larger circles, while locations with smaller values have smaller circles. 
+
+Slide 18
+The facilities layer shows the location of health facilities with different icons or images to show different categories of facilities, such as health centers or dispensaries. 
+
+Slide 19
+And the boundaries layer displays the boundary lines between political and administrative entities, such as countries, regions, or districts. 
+
+Slide 20
+In summary, you can use DHIS2 to create maps made with multiple layers to support analysis of data that is tied to GPS coordinates. The main layers used to view aggregate data in DHIS2 maps are the thematic, facility, and boundary layers.

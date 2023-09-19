@@ -1,0 +1,21 @@
+Creating a pivot table: Updating the layout
+
+Slide 2
+In this pivot table, we can see the number of BCG, yellow fever, DPT-HepB-HIB one and three, and MR one and two doses administered in the Animal and Food Regions for each year from 2017 to 2021. But what if we wanted to view the data by district in the Animal Region and not by period. 
+
+Slide 3
+In this case, we would first need to change the organization unit dimension to match our new request and then update the layout of the table to change the way the data are displayed. We will start by updating the organization unit dimension. 
+
+Slide 4 (demo)
+Let's click on the organization unit dimension in the left pane to bring up the dimension selection screen. 
+
+In the hierarchy, untick Food Region. And in the Level dropdown menu, choose District, and then click the Update button. Notice that we can now see the data values for the Animal Region. 
+
+However, the organization units are still in the filter field. To view the data by district, the layout of the pivot table will need to be modified. We can drag and drop the dimensions to different fields. 
+
+For example, we can move the organization unit dimension to the rows and the period to the filter. If changes are made in the layout area, the Update button in the screen must be clicked to view the changes in the table. 
+
+Now, instead of viewing the data by the period dimension, we see the data by district and Animal Region. The table is showing the overall total number of vaccinations given from 2017 to 2021. 
+
+Slide 5
+In summary, you can use the layout feature to modify the way data are displayed in your pivot table. To modify the layout, simply drag and drop the dimensions to the columns, rows, and filter field, and then click update.
