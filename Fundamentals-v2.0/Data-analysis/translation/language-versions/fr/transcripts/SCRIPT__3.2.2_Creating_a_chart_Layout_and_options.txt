@@ -1,0 +1,27 @@
+Création d'un graphique : présentation et options
+
+Slide 2
+Dans la vidéo précédente, nous avons créé un graphique linéaire qui montre le nombre total de doses VPO 0 à 3 administrées mensuellement en 2021 dans les districts de Animal Region du Trainingland. Ce graphique permet d'observer les changements au fil du temps. Cependant, et si nous voulions comparer les données entre différents endroits ?
+
+Slide 3
+Dans cette vidéo, nous verrons comment modifier la présentation et les options d'un graphique dans DHIS2 pour visualiser nos données de différentes manières.
+
+Slide 4
+La première chose à faire est de mettre à jour la présentation dans la zone de présentation en haut du graphique.
+
+Déplacez la période vers le filtre, l'unité d'organisation vers la série et les données vers la catégorie. Après ces changements, la nouvelle visualisation affichera les valeurs des données par district et non par mois.
+
+Ensuite, sélectionnez le graphique qui correspond le mieux au résultat souhaité ou à la question à laquelle nous essayons de répondre dans cet exemple, c'est-à-dire comment comparer des données de différents endroits. La description du graphique à colonnes indique que ce type de graphique vous permettra de comparer les tailles d'éléments associés, ce qui semble correspondre au résultat auquel nous voulons parvenir.
+
+Cliquez dessus, puis cliquez sur Mettre à jour pour voir les nouvelles modifications sur votre graphique. Ici, nous pouvons voir le nombre de doses par vaccin administrées dans chaque district.
+
+Notez que les comparaisons entre endroits et types de doses administrées sont faciles à comprendre. Il suffit d'observer la différence dans les colonnes de la série.
+
+Dans le menu des options sous l'onglet Style, nous pouvons modifier le style visuel du graphique en ajoutant un titre. Par exemple, VPO 0 à 3 doses administrées, Animal Region 2021.
+
+Nous pouvons également modifier la taille, la position et la couleur des titres. Cliquez ensuite sur Mettre à jour.
+
+Maintenant que nous avons apporté nos dernières modifications, nous pouvons voir notre produit final, un graphique à colonnes qui compare les doses de vaccin administrées en 2021 par type de doses dans Animal Region du Trainingland, clairement marqué avec un titre et un sous-titre.
+
+Slide 5
+En résumé, pour modifier un graphique dans l'application Visualiseur de Données de DHIS2, vous pouvez sélectionner n'importe quel autre type de graphique disponible dans l'application, réorganiser les dimensions dans la zone de présentation et utiliser les options pour personnaliser davantage votre graphique, par exemple ajouter un titre et un sous-titre.
