@@ -1,0 +1,32 @@
+Introduction à l'application Cartes
+
+Diapo 2
+Dans cette vidéo, nous verrons comment accéder à l'application Cartes, utiliser les principales fonctions des couches utilisées pour visualiser les données agrégées, en plus d'un aperçu des options disponibles dans l'interface de l'application Cartes.
+
+Diapo 3 (démo)
+Voyons comment fonctionne l'application Cartes. Il existe deux façons d'accéder à l'application. La première consiste à utiliser le menu des applications.
+
+Après vous être connecté à DHIS2, allez dans le menu des applications en haut à droite de l'écran et écrivez "Cartes" dans le champ de recherche, puis cliquez sur l'icône Cartes. La deuxième façon d'accéder à l'application consiste à ouvrir une carte depuis un tableau de bord.
+
+Utilisons cette dernière méthode pour notre exemple. Nous pouvons sélectionner le tableau de bord des cartes de vaccination et défiler jusqu'à la carte PEV DPT 1 à 3 taux d'abandon par district. Dans l'angle supérieur droit de la carte, cliquez sur les trois points pour ouvrir le menu contextuel et sélectionnez Ouvrir dans l'application Cartes.
+
+Vous êtes maintenant sur l'interface de l'application Cartes. Sur le côté gauche, vous avez le Panneau des couches. En cliquant sur Ajouter une couche, vous verrez toutes les couches disponibles qui peuvent être ajoutées à la carte.
+
+Toutes les couches dans DHIS2 sont présentées comme des cartes de couche, qui décrivent les informations contenues dans la couche. Vous pouvez réorganiser les couches en utilisant l'icône à six points des cartes de couche. Il suffit de cliquer dessus, puis la placer à la position souhaitée par glisser-déposer.
+
+La couche au sommet de l'organisation des couches s'affichera comme couche supérieure sur la carte. La couche la plus en bas sera la couche inférieure de la carte, et ainsi de suite.
+
+Notez que la couche du fond de carte ne peut pas être déplacée car elle constitue l'arrière-plan de la carte. Un symbole en flèche vous permet de réduire et d'agrandir la carte. Les informations sur les données affichées par la couche sont visibles sur la carte, y compris l'élément de données, la période et les légendes, le cas échéant.
+
+En bas de chaque carte, vous trouverez une icône en forme de crayon. Elle vous permet d'ouvrir la boîte de dialogue Configuration des couches et de modifier la couche. D'autres outils sont disponibles, tels qu'un symbole d'œil pour activer ou désactiver la visibilité de la couche, un curseur pour modifier la transparence de la couche, et un menu d'actions supplémentaires avec des fonctionnalités supplémentaires, telles qu'une option permettant d'afficher les données dans un tableau de données.
+
+Ouvrez la carte en tant que graphique dans l'application Visualiseur de données. Vous pouvez télécharger les données de la couche, la modifier et la supprimer. Sur le côté droit de l'application Cartes, vous trouverez les fonctions d'agrandissement.
+
+Vous pouvez agrandir ou réduire la carte, passer en mode plein écran, centrer la carte sur vos données, rechercher des lieux ou adresses, ou mesurer des distances et surfaces sur la carte.
+
+Dans la barre supérieure, cliquez sur le menu Fichier pour créer une nouvelle carte, ouvrir une carte enregistrée, enregistrer votre carte et lui donner un titre et une description, partager la carte avec d'autres utilisateurs, obtenir un lien URL pour accéder facilement à la carte ou la supprimer.
+
+Cliquez sur Télécharger pour ouvrir la boîte de dialogue et sélectionnez le style de la carte avant de la télécharger sous forme de fichier PNG.
+
+Diapo 4
+En résumé, vous avez vu comment l'application Cartes est conçue avec les trois principales sections de contrôle : la section des couches avec les cartes de couches à gauche, les options d'agrandissement à droite et le menu de Fichier en haut. Les couches peuvent être déplacées et réorganisées, modifiées, masquées, ouvertes sous forme de tableau ou de graphique et téléchargées, etc. Les cartes peuvent être agrandies et réduites, enregistrées, partagées avec d'autres utilisateurs et téléchargées sous forme de fichier PNG.
