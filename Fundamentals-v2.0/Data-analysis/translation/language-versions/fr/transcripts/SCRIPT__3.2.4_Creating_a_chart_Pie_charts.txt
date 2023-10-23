@@ -1,0 +1,40 @@
+Création d'un graphique : graphiques circulaires
+
+Slide 2
+Dans la vidéo précédente, vous avez appris comment passer d'un graphique à colonnes à un graphique à barres empilées pour visualiser des données de différentes doses de VPO désagrégées par âge. Cependant, qu'en est-il si nous voulions plutôt voir le nombre total général de doses de VPO administrées, désagrégées par endroit pour l'année 2021 ? Nous pouvons facilement le faire avec un graphique circulaire. Voyons comment ça marche dans DHIS2.
+
+Diapo 3 (démo)
+D'abord, ouvrez le menu Type de graphique et recherchez le graphique circulaire. Comme vous pouvez le voir, les graphiques circulaires sont utilisés pour représenter la répartition des parties d'un tout.
+
+Dans notre exemple, les parties seront les endroits et le tout sera le nombre de doses de VPO administrées dans la Animal Region en 2021. Maintenant, mettons à jour le type de graphique sur "circulaire".
+
+Nous pouvons voir que la zone de présentation change et maintenant seules les dimensions de série et de filtre sont disponibles.
+
+La dimension de catégorie n'apparaît plus. Vous aurez la même interface lorsque vous créez des graphiques à valeur unique et à jauge.
+
+Cela signifie que ces trois types de graphiques sont les plus appropriés pour la visualisation de données à une seule dimension principale. Pour cet exemple, assurez-vous que les unités d'organisation sont dans la série et que toutes les autres dimensions sont dans le filtre, puis cliquez sur Mettre à jour.
+
+Maintenant, nous pouvons voir un graphique circulaire qui nous permet de visualiser toutes les doses de tout vaccin VPO administré en 2021, divisées par les différentes sections colorées, ou tranches, par unité d'organisation.
+
+Slide 4
+Dans cette série de vidéos, vous avez appris comment utiliser l'application Visualiseur de Données de DHIS2 pour créer différents types de graphiques, tels que des graphiques linéaires, à colonnes, à barres empilées et circulaires.
+
+Slide 5
+Le choix du type de graphique dépendra du type d'analyse que vous souhaitez effectuer. La description de chaque type de graphique comporte des conseils qui vous aiderons à choisir le type approprié.
+
+Slide 6
+Si vous voulez voir la variation des données au fil du temps, le graphique linéaire est recommandé.
+
+Slide 7
+Si vous voulez comparer des données de différents endroits, le graphique à colonnes offre une visualisation facile et permet de comparer ces données.
+
+Slide 8
+Les barres empilées ou colonnes empilées permettent de rendre l'analyse plus granulaire, par exemple en ajoutant des désagrégations aux données telles que l'âge ou le genre.
+
+Slide 9
+Enfin, un graphique circulaire est le plus approprié pour comparer un nombre total divisé en parties pour une période et une unité d'organisation donnée.
+
+Slide 10
+En résumé, l'application Visualiseur de Données de DHIS2 vous permet de créer et de modifier différents types de graphiques en fonction du type d'analyse que vous voulez effectuer.
+
+Pour passer d'un type de graphique à un autre, il suffit de sélectionner le type de graphique dans le menu déroulant et d'ajuster la présentation et les options pour obtenir la visualisation souhaitée.
