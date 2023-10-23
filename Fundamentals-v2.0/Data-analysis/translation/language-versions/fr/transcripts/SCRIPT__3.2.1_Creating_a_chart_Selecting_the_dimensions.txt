@@ -1,0 +1,45 @@
+Création d'un graphique : sélection des dimensions
+
+Slide 2
+Quelles sont les principales étapes à suivre pour créer un graphique linéaire dans DHIS2 ?
+
+Slide 3
+Pour illustrer notre exemple, supposons que nous voulions montrer le nombre de doses de Vaccin Antipolio Oral, ou doses de VPO administrées mensuellement en 2021, dans tous les districts de la Région Animal de notre pays fictif, le Trainingland.
+
+Slide 4
+Comme avec les tableaux croisés dynamiques, la première étape de la création d'un graphique est d'ouvrir l'application Visualiseur de Données, puis sélectionner Graphique Linaire dans le menu de sélection.
+
+Comme vous pouvez le voir dans la description, ce type de graphique peut permettre de suivre ou de comparer les changements au fil du temps.
+
+Nous devons maintenant sélectionner les dimensions de notre graphique,  à savoir les éléments de données, la période et les unités d'organisation. Pour les éléments de données, dans le champ Type de données, sélectionnez Éléments de données.
+
+Ici, vous pouvez utiliser la fonction de recherche lorsque vous avez une longue liste d'éléments de données. Tapez n'importe quelle partie du nom de l'élément que vous recherchez pour afficher tous les éléments qui contiennent cette chaîne de caractères.
+
+Tapez le mot-clé, VPO. Etant donné que nous voulons montrer le nombre total de doses par type de vaccin antipoliomyélitique oral administrées. Le Programme élargi de vaccination de l'OMS, ou PEV, recommande un calendrier de vaccination VPO à quatre doses.
+
+Par conséquent, nous voulons sélectionner ces quatre éléments de données, PEV-VPO 0, 1, 2 et 3 doses administrées. Pour ce faire, cliquez sur PEV-VPO 0 doses administrées.
+
+Ensuite, maintenez la touche Maj enfoncée et cliquez sur PEV-VPO 3 doses administrées pour sélectionner tout ce lot d'éléments de données. Ensuite, cliquez sur la flèche qui pointe vers la droite pour les déplacer vers la section sélectionnée.
+
+Nous avons maintenant sélectionné les quatre éléments de données que nous voulons afficher sur notre graphique linéaire. Enfin, cliquez sur le bouton Masquer pour enregistrer votre sélection et passer à la prochaine dimension.
+
+Cliquez ensuite sur la dimension période. Dans cet exemple, nous aimerions sélectionner des données mensuelles à partir de 2021. Ici, nous pouvons voir qu'une période relative, les 12 derniers mois, est sélectionnée par défaut.
+
+Pour commencer avec une sélection vide, assurez-vous de la supprimer en double-cliquant dessus. Maintenant que nous avons déplacé cette période vers la colonne des périodes disponibles et relatives, nous pouvons cliquer sur l'onglet Périodes fixes.
+
+Gardez le type de période sur mensuel, et l'année sur 2021. Ensuite, cliquez sur la double flèche qui pointe vers la droite pour déplacer toutes les périodes de la liste des éléments disponibles dans la colonne de gauche vers la colonne des Périodes sélectionnées à droite.
+
+Nous avons sélectionné les 12 mois de 2021. Nous pouvons donc cliquer sur le bouton Masquer pour continuer. Maintenant, cliquez sur la dimension unité d'organisation.
+
+Pour les unités d'organisation, dans cet exemple, nous souhaitons afficher les données de tous les districts de Animal Region de notre pays fictif, Training Land. Ici aussi, nous pouvons voir qu'une unité d'organisation,
+
+Training Land, est sélectionné par défaut. Pour commencer avec une sélection vide, désélectionnons Training Land, en décochant sa case.
+
+Ensuite, sélectionnez Animal Region en cochant la case à côté dans l'arborescence des hiérarchies. Dans le champ Niveaux, sélectionnez District. Nous avons maintenant sélectionné tous les districts de Animal Region.
+
+Nous avons terminé la sélection des trois dimensions requises. Nous pouvons donc cliquer sur "Mettre à jour" pour à la fois enregistrer la dernière sélection et l'afficher dans notre graphique linéaire.
+
+Voyons le résultat. Nous pouvons voir les données affichées dans un graphique linéaire où chaque ligne montre le nombre de doses de chaque VPO administrées par mois en 2021 dans Animal Region.
+
+Slide 5
+En résumé, pour créer un graphique linéaire dans DHIS2, vous devez d'abord ouvrir l'application Visualiseur de données. Dans la liste des types de visualisation, sélectionnez le type de graphique que vous voulez afficher. Sélectionnez ensuite les 3 dimensions, à savoir les éléments de données, les périodes et les unités d'organisation. Ensuite, cliquez sur "Mettre à jour" pour afficher le résultat, afin que vous puissiez commencer à analyser vos données.
