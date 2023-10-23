@@ -1,0 +1,32 @@
+Initiation aux tableaux croisés dynamiques : Dimension organisationnelle et désagrégations
+
+Slide 2
+Nous avons déjà vu comment sélectionner les éléments de données et la période lors de la création d'un tableau croisé dynamique. Maintenant, voyons comment sélectionner la dimension unité d'organisation et ajouter des désagrégations à notre tableau croisé dynamique. Commençons par mettre à jour l'unité d'organisation.
+
+En poursuivant avec notre exemple sur la Vaccination, nous remplacerons les deux régions de Trainingland qui figuraient dans le tableau croisé dynamique avec tous les districts de Trainingland, quelle que soit la région.
+
+Diapo 3 (démo)
+Pour commencer, dans la section des dimensions principales, cliquez sur la dimension unité d'organisation. Ici, nous pouvons sélectionner l'unité d'organisation par hiérarchie, niveaux ou groupes.
+
+La hiérarchie est le mode de sélection par défaut des unités d'organisation. Dans ce tableau croisé dynamique, nous pouvons voir que l'unité racine, ou l'unité top niveau, est sélectionnée.
+
+Rappelez-vous que les données sont agrégées en fonction de l'unité d'organisation sélectionnée dans la hiérarchie. Par exemple, si l'on sélectionne Trainingland, qui correspond au niveau pays de notre hiérarchie, nous verrons alors toutes les données saisies pour Trainingland.
+
+La hiérarchie de l'unité d'organisation prend en charge des sélections multiples. Il suffit de développer la hiérarchie en cliquant sur les flèches à côté des noms des unités d'organisation et de cocher les cases à côté de celles que vous souhaitez inclure dans votre tableau croisé dynamique.
+
+Une autre façon de sélectionner des unités d'organisation est d'utiliser l'option Sélectionner un niveau. Elle vous permet de sélectionner toutes les unités d'organisation de certains niveaux. Par exemple, si nous cliquons sur le champ Sélectionner un niveau et cliquons sur Districts, nous pouvons afficher les données de chaque district d'un simple clic plutôt que de les sélectionner une à une dans la hiérarchie.
+
+Cette option est rapide et pratique, surtout lorsqu'un niveau comporte plusieurs unités d'organisation. Une troisième façon de sélectionner des unités d'organisation est d'utiliser l'option Groupes. Les unités d'organisation peuvent être regroupées en autant de groupes d'unités d'organisation que vous voulez et ce regroupement se fait généralement en fonction d'une caractéristique, telle que le type d'établissement.
+
+Par exemple, si nous cliquons sur dispensaire, nous ne verrons que les unités d'organisation classées comme dispensaire. Pour poursuivre notre exemple, utilisons l'option Niveaux pour sélectionner tous les districts, puis cliquer sur Mettre à jour.
+
+Nous pouvons maintenant voir les données par district dans Trainingland. Après avoir sélectionné les trois principales dimensions de notre tableau croisé dynamique, quelles désagrégations pouvons-nous ajouter ?
+
+À gauche de l'écran, dans la section des dimensions principales, vous trouverez toutes les désagrégations disponibles pour cette instance DHIS2.
+
+Celles qui ont un point vert à côté sont associées aux items de données sélectionnés dans la visualisation. Cela signifie que l'item de données sélectionné est sûr d'être compatible avec ces dimensions de données.
+
+Vous en apprendrez plus sur la sélection des dimensions des données, ainsi que sur les désagrégations, dans la suite de ce cours.
+
+Slide 4
+En résumé, vous pouvez sélectionner ou modifier l'unité d'organisation d'un tableau croisé dynamique à l'aide de la hiérarchie, des groupes ou des niveaux. Vous pouvez également ajouter des désagrégations en les sélectionnant parmi les options disponibles dans l'application Visualiseur de Données.
