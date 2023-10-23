@@ -1,0 +1,24 @@
+Initiation aux tableaux croisés dynamiques : Mise en page, menu fichier, options et téléchargements
+
+Slide 2
+Intéressons-nous maintenant aux options de présentation d'un tableau croisé dynamique dans l'application Visualiseur de Données. La zone de présentation se trouve juste au-dessus de la visualisation. Le résultat, c'est-à-dire la présentation du tableau croisé dynamique, est défini par l'emplacement de chaque dimension dans la zone de présentation. Dans cet exemple, les éléments de données se trouvent dans la section des colonnes, les unités d'organisation dans les lignes et les périodes dans le filtre.
+
+Diapo 3 (démo)
+Vous pouvez survoler chacune des icônes de la zone de présentation pour voir les options sélectionnées pour chaque item.
+
+La zone de présentation facilite le déplacement des dimensions vers différentes sections. Vous pouvez simplement faire glisser et déposer les dimensions dans les sections colonne, ligne ou filtre, puis cliquer sur Mettre à jour pour que les modifications apportées à la présentation se reflètent dans le tableau croisé dynamique.
+
+Par exemple, nous voyons maintenant les éléments de données dans les lignes et les unités d'organisation dans les colonnes. Cliquons sur le bouton Options pour voir les options supplémentaires disponibles pour personnaliser votre tableau croisé dynamique. Les options disponibles dépendent du type de visualisation sélectionné.
+
+Nous pouvons ajouter des totaux de colonnes et de lignes et des sous-totaux dans l'onglet Données ou masquer les colonnes et les lignes vides en cochant les cases correspondantes. Sélectionnons les totaux des lignes et cliquons sur Mettre à jour.
+
+Nous pouvons maintenant voir les totaux pour chaque ligne. En cliquant sur le menu Fichier, vous pourrez créer une nouvelle visualisation, ouvrir une visualisation enregistrée et enregistrer votre visualisation actuelle.
+
+Lors de l'enregistrement d'une visualisation, nous vous recommandons de suivre une convention d'appellation qui mentionne vos trois dimensions principales. Pour cet exemple, commencez par les items de données. Dans ce cas, ce sera 'PEV-OPV doses administrées et couverture'. Puis comme unité d'organisation, District.
+
+Terminez par la période, janvier et février 2021, et cliquez sur Enregistrer. Vous pouvez également renommer et traduire le nom de la visualisation, partager cette visualisation avec d'autres utilisateurs de DHIS2, obtenir un lien pour la visualisation ou la supprimer.
+
+Enfin, en cliquant sur le menu Télécharger, différentes options vous seront proposées pour télécharger votre tableau croisé dynamique. Vous pouvez conserver la présentation du tableau en utilisant les options Excel, CSV ou HTML, ou télécharger la source de données brute en sélectionnant les options JSON, XML, Excel, CSV ou autres options avancées.
+
+Slide 4
+En résumé, vous pouvez modifier la présentation du tableau croisé dynamique en faisant glisser et déposer les dimensions et en mettant à jour le résultat. Des options peuvent être ajoutées pour personnaliser le tableau croisé dynamique. Le menu Fichier vous permet d'enregistrer, de partager ou de supprimer le tableau croisé dynamique. Et le menu Téléchargement vous permet de télécharger le résultat sous différents formats pour être utiliser hors DHIS2.
