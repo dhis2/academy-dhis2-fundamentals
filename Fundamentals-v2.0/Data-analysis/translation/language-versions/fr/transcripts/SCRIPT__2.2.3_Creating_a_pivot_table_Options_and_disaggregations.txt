@@ -1,0 +1,30 @@
+Création d'un tableau croisé dynamique : Options et désagrégations
+
+Slide 2
+Ce tableau croisé dynamique montre le nombre de vaccins BCG, anti fièvre jaune, EPT, HepB HIB 1 et 3, et MR 1 et 2 par district dans la région Animal de 2017 à 2021.
+
+Mais que se passerait-il si nous voulions personnaliser davantage les options dans le tableau pour changer son apparence, inclure des éléments supplémentaires et ajouter une désagrégation afin d'afficher certaines données plus en détail ?
+
+Voyons comment ça fonctionne. Commençons par mettre à jour les options du tableau croisé dynamique.
+
+Diapo 3 (démo)
+D'abord, nous devons ouvrir le menu des options en cliquant sur Options dans la barre de menu en haut de l'écran.
+
+Dans l'onglet Données, cochez les totaux des colonnes pour ajouter une somme de chaque type de vaccination. Ensuite, dans l'onglet Style, nous pouvons ajouter un titre, par exemple 'nombre de vaccinations par district dans la région Animal de 2017 à 2021'. Cliquez ensuite sur Mettre à jour.
+
+Maintenant, nous pouvons voir notre titre affiché en haut du tableau croisé dynamique et le nombre total de doses administrées pour chaque vaccin en bas de chaque colonne.
+
+À l'aide des flèches situées à côté des en-têtes de colonne, vous pouvez trier les colonnes, du nombre le plus bas au nombre le plus élevé ou vice versa. Pour réafficher l'ordre original, il suffit de cliquer une fois de plus.
+
+Et si nous voulions afficher les données par district et avoir des sous-catégories dans les lignes qui montrent les données par classification urbaine et rurale ?
+
+Pour ce faire, une déségrégation peut être ajoutée au tableau. Dans le volet de gauche, défilons vers le bas jusqu'à votre section de dimension pour trouver la déségrégation.
+
+Les points verts signalent les déségrégations associées aux dimensions déjà sélectionnées. Dans ce cas, nous pourrions ajouter IPD/OPD, la propriété, le type et urbain/rural.
+
+Cliquez sur urbain/rural pour faire apparaître la section de sélection des dimensions. Cliquez sur la double flèche qui pointe à droite pour déplacer toutes les options de la gauche vers le champ sélectionné à droite.
+
+Puisque nous voulons ajouter les déségrégations aux lignes, cliquez sur la flèche qui pointe vers le bas à côté de "ajouter aux colonnes" et sélectionnez "ajouter aux lignes". Les données sont maintenant affichées par district avec des sous-catégories urbain/rural pour chaque district. 
+
+Slide 4
+En résumé, DHIS2 vous permet de personnaliser davantage votre tableau croisé dynamique, en ajustant les options de tableau supplémentaires et en ajoutant des désagrégations en fonction des dimensions de données sélectionnées pour modifier l'apparence de votre tableau et le mode d'affichage des données.
