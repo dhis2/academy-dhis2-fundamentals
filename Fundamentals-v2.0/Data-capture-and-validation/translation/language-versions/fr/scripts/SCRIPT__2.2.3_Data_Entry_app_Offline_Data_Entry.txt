@@ -1,0 +1,37 @@
+Application saisie de données : Saisie de données hors ligne
+
+Slide 2
+Que se passe-t-il lorsque vous saisissez des données dans DHIS2, mais que votre connexion Internet est interrompue ?
+
+Slide 3
+Cela peut être un problème courant dans les endroits où la connectivité internet est limitée ou instable.
+
+Slide 4
+C'est la raison pour laquelle le DHIS2 a été conçu avec des fonctionnalités de base pour la saisie de données hors ligne, afin que vous puissiez continuer à saisir des données même lorsque vous êtes temporairement hors ligne. Voyons comment cela fonctionne.
+
+Slide 5 (demo)
+Lorsque vous ouvrez l'application de saisie de données DHIS2, le message "Vous êtes en ligne" doit s'afficher dans une zone de texte jaune en haut de l'écran.
+
+Cela signifie que vous êtes connecté à l'internet et que les données que vous avez saisies seront automatiquement enregistrées sur le serveur DHIS2.
+
+Voyons maintenant ce qui se passe si vous n'avez plus accès à l'internet. Vous pouvez tester cela en coupant votre connexion internet, puis en ouvrant un formulaire de saisie de données et en commençant à saisir des données.
+
+Le message "Vous êtes hors ligne", les données seront stockées localement, apparaît en haut de l'écran.
+
+Vous allez remarquer que lorsque vous saisissez des données, le champ reste vert pour indiquer que la valeur des données est sauvegardée. Cela s'explique par le fait que les données sont stockées localement dans la mémoire cache de votre ordinateur.
+
+Réactivons l'internet. Lorsque l'internet sera rétabli, vous obtiendrez un autre message disant : "Des données sont stockées localement, veuillez les télécharger sur le serveur", avec un bouton "Télécharger" à côté du message.
+
+Il vous suffit de cliquer sur le bouton Télécharger et vous devriez recevoir le message suivant : Le téléchargement vers le serveur a été effectué avec succès.
+
+Slide 6
+Il est crucial de ne pas vider le cache de votre navigateur à l'aide de l'application DHIS2 Browser Cache Cleaner avant d'avoir téléchargé vos données sur le serveur, car vos données sont stockées localement dans le cache de votre navigateur DHIS2. 
+
+Si vous effacez votre mémoire cache avant de télécharger vos données, vous perdrez des données. Notez que la fonctionnalité hors ligne de l'application web de saisie des données DHIS2 est destinée à pallier les pannes d'internet périodiques et non à fonctionner comme un mode hors ligne permanent.
+
+Si vous devez saisir des données dans une zone où la connectivité Internet est très limitée, ou si vous travaillez temporairement dans une zone sans accès Internet, nous vous recommandons d'utiliser l'application de saisie Android DHIS2.
+
+Vous en saurez davantage sur l'application Android dans la suite de ce cours.
+
+Slide 7
+To recap, in this video, you have learned that DHIS2 allows you to enter data when the internet connection is not stable by saving the data locally in your browser cache. You will know when you are offline by a message displayed on the screen. When connectivity is restored, you need to select a button to upload the data to the DHIS2 server.
