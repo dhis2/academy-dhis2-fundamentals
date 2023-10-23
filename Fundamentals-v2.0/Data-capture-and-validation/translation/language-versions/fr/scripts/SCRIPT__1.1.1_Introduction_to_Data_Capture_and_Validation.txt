@@ -1,0 +1,70 @@
+Introduction à la saisie et validation des données
+
+Slide 2
+Bienvenue au cours sur la saisie et la validation des données dans DHIS2.
+
+Slide 3 + 4
+De nombreuses organisations utilisent les données pour leur prise de décision, mais avant de commencer à analyser les données, il faut d'abord les collecter ou les saisir.
+
+Slide 5
+Une fois les données collectées, il est important de les valider et de s'assurer de leur fiabilité afin d'éviter de prendre des décisions à partir de mauvaises informations.
+
+Slide 6
+Les organisations peuvent être confrontées à de nombreux défis dans la saisie des données, et ces défis peuvent être de plus en plus importants avec la croissance de l'organisation.
+
+Slide 7
+Par exemple, un programme de vaccination à l'échelle nationale peut avoir besoin de collecter des rapports mensuels provenant de milliers d'établissements de santé répartis dans un pays comptant des millions d'habitants.
+
+Slide 8
+Dans certaines régions où les données sont collectées, il peut y avoir des problèmes d'infrastructure tels qu'une distance physique importante entre les bureaux de district, ce qui rend difficile l'établissement de rapports sur papier, le manque d'ordinateurs de bureau ou d'autres ressources informatiques permanentes, ou encore une connectivité Internet mauvaise ou intermittente.
+
+Slide 9
+Le personnel de ces établissements peut être amené à remplir des rapports pour plusieurs programmes, en plus de la vaccination.
+
+Slide 10
+Par exemple, ils peuvent être amenés à établir des rapports sur les cas de paludisme, de VIH, de tuberculose, ainsi que sur les services de santé maternelle et infantile qu'ils ont fournis. Chaque rapport utilise un formulaire différent et peut nécessiter une fréquence de déclaration différente, par exemple mensuelle, hebdomadaire ou même quotidienne.
+
+Slide 11 + 12
+Une fois les données collectées, elles doivent généralement être agrégées ou additionnées, par exemple au niveau d'un district ou d'une région, afin que les responsables de programme occupant une position plus élevée dans la hiérarchie de l'organisation puissent examiner ensemble les données provenant de nombreux établissements, ce qui leur permet d'analyser les données et de prendre des décisions programmatiques en connaissance de cause. Dans de nombreux cas, les données doivent leur parvenir au moment opportun, afin que leurs décisions aient un impact plus important.
+
+Slide 13 + 14 + 15
+La saisie et l'agrégation de toutes ces données peuvent prendre beaucoup de temps, et des erreurs peuvent se glisser à plusieurs étapes du processus, du moment de leur copie sur papier à celui de leur agrégation.
+
+Slide 16
+Lorsque ces erreurs ne sont pas détectées, elles peuvent conduire les dirigeants à prendre de mauvaises décisions.
+
+Slide 17
+Comment DHIS2 permet-il aux organisations du monde entier de saisir, de valider et d'agréger leurs données afin qu'elles soient facilement disponibles pour l'analyse et l'utilisation ?
+
+Slide 18
+La plateforme logicielle DHIS2 est conçue pour faciliter la saisie de données dans divers contextes, et son architecture flexible lui permet de s'adapter à différents formulaires de saisie de données provenant de divers programmes et secteurs, dont la santé, l'éducation, l'assainissement et bien d'autres encore.
+
+Slide 19
+Les données peuvent être saisies directement dans DHIS2 sur le lieu de prestation, soit sur un ordinateur ou une tablette, via l'application de saisie de données en ligne, soit sur un appareil mobile Android à l'aide de l'application Saisie de DHIS2.
+
+Slide 20
+Ces deux applications fournissent aux utilisateurs un feedback visuel immédiat qui leur permet de s'assurer que, les données saisies sont valides et de conserver un enregistrement des saisies et des modifications apportées aux données à des fins de responsabilité et de suivi.
+
+Slide 21
+Les applications web et Android proposent également des modes hors ligne afin que la saisie des données puisse se poursuivre même si l'accès à l'internet est indisponible. Dès que l'appareil est à nouveau en ligne, toutes les données saisies sont automatiquement synchronisées avec le serveur central DHIS2.
+
+Slide 22
+Le DHIS2 comprend également des outils intégrés qui aident les réviseurs à effectuer des contrôles plus approfondis de la qualité des données, des outils qui facilitent le suivi des valeurs de données suspectes et des outils de rapport qui résument les performances de saisie des données au sein d'une hiérarchie organisationnelle.
+
+Slide 23
+Au sein d'une instance DHIS2, toutes les données agrégées saisies via les applications web et Android sont stockées dans la base de données centrale DHIS2, ce qui les rend accessibles à d'autres utilisateurs et permet d'agréger les données de manière transparente entre les unités organisationnelles et les périodes de temps pour l'analyse des données.
+
+Slide 24
+Dans ce cours, vous allez découvrir les principaux outils de la plateforme DHIS2 pour la collecte et la validation des données agrégées.
+
+Slide 25
+Pour la saisie des données, vous obtiendrez des démonstrations étape par étape, en ligne et hors ligne, de l'application web de saisie des données et de l'application de saisie Android DHIS2, ainsi un aperçu de certaines options supplémentaires d'importation de données.
+
+Slide 26
+Pour la validation des données, vous allez découvrir les fonctions de validation des données du DHIS2 incluses dans le processus de saisie des données, telles que les types de valeurs et les règles de validation. Vous allez également découvrir les fonctions de qualité des données qui peuvent être utilisées pour valider les données après leur saisie, notamment l'analyse des règles de validation et la détection des valeurs aberrantes.
+
+Slide 27
+Bien que DHIS2 puisse être utilisé pour la gestion des données au niveau individuel grâce aux modèles de données d'événement et de suivi, la saisie et la validation de ces types de données ne seront pas abordées dans ce cours.
+
+Slided 28
+Ce cours vous prépare à saisir et à valider des données agrégées à l'aide de DHIS2. Nous espérons que vous allez apprécier ce cours.
