@@ -1,0 +1,75 @@
+Directives relatives aux tableaux croisés dynamiques : dimension de données et dimension de période
+
+Slide 2
+Qu'est-ce qu'un tableau croisé dynamique ? Et quel type de données pouvons-nous analyser à l’aide d’un tableau croisé dynamique dans DHIS2 ?
+
+Slide 3
+Dans cette vidéo, vous apprendrez ce qu'est un tableau croisé dynamique, distinguerez les principales sections de l'interface Visualiseur de Données et identifierez les principales dimensions à sélectionner lors de la création d'un tableau croisé dynamique.
+
+Slide 4 + 5
+Un tableau croisé dynamique est un outil de visualisation tabulaire interactif qui permet de calculer, de résumer et d'analyser d'importantes quantités de données
+
+Slide 6
+Les tableaux croisés dynamiques sont un type de visualisation dans l'application Visualiseur de Données et peuvent être créés à l'aide des données provenant de tous les modèles de données, c'est-à-dire des données agrégées, d'événements et de tracker.
+
+Slide 7
+Dans ce cours, nous nous focaliserons sur les tableaux croisés dynamiques pour les données agrégées.
+
+Slide 8 + 9
+La principale caractéristique d'un tableau croisé dynamique est la possibilité de faire pivoter des dimensions, telles que des indicateurs, des éléments de données, des unités d'organisation et des périodes sous forme de colonnes et de lignes afin de créer des vues personnalisées. Voyons donc comment ça fonctionne.
+
+Slide 10 (demo)
+Il existe deux façons d'accéder à l'application. La première consiste à utiliser le menu des applications.
+
+Après vous être connecté à la plateforme, accédez au menu des applications dans l'angle supérieur droit de l'écran, tapez Visualiseur de Données dans le champ de recherche et cliquez sur l'icône du Visualiseur de Données. La deuxième façon d'accéder à l'application est d'ouvrir un tableau croisé dynamique depuis un tableau de bord.
+
+Par exemple, nous pouvons sélectionner le tableau de bord Vaccination et ouvrir le tableau EPI-OPV3 doses administrées et couverture de cette année, cliquer sur l'icône du menu contextuel (les trois points dans le coin supérieur droit de l'élément du tableau de bord) et cliquer sur l'application Visualiseur de Données pour l'ouvrir. Nous sommes maintenant dans l'application Visualiseur de Données.
+
+Vous pouvez voir ici l'interface du Visualiseur de Données affichant le tableau croisé dynamique du tableau de bord. L'écran est divisé en deux parties. Sur le côté droit, vous pouvez voir le tableau croisé dynamique actuel avec les données organisées dans un tableau avec des colonnes et des lignes. Sur le côté gauche se trouvent les options permettant de configurer la visualisation.
+
+Un menu déroulant permet d'afficher les types de visualisation disponibles. Il inclut une icône qui représente le type de graphique, un nom et un court texte qui explique son utilisation.
+
+Par exemple, la description sous le tableau croisé dynamique dit : "Afficher les données et les indicateurs dans un tableau maniable." Sous la section du type de visualisation, nous pouvons voir la section des dimensions principales.
+
+C'est ici que les dimensions quoi (données), quand (période), et où (unité d'organisation) sont sélectionnées.
+
+Slide 11
+Dans cette vidéo, nous modifierons les dimensions de données et de période pour le tableau croisé dynamique de vaccination que nous utilisons dans cet exemple. Nous le ferons en ajoutant un élément de données pour exposer le dénominateur utilisé dans le calcul du taux de couverture EPI-OPV3, et en modifiant la période de 'annuelle' à 'mensuelle' pour afficher les données de janvier et février avec une période fixe. Nous modifierons l'unité d'organisation dans la prochaine vidéo.
+
+Slide 12 (demo 2)
+Commençons par la dimension de données. Lorsque nous cliquons sur la dimension de données, un nouvel écran s'ouvre où nous pouvons sélectionner les éléments de données que nous voulons afficher.
+
+Notez qu'actuellement deux éléments de données sélectionnés pour le tableau croisé dynamique apparaissent dans la zone des éléments sélectionnés. Tous les éléments de données sont représentés par des symboles. Le point représente un élément de données et le symbole de division représente un indicateur.
+
+Pour ajouter un nouvel élément de données, cliquez sur Type de données, sélectionnez Éléments de données et dans le groupe d'éléments de données, sélectionnez Estimations de population. Parmi les éléments de données disponibles, sélectionnez GEN Population under one year (population GEN de moins d'un an) en double-cliquant dessus. Vous pouvez également cliquer sur l'élément pour le sélectionner, puis cliquer sur la flèche qui pointe vers la droite pour le déplacer vers la section des éléments sélectionnés.
+
+Nous sélectionnons cet élément de données particulier dans cet exemple, car il s'agit du dénominateur utilisé pour calculer l'indicateur de la couverture de EPI-OPV3, qui figure déjà dans notre tableau croisé dynamique sur le tableau de bord. Cliquez sur 'Actualiser' pour afficher le nouvel élément de données dans le tableau croisé dynamique.
+
+Nous pouvons maintenant voir trois colonnes de données : Dans la première, le nombre de doses de OPV3 administrées, qui est le numérateur de notre indicateur ; dans la troisième colonne, nous avons la population, qui est le dénominateur ; dans la deuxième colonne se trouve l'indicateur, qui est le numérateur divisé par le dénominateur et multiplié par 100 afin d'obtenir un pourcentage.
+
+Passons à la deuxième dimension, la période. Deux options sont à sélectionner : périodes relatives ou périodes fixes.
+
+Slide 13 (demo)
+Les périodes relatives sont relatives à la date actuelle.
+
+Ces périodes seront mises à jour automatiquement et vous seront utiles si vous voulez que les données de la visualisation enregistrée soient modifiées au fil du temps.
+
+Les périodes relatives sont utiles et permettent de gagner du temps lorsqu'elles sont utilisées pour des rapports produits régulièrement. Les périodes fixes vous permettent de sélectionner la période exacte pour laquelle vous voulez visualiser les données.
+
+Contrairement aux périodes relatives, les périodes fixes ne seront pas mises à jour au fil du temps et toute visualisation enregistrée qui utilise des périodes fixes affichera toujours les données de cette période spécifique.
+
+Notez qu'il est possible de sélectionner simultanément plusieurs périodes et une combinaison de périodes fixes et relatives.
+
+Slide 14 (demo)
+Modifions la dimension de période. A gauche de l'écran, sélectionnez les périodes fixes. Pour le type de période, sélectionnez mensuel, et dans la liste choisissez janvier 2021 et février 2021.
+
+Ensuite, dans la section des périodes sélectionnées, cliquez sur la période de cette année pour la supprimer du tableau croisé dynamique puis actualisez pour observer les changements dans le tableau.
+
+Nous pouvons maintenant voir uniquement les valeurs de janvier 2021 et février 2021.
+
+Slide 15
+En résumé, vous avez vu que les tableaux croisés dynamiques constituent un type de visualisation flexible qui peut être créé dans l'application Visualiseur de données dans DHIS2.
+
+Vous pouvez ouvrir un tableau croisé dynamique à partir d'un tableau de bord ou utiliser le menu des applications pour accéder à l'application.
+
+Les principales dimensions à prendre en compte lors de la création d'un tableau croisé dynamique sont l'élément de données, la période et l'unité d'organisation, également appelées dimensions quoi, quand et où.
