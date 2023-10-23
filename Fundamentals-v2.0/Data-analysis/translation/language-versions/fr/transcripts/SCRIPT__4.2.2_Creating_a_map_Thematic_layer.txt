@@ -1,0 +1,42 @@
+Création d'une carte : Couche thématique
+
+Slide 2
+Dans la vidéo précédente, nous avons appris comment créer une carte dans DHIS2 avec un fond de carte et une couche de délimitation. Dans cette vidéo, nous verrons comment ajouter et modifier une couche thématique. Nous continuerons à travailler avec notre exemple du Trainingland pour créer une carte qui montre la couverture du BCG par district en 2020. Une carte thématique représente des informations sur un sujet ou un thème dans une zone géographique.
+
+Diapo 3 (démo)
+Pour ajouter une couche thématique dans l'application Cartes de DHIS2, cliquez sur Ajouter une couche et sélectionnez Thématique. Dans la boîte de dialogue de configuration, le premier onglet d'informations que nous devons sélectionner est celui des données.
+
+Etant donné que les cartes utilisent le concept de couches pour ajouter des données, un seul élément de données peut être sélectionné dans chaque couche. Dans ce cas, la couverture est un indicateur, nous devons donc sélectionner Indicateur comme type d'élément. BCG est un vaccin anti-tuberculose. Dans le menu déroulant du groupe d'indicateurs, sélectionnez Vaccination - couvertures, et dans la liste des indicateurs disponibles, sélectionnez PEV - BCG Couverture, pourcentage. L'onglet période est la prochaine étape.
+
+Bien que l'interface semble un peu différente des autres applications de visualisation, le contexte est le même. Tout d'abord, nous devons sélectionner le type de période avec lequel nous travaillons, relative ou fixe. En fonction du type sélectionné, vous aurez le choix entre différentes périodes.
+
+Alors qu'avec les tableaux croisés dynamiques et les graphiques, nous pouvions sélectionner plusieurs périodes par résultat, pour une couche de carte, nous ne pouvons sélectionner qu'un seul type de période et une seule période car nous affichons les données sur une seule carte. Pour cet exemple, pour le type de période,
+
+Sélectionnons 'période fixe annuelle' et pour période, 2020. Ensuite, dans l'onglet Unités d'organisation, vous pouvez sélectionner les unités d'organisation pour lesquelles vous voulez afficher les données sur la couche. Tout comme dans l'application Visualiseur de Données, nous pouvons sélectionner les unités d'organisation dans la hiérarchie en sélectionnant des niveaux ou des groupes. Pour cet exemple, nous voulons sélectionner tous les districts du Trainingland.
+
+Pour ce faire, dans la hiérarchie, cochez la case à côté de Trainingland, puis dans le menu de sélection des niveaux, sélectionnez Districts et désélectionnez Régions. Enfin, cliquez sur l'onglet Style. Deux styles de cartes sont disponibles. Les cartes choroplèthes attribueront une couleur à chaque représentation d'unité d'organisation en fonction de la valeur des données. Une carte à bulles affichera les valeurs des données sous forme de cercles proportionnels.
+
+Les cercles sont placés au centre de chaque unité d'organisation. Pour notre exemple, utilisons la carte choroplèthe. Penchons-nous sur les options de légende.
+
+Une légende à couleurs automatiques signifie que l'application classera automatiquement les données pour les unités d'organisation sélectionnées en fonction de la classification, du nombre de classes et de l'échelle de couleurs que vous sélectionnez. Vous pouvez définir la classification en fonction d'intervalles égaux ou de chiffres égaux. Examinons la différence entre ces deux types de classification.
+
+Sélectionnez 'intervalles égaux', et ajoutez une couche. Les intervalles égaux diviseront les valeurs en classes de taille égale en utilisant cette formule : Valeur de données la plus élevée moins valeur de données la plus basse divisée par le nombre de classes.
+
+Par exemple, si la valeur la plus élevée est 94,5, la valeur la plus basse 32,7 et que nous avons cinq classes, chaque intervalle sera de 12,4. Comme vous pouvez le voir, le nombre de valeurs de données pour chaque intervalle varie de zéro à huit. Cette méthode est plus adaptée pour les ensembles de données continus dans lesquels les données représentent des mesures et non des comptages, tels que la taille d'une personne, les précipitations ou la température.
+
+Modifions la carte et sélectionnons 'chiffres égaux'. Pour ce faire, cliquez sur l'icône en forme de crayon pour ouvrir la boîte de dialogue. Revenez à l'onglet Style, puis sélectionnez "chiffres égaux" dans le menu déroulant.
+
+Ensuite, cliquez sur "Mettre à jour la couche". Des chiffres égaux répartiront les valeurs de données de manière équitable en fonction du nombre de classes créées. Par exemple, si j'ai 12 unités d'organisation et cinq classes, chaque classe contiendra deux ou trois valeurs.
+
+Maintenant, vous pouvez voir que la plage de valeurs de chaque intervalle varie considérablement, d'environ 1% à plus de 40%. Cette méthode convient aux données réparties de manière uniforme dans leur plage, car elle permet de mettre en évidence la position relative des valeurs des données. Par exemple, quels districts sont dans le top 20% de couverture de BCG.
+
+Cliquez sur l'icône crayon pour continuer à éditer la couche. L'option de légende à couleur prédéfinie appliquera une légende prédéfinie à votre carte. Notez que lorsque vous choisissez cette option, vous n'avez pas besoin de définir vous-même la classification, le nombre de classes ou le schéma de couleurs.
+
+Ils sont déjà prédéfinis. Vous n'avez qu'à sélectionner un ensemble de légendes. Dans ce cas, choisissons PEV couverture. Cliquez ensuite sur Mettre à jour la couche. Vous pouvez maintenant voir la légende avec cinq classes, leur classification et leur schéma de couleurs.
+
+Cependant, nous pouvons voir que les noms des districts ne sont plus visibles. Cela est dû au fait qu'ils sont recouverts par le schéma de couleurs, qui est à un niveau supérieur dans l'ordre des couches.
+
+Vous pouvez déplacer la couche de délimitation vers le haut en déplaçant sa carte. Les noms de district sont à nouveau visibles car leur couche est au-dessus de la couche de schéma de couleurs sur la carte. Maintenant, nous pouvons voir la couverture de BCG par district dans Trainingland pour l'année 2020.
+
+Slide 4
+En résumé, une couche thématique représente des informations sur un sujet ou un thème pour une zone géographique. Vous pouvez spécifier l'élément de données, la période et l'unité d'organisation vous voulez afficher dans la couche thématique et vous pouvez personnaliser votre carte en sélectionnant la méthode de classification qui correspond à vos besoins, soit une légende à couleur automatique, soit une légende à couleur prédéfinie.
