@@ -1,0 +1,37 @@
+Application Android pour la saisie de données : Installation
+
+Slide 2
+L'application de saisie Android DHIS2 permet de collecter des données sur des appareils mobiles avec ou sans connexion internet et de les synchroniser avec une base de données centrale DHIS2.
+
+Slide 3
+Dans cette vidéo, vous allez apprendre à télécharger l'application de Saisie sur un appareil Android et à vous connecter à notre base de données de formation DHIS2.
+
+Slide 4 (demo)
+Voyons  à présent comment démarrer avec l'application de Saisie Android.
+
+En premier lieu, vous devez avoir accès à un appareil Android. Vous allez probablement utiliser votre appareil Android en mode portrait, mais dans le cadre de ces démonstrations, nous allons faire pivoter l'appareil et vous montrer l'application en mode paysage, afin qu'elle vous soit plus facile à visualiser.
+
+À partir de l'appareil, recherchez et ouvrez le Google Play Store.
+
+Ensuite, recherchez saisie DHIS2. Ce devrait être le premier résultat. Vous pouvez vérifier qu'il s'agit de la bonne application en confirmant que DHIS2 est mentionné comme éditeur de l'application.
+
+Appuyez sur installer et laissez votre appareil terminer le processus d'installation. Maintenant que DHIS2 Capture est installé, ouvrez l'application en appuyant sur son icône sur votre appareil Android.
+
+Vous accédez alors à l'écran de connexion. Pour utiliser l'application, vous aurez besoin des données de connexion de l'instance DHIS2 à laquelle vous essayez d'accéder : l'URL du serveur, votre nom d'utilisateur et votre mot de passe.
+
+Saisissez vos informations d'identification, puis appuyez sur Connexion. Dans cet exemple, nous allons utiliser les informations de connexion habituelles pour notre base de données de formation.
+
+Dans un scénario réel, vous devez utiliser les informations de votre compte personnel pour vous connecter à l'instance DHIS2 de votre organisation ou de votre projet.
+
+Après avoir cliqué sur Connexion, vous recevrez une notification relative à l'expérience de l'utilisateur. Appuyez sur continuer pour confirmer que vous comprenez que l'application enverra les journaux d'erreurs associés à votre identifiant d'utilisateur afin d'améliorer les performances de l'application.
+
+Vous pouvez appuyer sur le lien de la politique de confidentialité pour en savoir plus si vous le souhaitez.
+
+Vos informations d'identification seront alors authentifiées. La configuration et les données seront ensuite synchronisées.
+
+La durée du processus de synchronisation dépend de la taille de la base de données que vous essayez de charger.
+
+Lorsque la synchronisation de l'application est terminée, la page d'accueil s'affiche, ce qui signifie que vous êtes prêt à saisir des données dans l'application de saisie Android du DHIS2. Vous en saurez davantage dans la prochaine vidéo.
+
+Slide 5
+En résumé, pour télécharger, installer et ouvrir l'application Android DHIS2 Capture, il faut d'abord aller sur Google Play Store, trouver l'application DHIS2 Capture et appuyer sur Installer. Ensuite, connectez-vous à l'application avec vos identifiants.
