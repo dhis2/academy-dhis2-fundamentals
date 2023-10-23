@@ -1,0 +1,35 @@
+Création et partage d'un tableau de bord
+
+Slide 2
+Maintenant que vous savez comment naviguer dans l'interface des tableaux de bord, voyons comment créer un tableau de bord.
+
+Slide 3
+Avant de l'examiner de plus près, notez que les tableaux de bord ont deux modes : le mode d'affichage et le mode de création ou d'édition. Dans la vidéo précédente, vous avez appris sur les options du tableau de bord en mode d'affichage, ce que vous verrez lorsque vous vous connecterez à DHIS2. Dans cette vidéo, nous explorerons l'interface pour le mode de création ou d'édition.
+
+Slide 4
+Pour créer un nouveau tableau de bord à partir du mode d'affichage du tableau de bord, cliquez sur le bouton Plus pour entrer en mode création.
+
+Dans le champ du titre du tableau de bord, ajoutez un titre. Par exemple, Gestion des stocks de vaccination. Si vous ne spécifiez pas de titre, le tableau de bord sera automatiquement intitulé "tableau de bord sans titre". Ensuite, dans le champ de description du tableau de bord, ajoutez une description.
+
+Prenons l'exemple des visualisations du programme de vaccination liées à la gestion des stocks. Il est recommandé d'ajouter une description au tableau de bord que vous créez afin d'informer les autres utilisateurs sur son contenu. Cliquez sur le champ Rechercher des éléments à ajouter à ce tableau de bord pour afficher une liste des objets disponibles.
+
+Ces objets sont regroupés en fonction de l'application dans laquelle ils ont été créés, visualisations de données, cartes, rapports d'événements, graphiques d'événements et rapports. Vous pouvez également ajouter d'autres objets au tableau de bord, tels que des ressources, des applications et des éléments supplémentaires tels que des zones de texte et des espaces.
+
+Vous pouvez ajouter des objets au tableau de bord de deux manières. En les recherchant dans la liste des objets par groupe, ou en les filtrant en fonction du titre de l'objet. Recherchons maintenant les objets qui ont "stock" dans leur titre.
+
+En passant, vous pouvez comprendre ici l'importance  d'adopter et d'appliquer une convention d'appellation claire. Sans une telle convention, la recherche d'un objet spécifique peut s'avérer difficile.
+
+En cliquant sur la case traversée d'une flèche, vous ouvrirez un nouvel onglet dans lequel vous pourrez visualiser l'objet dans l'application dans laquelle il a été créé. Lorsque vous trouvez un objet que vous voulez ajouter au tableau de bord, tel que BCG Stock, cliquez dessus pour l'ajouter.
+
+Tous les éléments sélectionnés pour votre tableau de bord apparaissent empilés sur le côté gauche de l'écran. Après avoir inséré tous les éléments souhaités, vous pouvez les organiser sur le tableau de bord par glisser-déposer.
+
+Vous pouvez également redimensionner les objets en cliquant sur l'angle inférieur droit de l'objet et en le tirant jusqu'à la taille souhaitée. Vous pouvez également supprimer des objets du tableau de bord en cliquant sur l'icône rouge de la corbeille dans l'angle supérieur droit.
+
+Cliquez sur le bouton Enregistrer les modifications pour enregistrer le tableau de bord et revenir au mode d'affichage. Vous pouvez désormais voir votre tableau de bord dans la liste des tableaux de bord disponibles.
+
+Si vous voulez le partager, cliquez sur le bouton de partage et spécifiez l'utilisateur ou le groupe d'utilisateurs avec lequel vous voulez partager le tableau de bord. Par défaut, les utilisateurs auront l'autorisation d'éditer le tableau de bord.
+
+Vous pouvez modifier leurs autorisations en cliquant sur l'icône crayon et en sélectionnant "Peut visualiser uniquement".
+
+Slide 5
+En résumé, dans DHIS2, vous pouvez créer un nouveau tableau de bord et y ajouter différents types d'éléments en les sélectionnant dans une liste. Vous pouvez organiser les éléments du tableau de bord en déplaçant par glisser-déposer. Et vous pouvez également redimensionner ou supprimer des objets. Vous pouvez partager le tableau de bord avec d'autres utilisateurs et configurer leurs autorisations pour visualiser et éditer le tableau de bord.
