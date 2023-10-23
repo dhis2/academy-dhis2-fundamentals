@@ -1,0 +1,39 @@
+Introduction aux tableaux de bord
+
+Slide 2
+Les tableaux de bord de DHIS2 permettent d’afficher, d’analyser et de partager diverses informations dans un emplacement centralisé.
+
+Slide 3
+Ils peuvent contenir plusieurs résultats ou sorties, tels que des tableaux croisés dynamiques, des graphiques ou des cartes, tous liés à un sujet spécifique.
+
+Slide 4 + 5
+La page d'accueil des tableaux de bord est la première chose que vous voyez après vous être connecté à DHIS2. Le dernier tableau de bord que vous avez utilisé s'affiche, à condition que vous vous connectiez sur le même ordinateur que celui que vous avez utilisé précédemment. Si vous utilisez un autre ordinateur, c'est le premier tableau de bord avec étoile qui s'affiche. Regardons de plus près la présentation du tableau de bord pour en découvrir les différentes composantes et options.
+
+Slide 6 (demo)
+Juste au-dessus du tableau de bord se trouve une barre de contrôle où vous pouvez voir tous les tableaux de bord disponibles auxquels vous avez accès. La taille de cette barre est personnalisable. Vous pouvez l'agrandir si vous avez accès à plusieurs tableaux de bord.
+
+Le tableau de bord actuellement affiché est mis en évidence en vert. À gauche de la barre de contrôle se trouve un champ de recherche qui vous permet de rechercher des tableaux de bord existants et un bouton Plus, qui vous permet de créer un nouveau tableau de bord.
+
+Nous aborderons la création de tableaux de bord dans notre prochaine vidéo. Sous la barre de contrôle, vous pouvez voir le titre du tableau de bord actuel et une étoile à côté du titre qui vous permet de marquer le tableau de bord comme favori. Lorsque vous cliquez sur l'étoile, le tableau de bord passe en première position dans la liste des tableaux de bord disponibles. Les tableaux de bord marqués d'une étoile apparaissent toujours en premier dans la liste des tableaux de bord.
+
+Après les tableaux de bord favoris, les autres tableaux de bord sont classés par ordre alphabétique. Cette fonction est particulièrement utile lorsque vous avez beaucoup de tableaux de bord, mais que vous voulez accéder rapidement à certains d'entre eux. Si vous avez accès à la modification du tableau de bord en cours de visualisation, un bouton "Modifier" apparaît à droite du titre.
+
+Vous pouvez partager un tableau de bord avec des groupes d'utilisateurs ou des utilisateurs spécifiques. Pour ce faire, cliquez sur le bouton Partager à droite du titre du tableau de bord, afin d'afficher les options des paramètres de partage du tableau de bord. Tapez le nom de l'utilisateur ou du groupe d'utilisateurs dans le champ de saisie et cliquez sur le nom pour l'ajouter à la liste de ceux qui ont accès au tableau de bord. En cliquant sur l'icône en crayon, vous pouvez accorder à cet utilisateur ou à ce groupe d'utilisateurs des autorisations de modification et de visualisation ou des autorisations de visualisation uniquement. Cliquez sur 'peut visualiser uniquement'.
+
+Vous remarquerez que l'icône crayon s'est transformée en icône œil. Cliquez sur Fermer pour quitter les options de paramétrage du partage. Vous pouvez appliquer des filtres à un tableau de bord, lesquels modifieront les données affichées dans chaque élément du tableau de bord. Le filtre remplace la valeur initiale de cette dimension dans la visualisation initiale. Le filtrage peut se faire sur la base de périodes, d'unités d'organisation et d'autres dimensions dynamiques, en fonction de l'instance DHIS2. Par exemple, nous pouvons ajouter un filtre d'unités d'organisation afin d'afficher les données de Animal Region.
+
+Comme vous pouvez le voir, seules les données de Animal Region sont maintenant affichées pour chacun des objets du tableau de bord. Pour supprimer le filtre et restaurer les données initiales, il suffit de cliquer sur le lien de suppression dans le champ noir spécifiant le filtre appliqué.
+
+À côté du bouton d'ajout de filtre se trouve un bouton Plus qui propose trois options. La première option est "retirer l'étoile au tableau de bord" pour retirer le tableau de bord de la liste des favoris. La deuxième option est "afficher la description" pour afficher la description du tableau de bord sous le titre. Notez que le champ de description n'est pas obligatoire. Certains tableaux de bord peuvent donc ne pas avoir de description.
+
+La dernière option est "imprimer". Vous avez deux options pour l'impression. Imprimer la présentation du tableau de bord ou imprimer un élément par page.
+En sélectionnant l'une ou l'autre option, vous serez dirigé vers une page d'aperçu d'impression où vous verrez à quoi ressemblera le tableau de bord une fois imprimé.
+
+Dans la zone principale du tableau de bord, vous pouvez voir tous les éléments ajoutés au tableau de bord, à savoir des objets d'analyse tels que des graphiques, des cartes, des rapports et des tableaux croisés dynamiques, ainsi que des informations textuelles telles que des messages, des interprétations, des zones de texte, des liens vers des ressources et des widgets d'application. En fonction des paramètres spécifiques d'une instance DHIS2, vous trouverez un menu d'options supplémentaires dans l'angle supérieur droit des cartes, des graphiques et des objets de tableaux croisés dynamiques présents sur un tableau de bord.
+
+Ce menu vous permet d'interagir avec la visualisation de différentes manières. Vous pouvez afficher l'objet en mode plein écran, ce qui peut être utile lorsque vous présentez des données à d'autres personnes. Vous pouvez également choisir le mode d'affichage de la visualisation en sélectionnant la représentation souhaitée. Par exemple, lorsque vous interagissez avec un graphique, vous avez le choix entre l'affichage sous forme de tableau ou sous forme de carte.
+
+Vous pouvez afficher et masquer les détails et les interprétations d'un objet. Et comme nous l'avons vu dans d'autres vidéos d'analyse, vous pouvez ouvrir chacune de ces visualisations dans leurs applications respectives en utilisant le lien 'ouvrir dans l'application'.
+
+Slide 7
+En résumé, le tableau de bord DHIS2 offre un accès rapide à différents objets d'analyse. Dans l'interface du tableau de bord, vous pouvez voir tous les tableaux de bord disponibles sur votre compte utilisateur. Vous pouvez cliquer sur l'étoile à côté d'un tableau de bord pour en faire un favori. Vous pouvez modifier un tableau de bord, si vous en avez l'autorisation, le partager avec des utilisateurs ou des groupes d'utilisateurs, voir sa description et l'imprimer. Vous pouvez également interagir avec les objets dans un tableau de bord.
