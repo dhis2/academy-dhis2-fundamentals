@@ -1,0 +1,59 @@
+Application de Saisie de Données : Les principes de base
+
+Slide 2
+L'une des principales fonctionnalités de DHIS2 est la collecte de données. Mais comment les données sont-elles saisies dans DHIS2 ?
+
+Slide 3
+Dans cette vidéo, nous vous apprenons à utiliser l'application saisie de données pour effectuer la saisie de quelques données agrégées de base, ainsi que les différentes méthodes utilisées par l'application pour s'assurer que les données saisies sont correctes et pour naviguer dans les formulaires de saisie de données.
+
+Slide 4 (demo)
+Pour commencer, connectez-vous à DHIS2. Dans le menu Applications situé dans le coin supérieur droit, recherchez l'application Saisie de données en faisant défiler la liste des applications ou en utilisant le champ de recherche, puis cliquez sur l'icône.
+
+Une fois l'application ouverte, vous pouvez sélectionner les dimensions, l'unité d'organisation, l'ensemble de données et la période pour ouvrir un formulaire de saisie de données. Vous devez sélectionner les dimensions dans un ordre spécifique.
+
+Pour commencer, sélectionnez l'unité d'organisation pour laquelle vous saisissez des données. Cette opération s'effectue dans la hiérarchie des unités d'organisation, sur le côté gauche.
+
+En cliquant sur l'icône plus, vous pouvez élargir les niveaux de la hiérarchie pour trouver l'unité d'organisation dans laquelle vous souhaitez saisir des données. Cliquez ensuite sur l'unité d'organisation pour la sélectionner.
+
+Vous pouvez également utiliser l'icône de recherche située au-dessus de la hiérarchie pour rechercher une unité d'organisation en particulier. Il vous suffit de saisir le nom de l'unité d'organisation dans le champ de recherche, puis de cliquer pour sélectionner celle que vous recherchez.
+
+Lorsqu'une unité d'organisation a été sélectionnée, son nom devient orange dans la hiérarchie et elle renseigne également le champ de l'unité d'organisation dans la boîte de dimension verte.
+
+La dimension suivante à sélectionner est l'ensemble de données. Les ensembles de données disponibles dans l'unité d'organisation que vous avez sélectionnée apparaissent dans la liste déroulante.
+
+Chaque ensemble de données étant généralement lié à des prestations spécifiques, la liste des ensembles de données disponibles dans chaque unité d'organisation changera en fonction des types de prestations qui y sont fournies, ainsi que des ensembles de données auxquels vous avez accès en fonction de votre rôle d'utilisateur.
+
+Pour cet exemple, sélectionnez Immunisation PEV. Ensuite, sélectionnez la période pour laquelle vous souhaitez saisir des données. L'ensemble de données que vous choisissez prédétermine le type de période disponible en fonction de la fréquence de collecte des données pour ce formulaire.
+
+L'ensemble de données sur les vaccinations est collecté mensuellement, vous devez donc sélectionner le mois pour lequel vous allez saisir des données. Vous pouvez utiliser les boutons Année précédente et Année suivante pour passer d'une année à l'autre au besoin.
+
+Sélectionnons un mois pour saisir les données. Comme notre formulaire contient plusieurs sections, nous pouvons également voir un menu déroulant supplémentaire en haut du formulaire, filtrer la section.
+
+Cette fonction permet d'accéder rapidement à une section particulière du formulaire pour y saisir des données. Si vous souhaitez sélectionner une autre section ou revoir l'ensemble du formulaire, il vous suffit de revenir au menu déroulant Filtrer la section et de modifier votre sélection.
+
+Les différents types de formulaires seront abordés plus en détail dans le cours sur la personnalisation. Une fois l'ensemble de données ouvert, vous pouvez commencer à saisir des données.
+
+Pour saisir une valeur, il vous suffit de sélectionner le champ et le formulaire dans lesquels vous souhaitez saisir des données, puis de saisir la valeur. Vous pouvez cliquer sur chaque champ avec votre curseur pour saisir des données ou vous pouvez passer d'un champ à l'autre en utilisant les touches fléchées haut et bas ou la touche de tabulation.
+
+En appuyant sur la touche de Tabulation, le curseur passe au champ suivant et en appuyant sur les touches Shift + Tab, le curseur revient au champ précédent. Une case grise signifie que la saisie de données est désactivée pour ce champ.
+
+Il est donc verrouillé et ne peut être modifié. Vous remarquerez que vous ne pouvez pas cliquer sur ces champs gris. Si vous utilisez la touche de tabulation ou les touches fléchées pour naviguer dans le formulaire, votre curseur passera automatiquement au-dessus de ces champs pour passer au champ disponible suivant.
+
+Lorsque vous saisissez des données dans un champ, celui-ci devient vert. Cela signifie que la valeur des données a été enregistrée. Les valeurs des données sont enregistrées automatiquement dans DHIS2 au fur et à mesure que vous les saisissez.
+
+Il n'est donc pas nécessaire de cliquer sur le bouton Enregistrer et vous ne risquez pas de perdre votre travail. Si le champ est jaune, cela signifie que le système est en train d'enregistrer la valeur mais qu'elle n'est pas encore enregistrée.
+
+Dans la plupart des cas, cela ne dure qu'un instant. Si vous saisissez une valeur non valide, par exemple du texte au lieu d'un nombre dans une cellule numérique, le système affichera un message indiquant le type de valeur correct pour ce champ.
+
+Le champ devient également jaune, ce qui indique que la valeur invalide que vous avez saisie n'a pas été enregistrée. Si vous saisissez une valeur qui se situe en marge d'une fourchette prédéterminée pour un champ spécifique, vous recevrez un message contextuel indiquant que la valeur se situe en marge de la fourchette et le champ passera à l'orange.
+
+Cela indique que votre saisie est peut-être incorrecte. Vérifiez à nouveau votre saisie. Si cette valeur est incorrecte, corrigez-la.
+
+Si vous confirmez que la valeur est correcte, il est utile d'ajouter un commentaire pour l'attester. Vous apprendrez à ajouter des commentaires sur les valeurs des données dans la prochaine vidéo.
+
+Slide 5
+En résumé, pour saisir des données agrégées, vous devez d'abord ouvrir l'application Saisie de données dans le menu Applications. Sélectionnez ensuite l'unité d'organisation, l'ensemble de données et la période.
+
+Lorsque vous saisissez des données, la couleur verte signifie que votre valeur a été enregistrée. La couleur jaune signifie qu'elle n'est pas encore enregistrée.  L'orange signifie que la valeur saisie est en dehors de la fourchette de valeurs. Enfin, la couleur grise signifie que le champ est verrouillé.
+
+En plus de cliquer ou d'utiliser la touche de Tabulation pour passer d'un champ de formulaire à l'autre, pour les formulaires comportant plusieurs sections, vous pouvez utiliser l'option Filtrer la section pour afficher une section spécifique du formulaire.
