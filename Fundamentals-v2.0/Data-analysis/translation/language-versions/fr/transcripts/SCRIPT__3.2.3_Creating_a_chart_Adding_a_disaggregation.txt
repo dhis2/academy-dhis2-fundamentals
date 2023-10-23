@@ -1,0 +1,22 @@
+Création d'un graphique : Ajout d'une désagrégation.
+
+Slide 2
+Dans les leçons précédentes, nous avons créé ce graphique qui montre le nombre total de doses pour chacune des quatre doses PEV VPO administrées, par district dans la Région Animal du Trainingland en 2021. Mais que se passerait-il si, au lieu du nombre total de doses par dose administrée, nous voulions montrer le nombre total général de doses désagrégées par âge ?
+
+Slide 3
+Voyons comment ça marche. Tout d'abord, nous devrons changer le type de graphique pour choisir un autre qui convient mieux à nos besoins.
+
+Cliquez sur le menu de sélection du type de graphique pour voir les options disponibles. Le graphique à barres empilées vous permet de suivre ou de comparer les parties d'un tout dans le temps.
+
+Sélectionnez le comme type de graphique pour cet exemple. Maintenant, nous devons modifier la présentation. Tout comme la période, déplacez la dimension de l'unité d'organisation vers le filtre, et gardez les données dans le champ de catégorie et pour la série du menu des dimensions dans le volet de gauche, sélectionnez l'âge en années, 0-1, 1 et plus, inconnu.
+
+Cliquez sur la dimension pour ouvrir la boîte de dialogue des options.
+
+C'est ici que nous pouvons choisir les désagrégations spécifiques que nous voulons voir dans le graphique. Dans ce cas, double-cliquez sur '0 à 1 an' et '1 an et plus' pour déplacer les options vers la section des éléments sélectionnés, puis cliquez sur "Ajouter à la série".
+
+Nous pouvons maintenant voir ce graphique avec les totaux généraux du nombre de doses d'OPV 0, 1, 2 et 3 administrées dans Animal Region en 2021 pour deux tranches d'âge, '0 à 1 an' indiqué en vert et 'plus de 1 an' indiqué en bleu.
+
+Ici, nous pouvons voir le nombre de doses administrées pour chaque dose, réparti par tranche d'âge. C'est ce à quoi on s'attendrait en consultant les données sur les doses de VPO administrées dans le cadre d'un programme de vaccination d'enfants, car les doses sont généralement administrées à des enfants âgés de moins d'un an.
+
+Slide 4
+En résumé, dans cette vidéo, vous avez vu comment ajouter une désagrégation à un graphique, changer le type de graphique, ajuster la présentation et ajouter une nouvelle dimension à la série pour créer une visualisation qui montre des données plus détaillées.
