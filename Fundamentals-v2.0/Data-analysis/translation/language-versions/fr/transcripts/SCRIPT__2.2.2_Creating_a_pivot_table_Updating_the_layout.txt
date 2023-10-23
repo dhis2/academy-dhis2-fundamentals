@@ -1,0 +1,21 @@
+Création d'un tableau croisé dynamique : Actualisation de la mise en page
+
+Slide 2
+Dans ce tableau croisé dynamique, nous pouvons voir le nombre de doses de BCG, de vaccin contre la fièvre jaune, de DPT-HepB-HIB un et trois, et de doses MR un et deux administrées dans les régions Animal et Food pour chaque année de 2017 à 2021. Mais que se passerait-il si nous voulions afficher les données par district dans la Région Animal et non par période?
+
+Slide 3
+Dans ce cas, nous devrions d'abord modifier la dimension de l'unité organisationnelle pour correspondre à notre nouvelle demande, puis mettre à jour la mise en page du tableau pour changer la manière dont les données sont affichées. Nous commencerons par mettre à jour la dimension de l'unité organisationnelle.
+
+Slide 4 (demo)
+Cliquons sur la dimension de l'unité d'organisation dans le volet de gauche pour afficher l'écran de sélection de la dimension.
+
+Dans la hiérarchie, décochez Food Region. Et dans le menu déroulant Niveau, choisissez District, puis cliquez sur Mise à jour. Nous pouvons maintenant voir les valeurs de données de Animal Region.
+
+Cependant, les unités d'organisation sont toujours dans le champ de filtre. Pour afficher les données par district, la présentation du tableau croisé dynamique devra être modifiée. Par glisser-déposer, nous pouvons déplacer les dimensions vers les différents champs.
+
+Par exemple, nous pouvons déplacer la dimension de l'unité d'organisation vers les lignes et la période vers le filtre. Si des modifications sont apportées dans la zone de présentation, il faudra cliquer sur Mettre à jour pour que les modifications apparaissent dans le tableau.
+
+Après ces modifications, les données ne seront plus affichées selon la dimension de la période, mais plutôt par district dans Animal Region. Le tableau montre le nombre total général de vaccins administrés de 2017 à 2021.
+
+Slide 5
+En résumé, vous pouvez utiliser la fonction de présentation pour modifier la façon dont les données sont affichées dans votre tableau croisé dynamique. Pour modifier la présentation, il vous suffit de déplacer les dimensions vers les colonnes, les lignes et le champ de filtre, puis de cliquer sur "Mettre à jour".
