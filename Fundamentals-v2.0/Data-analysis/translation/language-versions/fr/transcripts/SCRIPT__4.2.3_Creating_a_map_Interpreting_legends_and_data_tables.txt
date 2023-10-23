@@ -1,0 +1,40 @@
+Création d'une carte : interprétation des légendes et des tableaux de données
+
+Slide 2
+Dans les vidéos précédentes, nous avons créé une carte dans l'application Cartes de DHIS2 en sélectionnant un fond de carte, en ajoutant une couche frontière et une couche thématique qui montre la couverture des vaccins BCG par district, dans le Trainingland pour l'année 2020.
+
+Slide 3
+Dans cette vidéo, nous allons nous concentrer sur la façon de lire notre carte et d'interpréter sa légende.
+
+Slide 4 (demo)
+Une légende de carte explique les symboles et les couleurs d'une carte. Lorsque nous lisons et interprétons une légende de carte, nous pouvons comprendre la signification des données. Vérifions la légende que nous avons sélectionnée pour cette carte. Dans la carte de la couche thématique, cliquez sur l'icône crayon pour éditer cette couche. Dans l'onglet Style, la légende à couleur prédéfinie est sélectionnée, et dans légendes, c'est PEV couverture qui a été choisi. Cela signifie que la carte affichera la classification, le nombre de classes et le schéma de couleurs tels que prédéfinis pour la légende appelée PEV couverture. Ces légendes prédéfinies sont configurées par les administrateurs. Cliquez sur Annuler pour revenir à notre carte. Que nous apprend la légende de la carte ? Premièrement, il y a cinq classes de couverture BCG.
+
+Slide 5
+Faible, de zéro à 70 %, moyen, entre 70 et 80 %, élevé, entre 80 et 90 %, très élevé, entre 90 et 100 %, et un cinquième niveau appelé invalide qui va de 100 à 1000. Une unité d'organisation appartiendra à cette classe si elle a une couverture supérieure à 100 %, ce qui suppose qu'il y'a erreur dans les valeurs des données.
+
+Slide 6
+Sur la gauche, vous pouvez voir la couleur attribuée à chaque niveau. Les couleurs renvoient à la classification des données.
+
+Slide 7
+Par exemple, les couleurs vertes signifient un taux de couverture vaccinale plus élevé, ce qui est un objectif à atteindre dans le district, tandis que les couleurs orange et rouge indiquent un taux de couverture plus faible. Ce type de légende facilite la visualisation des données en fonction des objectifs ou des buts du projet.
+
+Slide 8 + 9 + 10 + 11
+À droite de chaque niveau, nous pouvons voir le nombre d'unités d'organisation (dans ce cas, les districts) qui appartiennent à ces catégories. Nous avons donc deux districts avec une faible couverture de PEV BCG, deux avec une couverture moyenne, cinq avec une couverture élevée et trois avec une couverture très élevée.
+
+Slide 12
+Aucun district n'a de données invalides.
+
+Slide 13
+Maintenant que nous comprenons la légende, concentrons-nous sur notre carte. Vous pouvez voir qu'il est très facile de distinguer les districts avec une couverture vaccinale élevée des autres qui ont une couverture plus faible.
+
+Slide 14 (demo)
+En plaçant la souris sur un district, nous pouvons voir la valeur réelle de l'élément de données, dans ce cas, le taux de couverture du BCG. Et si nous voulons afficher les données de la couche thématique dans un tableau, plutôt que de devoir placer la souris sur chaque district pour obtenir les valeurs ? Vous pouvez le faire dans la carte de la couche thématique, cliquez sur l'icône des trois points pour afficher le menu des actions supplémentaires et sélectionnez "afficher le tableau de données". Maintenant, vous pouvez voir le tableau de données sous la carte.
+
+Slide 15
+Le tableau de données montre toutes les données sous-jacentes associées aux données que vous avez sélectionnées dans la couche thématique. Dans ce cas, nous travaillons avec l'indicateur PEV Couverture du BCG, et nous pouvons voir que le tableau de données affiche toutes les valeurs pour cet indicateur, la classe de légende à laquelle il appartient, ainsi que toutes les informations pertinentes sur l'unité d'organisation. Le tableau de données est dynamique, ce qui vous permet de trier par n'importe quelle colonne par ordre croissant ou décroissant. Vous pouvez également utiliser les en-têtes de colonne comme filtres.
+
+Slide 16
+Par exemple, si nous voulons seulement voir les districts dont l'unité d'organisation mère est Food Region, nous pouvons filtrer sur Food. Vous verrez que la carte s'actualise également avec les districts filtrés. Supprimons le filtre et fermons le tableau de données en cliquant sur le menu des actions supplémentaires, puis en sélectionnant Masquer le tableau de données pour revenir à notre affichage de carte d'origine.
+
+Slide 17
+En résumé, les légendes de cartes nous aident à comprendre et interpréter les données d'une carte afin de prendre des décisions éclairées. Les données des cartes peuvent également être présentées sous forme de tableaux et des filtres peuvent être ajoutés à la carte grâce au tableau de données.
