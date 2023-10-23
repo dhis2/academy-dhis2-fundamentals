@@ -1,0 +1,61 @@
+Application Android pour la saisie de données : Les bases
+
+Slide 2
+Vous avez appris à installer et à vous connecter à l'application de saisie Android DHIS2. Mais comment l'utiliser pour saisir des données dans DHIS2 ?
+
+Slide 3
+Dans cette vidéo, vous apprendrez à saisir des données agrégées dans DHIS2 à l'aide de l'application de saisie Android. Avant de commencer, assurez-vous d'avoir installé l'application et de vous être connecté à l'aide des informations de compte de notre instance de formation.
+
+Slide 4 (demo)
+Pour commencer, ouvrons l'application Android Capture et jetons un bref coup d'œil, en commençant par l'écran d'accueil.
+
+Vous y trouverez une liste des ensembles de données auxquels vous avez accès. Chaque ensemble de données peut se voir attribuer une couleur et une icône uniques, ce qui vous permet de trouver plus facilement celui que vous recherchez.
+
+Sous chaque nom d'ensemble de données agrégées, vous verrez le nombre d'ensembles de données pour lesquels des données ont été saisies. Certains ensembles de données sont accompagnés d'une petite icône "i"qui, si vous la touchez, vous donnera la description de l'ensemble de données. Appuyez sur le nom d'un ensemble de données pour l'ouvrir.
+
+Dans cet exemple, ouvrons l'ensemble de données RMNCAH. Comme vous le savez probablement, RMNCAH signifie santé reproductive, maternelle, néonatale, infantile et adolescente.
+
+Lorsque vous ouvrez un ensemble de données, vous voyez les données qui ont été saisies dans les unités d'organisation auxquelles vous avez accès pour des périodes de déclaration spécifiques.
+
+Les ensembles de données accompagnés d'une icône représentant un crayon bleu signifient que la saisie des données a commencé, mais qu'elle n'est pas encore terminée.
+
+Les ensembles de données accompagnés d'une coche verte signifient que la saisie de l'ensemble de données est terminée.
+
+Si vous souhaitez filtrer une unité d'organisation ou une période spécifique, vous pouvez le faire en utilisant la fonction de filtrage en haut de l'application.
+
+Appuyez sur le menu Filtre et ajoutez un filtre pour les champs de l'unité d'organisation, appuyez sur l'icône Hiérarchie, ouvrez la hiérarchie et cochez la case à côté de Centre de santé Ostrich. Appuyez sur la touche retour pour quitter le filtre.
+
+Nous pouvons maintenant voir les ensembles de données qui ont été saisis pour le Centre de santé Ostrich. Pour supprimer ce filtre, cliquez sur le X situé à côté du filtre de l'unité d'organisation. Vous pouvez consulter les données de n'importe quelle entrée précédente en la sélectionnant dans la liste pour ouvrir le formulaire de saisie des données. A présent, saisissons quelques données.
+
+Dans cet exemple, nous voulons remplir l'ensemble de données du RMNCAH pour le mois d'octobre 2021 au Centre de santé Ostrich. Appuyez sur le signe plus dans le coin inférieur droit de l'écran.
+
+Sélectionnez l'unité d'organisation en ajoutant une coche à côté de son emplacement au niveau de l'établissement pour lequel les données doivent être saisies. Sélectionnons le Centre de santé Ostrich, puis appuyez sur Accepter.
+
+Ensuite, appuyez sur les champs de la période de rapport et sélectionnez octobre 2021 comme période de rapport dans le menu contextuel, puis appuyez sur suivant pour ouvrir le formulaire de saisie des données.
+
+Jetons un coup d'œil au formulaire. Vous verrez que les caractéristiques de l'ensemble de données sont listées dans le coin supérieur gauche de l'application : le nom de l'ensemble de données, la période de saisie des données et l'unité d'organisation.
+
+Juste en dessous, les sections du formulaire apparaissent. Notez que dans les formulaires par défaut, tous les champs de saisie se trouvent dans une seule section.
+
+Dans cet exemple, vous pouvez voir que le formulaire a été divisé en plusieurs sections, et vous pouvez faire défiler les noms des sections ici pour naviguer vers les différentes sections du formulaire.
+
+Dans chaque section, la liste des éléments de données apparaît telle qu'elle apparaît dans le formulaire de saisie du navigateur web. En appuyant sur le bouton d'information à droite du nom de chaque élément de données, vous obtiendrez une description de l'élément de données.
+
+Les flèches situées au-dessus des éléments de données vous permettent d'augmenter ou de réduire la taille de la colonne des éléments de données. Pour saisir des données, sélectionnez le champ de la valeur des données. Selon le type de valeur de l'élément de données, l'appareil affiche l'outil de saisie correspondant.
+
+Par conséquent, s'il s'agit d'un champ de texte, un clavier est affiché. S'il s'agit d'un champ de date, un calendrier apparaît. Dans la majorité des formulaires de données agrégées, comme dans notre exemple, l'élément de données est numérique et un pavé numérique apparaît.
+
+Passez à la cellule suivante en sélectionnant Suivant sur le pavé numérique ou en tapotant dans le champ suivant. Lorsque vous passez d'un champ à un autre, le système affiche un message vous indiquant que la valeur des données a été enregistrée.
+
+Parcourons le reste du formulaire et saisissons les données restantes. Lorsque vous avez terminé de saisir vos données pour l'ensemble de données, appuyez sur l'icône de sauvegarde en bas à droite de l'écran pour finaliser l'ensemble de données.
+
+L'application confirme que l'ensemble de données a été enregistré et nous sommes automatiquement invités à effectuer un contrôle de qualité des données. Vous devez cocher "oui" à cette requête, car toutes les erreurs détectées par le système seront signalées. S'il y a des erreurs, elles seront listées en bas de l'écran.
+
+Appuyez sur la flèche vers le haut pour afficher les détails de l'erreur. Corrigez les données dans le formulaire. Puis appuyez sur le bouton de sauvegarde et sur oui pour valider à nouveau vos données.
+
+Si toutes les règles de validation ont été respectées, vous recevrez un message indiquant que tout semble correct et vous serez invité à clôturer l'ensemble de données.
+
+Sélectionnez Oui. Vous recevrez un message de l'application vous indiquant que l'ensemble de données a été sauvegardé et terminé. Notez que même si les données saisies ne répondent pas aux règles de validation, elles seront tout de même sauvegardées.
+
+Slide 5
+Une fois connecté, sélectionnez l'ensemble de données, l'unité d'organisation et la période pour lesquels vous saisissez des données, puis commencez à saisir vos données dans les cellules. Terminez l'ensemble de données en appuyant sur le bouton d'enregistrement en bas à droite, et effectuez un contrôle de la qualité des données pour achever le processus.
