@@ -1,0 +1,43 @@
+Création d'un graphique : sélection des dimensions
+
+Slide 2
+Quelles sont les étapes de création d'un tableau croisé dynamique dans DHIS2 ?
+
+Slide 3
+Supposons que nous voulons connaître le nombre de doses de six vaccins différents administrées depuis 2017 dans les deux régions du Training Land. Intéressons-nous plus précisément aux doses de BCG, de DPT-HepB-HIB1 et 3, de MR1 et 2, et de la fièvre jaune. Avoir des informations sur l'administration de ces vaccins nous permet de mieux comprendre l'accès au système de santé dans des régions spécifiques.
+
+Slide 4 (demo)
+La première étape consiste à ouvrir l'application Visualiseur de Données. Pour ce faire, allez au menu des applications et sélectionnez l'application Visualiseur de Données.
+
+Ensuite, vous devez sélectionner le type de visualisation des données dans le menu déroulant.
+
+Pour ce cas, sélectionnez 'tableau croisé dynamique'. La prochaine étape sera de sélectionner dans le volet de gauche, les trois dimensions pour notre tableau croisé dynamique, à savoir les éléments de données, la période et l'unité d'organisation.
+
+Il faut d'abord sélectionner les éléments de données. Dans le menu du type de données, sélectionnez 'éléments de données'. Ensuite, dans le groupe des éléments de données, sélectionnez 'vaccinations d'immunisation'. Tous les éléments de données de ce groupe apparaîtront dans la section des éléments de données.
+
+Nous devons déplacer les éléments de données que nous voulons voir dans notre tableau croisé dynamique vers la section des éléments sélectionnés. Pour sélectionner et déplacer les éléments, vous pouvez double-cliquer dessus.
+
+Nous pouvons également sélectionner plus d'un élément de données en maintenant la touche Contrôle (Ctrl) sur Windows ou Commande sur Mac tout en cliquant sur les éléments, puis sur la flèche pour les déplacer vers la section des éléments sélectionnés.
+
+Si vous voulez ajouter plusieurs éléments de données listés les uns à côté des autres, vous pouvez sélectionner le premier, puis maintenir la touche shift et cliquer sur le dernier pour les sélectionner tous, puis les déplacer en utilisant la flèche qui pointe vers la droite. Vous pouvez supprimer les éléments de données de la section des items sélectionnés en utilisant les mêmes commandes.
+
+Par exemple, vous pouvez sélectionner tous ces éléments de données en maintenant la touche Shift et en cliquant sur la flèche qui pointe vers la gauche pour les ramener dans la colonne disponible.
+
+Ajoutons également les doses PEV MR1 et PEV MR2 administrées. Une fois tous les éléments de données sélectionnés, cliquez sur 'cacher'. Cliquer sur 'cacher' au lieu de 'mettre à jour' vous permet de conserver votre sélection et de passer à l'édition de la dimension suivante, ce qui vous permet de terminer toutes vos modifications avant d'afficher la visualisation du tableau croisé dynamique mis à jour.
+
+La prochaine dimension à sélectionner est la période. Comme nous voulons obtenir les données depuis 2017, nous allons sélectionner l'onglet période fixe.
+
+Ensuite, dans 'type de période', sélectionnez 'annuel'. Cliquez sur 2017 et maintenez la touche Shift enfoncée tout en cliquant sur 2021 pour sélectionner toutes ces années (de 2017 à 2021) et les déplacer vers la colonne des périodes sélectionnées, en cliquant sur la flèche qui pointe vers la droite.
+
+Ensuite, nous devons déplacer les 12 derniers mois vers la gauche en double-cliquant dessus pour les désélectionner, puis cliquer sur 'masquer'. La dernière dimension à sélectionner est l'unité d'organisation.
+
+Nous voulons consulter les données des régions animal et food. Pour ce faire, décochons la case située à côté de "Training Land" et cochons les cases à côté des régions animal et food. Maintenant que toutes les dimensions sont sélectionnées, nous pouvons cliquer sur "Mettre à jour".
+
+Nous pouvons maintenant voir le tableau croisé dynamique avec les dimensions que nous avons sélectionnées. Comme vous pouvez le voir, le tableau affiche des données agrégées des régions animal et food.
+
+Les colonnes affichent les données pour chaque vaccin et la ligne affiche les années et les périodes de 2017 à 2021.
+
+Si vous passez en revue les dimensions dans la section de présentation, vous pouvez voir les options actuellement sélectionnées pour chacune d'entre elles.
+
+Slide 5
+En résumé, pour créer un tableau croisé dynamique, vous devez d'abord ouvrir l'application Visualiseur de Données, choisir Tableau croisé dynamique dans la liste des outils de visualisation, puis sélectionner les trois dimensions, à savoir les items de données, la période et l'unité d'organisation, et cliquer sur Mettre à jour.
