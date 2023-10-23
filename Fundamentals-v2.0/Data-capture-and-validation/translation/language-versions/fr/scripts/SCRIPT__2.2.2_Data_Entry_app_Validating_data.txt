@@ -1,0 +1,80 @@
+Application de saisie de données : Validation des données
+
+Slide 2
+Vous savez maintenant comment saisir des données agrégées de base dans l'application Saisie de données, mais il existe d'autres outils disponibles dans l'application pour aider à saisir les données.
+
+Slide 3
+Dans cette vidéo, vous allez apprendre à visualiser des informations sur la valeur des données, notamment l'historique et le journal d'audit. Vous allez apprendre à imprimer les formulaires de saisie de données. Et comprendre les informations sur les métadonnées qui s'affichent à l'écran. Vous allez également découvrir rapidement les boutons "valider" et " terminer ".
+
+Slide 4 (demo)
+Voyons en premier lieu comment vous pouvez consulter des informations importantes sur les valeurs des éléments de données dans DHIS2.
+
+Pour commencer, assurez-vous que vous êtes dans l'application Saisie de données, avec votre unité d'organisation, votre ensemble de données et votre période sélectionnés. Vous pouvez afficher des informations détaillées sur chaque élément de données en double-cliquant sur un champ de valeurs de données. La boîte d'information sur l'élément de données s'affiche alors.
+
+Slide 5
+L'élément le plus visible est l'historique des éléments de données, qui apparaît dans la moitié inférieure de la fenêtre contextuelle.
+
+Slide 6
+Pour les éléments de données numériques, cela se présente sous la forme d'un tableau qui affiche les valeurs saisies pour cet élément de données au cours des périodes pour lesquelles des données ont été collectées.
+
+Cela vous aide à voir d'un coup d'œil comment la valeur que vous avez saisie est comparée aux valeurs précédentes pour cet élément de données si la valeur que vous avez saisie semble être une valeur aberrante.
+
+En d'autres termes, si la valeur semble sensiblement plus élevée ou plus basse que les valeurs précédentes, il convient de la vérifier à nouveau pour s'assurer qu'elle est correcte.
+
+Slide 7
+Notez que pour les éléments de données qui ne sont pas numériques, tels que les dates, les oui/non et le texte, le tableau de l'historique des éléments de données n'apparaît pas.
+
+Slide 8
+En haut à droite, vous pouvez voir les deux cellules qui affichent les limites minimales et maximales pour la cellule de la valeur des données.
+
+Ces limites peuvent être définies séparément pour chaque élément de données ou laissées vides. Elles indiquent la fourchette attendue des valeurs à saisir.
+
+La saisie d'une valeur en dehors de cette fourchette entraîne l'envoi d'un message d'avertissement à l'utilisateur, comme vous l'avez vu dans la vidéo précédente.
+
+Juste en dessous des limites min-max, vous pouvez voir un calcul de la valeur moyenne saisie pour cette cellule de valeur de données.
+
+Slide 9 (demo 2)
+A gauche des limites min-max, il y a un champ de commentaires. Tous les commentaires qui ont été faits sur cet élément de données particulier apparaîtront ici.
+
+Vous pouvez faire un commentaire vous-même en cliquant sur le champ de commentaire et en écrivant un commentaire. Cliquez ensuite sur Enregistrer le commentaire pour l'enregistrer.
+
+Le texte devient vert, comme les données, lorsqu'il est enregistré. Pour marquer une valeur comme devant faire l'objet d'un suivi, cliquez sur l'étoile. Cette fonction peut s'avérer utile si vous ou un collègue avez des questions ou devez assurer le suivi d'une valeur aberrante potentielle.
+
+Ce point sera abordé plus en détail dans la suite du cours. Il existe également un onglet pour le journal d'audit, qui vous montre l'historique des personnes qui ont modifié l'élément de données.
+
+Ici, vous pouvez voir quand les données ont été modifiées, par quel utilisateur, quelle était leur valeur et le type de modification effectuée, telle que la mise à jour ou la suppression.
+
+Cela vous permet de savoir qui a saisi les données et quand, au cas où vous auriez besoin de suivre une saisie ou une modification spécifique.
+
+Fermez la boîte d'information sur l'élément de données. Un autre outil utile est la fenêtre contextuelle d'information sur les métadonnées.
+
+Vous pouvez savoir où vous en êtes dans le formulaire grâce aux métadonnées affichées en haut à droite de l'écran. Comme vous pouvez le voir, elles indiquent l'unité organisationnelle, la période de temps, l'élément de données spécifique et la désagrégation dans lesquels nous saisissons les données.
+
+Cela peut être particulièrement utile lorsque vous saisissez des données dans un formulaire comportant de nombreuses désagrégations, car vous pouvez utiliser ces métadonnées pour voir quel champ est sélectionné afin de vérifier que vous saisissez les données au bon endroit.
+
+En haut du formulaire de saisie des données, vous pouvez imprimer une copie du formulaire avec les valeurs de données qui ont été saisies pour cette période, ou imprimer une copie vierge du formulaire.
+
+Ces deux options vous permettent d'imprimer une copie physique ou d'enregistrer une copie au format PDF. Lorsque vous avez fini de saisir les données, défilez jusqu'au bas du formulaire de saisie des données, vous verrez une boîte verte avec trois boutons : Complet, Incomplet et Exécuter la validation. La validation des données est utilisée pour vérifier la qualité des données dans des conditions prédéfinies.
+
+Si vos données ne remplissent pas ces conditions, le système vous signalera une erreur. Pour valider vos données, il vous suffit de cliquer sur le bouton Lancer la validation.
+
+Vous découvrirez les règles de validation et la manière dont elles contribuent à la qualité des données plus en détail dans la suite de ce cours. Si l'ensemble des données contient des champs obligatoires pour lesquels vous n'avez pas saisi de données, ces champs deviendront rouges dans le formulaire.
+
+Vous devez remplir tous les champs obligatoires avant de continuer. Une fois que vous avez validé les données et rempli les champs obligatoires, cliquez sur le bouton " Terminer " en bas de l'écran pour finaliser le formulaire de saisie des données.
+
+Une fenêtre contextuelle s'affiche pour vous demander de confirmer que vous êtes certain que l'ensemble des données est terminé. Une fois que le formulaire a été marqué comme étant terminé, un message apparaît en haut de l'écran, confirmant qu'il est terminé avec succès.
+
+Marquer un ensemble de données comme " terminé " est une étape importante, car cela affecte les résumés des taux de déclaration des ensembles de données et les mesures de ponctualité, que vous allez découvrir plus en détail dans la suite de ce cours.
+
+Lorsque vous consultez un ensemble de données qui a déjà été marqué comme " terminé ", vous verrez que le bouton " Non terminé " au bas du formulaire est maintenant actif.
+
+Ce bouton vous permet d'annuler l'état d'achèvement, ce qui signifie qu'il ne sera plus compté comme terminé pour les calculs du taux de déclaration jusqu'à ce qu'il soit à nouveau marqué comme terminé pour cette période.
+
+Cette fonction peut être utilisée pour indiquer par exemple que certaines parties de l'ensemble de données doivent être révisées. Il convient de noter que les données de l'ensemble de données peuvent toujours être modifiées, qu'elles soient marquées "terminées" ou " non terminées".
+
+Slide 10
+En résumé, l'application Saisie de données comporte des fonctions supplémentaires qui facilitent la saisie des données. En double-cliquant sur les champs de valeur des données, vous pouvez voir l'historique de l'élément de données, ce qui permet de comparer la valeur actuelle avec les précédentes, de voir les limites minimales et maximales et d'examiner le journal d'audit.
+
+Vous pouvez facilement retracer l'état d'avancement du formulaire de saisie des données en consultant la fenêtre contextuelle d'information sur les métadonnées. Vous pouvez également imprimer un formulaire vierge ou un formulaire dont les valeurs ont été renseignées.
+
+Vous pouvez effectuer une analyse des règles de validation en cliquant sur le bouton Lancer la validation, qui vérifiera vos données par rapport à des conditions prédéfinies. Vous pouvez également marquer les ensembles de données " terminés " et " non terminés ", ce qui a une incidence sur les mesures du taux de déclaration. Enfin, vous pouvez modifier les données après leur saisie afin de résoudre les problèmes.
