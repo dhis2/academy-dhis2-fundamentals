@@ -1,0 +1,58 @@
+Directives relatives aux cartes
+
+Slide 2
+Comment les cartes peuvent-elles vous aider à visualiser et analyser des données ?
+
+Slide 3
+Les visualisations de c sont des outils extrêmement efficaces et accrocheurs pour analyser les données géospatiales. Par exemple, vous avez peut-être vu des cartes comme celles-ci pour suivre la pandémie de COVID-19, où les couleurs indiquent le nombre de cas confirmés par pays. Comment pouvons-nous créer des visualisations géospatiales comme celle-ci dans DHIS2 ?
+
+Slide 4
+Cette vidéo abordera les concepts de base sur l'utilisation des cartes pour les données agrégées dans DHIS2. Vous comprendrez comment les données peuvent être visualisées sur des cartes, le concept de couches de cartes, et certaines spécificités sur les types de couches qui peuvent être utilisées pour créer des cartes à partir du modèle de données agrégées. Nous apprendrons comment plusieurs types de données peuvent être affichés sur une même carte à l'aide des couches.
+
+Slide 5
+Tout d'abord, notons que les cartes dans DHIS2 correspondent au système d'information géographique, ou SIG, qui vous permet de visualiser des données associées à des coordonnées GPS, lesquelles renvoient à des points ou des zones sur une carte.
+
+Slide 6
+Les cartes peuvent inclure plusieurs couches, chacune représentant géographiquement des données spécifiques.
+
+Slide 7
+Chaque carte commence par une couche de base ou fond de carte. Un fond de carte est une couche avec des informations géographiques qui sert de fond à toute carte que nous créons dans DHIS2. Il existe plusieurs options de fond de carte fournies que proposent OpenStreetMap et Microsoft Bing maps.
+
+Slide 8
+D'autres couches peuvent être superposées au fond de carte, où chaque couche représente un élément de données. Ces éléments de données peuvent être des données collectées dans l'instance DHIS2, ou provenant de sources externes.
+
+Slide 9
+Notez que pour les données de DHIS2, ces coordonnées de point ou de zone doivent être configurées par un administrateur système avant que vous puissiez visualiser les données sur une carte. Vous trouverez plus d'informations à ce sujet dans la documentation DHIS2.
+
+Slide 10
+Chaque couche supplémentaire peut afficher des données, telles que des éléments de données collectés, des emplacements de sites, des limites de zone, des données climatiques ou démographiques, entre autres.
+
+Slide 11
+Les couches sont superposées et combinées en une seule analyse visuelle.
+
+Slide 12
+La transparence des couches peut également être ajustée. Ceci permet de déterminer le niveau de fusion des couches les unes avec les autres. Grâce à ces fonctionnalités, nous pouvons créer des cartes pour faciliter l'analyse des données.
+
+Slide 13
+Examinons un exemple spécifique de carte dans DHIS2. Le suivi d'un programme de vaccination est un scénario dans lequel il peut être utile de visualiser les données sur une carte. Supposons que nous voulons examiner un indicateur, tel que les taux d'abandon, pour une série de vaccinations par district. Les districts avec un taux d'abandon élevé sont-ils proches les uns des autres ? Que se passe-t-il dans ces zones ? En utilisant une carte, nous pouvons formuler ce type de questions et identifier les zones à suivre de près.
+
+Slide 14
+Les principaux types de couches utilisés pour analyser les données agrégées dans DHIS2 sont : les couches thématiques, les couches d'établissements et les couches frontières.
+
+Slide 15
+Une carte thématique représente des informations sur un sujet ou un thème dans une zone géographique. Ces thèmes peuvent être représentés à l'aide d'une carte choroplèthe ou d'une carte à bulles.
+
+Slide 16
+Les cartes choroplèthes affichent les données en fonction des limites géographiques, telles que les limites des districts, sous forme de polygones colorés.
+
+Slide 17
+Les cartes à bulles affichent les coordonnées des sites ou des zones avec des cercles. La taille du cercle dépend de la valeur associée à cet emplacement particulier. Les emplacements avec des valeurs plus élevées ont des cercles plus grands, tandis que les emplacements avec des valeurs plus petites ont des cercles plus petits.
+
+Slide 18
+La couche des établissements montre l'emplacement des établissements de santé avec différentes icônes ou images. Cela permet de montrer les différentes catégories d'établissements, telles que les centres de santé ou les dispensaires.
+
+Slide 19
+La couche des frontières affiche les lignes de délimitation entre les entités politiques et administratives, telles que les pays, les régions ou les districts.
+
+Slide 20
+En résumé, vous pouvez utiliser DHIS2 pour créer des cartes composées de plusieurs couches afin de faciliter l'analyse de données associées à des coordonnées GPS. Les principales couches utilisées pour visualiser les données agrégées sur les cartes DHIS2 sont les couches thématiques, d'établissements et de frontières.
