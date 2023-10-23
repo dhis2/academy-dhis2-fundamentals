@@ -1,0 +1,43 @@
+Introduction à  l'analyse des données dans DHIS2
+
+Slide 2
+Bienvenue au cours sur l'Analyse des données dans DHIS2.
+
+Slide 3
+Chaque mois, une quantité importante de données est saisie dans les systèmes DHIS2 à travers le monde.
+
+Slide 4
+Cependant, la seule saisie de données ne suffit pas pour aider les organisations à prendre des décisions éclairées.
+
+Slide 5
+Pour une bonne utilisation de vos données, vous avez également besoin d'outils qui vous aident à les visualiser et à les transformer en informations.
+
+Slide 6
+Comment DHIS2 peut-il aider à donner du sens aux données et contribuer à une prise de décision éclairée ?
+
+Slide 7
+DHIS2 dispose d'un ensemble d'outils de visualisation qui vous permettent d'analyser les données et de diffuser des informations via une liste d'applications faciles à utiliser. Ainsi, les utilisateurs à tous les niveaux d'une organisation peuvent utiliser plus facilement les données pour prendre des décisions.
+
+Slide 8
+Le premier de ces outils est le tableau croisé dynamique, qui vous aide à calculer, résumer et analyser les données dans les lignes et les colonnes.
+
+Slide 9 (demo 1)
+Dans DHIS2, vous pouvez personnaliser vos tableaux croisés dynamiques à l’aide d’une simple interface glisser-déposer.
+
+Slide 10
+Les graphiques constituent le deuxième outil de visualisation de DHIS2. Lorsque vous avez besoin de comparer des éléments, de distinguer des modèles ou de comprendre des tendances, vous pouvez choisir dans une liste de différents types de graphiques, celui qui répond le mieux à vos besoins d'analyse, et le personnaliser pour y inclure des désagrégations, des lignes cibles, et plus encore.
+
+Slide 11
+Les Cartes constituent le troisième outil de visualisation de DHIS2. Elles relient des points ou des zones géographiques avec des données spécifiques de vos programmes.
+
+Slide 12 (demo)
+DHIS2 vous permet de superposer des données à l'aide de couches cartographiques, ce qui vous permet d'effectuer des analyses plus approfondies.
+
+Slide 13 + 14
+Des tableaux croisés dynamiques, des graphiques, et des cartes qui appartiennent au même projet ou programme peuvent être rassemblés dans un tableau de bord et partagés avec d'autres utilisateurs pour analyser et discuter des résultats de manière collaborative.  
+
+Slide 15
+Dans ce cours, vous apprendrez à créer et modifier des tableaux croisés dynamiques, des graphiques, des cartes et des tableaux de bord grâce à des vidéos, des démonstrations étape par étape et des activités. Vous pourrez également interagir avec une instance de formation DHIS2 où vous pourrez mettre en pratique vos nouvelles connaissances.
+
+Slide 16
+Ce cours vous préparera à donner un sens aux données agrégées à l'aide des outils d'analyse de données de DHIS2. Nous espérons que vous apprécierez le cours.
