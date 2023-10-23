@@ -1,0 +1,25 @@
+Création d'une carte : Fonds de carte et couches de frontières
+
+Slide 2
+Quelles sont les étapes de création d'une carte dans DHIS2 ? Supposons que nous voulons créer une carte montrant les districts d'un pays spécifique.
+
+Slide 3
+Cette vidéo vous montrera comment sélectionner un fond de carte, ajouter une couche frontière montrant les districts du Trainingland et afficher leurs noms sur la carte.
+
+Slide 4 (demo)
+Pour commencer, cliquez sur le menu des applications dans DHIS2 et sélectionnez l'application Cartes dans la liste des applications. La première étape consiste à sélectionner un fond de carte parmi les six options disponibles.
+
+Le fond de carte par défaut est OpenStreetMap, ou OSM Light. Cette carte affiche les noms des villes et fournit un fond de carte clair avec un contraste élevé et moins de couleurs, ce qui vous aide à créer une carte qui met l'accent sur les couches de données. Le fond de carte OSM Detailed est plus détaillé et contient, outre les noms des villes, des caractéristiques physiques de la Terre, telles que des montagnes, des lacs et des rues.
+
+Les quatre autres fonds de carte proviennent des cartes de Microsoft Bing. Bing Road et Bing Dark affichent les routes, les frontières et les noms des villes. Utilisez la version Dark si vous voulez utiliser des couleurs plus vives dans les couches. Bing Aerial et Bing Aerial Labels affichent des images satellites et des images aériennes détaillées du paysage terrestre.
+
+Sélectionnons Bing Road. Notez que le titre du fond de carte sélectionné apparaît en haut de la carte de la couche. Maintenant, pour ajouter la couche frontière et afficher les limites de tous les districts du Trainingland, cliquez sur Ajouter une couche et sélectionnez Frontières.
+
+Dans l'onglet Unités d'Organisation du dialogue de configuration, accédez à la hiérarchie et cochez la case à côté de Trainingland pour sélectionner tout le pays. Ensuite, allez dans le champ Sélectionner les niveaux et sélectionnez District.
+
+Les limites de tous les districts du Trainingland seront ainsi affichées sur la couche. N'oubliez pas que nous voulons également afficher les noms des districts. Cliquez sur l'onglet Style, puis cochez la case à côté de Etiquettes. Les districts seront ainsi affichés avec leur nom.
+
+Enfin, cliquez sur Ajouter la couche pour ajouter la couche à la carte. Nous pouvons donc voir les districts du Trainingland avec des étiquettes montrant le nom de chaque district.
+
+Slide 5
+En résumé, pour créer une carte dans DHIS2, ouvrez d'abord l'application Cartes depuis le menu des applications, puis sélectionnez un fond de carte et ajoutez la couche frontière avec les unités d'organisation que vous voulez afficher.
