@@ -1,0 +1,42 @@
+Application Android pour la saisie de données : Saisie de données hors ligne
+
+Slide 2
+L'une des principales caractéristiques de l'application de saisie Android DHIS2 est la possibilité de saisir des données hors ligne, puis de les synchroniser avec le serveur en ligne lorsque vous êtes à nouveau en mesure de vous connecter.
+
+Slide 3
+Ceci permet aux utilisateurs de saisir des données en toute sécurité dans des endroits où l'accès à Internet est limité ou inexistant, sans avoir à écrire de nombreuses informations sur papier, puis à saisir les données manuellement par la suite, ce qui permet d'éviter les erreurs dans le processus de saisie des données, puisque les données peuvent être saisies sur place, en plus de réduire les retards dans l'établissement des rapports.
+
+Slide 4
+Voyons donc comment vous pouvez saisir des données hors ligne et les synchroniser avec votre serveur DHIS2 à l'aide de l'application de saisie Android.
+
+Slide 5
+Tout d'abord, désactivez le wifi et les données sur votre appareil Android. Vous simulerez ainsi une zone sans accès à Internet.
+
+Ensuite, vous devez vous inscrire et terminer la saisie des données pour un ensemble de données. Pour cet exemple, ouvrez la liste des ensembles de données RMN CAH, puis sélectionnez l'un des ensembles de données pour le modifier. Saisissez ensuite les données dans le formulaire. Lorsque vous avez terminé, appuyez sur le bouton enregistrer, effectuez le contrôle de qualité des données et terminez l'ensemble de données.
+
+Revenez ensuite à l'écran d'accueil de l'ensemble de données. Après quelques instants, vous allez remarquer qu'il y a une double flèche circulaire sur la droite, à côté de l'ensemble de données que nous venons de terminer.
+
+Il s'agit du bouton de synchronisation, ce qui signifie que les données n'ont pas été synchronisées avec le serveur en ligne. L'application de saisie Android va stocker les données localement sur l'appareil, jusqu'à ce que l'application se synchronise avec le serveur.
+
+Vous pouvez appuyer sur le bouton de synchronisation pour essayer de synchroniser les données avec le serveur en ligne. Cependant, vous obtiendrez un message vous informant que les données sont stockées sur l'appareil uniquement, car il n'y a pas de connexion réseau disponible. Appuyez sur la liste des ensembles de données pour quitter la boîte de dialogue de synchronisation.
+
+Il existe trois façons pour synchroniser les données stockées sur notre appareil avec le serveur DHIS2. La première option consiste à laisser l'application se synchroniser automatiquement en fonction de la configuration du serveur DHIS2 auquel l'application est connectée ; par défaut, cette synchronisation est programmée une fois par jour.
+
+Si nous choisissons cette option, il vous suffit de veiller à rester connecté à Internet. La deuxième option consiste à synchroniser manuellement chaque ensemble de données individuellement. La troisième option consiste à synchroniser manuellement tous les ensembles de données disponibles dans l'application à la fois.
+
+Reconnectez maintenant votre appareil à Internet, pour synchroniser manuellement vos données actuelles, appuyez à nouveau sur les flèches. Vous verrez un message différent, signalant que l'appareil dispose désormais d'une connexion internet.
+
+Appuyez sur envoyer pour envoyer les données au serveur DHIS2 en ligne. La boîte de dialogue signale le début et la fin de la synchronisation. Appuyez sur la liste des ensembles de données pour quitter la boîte de dialogue de synchronisation.
+
+Nous pouvons à présent constater que le bouton de synchronisation situé à côté de notre ensemble de données est apparu. Ceci signifie que les données ont été synchronisées avec le serveur DHIS2.
+
+Mais qu'en est-il si vous avez saisi des données provenant de plusieurs ensembles de données, périodes et unités d'organisation différents ?
+
+Par exemple, si vous avez saisi des données à la fois pour le RMM CAH et pour la surveillance du COVID-19, le moyen le plus rapide de synchroniser les données dans ce cas serait de synchroniser manuellement tous les ensembles de données via le menu des paramètres. Depuis la page d'accueil, appuyez sur l'icône de menu, puis sur Paramètres.
+
+Dans le menu des paramètres, un certain nombre d'options est disponible, dont les données de synchronisation. Ce champ vous permet de voir quand la dernière synchronisation a eu lieu et de définir la période de synchronisation automatique.
+
+You can also choose to manually sync all data from this menu. The sync data now button will perform a global syncing of your data to the online server. Notice that after running the sync, it will update the date and time that the data were last synced. 
+
+Slide 6
+En résumé, les données peuvent être saisies dans l'application de saisie Android lorsqu'elles sont hors ligne. Lorsque vous vous reconnectez à Internet, vous pouvez autoriser l'appareil à synchroniser automatiquement vos données selon un calendrier prédéfini ou synchroniser manuellement vos données avec le serveur en ligne de différentes manières, notamment au niveau de l'ensemble de données individuel pour toutes les unités d'organisation et les périodes d'un ensemble de données, ou en utilisant le bouton Synchroniser maintenant dans le menu des paramètres pour synchroniser tous les ensembles de données sur votre appareil.
