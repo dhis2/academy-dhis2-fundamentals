@@ -1,0 +1,74 @@
+Directives relatives aux graphiques
+
+Slide 2
+Qu'est-ce qu'un graphique et comment peut-il aider à l'analyse des données ?
+
+Slide 3
+Dans cette vidéo, vous verrez ce qu'est un graphique, les différents types de graphiques disponibles dans DHIS2 et à quoi ressemble l'interface d'un graphique dans l'application Visualisuer de Données.
+
+Slide 4
+Les graphiques permettent de représenter les données, en fonction de paramètres définis. Les données sont représentées par des symboles tels que des barres dans un graphique à barres, des lignes dans un graphique linéaire ou des tranches dans un graphique circulaire.
+
+Slide 5
+Visualiser des données à l'aide de graphiques peut permettre de découvrir des modèles, des tendances et des relations entre les données.
+
+Slide 6
+Différents graphiques permettent de communiquer différents types de données. Par exemple, si vous voulez évaluer la différence entre des points de données comparables, un graphique à barres ou à colonnes serait la meilleure option.
+
+Slide 7
+Ou si vous voulez suivre ou comparer les changements au fil du temps, un graphique linéaire vous permettra de visualiser ces changements ou à découvrir les tendances.
+
+Slide 8
+Dans DHIS2, vous trouverez plusieurs styles de graphiques dans l'application Visualiseur de Données. Dans ce module, nous aborderons quelques styles usuels.
+
+Slide 9 (demo)
+Vous pouvez accéder à l'application Visualiseur de Données de deux manières. La première consiste à taper 'Visualiseur de Données' dans le champ de recherche des applications. Ou vous pouvez faire défiler vers le bas pour trouver l'application dans le champ de recherche des applications.
+
+Cliquez sur l'icône pour l'ouvrir. Vous pouvez également ouvrir un graphique à partir d'un tableau de bord. Par exemple, dans le tableau de bord de vaccination, nous pouvons voir le graphique 'PEV-AEFI cas des 12 derniers mois' qui représente les événements indésirables qui ont suivi la vaccination au cours des 12 derniers mois dans le Training Land.
+
+Sélectionnez le menu contextuel et cliquez sur Ouvrir dans l'application Visualiseur de Données. Vous pouvez voir ici l'interface du Visualiseur de Données.
+
+Examinons le graphique. Le nombre de cas est représenté sur l'axe y. La période est sur l'axe des x et l'unité d'organisation est dans le filtre.
+
+Vous avez un titre pour l'axe y de même que pour le graphique lui-même. Vous pouvez également utiliser la présentation pour vérifier les éléments sélectionnés. Vous pouvez le faire en plaçant la souris sur un élément dans la présentation. Maintenant que le graphique est ouvert, nous pouvons changer certaines dimensions afin de modifier le graphique généré par DHIS2.
+
+Modifions d'abord le type de graphique. À partir du graphique à colonnes actuel, ouvrons le menu déroulant et sélectionnons Graphique à barres.
+
+Cliquez sur Mettre à jour pour voir les modifications. Les données sont désormais affichées dans un graphique à barres plutôt que dans un graphique à colonnes. Comme avec les tableaux croisés dynamiques, les dimensions se trouvent dans le volet de gauche.
+
+Vous pouvez modifier ces dimensions de la même manière. Par exemple, modifions la période. Pour ce faire, vous pouvez sélectionner Période dans la présentation ou dans le volet de gauche, puis modifier la sélection et cliquer sur Mettre à jour. Le graphique affiche maintenant les données pour une période différente.
+
+Voyons comment nous pouvons modifier la présentation de ce graphique.
+
+Slide 10
+Tout d’abord, vous devez savoir que la présentation est dynamique, ce qui signifie que les dimensions disponibles dépendront du type de graphique que vous avez sélectionné.
+
+Slide 11 + 12
+Par exemple, les graphiques à colonnes, à colonnes empilées, à barres, à barres empilées, à lignes, à aires, à aires empilées, en radar et d'année en année, présentent tous une série, une catégorie et un filtre comme dimensions de présentation. La combinaison des dimensions de présentation série et catégorie signifie que ces types de graphiques peuvent être utilisés pour visualiser simultanément plusieurs dimensions de données, ce qui facilite leur comparaison.
+
+Slide 13 + 14
+Par contre, les graphiques circulaires, à jauges et à valeur unique n'ont qu'une seule dimension à sélectionner. Les autres dimensions sont incluses dans le filtre. Cela signifie que ces types de graphiques ne sont pas adaptés à la visualisation de plusieurs dimensions de données à la fois, mais qu'ils peuvent être utiles pour mettre en évidence une dimension spécifique.
+
+Slide 15 (demo)
+Que sont les dimensions de série et de catégorie ? Dans ce graphique à barres, nous pouvons voir que la dimension de série montre les éléments de données dans les colonnes et que la catégorie montre la période le long de l'axe horizontal.
+
+Comme avec les tableaux croisés dynamiques, vous pouvez modifier la présentation par glisser-déposer.
+
+Déplaçons les données vers la catégorie, la période vers la série et cliquons sur Mettre à jour. Maintenant, nous pouvons voir que bien que les données sous-jacentes soient restées les mêmes, la visualisation a changé en fonction de la façon dont les dimensions sont organisées.
+
+Apporter des modifications à une présentation comme celle-ci peut permettre de découvrir des modèles ou des tendances dans les données.
+
+Maintenant, jetons un coup d'œil au menu des options. Comme pour la présentation, les options disponibles sont également dynamiques, en fonction du type de graphique sélectionné. Dans l'onglet Données, vous pouvez définir le mode d'affichage des données en cochant les options disponibles.
+
+Par exemple, avec un graphique à barres, vous pouvez masquer les catégories vides, ajouter une ligne cible et une ligne tendance. Dans l'onglet Axes, vous pouvez personnaliser les axes et leurs étiquettes.
+
+Par exemple, vous pouvez modifier et formater les titres des axes. Et dans l'onglet Style, vous pouvez personnaliser l'apparence de votre graphique avec des couleurs et des titres.
+
+Toutes ces options doivent être utilisées pour créer une représentation graphique reflétant les données. Cliquez sur Mettre à jour pour appliquer les modifications apportées dans le menu des options.
+
+Le menu Fichier, comme avec les tableaux croisés dynamiques, propose des options pour créer un nouveau graphique, ouvrir un graphique enregistré, enregistrer le graphique actuel, partager un graphique avec d'autres utilisateurs de DHIS2 ou supprimer le graphique actuel.
+
+Enfin, vous pouvez télécharger votre graphique sous forme de fichier PNG ou PDF, ce qui conserve le format graphique, ou vous pouvez également télécharger la source de données brute pour l'utiliser hors DHIS2, y compris dans d'autres programmes de visualisation de données.
+
+Slide 16
+En résumé, les graphiques permettent de représenter des données pour leur visualisation. DHIS2 propose plusieurs types de graphiques différents dans l'application Visualiseur de Données. Les utilisateurs peuvent donc sélectionner le type de graphique qui correspond le mieux à leurs données. Vous pouvez modifier les graphiques en changeant leurs dimensions et leur présentation, et vous pouvez personnaliser leur apparence en utilisant les différentes options disponibles. Les graphiques peuvent également être enregistrés, partagés ou téléchargés en seulement quelques clics.
