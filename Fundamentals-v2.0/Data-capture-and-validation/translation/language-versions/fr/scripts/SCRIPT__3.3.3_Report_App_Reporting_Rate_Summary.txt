@@ -1,0 +1,85 @@
+
+Application Rapports : Résumé du Taux de Déclaration
+
+Slide 2 + 3
+Il est essentiel d'obtenir des données de bonne qualité pour prendre des décisions axées sur les données, mais les retards dans la saisie des données peuvent entraîner des lacunes dans l'information qui rendent l'analyse et la prise de décision difficiles.
+
+Slide 4
+Comment DHIS2 peut-il vous aider à vérifier si vos données sont saisies en temps voulu ?
+
+Slide 5
+Dans cette vidéo, nous allons voir comment utiliser l'outil Résumé des taux de déclaration dans l'application Rapports pour obtenir ces informations.
+
+Slide 6
+Un Résumé des Taux de Déclaration présente des informations sur la soumission d'un ensemble de données pour une unité d'organisation ou un groupe d'unités d'organisation, analysées à travers un ensemble de paramètres de complétude et de respect des délais.
+
+Slide 7
+Le Calcul du Taux de Déclaration utilisé dans ce résumé est basé sur les enregistrements des ensembles de données terminés.
+
+Slide 8
+Précédemment dans ce cours, vous avez appris à marquer un ensemble de données comme étant terminé en cliquant sur le bouton Terminer. C'est ce qui indique à DHIS2 que le formulaire est terminé. Il est donc considéré comme étant terminé en vue du calcul du taux de déclaration.
+
+Slide 9
+Les cinq paramètres affichés dans le Résumé du Taux de Déclaration sont les suivants : Les rapports effectifs, qui indiquent le nombre d'ensembles de données qui ont été marqués comme étant terminés.
+
+Slide 10
+Rapports attendus : indique le nombre d'ensembles de données qui devraient être terminés dans la période spécifiée. Ce nombre est basé sur le nombre d'unités d'organisation, l'ensemble de données auquel il a été attribué, ainsi que sa périodicité.
+
+Slide 11
+Le taux de déclaration, qui indique le nombre de rapports effectifs enregistrés comme étant terminés, divisé par le nombre de rapports attendus, exprimé en pourcentage.
+
+Slide 12
+Rapports effectifs dans les délais. Il diffère des rapports effectifs car il ne comptabilise que les rapports qui ont été enregistrés comme étant terminés dans le nombre maximum de jours spécifié après la fin de la période de déclaration. Ce délai est personnalisable et peut être défini pour chaque ensemble de données dans l'outil de gestion des ensembles de données.
+
+Slide 13 
+Taux de déclaration dans les délais. Ce taux est similaire au taux de déclaration, sauf que seuls les rapports dans les délais sont utilisés comme numérateur au lieu des rapports effectifs.
+
+Slide 14
+Maintenant que vous comprenez ce que représente le Résumé des Taux de Déclaration, voyons comment créer un Résumé des Taux de Déclaration pour un ensemble de données spécifique. Dans le cadre de cette démonstration, nous souhaitons vérifier l'actualité et la complétude de l'ensemble des données RMNCH dans le district de Insect et les établissements qui en font partie pour les six premiers mois de l'année 2021.
+
+Slide 15 (demo)
+Ouvrez l'application Rapports en la recherchant dans le menu de l'application. Une fois ouverte, vous verrez un menu des différents rapports disponibles. Sélectionnez le Résumé des Taux de Déclaration pour ouvrir la fenêtre des critères.
+
+Vous devez ensuite sélectionner les dimensions de votre rapport. Vous pouvez sélectionner les dimensions dans n'importe quel ordre.
+
+Dans cet exemple, nous allons commencer en sélectionnant l'ensemble de données. Cliquez sur le champ déroulant "Sélectionner un ensemble de données" et choisissez l'ensemble de données dont vous souhaitez visualiser les données.
+
+Dans notre cas, nous allons sélectionner l'ensemble de données RMNCAH. Ensuite, nous allons sélectionner la période pour laquelle vous souhaitez obtenir le rapport.
+
+Dans cet exemple, nous voulons générer ce rapport pour les six premiers mois de l'année 2021. Pour cela, nous avons sélectionné le format Semestriel comme période de rapport, l'année 2021 et la période de janvier à juin comme période semestrielle spécifiée.
+
+Comme pour les autres outils de validation des données présentés dans ce cours, il convient de noter que la période sélectionnée ici doit être supérieure ou égale à la période de l'ensemble de données.
+
+Dans ce cas, le Semestre sert de période de récapitulation, car l'ensemble des données du RMNCAH est rempli mensuellement. Enfin, sélectionnez l'unité d'organisation pour laquelle vous souhaitez obtenir le rapport.
+
+Comme vous pouvez le constater, si nous essayons de sélectionner plusieurs unités d'organisation, cela ne fonctionne pas. Il est possible de sélectionner uniquement une unité d'organisation dans la hiérarchie des unités d'organisation pour ce rapport.
+
+Toutefois, il est également possible de générer ce rapport sur un groupe prédéfini d'unités d'organisation. Pour en savoir plus, consultez la documentation du DHIS2.
+
+Pour cet exemple, sélectionnons le district Insect pour voir ce que nous obtenons. Lorsque vous êtes prêt, cliquez sur Obtenir le rapport. Le rapport apparaît sous la fenêtre des critères.
+
+Examinons-le de plus près. Vous allez voir que le rapport se compose de six colonnes.
+
+La colonne de gauche répertorie les unités de l'organisation. Notez que tous les établissements du district de Insect sont répertoriés.
+
+En effet, ce rapport affiche les données de tous les ensembles de données terminés d'une unité d'organisation sélectionnée, y compris tous ses descendants.
+
+A savoir, toutes les unités d'organisation qui lui appartiennent au sein de la hiérarchie organisationnelle.
+
+Les cinq colonnes suivantes présentent les cinq paramètres dont nous avons parlé plus tôt dans cette vidéo. Rapports effectifs, Rapports attendus, Taux de rapport, Rapports effectifs dans les délais et Taux de rapport dans les délais.
+
+Dans la colonne Rapports attendus, pour le Dispensaire Spider, il est indiqué six. Que signifie ce six ? Nous avons généré un rapport semestriel, qui vérifie un ensemble de données mensuelles.
+
+Par conséquent, le système s'attend à ce que cet ensemble de données ait été marqué comme étant terminé six fois au cours de cette période de six mois, ce qui correspond à un rapport terminé par mois.
+
+Ce rapport peut vous aider à identifier les unités d'organisation qui ne remplissent pas les rapports dans les délais impartis et qui peuvent nécessiter une analyse ou un suivi supplémentaire.
+
+Si vous souhaitez partager le rapport en dehors de DHIS2, vous pouvez également télécharger les données dans un fichier XLS ou CSV.
+
+Slide 16
+Enfin, les taux de déclaration peuvent également être calculés à l'aide d'autres outils de DHIS2, tels que les tableaux croisés dynamiques de l'application Visualiseur de données, qui offrent une plus grande souplesse, mais dont la configuration nécessite plus d'efforts. Cette option est abordée plus en détail dans le cours sur l'analyse des données de DHIS2.
+
+Slide 17
+Pour récapituler, l'outil de Résumé des Taux de Déclaration est un moyen simple permettant de vérifier la complétude et le respect des délais d'un ensemble de données. Vous pouvez y accéder à partir de l'application Rapports.
+
+Après avoir sélectionné les dimensions du rapport, cliquez sur Obtenir le rapport et vous obtiendrez les résultats qui affichent les Rapports effectifs, les Rapports attendus, le Taux de rapport, les Rapports effectifs dans les délais et le Taux de rapport dans les délais pour les ensembles de données, l'unité d'organisation et la période que vous avez sélectionnés.
