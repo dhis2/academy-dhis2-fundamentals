@@ -1,0 +1,43 @@
+Analyse des Suivis
+
+Slide 2
+Comme vous l'avez appris dans ce cours, les valeurs de données suspectes peuvent être marquées pour un suivi dans DHIS2 de plusieurs façons, notamment par le biais de la boîte d'information sur l'élément de données dans l'application de saisie des données et par des contrôles de qualité des données, tels que la détection de valeurs aberrantes. Mais comment garder la trace de ces valeurs pour gérer le processus de suivi d'un grand nombre d'ensembles de données ?
+
+Slide 3
+Dans l'application de qualité des données DHIS2, l'outil d'analyse de suivi peut être utilisé pour accéder à une liste de toutes les valeurs de données marquées comme devant faire l'objet d'un suivi dans vos ensembles de données, ce qui facilite la recherche et le suivi de ces valeurs.
+
+Slide 4
+Cela peut contribuer à améliorer la qualité des données en fournissant un moyen structuré de suivre les valeurs suspectes et les mesures qui ont été prises pour les examiner. Cette opération est généralement effectuée par les utilisateurs du DHIS2 qui disposent d'un accès approprié pour consulter les données saisies par d'autres utilisateurs. Voyons comment utiliser cet outil.
+
+Slide 5 (demo)
+En premier lieu, ouvrez l'application de qualité des données dans le menu de l'application DHIS2. Vous pouvez simplement la rechercher dans le champ de recherche ou défiler pour la trouver. Une fois qu'elle est chargée, sélectionnez l'outil d'analyse de suivi.
+
+Vous accédez alors à la zone de sélection des dimensions. Sélectionnez d'abord l'ensemble de données que vous souhaitez examiner. Tous les éléments de données de l'ensemble de données seront vérifiés pour un suivi. Notez que plusieurs ensembles de données peuvent être sélectionnés en même temps.
+
+Dans cet exemple, nous allons sélectionner l'ensemble de données de surveillance du COVID-19. Ensuite, sélectionnez l'unité ou les unités d'organisation dans lesquelles vous souhaitez que l'outil vérifie les valeurs marquées comme devant faire l'objet d'un suivi.
+
+La sélection d'une unité d'organisation parente permet d'effectuer l'analyse sur toutes les unités d'organisation qui lui sont rattachées.
+
+Enfin, sélectionnez la plage de dates pour laquelle vous souhaitez détecter les valeurs aberrantes. La plage de dates spécifiée doit inclure au moins une période entière de saisie de données pour que les données soient vérifiées.
+
+Par exemple, si vous vérifiez les valeurs mensuelles pour le mois d'août, vous devez choisir le 1er août comme date de début et le 31 août comme date de fin, sélectionnons une plage de dates en cliquant sur le champ de la date de début et en utilisant le calendrier pour naviguer jusqu'au 1er août de l'année 2021.
+
+Une fois qu'elle est sélectionnée, cliquez sur OK pour l'enregistrer comme date de début, cliquez sur le champ de la date de fin et choisissez le 31 octobre 2021. Une fois les dimensions sélectionnées, cliquez sur le bouton de suivi pour lancer l'analyse.
+
+Une fois l'analyse terminée, vous verrez un écran avec les résultats, à gauche, vous pouvez voir les éléments de données qui ont été marqués comme devant faire l'objet d'un suivi. Ensuite, les unités d'organisation et les périodes où ces valeurs sont enregistrées.
+
+Si des valeurs minimales et maximales sont associées à la valeur, elles apparaîtront également, de même que la valeur réelle introduite.
+
+Vous pouvez également voir si la valeur des données est accompagnée d'un commentaire qui a été fait pendant la saisie des données. Cliquez sur l'icône du commentaire pour voir le commentaire spécifique qui a été saisi pendant la saisie des données.
+
+Ces commentaires peuvent être utiles pour déterminer si le problème potentiel à l'origine du marquage d'un élément de données pour suivi a été résolu ou non.
+
+Lorsque vous avez terminé l'examen d'une valeur de données et que vous souhaitez la supprimer de votre liste d'éléments nécessitant un suivi, vous pouvez cocher la case de non-suivi, puis cliquer sur le bouton Ne pas suivre pour la supprimer de la liste.
+
+Le retrait de la case d'information de l'élément de données dans le formulaire de saisie des données l'éliminera également. Une autre fonction utile de l'outil d'analyse de suivi est la possibilité de télécharger votre tableau d'analyse de suivi aux formats PDF, XLS et CSV.
+
+Cela peut s'avérer utile si vous souhaitez consulter la liste en dehors de DHIS2.
+
+
+Slide 6
+Pour récapituler, l'outil d'analyse de suivi est un outil de gestion de la qualité des données qui vous permet de visualiser facilement les valeurs de données qui ont été marquées pour faire l'objet d'un suivi. Pour l'utiliser, ouvrez l'application de qualité de données et sélectionnez l'outil d'analyse de suivi. Dans l'outil, sélectionnez l'ensemble de données, l'unité d'organisation et la période que vous souhaitez examiner. Vous pourrez alors visualiser les valeurs de données marquées comme devant faire l'objet d'un suivi. Chacune d'entre elles peut être supprimée soit à partir de l'application de saisie de données, soit directement à partir de la liste générée dans l'outil d'analyse de suivi.
