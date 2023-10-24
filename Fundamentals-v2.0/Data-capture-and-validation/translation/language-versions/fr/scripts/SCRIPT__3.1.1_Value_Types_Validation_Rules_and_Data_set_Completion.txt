@@ -1,0 +1,70 @@
+3.1.1 Types de valeurs, règles de validation et complétion de l'ensemble de données
+
+Slide 2
+Garantir la qualité des données est essentiel pour une prise de décision basée sur les données. Comment pouvez-vous donc vérifier la qualité des données lorsque vous les saisissez dans DHIS2 ?
+
+Slide 3
+Plus tôt dans ce cours, vous avez vu comment l'application de saisie de données fournit un retour d'information utile au cours du processus de saisie des données. Dans cette vidéo, vous allez découvrir comment les types de valeurs, les règles de validation et le fait de terminer votre ensemble de données peuvent être utilisés pour contribuer à la qualité des données.
+
+Slide 4
+En premier lieu, examinons les types de valeurs dans la saisie de données.
+
+Slide 5
+Le DHIS2 vérifie que toute valeur saisie correspond au type de valeur défini pour cet élément de données.
+
+Slide 6
+Il existe de nombreux types de valeurs possibles pour les éléments de données dans DHIS2, mais les plus courants sont les suivants : nombre, entier positif ou nul, date, oui/non et texte. Ces types de valeurs sont définis lors de la création des éléments de données.
+
+Slide 7
+Si les données saisies pour un élément de données ne correspondent pas au type de valeur, les données ne seront pas enregistrées et un message d'erreur sera affiché.
+
+Slide 8 (demo)
+Voyons ce que cela donne dans DHIS2. Dans l'ensemble de données de surveillance du COVID-19, le type de valeur pour l'élément de données COVID-19 nouveaux cas confirmés est un nombre entier positif ou nul.
+
+Si vous essayez de saisir une valeur numérique avec une décimale dans le champ, vous obtiendrez un message d'erreur vous rappelant le type de valeur de l'élément de données, et la cellule virera au jaune.
+
+Si cela se produit lors de la saisie des données, vous devez revoir la source à partir de laquelle vous saisissez les données et revérifier pour vous assurer que vous saisissez la bonne valeur.
+
+Cela permet de réduire les petites erreurs de saisie des données.
+
+Slide 9
+Un autre moyen d'améliorer la qualité des données lors de leur saisie consiste à utiliser des règles de validation. Qu'est-ce qu'une règle de validation ?
+
+Slide 10
+Les règles de validation sont utilisées pour effectuer un contrôle des données saisies dans l'ensemble de données.
+
+Slide 11
+Ils sont composés d'expressions des côtés gauche et droit. Ils sont généralement construits avec des éléments de données et un opérateur, tel que moins que, plus que, égal ou non égal, qui établit une relation logique entre les deux côtés.
+
+Slide 12
+Une règle de validation peut comparer les valeurs des éléments de données saisis par un utilisateur pour s'assurer qu'elles sont cohérentes les unes par rapport aux autres.
+
+Slide 13 (demo 2)
+Examinons un exemple de règle de validation concernant l'ensemble de données COVID-19. La valeur du nombre total de nouveaux cas hospitalisés doit être inférieure ou égale au nombre de nouveaux cas suspects et confirmés. Si cette expression est correcte, la règle de validation sera acceptée.
+
+Slide 14 (demo 3)
+S'il y avait plus de nouvelles hospitalisations que de nouveaux cas, cette règle serait violée. Voyons ce que cela donne dans l'application.
+
+Modifiez les données de manière à ce qu'il y ait plus de nouvelles hospitalisations que de nouveaux cas. Cliquez ensuite sur le bouton Exécuter la validation. Le système vous indique que les données saisies ne respectent pas la règle de validation.
+
+Elle explique ce que la règle de validation est en train de vérifier et les valeurs de données saisies qui sont incorrectes. Fermez la fenêtre contextuelle de validation et corrigez les données saisies.
+
+Cliquez ensuite à nouveau sur le bouton Effectuer la validation. Vous recevrez une notification indiquant que la validation a réussi. Le bouton Terminer est un autre outil utilisé pour améliorer la qualité des données.
+
+Le bouton Terminer signale que la saisie des données pour cet ensemble de données est terminée. Après avoir cliqué sur Terminer et confirmé la saisie, DHIS2 exécute automatiquement toutes les règles de validation associées à l'ensemble de données.
+
+Si vous n'avez pas encore validé vos données au début du processus, vous verrez apparaître un message contextuel vous avertissant de toute violation potentielle des règles de validation.
+
+Slide 15
+Le fait de terminer l'ensemble de données signifie également qu'il sera marqué du nom d'utilisateur de l'utilisateur qui l'a terminé et de la date à laquelle l'ensemble de données a été indiqué comme étant terminé.
+
+Vous pouvez consulter ces informations après avoir ouvert à nouveau l'ensemble de données et visualisé la boîte située sous le bouton terminer. Vous pouvez cliquer sur Voir les détails pour obtenir les coordonnées de l'utilisateur telles qu'elles ont été saisies dans le système, au cas où vous auriez besoin d'effectuer un suivi auprès de cet utilisateur, pour une raison ou une autre.
+
+Slide 16
+Les données d'horodatage générées par le bouton terminer sont également utilisées pour analyser la complétude et le respect des délais de l'ensemble des données, qui sont deux dimensions de la qualité des données.
+
+Slide 17
+En complétant l'ensemble de données, les utilisateurs bénéficient d'une meilleure visibilité sur les données manquantes. Ils peuvent facilement discerner ceux qui ont transmis leurs informations de ceux qui ne l'ont pas fait, et de savoir si ces transmissions ont été effectuées dans les délais impartis. Nous approfondirons ces types d'analyses plus tard dans le cours.
+
+Slide 18
+En résumé, DHIS2 comprend plusieurs outils qui peuvent contribuer à garantir des données de haute qualité lors de la saisie des données, notamment des types de valeurs pour les éléments de données, des règles de validation qui garantissent que les données saisies répondent à des expressions logiques prédéfinies, et le bouton terminer, qui contribue à l'analyse de la complétude et de la ponctualité et facilite le suivi des utilisateurs de la saisie des données afin de résoudre les éventuels problèmes de qualité des données.
