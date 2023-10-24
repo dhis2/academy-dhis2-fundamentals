@@ -1,0 +1,52 @@
+Application de rapports : Rapport sur les ensembles de données
+
+Slide 2
+Vous souhaitez obtenir une visualisation rapide des données brutes ou agrégées qui ont été saisies par ensemble de données ?
+
+
+Slide 3
+Dans cette vidéo, vous allez apprendre à utiliser le rapport sur l'ensemble de données dans l'application Rapports pour visualiser facilement vos données brutes et agrégées par ensemble de données. Tout d'abord, qu'est-ce qu'un rapport sur l'ensemble de données ?
+
+Slide 4
+Un rapport sur un ensemble de données est une visualisation imprimable des valeurs de données d'un ensemble de données spécifique.
+
+Slide 5
+Les données peuvent être visualisées comme des données brutes, c'est-à-dire des données provenant d'un seul ensemble de données, pour une seule unité d'organisation et une seule période, ce qui correspond à la manière dont les valeurs de données ont été saisies, ou comme des données agrégées lorsque vous sélectionnez une période ou une unité d'organisation qui nécessite l'agrégation de données.
+
+Slide 6
+Par exemple, si vous disposez d'un ensemble de données journalières saisies au niveau de l'établissement, ...
+
+Slide 7
+...vous pouvez visualiser les données agrégées d'un mois entier et de tout le district à l'aide de l'outil de rapport sur l'ensemble de données. Voyons donc comment créer un rapport sur les ensembles de données.
+
+Slide 8 (Démo)
+Pour commencer, ouvrez l'application Rapports à partir du menu Applications. Une fois l'application ouverte, un menu vous présente les différents rapports disponibles.
+
+Cliquez sur Rapport sur l'ensemble de données pour ouvrir la fenêtre des critères. Pour établir un rapport, vous devez sélectionner les dimensions de votre ensemble de données. Ces dimensions peuvent être sélectionnées dans n'importe quel ordre.
+
+Dans cet exemple, nous allons commencer par sélectionner l'unité d'organisation pour laquelle vous souhaitez obtenir le rapport. Cette opération peut s'effectuer à n'importe quel niveau de la hiérarchie étant donné que les données seront automatiquement agrégées jusqu'à ce niveau
+
+Vous pouvez également agréger des données pour des groupes prédéfinis d'unités d'organisation. Ainsi, si vous sélectionnez la région "Food", vous verrez toutes les données agrégées qui ont été saisies dans toutes les unités d'organisation de la région "Food".
+
+La dimension suivante que nous allons sélectionner est l'ensemble de données. Cliquez sur le menu déroulant Sélectionner un ensemble de données et choisissez l'ensemble de données pour lequel vous souhaitez visualiser les données.
+
+Sélectionnons l'ensemble de données RMNCAH. Enfin, sélectionnons la période pour laquelle vous souhaitez obtenir les données.
+
+Il peut s'agir de périodes agrégées, ainsi que des périodes originales pour lesquelles les données ont été déclarées. Par exemple, pour un ensemble de données collectées mensuellement, vous pouvez générer un rapport à partir de valeurs mensuelles ou d'une période de déclaration égale ou supérieure à la période mensuelle, comme les rapports trimestriels ou annuels.
+
+Toutefois, vous ne pouvez pas sélectionner une période inférieure au mois, car vous pouvez produire un rapport pour une période inférieure à la période de déclaration originale.
+
+Pour le type de période, sélectionnez trimestriel dans le menu déroulant. Une fois que vous avez sélectionné le type de période du rapport, vous devez choisir l'année et la période spécifique pour les données que vous souhaitez voir apparaître dans votre rapport.
+
+La dernière option que vous pouvez cocher est le champ Utiliser les données pour l'unité sélectionnée uniquement. Utilisez cette option si vous souhaitez un rapport pour une unité d'organisation qui a des descendants, mais dont vous ne voulez que les données collectées directement pour cette unité et non les données collectées par ses descendants.
+
+Après avoir sélectionné vos données, cliquez sur Obtenir le rapport. Le rapport s'affichera sous la fenêtre des critères et une boîte verte avec le message " Chargement du tableau réussi " apparaîtra lorsque le rapport sera prêt.
+
+Nous pouvons voir que le rapport apparaît dans le même ordre que celui dans lequel l'ensemble de données est configuré, ce qui facilite la navigation. Les données pour les éléments de données avec déségrégation sont affichées séparément par déségrégation multiple, les totaux pour chaque déségrégation, ainsi que les totaux cumulés.
+
+Si vous souhaitez télécharger les données pour les utiliser en dehors de DHIS2, vous pouvez exporter le rapport de l'ensemble de données aux formats Excel et PDF.
+
+Slide 9
+En résumé, vous pouvez générer un rapport sur les ensembles de données pour vérifier les données qui ont été saisies par ensemble de données. Pour utiliser cet outil, accédez à l'application Rapport et sélectionnez Rapport sur les ensembles de données. Sélectionnez l'unité d'organisation du rapport, l'ensemble de données et la période pour générer un rapport.
+
+Une fois chargé, vous pourrez voir les valeurs totales des données affichées par élément de données et télécharger le rapport pour une utilisation ultérieure en dehors de DHIS2.
