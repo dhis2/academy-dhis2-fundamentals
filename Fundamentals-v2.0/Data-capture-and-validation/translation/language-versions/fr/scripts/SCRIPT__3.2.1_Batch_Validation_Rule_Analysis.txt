@@ -1,0 +1,72 @@
+3.2.1 Analyse de règles de validation des lots
+
+Slide 2
+La validation des données est un outil utile pour vérifier la qualité des données saisies dans DHIS2. Cependant, l'exécution de contrôles de validation des données individuellement pour chaque ensemble de données peut prendre beaucoup de temps et ne permet pas de valider les données d'un ensemble de données à l'autre. Comment DHIS2 permet-il de rendre la validation des données plus efficace ?
+
+Slide 3
+Une fois la saisie des données terminée, certains outils de DHIS2 peuvent être utilisés pour garantir une meilleure qualité des données. Il s'agit notamment de la fonction d'analyse des règles de validation des lots dans l'application Qualité des données.
+
+Slide 4
+L'analyse des règles de validation de lots nous permet de valider un grand nombre de données à la fois.
+
+Slide 5
+Cela diffère des règles de validation exécutées dans l'application de saisie de données. Elle permet de valider des données agrégées pour plusieurs ensembles de données, périodes et unités d'organisation.
+
+Slide 6
+Cela se fait généralement dans le cadre d'un processus organisé d'examen de qualité des données et effectué par des utilisateurs du DHIS2 qui ont l'autorité nécessaire pour examiner ces données. Voyons comment cela fonctionne dans la validation des données agrégées de la surveillance du COVID-19.
+
+Slide 7 (demo)
+Pour obtenir une validation de lots, vous devez ouvrir l'application Qualité des données à partir du menu de l'application DHIS2. Dans l'application, sélectionnez Analyse de Règles de Validation.
+
+Vous pouvez y sélectionner les paramètres des données que vous souhaitez valider. Pour utiliser l'application, vous devez sélectionner une ou plusieurs unités d'organisation, les dates de début et de fin et le groupe de règles de validation à analyser.
+
+Examinons chacun de ces champs plus en détail. Sélectionnez l'unité d'organisation dans laquelle vous souhaitez appliquer la règle de validation.
+
+Pour cette démonstration, ouvrons la hiérarchie de Trainingland et de la région animale, et sélectionnons l'unité d'organisation Bird District. La règle s'appliquera à toutes les données des unités d'organisation situées en dessous de ce district dans la hiérarchie des unités d'organisation.
+
+Si vous le souhaitez, vous pouvez effectuer une analyse de règles de validation à un niveau supérieur ou inférieur de la hiérarchie des unités d'organisation, en sélectionnant par exemple un seul établissement au lieu de l'ensemble du district. Ensuite, définissez la période à analyser.
+
+Slide 8
+Les dates de la période sont liées à deux éléments : la période de saisie des données et la période attribuée à la règle de validation. Par exemple, si les données sont saisies mensuellement, vous devez sélectionner une fourchette de dates couvrant au moins un mois complet.
+
+La règle de validation doit également être configurée pour valider les données mensuelles. Cela est possible grâce à la configuration des règles de validation. Nous examinerons ce concept plus en détail dans le cours de personnalisation de DHIS2. Les données de la surveillance du COVID-19 sont saisies quotidiennement.
+
+Slide 9 (demo 2)
+Pour cet exemple, validons les données du 1er mai 2021 au 31 août 2021. Vous pouvez ensuite sélectionner les règles de validation que vous souhaitez analyser.
+
+Les règles de validation peuvent être regroupées pour faciliter la validation de plusieurs règles à la fois. Dans cet exemple, le groupe de règles de validation COVID-19 va appliquer toutes les règles de validation relatives à la surveillance du COVID-19.
+
+Slide 10
+Il convient de noter que si vos sélections sont trop nombreuses, vous risquez d'obtenir une très longue liste de violations des règles de validation, ce qui peut rendre le suivi difficile. 
+
+Slide 11
+C'est pourquoi il est préférable de limiter vos sélections aux unités d'organisation, à la période et aux règles de validation que vous souhaitez vérifier.
+
+Slide 12 
+Sous le champ Groupes de règles de validation, vous verrez une case à cocher Envoyer des notifications. Cette case permet d'envoyer une notification à un utilisateur ou à un groupe d'utilisateurs en cas d'erreur dans les règles de validation. Les notifications ne seront envoyées que si elles ont été configurées. Pour des raisons de sécurité, les notifications sont envoyées uniquement via le système de messagerie interne de DHIS2.
+
+Slide 13
+Vient ensuite la case Persister les nouveaux résultats. Vous n'avez pas à vous en préoccuper, mais si vous souhaitez en savoir plus, vous pouvez consulter la documentation du site web DHIS2.
+
+Slide 14 (Demo) 
+Cliquez maintenant sur le bouton Valider. Comme vous pouvez le constater, nous obtenons un certain nombre de résultats.
+
+Voyons ce qu'elles signifient. Chacune de ces notifications correspond à une erreur que l'analyse des règles de validation a détectée.
+
+Le résultat indique l'emplacement de l'erreur, la période, l'importance, la règle de validation violée, ainsi que les valeurs et les opérateurs.
+
+Il est plus facile de visualiser l'erreur si vous cliquez sur le bouton info dans la colonne des détails.
+
+Comme vous pouvez le constater, le panneau d'information fournit une description détaillée de l'erreur de validation et de comment elle a été violée.
+
+Slide 15
+En haut du panneau, vous pouvez voir le nom et la description de la règle de validation qui a été violée, ainsi que les côtés gauche et droit de l'expression de la règle de validation.
+
+Slide 16
+Dans la violation sélectionnée, vous pouvez voir que le nombre de lits occupés ou le côté gauche de l'expression doit être inférieur ou égal au nombre total de lits ou le côté droit de l'expression.
+
+Slide 17
+Les données saisies pour cette unité d'organisation ne respectent pas cette règle. Il y a eu plus de lits occupés que de lits au total. Ces analyses de règles de lot peuvent être utiles aux utilisateurs qui contrôlent la qualité des données pour un ou plusieurs ensembles de données à différents niveaux de la hiérarchie organisationnelle.
+
+Slide 18
+En résumé, pour effectuer l'analyse de règles de validation par lots, ouvrez l'application Qualité des données dans DHIS2, sélectionnez les unités d'organisation, la plage de dates et le groupe de règles de validation, puis lancez la validation. L'application énumère alors les erreurs dans les données et indique les règles de validation qui n'ont pas été respectées.
