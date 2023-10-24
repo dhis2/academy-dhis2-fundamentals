@@ -1,0 +1,51 @@
+3.2.2 Détection de valeurs aberrantes
+
+Slide 2
+Les valeurs aberrantes dans vos données sont des valeurs beaucoup plus élevées ou plus basses qu'une plage normale définie, ce qui peut indiquer des problèmes au niveau de la qualité de vos données.
+
+Slide 3
+DHIS2 vous aide à détecter et à traiter les valeurs aberrantes grâce à l'outil de détection de valeurs aberrantes de l'application Qualité des données.
+
+Slide 4
+Dans cette vidéo, nous verrons les principes de base de l'utilisation de cet outil.
+
+
+Slide 5 (demo)
+Dans un premier temps, ouvrez l'application Qualité des données dans DHIS2 à l'aide du menu des applications.
+
+Une fois l'application chargée, sélectionnez l'outil de détection de valeurs aberrantes. Vous allez ensuite accéder à la zone de sélection des dimensions.
+
+Sélectionnez en premier lieu l'ensemble de données dont vous souhaitez vérifier les valeurs aberrantes. Tous les éléments de données de l'ensemble de données seront vérifiés afin de détecter les valeurs aberrantes. Notez que plusieurs ensembles de données peuvent être sélectionnés en même temps. Pour cet exemple, nous sélectionnerons l'ensemble de données de surveillance du COVID-19.
+
+Ensuite, sélectionnez l'unité ou les unités d'organisation dans lesquelles vous souhaitez que l'outil recherche des valeurs aberrantes. Vous pouvez sélectionner plusieurs unités d'organisation et l'analyse sera effectuée séparément sur chaque unité, plutôt que sur les données agrégées de toutes les unités.
+
+Ouvrez la hiérarchie et sélectionnez District des oiseaux pour rechercher les valeurs aberrantes dans toutes les unités d'organisation de ce district. Enfin, sélectionnez la plage de dates pour laquelle vous souhaitez rechercher des valeurs aberrantes.
+
+La plage de dates spécifiée doit inclure au moins une période entière de saisie de données pour que les données soient vérifiées. Par exemple, vérifions sur une période de quatre mois.
+
+Nous choisirons donc le 1er mai comme date de début. Nous terminerons avec le 31 août comme date de fin. Après avoir sélectionné les dimensions des données, vous verrez qu'il y a trois options supplémentaires : l'algorithme, le seuil et les résultats maximaux.
+
+Premièrement, le champ algorithme vous permet de sélectionner les paramètres d'analyse des valeurs aberrantes par DHIS2.
+
+
+Slide 6
+Vous pouvez choisir entre le Z-score et les valeurs minimales et maximales. Le Z-score est un terme statistique qui vous permet de détecter les valeurs qui se situent en dehors de la répartition normale des valeurs de données pour ce point de données particulier. Les valeurs minimales et maximales sont des valeurs prédéterminées et l'utilisation de cette option permet d'identifier les valeurs qui se situent en dehors de cette plage.
+
+Slide 7 (demo 2)
+Si vous choisissez le Z-score comme méthode de détection, vous verrez également une option de menu pour le seuil. Il s'agit du nombre d'écarts types que les données sont autorisées à dévier de la moyenne avant d'être classées comme valeurs aberrantes.
+
+Cette valeur est fixée par défaut à trois, ce qui est un paramètre du Z-score couramment utilisé pour la détection des valeurs aberrantes. La dernière option est le champ de résultats maximaux. Il s'agit du nombre maximum de valeurs aberrantes répertoriées dans les résultats. Vous pouvez le fixer à 500, 200 ou 100.
+
+Cliquez sur le bouton de démarrage pour lancer l'analyse des valeurs aberrantes.
+
+Slide 8
+Une fois l'analyse terminée, les résultats s'affichent à l'écran. Sur la gauche, vous pouvez voir l'élément de données qui présente une valeur aberrante, puis la période particulière et l'unité d'organisation qui montrent où et pour quelle période la valeur aberrante a été saisie.
+
+La valeur saisie pour l'élément de données est ensuite indiquée. Viennent ensuite les informations statistiques expliquant pourquoi ce point de données est classé comme aberrant.
+
+Cela vous permet de savoir quelles valeurs saisies dans l'ensemble des données se situent en dehors de la plage normale, afin que vous puissiez vérifier si elles ont été saisies par erreur. Par exemple, si un nombre erroné a été saisi par erreur ou s'il s'agit d'une véritable anomalie statistique, qui peut mériter une enquête plus approfondie.
+
+La dernière colonne de l'écran des résultats de la détection de valeurs aberrantes est le bouton de suivi. Il permet de marquer une valeur de données pour un suivi dans l'outil d'analyse de suivi de la qualité des données. Vous en saurez plus sur l'analyse de suivi dans la prochaine vidéo.
+
+Slide 9
+En résumé, pour détecter les valeurs aberrantes dans DHIS2, ouvrez l'application Qualité des données, puis sélectionnez l'outil Détection des valeurs aberrantes, l'ensemble de données, l'unité d'organisation, les dates de début et de fin et la méthode d'analyse de valeurs aberrantes. Vous obtiendrez alors les valeurs aberrantes des dimensions de données sélectionnées.
