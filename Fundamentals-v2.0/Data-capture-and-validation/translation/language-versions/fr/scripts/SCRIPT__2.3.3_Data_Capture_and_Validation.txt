@@ -36,7 +36,7 @@ Par exemple, si vous avez saisi des données à la fois pour le RMM CAH et pour 
 
 Dans le menu des paramètres, un certain nombre d'options est disponible, dont les données de synchronisation. Ce champ vous permet de voir quand la dernière synchronisation a eu lieu et de définir la période de synchronisation automatique.
 
-You can also choose to manually sync all data from this menu. The sync data now button will perform a global syncing of your data to the online server. Notice that after running the sync, it will update the date and time that the data were last synced. 
+Vous avez aussi l'option de procéder à une synchronisation manuelle de toutes vos données directement depuis ce menu. En appuyant sur le bouton "synchroniser les données maintenant", vous déclencherez une synchronisation complète de vos données avec le serveur en ligne. Il est important de noter que suite à cette opération de synchronisation, la date et l'heure de la dernière mise à jour seront automatiquement actualisées.
 
 Slide 6
 En résumé, les données peuvent être saisies dans l'application de saisie Android lorsqu'elles sont hors ligne. Lorsque vous vous reconnectez à Internet, vous pouvez autoriser l'appareil à synchroniser automatiquement vos données selon un calendrier prédéfini ou synchroniser manuellement vos données avec le serveur en ligne de différentes manières, notamment au niveau de l'ensemble de données individuel pour toutes les unités d'organisation et les périodes d'un ensemble de données, ou en utilisant le bouton Synchroniser maintenant dans le menu des paramètres pour synchroniser tous les ensembles de données sur votre appareil.
